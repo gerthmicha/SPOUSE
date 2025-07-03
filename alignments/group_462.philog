@@ -1,0 +1,133 @@
+Reading sequence file alignments/group_462.fas
+Found 155 sequences of length 424
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 46.3%
+Found 293 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 56.7% 90.0%100.0%
+
+Using a window size of  10 with k as 7
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.00e+00
+
+Reading sequence file alignments/group_462.fas
+Found 155 sequences of length 424
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 46.3%
+Found 293 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 56.7% 90.0%100.0%
+
+Using a window size of  20 with k as 14
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.00e+00
+
+Reading sequence file alignments/group_462.fas
+Found 155 sequences of length 424
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 46.3%
+Found 293 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 56.7% 90.0%100.0%
+
+Using a window size of  30 with k as 21
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.00e+00
+
+Reading sequence file alignments/group_462.fas
+Found 155 sequences of length 424
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 46.3%
+Found 293 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 56.7% 90.0%100.0%
+
+Using a window size of  40 with k as 28
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.00e+00
+
+Reading sequence file alignments/group_462.fas
+Found 155 sequences of length 424
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 46.3%
+Found 293 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 56.7% 90.0%100.0%
+
+Using a window size of  50 with k as 35
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.00e+00
+
+Reading sequence file alignments/group_462.fas
+Found 155 sequences of length 424
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 46.3%
+Found 293 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 56.7% 90.0%100.0%
+
+Using a window size of 100 with k as 69
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.00e+00
+
+Reading sequence file alignments/group_462.fas
+Found 155 sequences of length 424
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 46.3%
+Found 293 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 56.7% 90.0%100.0%
+
+Using a window size of 200 with k as 138
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        9.99e-01
+

@@ -1,0 +1,18 @@
+Module:	sonicparanoid.d2v
+Main output dir:	/media/orange/spiroplasma_genomes/orthologs/arch_orthology
+Architecture files to be processed:	160
+Minimum query coverage:	0.7
+Missing interregion bin size:	1
+Skip uncovered interregions:	False
+Maximum repeats in corpus:	1
+Add tags to corpus:	False
+Save the corpus as iterator:	False
+Output prefix	sp2-run-2025-07-01_09:23:38
+Algorithm:	0
+Vector size:	100
+Window size:	2
+Min word count:	1
+Use all words:	True
+Epochs:	200
+DBow-words:	1
+Threads:	32

@@ -1,0 +1,1675 @@
+08:30:18.820 - INFO - UTILS - version=1.11.0
+08:30:18.820 - INFO - UTILS - developer: Oliver Schwengers, github.com/oschwengers
+08:30:18.820 - INFO - UTILS - command: /media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/bakta --force --db /media/orange/bakta_db --output annotation/GCF_964020035 --skip-plot --prefix GCF_964020035 --locus-tag GCF_964020035 --translation-table 4 --threads 8 --genus Spiroplasma --species sp. --strain GCF_964020035 genome_fastas/GCF_964020035.fas
+08:30:18.820 - INFO - UTILS - local time: 2025-06-20 08:30:18
+08:30:18.822 - INFO - UTILS - machine: type=x86_64, cores=64
+08:30:18.822 - INFO - UTILS - system: type=Linux, release=5.4.0-208-generic
+08:30:18.822 - INFO - UTILS - python: version=3.11.13, implementation=CPython
+08:30:18.822 - INFO - CONFIG - threads=8
+08:30:18.822 - INFO - CONFIG - verbose=False
+08:30:18.822 - INFO - CONFIG - debug=False
+08:30:18.823 - INFO - CONFIG - database: type=parameter, path=/media/orange/bakta_db
+08:30:18.823 - INFO - CONFIG - tmp-path=/tmp/tmpp8tcjq5o
+08:30:18.823 - INFO - CONFIG - genome-path=/media/orange/spiroplasma_genomes/genome_fastas/GCF_964020035.fas
+08:30:18.823 - INFO - CONFIG - min_contig_length=1
+08:30:18.823 - INFO - CONFIG - prefix=GCF_964020035
+08:30:18.823 - INFO - CONFIG - output-path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035
+08:30:18.823 - INFO - CONFIG - force=True
+08:30:18.823 - INFO - CONFIG - genus=Spiroplasma
+08:30:18.824 - INFO - CONFIG - species=sp.
+08:30:18.824 - INFO - CONFIG - strain=GCF_964020035
+08:30:18.824 - INFO - CONFIG - plasmid=None
+08:30:18.824 - INFO - CONFIG - complete=False
+08:30:18.824 - INFO - CONFIG - prodigal_tf=None
+08:30:18.824 - INFO - CONFIG - translation_table=4
+08:30:18.824 - INFO - CONFIG - gram=?
+08:30:18.824 - INFO - CONFIG - compliant=False
+08:30:18.824 - INFO - CONFIG - meta=False
+08:30:18.824 - INFO - CONFIG - locus=None
+08:30:18.824 - INFO - CONFIG - locus-tag=GCF_964020035
+08:30:18.824 - INFO - CONFIG - locus-tag-increment=1
+08:30:18.824 - INFO - CONFIG - keep_contig_headers=False
+08:30:18.824 - INFO - CONFIG - replicon-table=None
+08:30:18.824 - INFO - CONFIG - regions=None
+08:30:18.824 - INFO - CONFIG - skip-tRNA=False
+08:30:18.824 - INFO - CONFIG - skip-tmRNA=False
+08:30:18.824 - INFO - CONFIG - skip-rRNA=False
+08:30:18.824 - INFO - CONFIG - skip-ncRNA=False
+08:30:18.824 - INFO - CONFIG - skip-ncRNA-region=False
+08:30:18.824 - INFO - CONFIG - skip-CRISPR=False
+08:30:18.824 - INFO - CONFIG - skip-CDS=False
+08:30:18.824 - INFO - CONFIG - skip-pseudo=False
+08:30:18.824 - INFO - CONFIG - skip-sORF=False
+08:30:18.825 - INFO - CONFIG - skip-gap=False
+08:30:18.825 - INFO - CONFIG - skip-ori=False
+08:30:18.825 - INFO - CONFIG - skip-filter=False
+08:30:18.825 - INFO - CONFIG - skip-plot=True
+08:30:18.825 - INFO - DB - detected: major=6, minor=0, type=full, date=2025-02-24
+08:30:18.924 - INFO - UTILS - dependency: tool=tRNAscan-SE, version=v2.0.12, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/tRNAscan-SE
+08:30:18.926 - INFO - UTILS - dependency: tool=Aragorn, version=v1.2.41, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/aragorn
+08:30:18.930 - INFO - UTILS - dependency: tool=CMscan, version=v1.1.5, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/cmscan
+08:30:18.932 - INFO - UTILS - dependency: tool=PilerCR, version=v1.6.0, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/pilercr
+08:30:19.027 - INFO - UTILS - dependency: tool=Pyrodigal, version=v3.6.3, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/python3.11
+08:30:19.030 - INFO - UTILS - dependency: tool=AMRFinderPlus, version=v4.0.23, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/amrfinder
+08:30:19.124 - INFO - UTILS - dependency: tool=Pyhmmer, version=v0.11.0, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/python3.11
+08:30:19.130 - INFO - UTILS - dependency: tool=Diamond, version=v2.1.12, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/diamond
+08:30:19.246 - INFO - UTILS - dependency: tool=Blastn, version=v2.16.0, path=/media/orange/spiroplasma_genomes/.snakemake/conda/5d5594423c54561d7f96046fbf1e3ad9_/bin/blastn
+08:30:19.268 - INFO - FASTA - imported: id=NZ_OZ026475.1, length=701400, description=Spiroplasma endosymbiont of Crioceris asparagi isolate 54756 chromosome 1, complete sequence, genomic=True, dna=True
+08:30:19.269 - INFO - MAIN - imported sequences=1
+08:30:19.269 - INFO - UTILS - qc: revised sequence: id=contig_1, orig-id=NZ_OZ026475.1, type=chromosome, complete=True, topology=circular, name=, description='[organism=Spiroplasma sp.] [strain=GCF_964020035] [gcode=4] [completeness=complete] [topology=circular] [location=chromosome]', orig-description='Spiroplasma endosymbiont of Crioceris asparagi isolate 54756 chromosome 1, complete sequence'
+08:30:19.269 - INFO - FASTA - write genome sequences: path=/tmp/tmpp8tcjq5o/sequences.fna, description=False, wrap=False
+08:30:24.942 - INFO - T_RNA - seq=contig_1, start=103573, stop=103630, strand=+, gene=trnL, product=tRNA-Leu(caa), score=24.8, nt=[GTAGATGTTA..ATCTCCACCA]
+08:30:24.942 - INFO - T_RNA - seq=contig_1, start=133960, stop=134035, strand=+, gene=trnN, product=tRNA-Asn(gtt), score=82.3, nt=[GGCTTTTTAG..AAAGCCGCCA]
+08:30:24.942 - INFO - T_RNA - seq=contig_1, start=134043, stop=134118, strand=+, gene=trnE, product=tRNA-Glu(ttc), score=66.4, nt=[GGCCTGTTGG..CAGGCTACCA]
+08:30:24.942 - INFO - T_RNA - seq=contig_1, start=134129, stop=134204, strand=+, gene=trnV, product=tRNA-Val(tac), score=80.3, nt=[GGAGTACTAG..TACTCCACCA]
+08:30:24.942 - INFO - T_RNA - seq=contig_1, start=134213, stop=134287, strand=+, gene=trnT, product=tRNA-Thr(tgt), score=85.2, nt=[GCTGATGTGG..ATCAGCACCA]
+08:30:24.942 - INFO - T_RNA - seq=contig_1, start=134370, stop=134453, strand=+, gene=trnL, product=tRNA-Leu(tag), score=72.3, nt=[CCGGAATTGG..TTCCGGACCA]
+08:30:24.942 - INFO - T_RNA - seq=contig_1, start=141896, stop=141972, strand=+, gene=trnC, product=tRNA-Cys(gca), score=67.1, nt=[GGTACCATGG..GGTACCTCCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142100, stop=142176, strand=+, gene=trnR, product=tRNA-Arg(acg), score=77.6, nt=[GCGCCATTAG..TGGCGCGCCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142215, stop=142291, strand=+, gene=trnP, product=tRNA-Pro(tgg), score=83.1, nt=[CGGGAAGTGG..TTCCCGACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142299, stop=142374, strand=+, gene=trnA, product=tRNA-Ala(tgc), score=84.1, nt=[GGGCCCGTAG..GGGTCCACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142379, stop=142456, strand=+, gene=trnM, product=tRNA-Met(cat), score=80.1, nt=[GGCGGGGTAG..CCCGCTACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142472, stop=142548, strand=+, gene=trnI, product=tRNA-Ile2(cat), score=87.1, nt=[GGACCTTTAG..AGGTCCACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142595, stop=142687, strand=+, gene=trnS, product=tRNA-Ser(tga), score=86.7, nt=[GGAAGATTAC..TCTTCCGCCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142697, stop=142772, strand=+, gene=trnfM, product=tRNA-fMet(cat), score=80.8, nt=[CGCGGGGTAG..CCCGCAACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142775, stop=142851, strand=+, gene=trnD, product=tRNA-Asp(gtc), score=78.6, nt=[GGCTCCATAG..GGAGTCGCCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142855, stop=142930, strand=+, gene=trnF, product=tRNA-Phe(gaa), score=74.3, nt=[GGTTTTGTAG..AAAACCACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=142981, stop=143057, strand=+, gene=trnI, product=tRNA-Ile(gat), score=77.8, nt=[CGGAGCATAG..GTTCCGACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=152091, stop=152166, strand=+, gene=trnH, product=tRNA-His(gtg), score=62.2, nt=[GCGTATGTGG..ATACGCCCCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=154832, stop=154906, strand=+, gene=None, product=tRNA-Xxx, score=78.4, nt=[AGGGGTATAG..ACCCCTGCCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=154940, stop=155014, strand=+, gene=trnW, product=tRNA-Trp(cca), score=77.5, nt=[AGGGATGTAG..ATCCCTGCCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=307613, stop=307688, strand=+, gene=trnT, product=tRNA-Thr(agt), score=89.8, nt=[GCTGACTTAG..GTCAGCACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=307698, stop=307781, strand=+, gene=trnY, product=tRNA-Tyr(gta), score=69.9, nt=[GGAGGGGTAG..CCCTCCACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=307786, stop=307860, strand=+, gene=trnQ, product=tRNA-Gln(ttg), score=66.1, nt=[TGGGCTATAG..AGCCCAGCCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=307872, stop=307947, strand=+, gene=trnK, product=tRNA-Lys(ttt), score=83.2, nt=[GTCTCGTTAG..CGAGACACCA]
+08:30:24.943 - INFO - T_RNA - seq=contig_1, start=307961, stop=308049, strand=+, gene=trnL, product=tRNA-Leu(taa), score=73.9, nt=[CCCCAGGTGG..CTGGGGACCA]
+08:30:24.944 - INFO - T_RNA - seq=contig_1, start=599718, stop=599807, strand=-, gene=trnS, product=tRNA-Ser(gct), score=82.3, nt=[GGATTGATAC..CAATCCGCCA]
+08:30:24.944 - INFO - T_RNA - seq=contig_1, start=468868, stop=468944, strand=-, gene=trnR, product=tRNA-Arg(tct), score=74.7, nt=[GCCCACATAG..GTGGGCGCCA]
+08:30:24.944 - INFO - T_RNA - seq=contig_1, start=442460, stop=442533, strand=-, gene=trnG, product=tRNA-Gly(tcc), score=76.2, nt=[GCGGGTGTAG..ACCCGCTCCA]
+08:30:24.944 - INFO - T_RNA - seq=contig_1, start=200713, stop=200795, strand=-, gene=trnL, product=tRNA-Leu(caa), score=69.4, nt=[GCCCCCTTGG..GGGGGCACCA]
+08:30:24.944 - INFO - T_RNA - predicted=29
+08:30:25.107 - INFO - TM_RNA - seq=contig_1, start=103228, stop=103630, strand=+, gene=ssrA, product=transfer-messenger RNA, SsrA, nt=[GGGGATGTTT..ATCTCCACCA]
+08:30:25.107 - INFO - TM_RNA - predicted=1
+08:30:29.411 - INFO - R_RNA - seq=contig_1, start=240203, stop=241721, strand=+, gene=rrs, product=16S ribosomal RNA, length=1519, coverage=0.991, truncated=None, score=1558.3, evalue=1.3e-47, nt=[TTAAATGAGA..CACCTCCTTT]
+08:30:29.412 - INFO - R_RNA - seq=contig_1, start=244980, stop=245088, strand=+, gene=rrf, product=5S ribosomal RNA, length=109, coverage=0.916, truncated=None, score=78.5, evalue=5.2e-13, nt=[TCTGGTGACC..ATTGCCAGTT]
+08:30:29.412 - INFO - R_RNA - seq=contig_1, start=242000, stop=244908, strand=+, gene=rrl, product=23S ribosomal RNA, length=2909, coverage=0.995, truncated=None, score=2894.0, evalue=2.2e-06, nt=[TTAAAAAGTA..CTTTTTAAAG]
+08:30:29.412 - INFO - R_RNA - predicted=3
+08:30:43.251 - INFO - NC_RNA - seq=contig_1, start=492944, stop=493277, strand=-, gene=RNaseP_bact_b, product=Bacterial RNase P class B, length=334, truncated=None, score=230.8, evalue=5.7e-25, nt=[AATTTGAGCT..GGTTATGATA]
+08:30:43.251 - INFO - NC_RNA - seq=contig_1, start=8407, stop=8495, strand=+, gene=Bacteria_small_SRP, product=Bacterial small signal recognition particle RNA, length=89, truncated=None, score=59.9, evalue=1.5e-07, nt=[TATTGTCATT..GACATTTTTT]
+08:30:43.251 - INFO - NC_RNA - predicted=2
+08:30:46.556 - INFO - NC_RNA_REGION - seq=contig_1, start=73480, stop=73543, strand=+, label=2dG-I, product=2dG-I riboswitch aptamer (M. florum), length=64, truncated=None, score=66.5, evalue=7.0e-10
+08:30:46.556 - INFO - NC_RNA_REGION - seq=contig_1, start=683110, stop=683172, strand=-, label=2dG-I, product=2dG-I riboswitch aptamer (M. florum), length=63, truncated=None, score=60.7, evalue=1.2e-08
+08:30:46.556 - INFO - NC_RNA_REGION - seq=contig_1, start=648184, stop=648278, strand=-, label=Purine, product=Purine riboswitch aptamer, length=95, truncated=None, score=55.8, evalue=9.6e-05
+08:30:46.556 - INFO - NC_RNA_REGION - predicted=3
+08:30:46.835 - INFO - CRISPR - predicted=0
+08:30:46.835 - INFO - CDS - create prodigal training info object: meta=False, closed=False
+08:30:47.183 - INFO - CDS - seq=contig_1, start=3, stop=1340, strand=+, frame=3, truncated=5-prime, start-type=Edge, RBS-motif=None
+08:30:47.183 - INFO - CDS - seq=contig_1, start=1415, stop=2536, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.183 - INFO - CDS - seq=contig_1, start=2598, stop=4526, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.183 - INFO - CDS - seq=contig_1, start=4536, stop=7100, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.183 - INFO - CDS - seq=contig_1, start=7110, stop=8372, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=8509, stop=8922, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=8944, stop=11043, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.184 - INFO - CDS - seq=contig_1, start=11045, stop=11605, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=11615, stop=12232, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=12234, stop=12929, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=12929, stop=13651, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=13652, stop=14521, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=14558, stop=16492, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=16533, stop=17378, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.184 - INFO - CDS - seq=contig_1, start=17425, stop=18408, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=18488, stop=19984, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.184 - INFO - CDS - seq=contig_1, start=19987, stop=20988, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=21071, stop=21598, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=21611, stop=22030, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=22034, stop=22255, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.184 - INFO - CDS - seq=contig_1, start=22319, stop=22762, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=22764, stop=24086, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=24121, stop=25146, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=25127, stop=25783, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.185 - INFO - CDS - seq=contig_1, start=25819, stop=26724, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=26726, stop=28030, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=28030, stop=28746, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.185 - INFO - CDS - seq=contig_1, start=28721, stop=29332, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.185 - INFO - CDS - seq=contig_1, start=29562, stop=29918, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG(G)/GGAGG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=29926, stop=30552, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=30652, stop=31083, strand=+, frame=1, truncated=no, start-type=GTG, RBS-motif=GGAGG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=31083, stop=31769, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=31950, stop=32708, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.185 - INFO - CDS - seq=contig_1, start=32713, stop=33873, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=33886, stop=35394, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=35590, stop=36087, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.185 - INFO - CDS - seq=contig_1, start=36113, stop=36484, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.185 - INFO - CDS - seq=contig_1, start=36552, stop=40385, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=3Base/5BMM
+08:30:47.186 - INFO - CDS - seq=contig_1, start=40390, stop=44151, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=44216, stop=44800, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=44790, stop=45362, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=45365, stop=45790, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=45801, stop=46427, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=46474, stop=46869, strand=+, frame=1, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=46863, stop=47720, strand=+, frame=3, truncated=no, start-type=GTG, RBS-motif=AGGA
+08:30:47.186 - INFO - CDS - seq=contig_1, start=47732, stop=48049, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=48059, stop=48601, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=48601, stop=49143, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=49153, stop=50730, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=50730, stop=51572, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=51585, stop=53003, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=52996, stop=53280, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.186 - INFO - CDS - seq=contig_1, start=53296, stop=54213, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.186 - INFO - CDS - seq=contig_1, start=54524, stop=55417, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.186 - INFO - CDS - seq=contig_1, start=55452, stop=58262, strand=+, frame=3, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=58347, stop=60308, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=60298, stop=63132, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=63125, stop=64228, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=64251, stop=65168, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=65188, stop=66381, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=66392, stop=67315, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=67317, stop=68525, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=68540, stop=69463, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=69468, stop=69683, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=69676, stop=70071, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGxGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=70142, stop=70438, strand=+, frame=2, truncated=no, start-type=GTG, RBS-motif=GGAGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=70443, stop=72542, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.187 - INFO - CDS - seq=contig_1, start=72561, stop=73007, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=73009, stop=73284, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.187 - INFO - CDS - seq=contig_1, start=73617, stop=74546, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.188 - INFO - CDS - seq=contig_1, start=74564, stop=76396, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=76410, stop=78236, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=78236, stop=79219, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG/GGAGG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=79221, stop=80372, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=80374, stop=81486, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=81586, stop=83295, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=83399, stop=84244, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.188 - INFO - CDS - seq=contig_1, start=84231, stop=85592, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.188 - INFO - CDS - seq=contig_1, start=85595, stop=85849, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.188 - INFO - CDS - seq=contig_1, start=85830, stop=86435, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.188 - INFO - CDS - seq=contig_1, start=86528, stop=88444, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=88508, stop=89410, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.188 - INFO - CDS - seq=contig_1, start=89403, stop=90836, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=91021, stop=93135, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.188 - INFO - CDS - seq=contig_1, start=93188, stop=93991, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=94021, stop=96963, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=3Base/5BMM
+08:30:47.189 - INFO - CDS - seq=contig_1, start=97045, stop=99495, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=99556, stop=101304, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=101503, stop=102219, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=4Base/6BMM
+08:30:47.189 - INFO - CDS - seq=contig_1, start=102212, stop=103186, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=103667, stop=105640, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=105651, stop=107075, strand=+, frame=3, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=107088, stop=107726, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=107723, stop=108166, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=108239, stop=108946, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=108946, stop=109887, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.189 - INFO - CDS - seq=contig_1, start=109889, stop=110662, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=110666, stop=111814, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.189 - INFO - CDS - seq=contig_1, start=111823, stop=113190, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=113227, stop=114192, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=114196, stop=114870, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.190 - INFO - CDS - seq=contig_1, start=114863, stop=117016, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=117057, stop=117320, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=117420, stop=118340, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=118430, stop=120151, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=120177, stop=120665, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=120730, stop=121695, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.190 - INFO - CDS - seq=contig_1, start=121695, stop=122582, strand=+, frame=3, truncated=no, start-type=GTG, RBS-motif=GGxGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=122622, stop=124559, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=124584, stop=126293, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=126244, stop=128250, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=128243, stop=128524, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=128525, stop=129913, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.190 - INFO - CDS - seq=contig_1, start=129906, stop=131348, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=131396, stop=132082, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=132213, stop=133883, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=134522, stop=135355, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=135388, stop=135690, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=135700, stop=136584, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=136694, stop=136816, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=136862, stop=137917, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=137935, stop=138936, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=138906, stop=141818, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=143127, stop=144821, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG/GGAGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=144865, stop=145485, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=145457, stop=146269, strand=+, frame=2, truncated=no, start-type=TTG, RBS-motif=GGA/GAG/AGG
+08:30:47.191 - INFO - CDS - seq=contig_1, start=146271, stop=148688, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.191 - INFO - CDS - seq=contig_1, start=148704, stop=149132, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=149135, stop=150415, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=150453, stop=152054, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=152252, stop=153388, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=153381, stop=154121, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=154154, stop=154378, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=154381, stop=154818, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.192 - INFO - CDS - seq=contig_1, start=155070, stop=155921, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=155924, stop=156778, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=156836, stop=157402, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=157404, stop=158450, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=158458, stop=159069, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=159102, stop=159455, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.192 - INFO - CDS - seq=contig_1, start=159470, stop=159952, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.192 - INFO - CDS - seq=contig_1, start=159954, stop=161189, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.193 - INFO - CDS - seq=contig_1, start=161213, stop=167017, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.193 - INFO - CDS - seq=contig_1, start=167035, stop=169758, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.193 - INFO - CDS - seq=contig_1, start=169788, stop=170405, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.193 - INFO - CDS - seq=contig_1, start=170645, stop=172384, strand=+, frame=2, truncated=no, start-type=TTG, RBS-motif=GGAG/GAGG
+08:30:47.193 - INFO - CDS - seq=contig_1, start=172391, stop=173590, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.193 - INFO - CDS - seq=contig_1, start=173571, stop=173897, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.193 - INFO - CDS - seq=contig_1, start=173908, stop=176871, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.193 - INFO - CDS - seq=contig_1, start=176873, stop=179545, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.193 - INFO - CDS - seq=contig_1, start=179548, stop=180372, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.193 - INFO - CDS - seq=contig_1, start=180531, stop=181760, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.193 - INFO - CDS - seq=contig_1, start=181760, stop=182623, strand=+, frame=2, truncated=no, start-type=GTG, RBS-motif=GGA/GAG/AGG
+08:30:47.193 - INFO - CDS - seq=contig_1, start=182623, stop=183981, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.193 - INFO - CDS - seq=contig_1, start=184094, stop=184804, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=184797, stop=185771, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=185941, stop=186438, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.194 - INFO - CDS - seq=contig_1, start=186605, stop=186949, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.194 - INFO - CDS - seq=contig_1, start=187013, stop=187723, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.194 - INFO - CDS - seq=contig_1, start=187841, stop=188854, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=188996, stop=190192, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=190284, stop=191201, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=191243, stop=191398, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=191463, stop=193223, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=193379, stop=193972, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.194 - INFO - CDS - seq=contig_1, start=194029, stop=194592, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=194595, stop=195452, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=195452, stop=196714, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.194 - INFO - CDS - seq=contig_1, start=196760, stop=197512, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.194 - INFO - CDS - seq=contig_1, start=197522, stop=198562, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=198555, stop=199406, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG(G)/GGAGG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=199408, stop=200070, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=200063, stop=200680, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=3Base/5BMM
+08:30:47.195 - INFO - CDS - seq=contig_1, start=200858, stop=201055, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=201175, stop=201504, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=201529, stop=203220, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=203242, stop=207282, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=207293, stop=208288, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=208290, stop=208994, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=208981, stop=209304, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=209423, stop=212374, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=212382, stop=213380, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.195 - INFO - CDS - seq=contig_1, start=213383, stop=215518, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.196 - INFO - CDS - seq=contig_1, start=215505, stop=216359, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.196 - INFO - CDS - seq=contig_1, start=216370, stop=217068, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.196 - INFO - CDS - seq=contig_1, start=217080, stop=218063, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.196 - INFO - CDS - seq=contig_1, start=218053, stop=218370, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.196 - INFO - CDS - seq=contig_1, start=218370, stop=219140, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.196 - INFO - CDS - seq=contig_1, start=219324, stop=220460, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.196 - INFO - CDS - seq=contig_1, start=220483, stop=221142, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.196 - INFO - CDS - seq=contig_1, start=221146, stop=222129, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.196 - INFO - CDS - seq=contig_1, start=222164, stop=224839, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.196 - INFO - CDS - seq=contig_1, start=224871, stop=225296, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.196 - INFO - CDS - seq=contig_1, start=225283, stop=227031, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=227033, stop=229333, strand=-, frame=3, truncated=no, start-type=TTG, RBS-motif=AGGAG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=229413, stop=230633, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.197 - INFO - CDS - seq=contig_1, start=230643, stop=231035, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=231096, stop=231428, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG/GGAGG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=231478, stop=232758, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=232774, stop=233277, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=233267, stop=234016, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.197 - INFO - CDS - seq=contig_1, start=234018, stop=235442, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=235444, stop=235731, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=235798, stop=236034, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=236064, stop=237860, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.197 - INFO - CDS - seq=contig_1, start=237901, stop=238767, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=238850, stop=239938, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=245181, stop=246236, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.197 - INFO - CDS - seq=contig_1, start=246239, stop=248620, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=248620, stop=249132, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=249149, stop=249328, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=249370, stop=250014, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.198 - INFO - CDS - seq=contig_1, start=250106, stop=250534, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=250536, stop=251468, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=251471, stop=252754, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.198 - INFO - CDS - seq=contig_1, start=252771, stop=254084, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=254086, stop=254325, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.198 - INFO - CDS - seq=contig_1, start=254352, stop=254786, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=254893, stop=255006, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.198 - INFO - CDS - seq=contig_1, start=255064, stop=256290, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=256318, stop=257316, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.198 - INFO - CDS - seq=contig_1, start=257334, stop=258998, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.198 - INFO - CDS - seq=contig_1, start=259008, stop=261269, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=261269, stop=263833, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=263898, stop=264851, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=264851, stop=266107, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=266119, stop=267102, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.199 - INFO - CDS - seq=contig_1, start=267104, stop=268069, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=268135, stop=269670, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.199 - INFO - CDS - seq=contig_1, start=269697, stop=270230, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=270434, stop=272398, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=272627, stop=275020, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=275060, stop=275575, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.199 - INFO - CDS - seq=contig_1, start=275647, stop=276474, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=276630, stop=277511, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=277929, stop=279263, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.199 - INFO - CDS - seq=contig_1, start=279291, stop=279425, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=279613, stop=279837, strand=+, frame=1, truncated=no, start-type=GTG, RBS-motif=AGGAG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=280296, stop=282326, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.200 - INFO - CDS - seq=contig_1, start=282451, stop=284010, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=284012, stop=285190, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=285183, stop=288176, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.200 - INFO - CDS - seq=contig_1, start=288280, stop=288567, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.200 - INFO - CDS - seq=contig_1, start=288829, stop=289368, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=289591, stop=290328, strand=+, frame=1, truncated=no, start-type=TTG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=290357, stop=292372, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.200 - INFO - CDS - seq=contig_1, start=292375, stop=293316, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=293612, stop=294436, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=294437, stop=294532, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.200 - INFO - CDS - seq=contig_1, start=294964, stop=296619, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.200 - INFO - CDS - seq=contig_1, start=296772, stop=297203, strand=+, frame=3, truncated=no, start-type=GTG, RBS-motif=None
+08:30:47.200 - INFO - CDS - seq=contig_1, start=297416, stop=297748, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.201 - INFO - CDS - seq=contig_1, start=297757, stop=298584, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.201 - INFO - CDS - seq=contig_1, start=298586, stop=299635, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG(G)/GGAGG
+08:30:47.201 - INFO - CDS - seq=contig_1, start=299635, stop=301206, strand=-, frame=1, truncated=no, start-type=TTG, RBS-motif=GGAGG
+08:30:47.201 - INFO - CDS - seq=contig_1, start=301306, stop=302142, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.201 - INFO - CDS - seq=contig_1, start=302351, stop=303613, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.201 - INFO - CDS - seq=contig_1, start=303606, stop=304256, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.201 - INFO - CDS - seq=contig_1, start=304258, stop=306750, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.201 - INFO - CDS - seq=contig_1, start=306936, stop=307490, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.201 - INFO - CDS - seq=contig_1, start=308135, stop=308896, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=4Base/6BMM
+08:30:47.201 - INFO - CDS - seq=contig_1, start=309266, stop=310294, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.201 - INFO - CDS - seq=contig_1, start=310430, stop=311032, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.201 - INFO - CDS - seq=contig_1, start=311091, stop=311666, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.201 - INFO - CDS - seq=contig_1, start=311783, stop=312223, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.201 - INFO - CDS - seq=contig_1, start=312338, stop=312481, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAGG
+08:30:47.201 - INFO - CDS - seq=contig_1, start=312525, stop=313595, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=313604, stop=314635, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=314639, stop=319003, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=319011, stop=319478, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=319536, stop=319724, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=319778, stop=320389, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=320381, stop=320560, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.202 - INFO - CDS - seq=contig_1, start=320639, stop=320950, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=320937, stop=321269, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=321325, stop=323490, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.202 - INFO - CDS - seq=contig_1, start=323547, stop=325568, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.202 - INFO - CDS - seq=contig_1, start=325561, stop=325944, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=325948, stop=326427, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=326429, stop=326836, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.202 - INFO - CDS - seq=contig_1, start=326838, stop=327737, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.202 - INFO - CDS - seq=contig_1, start=327741, stop=328523, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.202 - INFO - CDS - seq=contig_1, start=328587, stop=329966, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=329978, stop=331846, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=331854, stop=333194, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=333197, stop=333898, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.203 - INFO - CDS - seq=contig_1, start=333882, stop=334676, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=334860, stop=335939, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=335943, stop=336350, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=336401, stop=336973, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=337013, stop=337225, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=337297, stop=338424, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=338424, stop=338690, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.203 - INFO - CDS - seq=contig_1, start=338696, stop=339490, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=339511, stop=341367, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=341369, stop=341710, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.203 - INFO - CDS - seq=contig_1, start=341710, stop=342420, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=342460, stop=342843, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.203 - INFO - CDS - seq=contig_1, start=342897, stop=343286, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.204 - INFO - CDS - seq=contig_1, start=343421, stop=344344, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.204 - INFO - CDS - seq=contig_1, start=344337, stop=345155, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.204 - INFO - CDS - seq=contig_1, start=345142, stop=345741, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAGG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=345807, stop=346421, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGxGG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=346566, stop=348536, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=348529, stop=351138, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=351179, stop=353329, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.204 - INFO - CDS - seq=contig_1, start=353364, stop=354515, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.204 - INFO - CDS - seq=contig_1, start=354505, stop=355056, strand=+, frame=1, truncated=no, start-type=TTG, RBS-motif=GGAG/GAGG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=355126, stop=355866, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=355885, stop=356049, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.204 - INFO - CDS - seq=contig_1, start=356149, stop=356835, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=356904, stop=357455, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=357445, stop=358377, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.204 - INFO - CDS - seq=contig_1, start=358399, stop=358992, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.204 - INFO - CDS - seq=contig_1, start=359054, stop=359218, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=359256, stop=361199, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=361199, stop=361414, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=361422, stop=362225, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=362286, stop=362591, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=362578, stop=362988, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=362982, stop=363860, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=363881, stop=364897, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.205 - INFO - CDS - seq=contig_1, start=364916, stop=365305, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.205 - INFO - CDS - seq=contig_1, start=365330, stop=366460, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=366464, stop=366664, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=366657, stop=367910, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=367910, stop=368509, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=3Base/5BMM
+08:30:47.205 - INFO - CDS - seq=contig_1, start=368602, stop=369486, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=369493, stop=370047, strand=-, frame=1, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=370047, stop=370328, strand=-, frame=2, truncated=no, start-type=TTG, RBS-motif=GGAG/GAGG
+08:30:47.205 - INFO - CDS - seq=contig_1, start=370331, stop=371659, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=371661, stop=372596, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=372709, stop=372951, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=372962, stop=374221, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.206 - INFO - CDS - seq=contig_1, start=374175, stop=374741, strand=-, frame=2, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=374781, stop=377423, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=377824, stop=379308, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=379378, stop=379896, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=379957, stop=382686, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=382722, stop=383306, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=383290, stop=383835, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=383828, stop=384388, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.206 - INFO - CDS - seq=contig_1, start=384445, stop=385134, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=385176, stop=386573, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=386628, stop=388460, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=388470, stop=389411, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.206 - INFO - CDS - seq=contig_1, start=389395, stop=389517, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=389527, stop=390528, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=390531, stop=391646, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=391662, stop=392657, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.207 - INFO - CDS - seq=contig_1, start=392659, stop=394017, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=394045, stop=395241, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.207 - INFO - CDS - seq=contig_1, start=395241, stop=396206, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=396327, stop=398048, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=398066, stop=399307, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=399377, stop=400711, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=400880, stop=402760, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=402783, stop=403709, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=403792, stop=404109, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=404176, stop=405075, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=405072, stop=405611, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.207 - INFO - CDS - seq=contig_1, start=405700, stop=406110, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=406273, stop=406539, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=406612, stop=407277, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=407310, stop=409112, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.208 - INFO - CDS - seq=contig_1, start=409216, stop=410100, strand=-, frame=1, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=410100, stop=411506, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=411526, stop=412293, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.208 - INFO - CDS - seq=contig_1, start=412535, stop=412864, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=413060, stop=413665, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.208 - INFO - CDS - seq=contig_1, start=413667, stop=415442, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=415559, stop=416794, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=416805, stop=417302, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.208 - INFO - CDS - seq=contig_1, start=417317, stop=418627, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.208 - INFO - CDS - seq=contig_1, start=418699, stop=419175, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.208 - INFO - CDS - seq=contig_1, start=419176, stop=420090, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.208 - INFO - CDS - seq=contig_1, start=420078, stop=421007, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=420991, stop=421773, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.209 - INFO - CDS - seq=contig_1, start=421766, stop=424471, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=424452, stop=424829, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=425263, stop=425898, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.209 - INFO - CDS - seq=contig_1, start=425898, stop=428576, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=428756, stop=431188, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=431210, stop=431737, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=431730, stop=435623, strand=-, frame=2, truncated=no, start-type=GTG, RBS-motif=None
+08:30:47.209 - INFO - CDS - seq=contig_1, start=435654, stop=436211, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=436219, stop=437754, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=437850, stop=439223, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=439370, stop=440260, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=440299, stop=440814, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.209 - INFO - CDS - seq=contig_1, start=440872, stop=441666, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=441663, stop=442397, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=442600, stop=442866, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=442981, stop=445359, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=445473, stop=446768, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=446808, stop=448331, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=448390, stop=448692, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=448706, stop=449260, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=449286, stop=450227, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.210 - INFO - CDS - seq=contig_1, start=450220, stop=452268, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.210 - INFO - CDS - seq=contig_1, start=452301, stop=452900, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=452935, stop=454038, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.210 - INFO - CDS - seq=contig_1, start=454071, stop=455201, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.210 - INFO - CDS - seq=contig_1, start=455221, stop=457020, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.210 - INFO - CDS - seq=contig_1, start=457032, stop=457652, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.210 - INFO - CDS - seq=contig_1, start=457654, stop=458682, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=458732, stop=460876, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=460985, stop=462355, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=462389, stop=462640, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=462755, stop=463252, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=463254, stop=463991, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=464011, stop=465297, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=3Base/5BMM
+08:30:47.211 - INFO - CDS - seq=contig_1, start=465299, stop=466054, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=466107, stop=467069, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.211 - INFO - CDS - seq=contig_1, start=467071, stop=467796, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.211 - INFO - CDS - seq=contig_1, start=467796, stop=468290, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.211 - INFO - CDS - seq=contig_1, start=468296, stop=468721, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=469028, stop=470626, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=470708, stop=471529, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=471531, stop=472235, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.211 - INFO - CDS - seq=contig_1, start=472271, stop=474163, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.212 - INFO - CDS - seq=contig_1, start=474156, stop=474632, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=474695, stop=479308, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.212 - INFO - CDS - seq=contig_1, start=479318, stop=481603, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=481841, stop=482395, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.212 - INFO - CDS - seq=contig_1, start=482395, stop=482703, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=482791, stop=483054, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=483091, stop=483723, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=483857, stop=485533, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=485526, stop=486143, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=486143, stop=487132, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=487231, stop=487665, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=487679, stop=488368, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.212 - INFO - CDS - seq=contig_1, start=488384, stop=489733, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.212 - INFO - CDS - seq=contig_1, start=489779, stop=491323, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=491393, stop=492421, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=492445, stop=492909, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.213 - INFO - CDS - seq=contig_1, start=493298, stop=493639, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=493720, stop=494202, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=494191, stop=494736, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=494805, stop=495080, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.213 - INFO - CDS - seq=contig_1, start=495127, stop=496113, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.213 - INFO - CDS - seq=contig_1, start=496116, stop=497426, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=497429, stop=498091, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=498101, stop=498772, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=498830, stop=499627, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=499697, stop=500314, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=500373, stop=500948, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=500955, stop=501740, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.213 - INFO - CDS - seq=contig_1, start=501772, stop=502485, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.213 - INFO - CDS - seq=contig_1, start=502489, stop=503091, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.213 - INFO - CDS - seq=contig_1, start=503092, stop=503697, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=503688, stop=504446, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=504449, stop=505024, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.214 - INFO - CDS - seq=contig_1, start=505040, stop=505777, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=505780, stop=506610, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=506617, stop=507459, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=507472, stop=509166, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.214 - INFO - CDS - seq=contig_1, start=509177, stop=510835, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.214 - INFO - CDS - seq=contig_1, start=510912, stop=511862, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=511887, stop=512438, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=512452, stop=513165, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=513194, stop=513724, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=513909, stop=514490, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=514494, stop=515375, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=515377, stop=516258, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=516423, stop=516905, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.214 - INFO - CDS - seq=contig_1, start=516961, stop=517827, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.215 - INFO - CDS - seq=contig_1, start=518080, stop=518364, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=518364, stop=518672, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=518685, stop=519278, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=519410, stop=519697, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=519726, stop=520616, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=520650, stop=521123, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=521163, stop=522647, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.215 - INFO - CDS - seq=contig_1, start=522648, stop=524384, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=524393, stop=527326, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=527344, stop=529986, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=530068, stop=531771, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=531923, stop=532477, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=532560, stop=532859, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=532856, stop=533644, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.215 - INFO - CDS - seq=contig_1, start=533716, stop=534708, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=534748, stop=535752, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=535764, stop=536672, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=536707, stop=537066, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=537076, stop=537267, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=537248, stop=537820, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGxGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=537983, stop=539080, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=539088, stop=541187, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=541196, stop=543334, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=543334, stop=544158, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=544171, stop=545115, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=545204, stop=545971, strand=-, frame=3, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=545989, stop=546294, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=546310, stop=548121, strand=-, frame=1, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=548156, stop=550087, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=550301, stop=551734, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.216 - INFO - CDS - seq=contig_1, start=551827, stop=553293, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=553295, stop=554263, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=554300, stop=554890, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=554892, stop=555320, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.217 - INFO - CDS - seq=contig_1, start=555343, stop=557256, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.217 - INFO - CDS - seq=contig_1, start=557331, stop=558686, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=558788, stop=559639, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=559726, stop=564609, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=564729, stop=565139, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=565355, stop=568372, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=568883, stop=570703, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.217 - INFO - CDS - seq=contig_1, start=570746, stop=571546, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=571557, stop=572474, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.217 - INFO - CDS - seq=contig_1, start=572491, stop=573156, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.217 - INFO - CDS - seq=contig_1, start=573149, stop=574954, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.218 - INFO - CDS - seq=contig_1, start=575078, stop=576460, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.218 - INFO - CDS - seq=contig_1, start=576473, stop=577177, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.218 - INFO - CDS - seq=contig_1, start=577282, stop=578442, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.218 - INFO - CDS - seq=contig_1, start=578600, stop=579361, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.218 - INFO - CDS - seq=contig_1, start=579354, stop=580085, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.218 - INFO - CDS - seq=contig_1, start=580159, stop=580680, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.218 - INFO - CDS - seq=contig_1, start=580770, stop=583001, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.218 - INFO - CDS - seq=contig_1, start=583137, stop=584363, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.218 - INFO - CDS - seq=contig_1, start=584589, stop=586685, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.218 - INFO - CDS - seq=contig_1, start=586868, stop=587734, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.218 - INFO - CDS - seq=contig_1, start=587764, stop=588609, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.218 - INFO - CDS - seq=contig_1, start=588640, stop=590778, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.218 - INFO - CDS - seq=contig_1, start=590787, stop=593459, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.218 - INFO - CDS - seq=contig_1, start=593622, stop=595673, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.218 - INFO - CDS - seq=contig_1, start=595677, stop=596621, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=596621, stop=597325, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=597432, stop=597659, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=597696, stop=599129, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=599138, stop=599686, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=599889, stop=600338, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=600339, stop=602609, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=602686, stop=603261, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=603254, stop=603652, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.219 - INFO - CDS - seq=contig_1, start=603707, stop=604852, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.219 - INFO - CDS - seq=contig_1, start=604933, stop=605640, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.219 - INFO - CDS - seq=contig_1, start=605640, stop=606557, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=606565, stop=607503, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=607543, stop=609123, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.219 - INFO - CDS - seq=contig_1, start=609127, stop=609945, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.220 - INFO - CDS - seq=contig_1, start=609947, stop=610690, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=610738, stop=611871, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=611887, stop=612612, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=612621, stop=613337, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.220 - INFO - CDS - seq=contig_1, start=613382, stop=614221, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=614282, stop=614677, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=614677, stop=615123, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=615222, stop=619430, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.220 - INFO - CDS - seq=contig_1, start=619449, stop=620186, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.220 - INFO - CDS - seq=contig_1, start=620189, stop=621070, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=621082, stop=622152, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGxAG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=622137, stop=623345, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=623427, stop=624380, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=624446, stop=624805, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=624819, stop=625772, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.220 - INFO - CDS - seq=contig_1, start=625774, stop=626163, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=626176, stop=626541, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=626554, stop=626667, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=626694, stop=626912, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=626912, stop=627679, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=627679, stop=628314, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.221 - INFO - CDS - seq=contig_1, start=628325, stop=629737, strand=-, frame=3, truncated=no, start-type=GTG, RBS-motif=GGAG/GAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=629738, stop=630175, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=630189, stop=630995, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=631013, stop=631363, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=631386, stop=631928, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=631944, stop=632333, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=632348, stop=632533, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=632542, stop=633093, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=633105, stop=633422, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=633434, stop=633802, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=633814, stop=634074, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=634090, stop=635139, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.221 - INFO - CDS - seq=contig_1, start=635132, stop=635551, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=635553, stop=636314, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=636317, stop=636670, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=636693, stop=636962, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=636971, stop=637813, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=637852, stop=638136, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=638136, stop=638762, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=638776, stop=639495, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=639551, stop=639859, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=640036, stop=642714, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=642813, stop=643688, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=643722, stop=645065, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=645195, stop=645866, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.222 - INFO - CDS - seq=contig_1, start=645863, stop=646525, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=646600, stop=648108, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=648334, stop=649521, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=649613, stop=651688, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.222 - INFO - CDS - seq=contig_1, start=651702, stop=652169, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=652198, stop=652608, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=652719, stop=652907, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=652920, stop=653921, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.223 - INFO - CDS - seq=contig_1, start=653961, stop=654464, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.223 - INFO - CDS - seq=contig_1, start=654465, stop=655886, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=655935, stop=656720, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.223 - INFO - CDS - seq=contig_1, start=656721, stop=657803, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.223 - INFO - CDS - seq=contig_1, start=657819, stop=658424, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGxGG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=658426, stop=659370, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=659380, stop=661221, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.223 - INFO - CDS - seq=contig_1, start=661303, stop=661728, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=661808, stop=662734, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.223 - INFO - CDS - seq=contig_1, start=662753, stop=664258, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=664288, stop=665283, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=665302, stop=666480, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.223 - INFO - CDS - seq=contig_1, start=666686, stop=666859, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.223 - INFO - CDS - seq=contig_1, start=666874, stop=667767, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=667820, stop=669424, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGxGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=669462, stop=669839, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=669862, stop=671049, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=671050, stop=672501, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=672573, stop=673487, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=673496, stop=674593, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGxAGG/AGGxGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=674600, stop=675478, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=675465, stop=676232, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.224 - INFO - CDS - seq=contig_1, start=676285, stop=676989, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.224 - INFO - CDS - seq=contig_1, start=677042, stop=677995, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=677997, stop=680111, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=680104, stop=681627, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=681629, stop=682978, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=683249, stop=685117, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.224 - INFO - CDS - seq=contig_1, start=685128, stop=686648, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=686663, stop=687952, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=687960, stop=689240, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=689283, stop=689843, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=689843, stop=690892, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=690963, stop=692492, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.225 - INFO - CDS - seq=contig_1, start=692489, stop=693250, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=AGGA/GGAG/GAGG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=693240, stop=693764, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=AGGA
+08:30:47.225 - INFO - CDS - seq=contig_1, start=693818, stop=694873, strand=+, frame=2, truncated=no, start-type=ATG, RBS-motif=GGxGG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=695055, stop=696098, strand=+, frame=3, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=696121, stop=697182, strand=+, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=697240, stop=698040, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=AGGAG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=698053, stop=699414, strand=-, frame=1, truncated=no, start-type=ATG, RBS-motif=GGA/GAG/AGG
+08:30:47.225 - INFO - CDS - seq=contig_1, start=699437, stop=700639, strand=-, frame=3, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.225 - INFO - CDS - seq=contig_1, start=700632, stop=700976, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=None
+08:30:47.225 - INFO - CDS - seq=contig_1, start=700992, stop=701126, strand=-, frame=2, truncated=no, start-type=ATG, RBS-motif=GGAG/GAGG
+08:30:47.225 - INFO - CDS - truncated CDS: seq=contig_1, start=3, stop=1340, strand=+, frame=3, truncated=5-prime, start-type=Edge, RBS-motif=None, aa-hexdigest=54f8570da43eb8e55e4882a90030f269, aa=[NADNILKNLK..NKIKQKIKKS]
+08:30:47.225 - INFO - CDS - seq=contig_1, start=1415, stop=2536, strand=+, nt=[ATGAATTTTT..TTCTAACTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=2598, stop=4526, strand=+, nt=[ATGTTAGAAA..AGATATTTAG]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=4536, stop=7100, strand=+, nt=[ATGAAAGATA..AGACATTTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=7110, stop=8372, strand=+, nt=[ATGTTTAAAG..ATATATCTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=8509, stop=8922, strand=+, nt=[ATGGAAATAA..ATTAAGATAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=8944, stop=11043, strand=+, nt=[ATGTATACAA..AGTAGATTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=11045, stop=11605, strand=+, nt=[ATGCAAGATA..TAGAAAGTAG]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=11615, stop=12232, strand=+, nt=[ATGTTTATAA..AAAAGGTTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=12234, stop=12929, strand=+, nt=[ATGAAAGATG..GGTAATGTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=12929, stop=13651, strand=+, nt=[ATGAAATTTG..TGAGGATTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=13652, stop=14521, strand=+, nt=[ATGGACAGTT..TATATTATAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=14558, stop=16492, strand=+, nt=[ATGAAAAATA..AGAAAATTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=16533, stop=17378, strand=+, nt=[ATGAATAAAA..TTTAGTTTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=17425, stop=18408, strand=+, nt=[ATGATTTTTA..TTGATCATAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=18488, stop=19984, strand=+, nt=[ATGAGTAGAA..TAGGGAGTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=19987, stop=20988, strand=+, nt=[ATGAAGTACG..AATATTCTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=21071, stop=21598, strand=+, nt=[ATGAAAAAAA..TAAAAAATAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=21611, stop=22030, strand=+, nt=[ATGAACTCTG..AGAGGACTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=22034, stop=22255, strand=+, nt=[ATGAAAAAAT..AATTAATTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=22319, stop=22762, strand=+, nt=[ATGAAAGTTA..AGAATTGTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=22764, stop=24086, strand=+, nt=[ATGAATAATA..AAATATTTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=24121, stop=25146, strand=+, nt=[ATGAAAAAAA..CACAAACTAG]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=25127, stop=25783, strand=+, nt=[ATGATAAAAG..CACACTATAG]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=25819, stop=26724, strand=+, nt=[ATGTTGTCAT..GGACTATTAG]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=26726, stop=28030, strand=+, nt=[ATGAAATTGT..AATAATGTAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=28030, stop=28746, strand=+, nt=[ATGAAAGATT..TAACAGATAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=28721, stop=29332, strand=+, nt=[ATGAATGCAG..TAAAAAATAA]
+08:30:47.226 - INFO - CDS - seq=contig_1, start=29562, stop=29918, strand=+, nt=[ATGACTAAAG..AATAGTGTAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=29926, stop=30552, strand=+, nt=[ATGAGAATAG..AATTAAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=30652, stop=31083, strand=+, nt=[GTGGCAAAAA..AAGTAAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=31083, stop=31769, strand=+, nt=[ATGGCTAAAA..AGAACAATAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=31950, stop=32708, strand=+, nt=[ATGACTTTTA..AGGTTGATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=32713, stop=33873, strand=+, nt=[ATGAAAAAAT..ATTAATTTAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=33886, stop=35394, strand=+, nt=[ATGAAAAAAT..TACAAATTAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=35590, stop=36087, strand=+, nt=[ATGGCTTTAA..ATCAGAATAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=36113, stop=36484, strand=+, nt=[ATGGCAAAAT..ATTAAAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=36552, stop=40385, strand=+, nt=[ATGGCATATA..GGAGAATTAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=40390, stop=44151, strand=+, nt=[ATGGCAACAG..CGATTATTAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=44216, stop=44800, strand=+, nt=[ATGAGGGACA..TGAGAAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=44790, stop=45362, strand=+, nt=[ATGAGAAATA..TGGATTTTAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=45365, stop=45790, strand=+, nt=[ATGAAAATAT..AAAGCAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=45801, stop=46427, strand=+, nt=[ATGGAAGTTA..TACAAAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=46474, stop=46869, strand=+, nt=[GTGAAAAATG..AGCGTGTTAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=46863, stop=47720, strand=+, nt=[GTGTTAAATC..AACATTATAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=47732, stop=48049, strand=+, nt=[ATGTTTTTAA..TGTTGGATAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=48059, stop=48601, strand=+, nt=[ATGTTAAATA..AGGTGAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=48601, stop=49143, strand=+, nt=[ATGGCTCTAG..TTTAGAATAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=49153, stop=50730, strand=+, nt=[ATGGGAATTA..TAATAAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=50730, stop=51572, strand=+, nt=[ATGCCAAATT..GTCATTATAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=51585, stop=53003, strand=+, nt=[ATGGAAAAAA..CAATGGATAG]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=52996, stop=53280, strand=+, nt=[ATGGATAGAC..TAAAATATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=53296, stop=54213, strand=-, nt=[ATGCTTTATA..GAAAGAATAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=54524, stop=55417, strand=+, nt=[ATGTTTATTA..AGATTATTAA]
+08:30:47.227 - INFO - CDS - seq=contig_1, start=55452, stop=58262, strand=+, nt=[GTGGCTAGTG..ATTAGGCTAG]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=58347, stop=60308, strand=+, nt=[ATGAAAAAAT..TGGTAGATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=60298, stop=63132, strand=+, nt=[ATGGTAGATA..AAATGATTAG]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=63125, stop=64228, strand=+, nt=[ATGATTAGTG..TAAAATATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=64251, stop=65168, strand=+, nt=[ATGAACAAAT..TGAATCTTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=65188, stop=66381, strand=+, nt=[ATGCCTAATA..ATCTTATTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=66392, stop=67315, strand=+, nt=[ATGAATACAA..AGGTAAATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=67317, stop=68525, strand=+, nt=[ATGTTAAGTT..ATATAAATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=68540, stop=69463, strand=+, nt=[ATGTCGTTTT..AGAGGAATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=69468, stop=69683, strand=+, nt=[ATGAAAAAAA..GTTTAAATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=69676, stop=70071, strand=-, nt=[ATGCAATTTA..CATTATTTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=70142, stop=70438, strand=+, nt=[GTGTTTGAGT..CTTAAAATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=70443, stop=72542, strand=+, nt=[ATGAAAGAAC..ATTTTGTTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=72561, stop=73007, strand=+, nt=[ATGGGTATAA..AAAGGTATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=73009, stop=73284, strand=+, nt=[ATGAAATTTT..CAGTTTTTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=73617, stop=74546, strand=+, nt=[ATGAACGAGA..CTTATTATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=74564, stop=76396, strand=+, nt=[ATGAAAAAAT..CATGGTTTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=76410, stop=78236, strand=+, nt=[ATGAGCATAA..AATTTTGTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=78236, stop=79219, strand=+, nt=[ATGAAATGGA..GGCAATTTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=79221, stop=80372, strand=+, nt=[ATGGAGATTA..GAAAGGATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=80374, stop=81486, strand=+, nt=[ATGATTAGAA..CGAGTTTTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=81586, stop=83295, strand=+, nt=[ATGGAAAATA..TAGTAACTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=83399, stop=84244, strand=+, nt=[ATGATAACAT..AAAAGCATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=84231, stop=85592, strand=+, nt=[ATGGAAAAGC..CAAAGGATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=85595, stop=85849, strand=+, nt=[ATGGAATTTA..ATATAGTTAG]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=85830, stop=86435, strand=+, nt=[ATGCAATTAC..AGTCAATTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=86528, stop=88444, strand=+, nt=[ATGAAAACAA..AAATAAATAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=88508, stop=89410, strand=+, nt=[ATGTTTAAAA..TCATGCGTAA]
+08:30:47.228 - INFO - CDS - seq=contig_1, start=89403, stop=90836, strand=+, nt=[ATGCGTAAAT..AAAAAAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=91021, stop=93135, strand=+, nt=[ATGGATATTA..AAATAAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=93188, stop=93991, strand=+, nt=[ATGATCTTAG..AAAAAAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=94021, stop=96963, strand=+, nt=[ATGTTTTCTG..AAACAAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=97045, stop=99495, strand=+, nt=[ATGGATATTA..AATTAAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=99556, stop=101304, strand=+, nt=[ATGAAAAATA..ACCATTATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=101503, stop=102219, strand=+, nt=[ATGAATTCAA..TTATGAATAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=102212, stop=103186, strand=+, nt=[ATGAATAGTA..CTTATTATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=103667, stop=105640, strand=+, nt=[ATGCAATTAT..AAATAAATAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=105651, stop=107075, strand=+, nt=[GTGGAATTAA..AAAATTTTAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=107088, stop=107726, strand=+, nt=[ATGAGACTTA..AAAAAATTAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=107723, stop=108166, strand=-, nt=[ATGCTTAATT..TAAAAATTAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=108239, stop=108946, strand=+, nt=[ATGACACCAC..TAAAAAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=108946, stop=109887, strand=+, nt=[ATGAATATAT..AGGTAATTAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=109889, stop=110662, strand=+, nt=[ATGACATCAT..AAAAGGTTAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=110666, stop=111814, strand=+, nt=[ATGAAAAAAA..ACTTTATTAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=111823, stop=113190, strand=+, nt=[ATGTTAGTAA..ATTATTTTAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=113227, stop=114192, strand=+, nt=[ATGGTAGTAA..TTTAAAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=114196, stop=114870, strand=+, nt=[ATGAATAAAA..AAATGATTAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=114863, stop=117016, strand=+, nt=[ATGATTAAAG..AATAGCATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=117057, stop=117320, strand=+, nt=[ATGACTTCAT..ACTAATTTAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=117420, stop=118340, strand=+, nt=[ATGGAGATTT..TAAAAAATAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=118430, stop=120151, strand=+, nt=[ATGTCAAAAA..CAAATTATAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=120177, stop=120665, strand=+, nt=[ATGGGTTTAT..TTCAAAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=120730, stop=121695, strand=+, nt=[ATGAATAAAT..TACAAAATAG]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=121695, stop=122582, strand=+, nt=[GTGGTTAAAT..ACATTTTTAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=122622, stop=124559, strand=+, nt=[ATGAATTTAT..AGAAGAATAA]
+08:30:47.229 - INFO - CDS - seq=contig_1, start=124584, stop=126293, strand=+, nt=[ATGATGCCAT..AAAAGCTTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=126244, stop=128250, strand=+, nt=[ATGACTGAAA..CAATGACTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=128243, stop=128524, strand=+, nt=[ATGACTAAAG..GGTAATTTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=128525, stop=129913, strand=+, nt=[ATGAACAAAA..TTATGAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=129906, stop=131348, strand=+, nt=[ATGAATAATT..TGTTAAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=131396, stop=132082, strand=-, nt=[ATGGCTAGAA..TAATGAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=132213, stop=133883, strand=+, nt=[ATGATTGATA..GATTGGATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=134522, stop=135355, strand=+, nt=[ATGAATAAAA..ATTAAATTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=135388, stop=135690, strand=+, nt=[ATGGCAAAAA..AATAAAATAG]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=135700, stop=136584, strand=+, nt=[ATGATTAAAT..AAAAAAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=136694, stop=136816, strand=+, nt=[ATGAAAAAAT..TTCCCGTTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=136862, stop=137917, strand=+, nt=[ATGACAAAAA..TGATGATTAG]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=137935, stop=138936, strand=+, nt=[ATGGAAAAAG..AGCTATCTAG]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=138906, stop=141818, strand=+, nt=[ATGAAAAAAT..GCAAAAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=143127, stop=144821, strand=+, nt=[ATGTTTATTG..TATAGTGTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=144865, stop=145485, strand=+, nt=[ATGAATTGAG..ACATGATTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=145457, stop=146269, strand=+, nt=[TTGATACAAG..GAAAAAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=146271, stop=148688, strand=+, nt=[ATGGAATTTT..GGTTAAATAG]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=148704, stop=149132, strand=+, nt=[ATGAAAAAAG..AAAGGAGTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=149135, stop=150415, strand=+, nt=[ATGAAATTAA..AAAATACTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=150453, stop=152054, strand=+, nt=[ATGTCTGACA..ATTATCATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=152252, stop=153388, strand=+, nt=[ATGGATATAC..TAATGAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=153381, stop=154121, strand=+, nt=[ATGAATAAAA..TAAGATATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=154154, stop=154378, strand=+, nt=[ATGAAATATT..AAAAAAATAG]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=154381, stop=154818, strand=+, nt=[ATGGTAGATG..CAATAAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=155070, stop=155921, strand=-, nt=[ATGAAAAAAA..ATCAAATTAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=155924, stop=156778, strand=-, nt=[ATGAATAAAA..GGTTAAATAA]
+08:30:47.230 - INFO - CDS - seq=contig_1, start=156836, stop=157402, strand=+, nt=[ATGAAAGTTA..GTTAATTTAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=157404, stop=158450, strand=+, nt=[ATGAAGTACA..AAATTTATAG]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=158458, stop=159069, strand=+, nt=[ATGACTGTAT..TAATAAATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=159102, stop=159455, strand=+, nt=[ATGAATAATT..AGAAGATTAG]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=159470, stop=159952, strand=+, nt=[ATGGCGAAAA..AAAAGAATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=159954, stop=161189, strand=+, nt=[ATGAAAAACA..AGTTTTTTAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=161213, stop=167017, strand=+, nt=[ATGAAATCTT..TAGCGAATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=167035, stop=169758, strand=+, nt=[ATGTTTAAAA..ACAGCAATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=169788, stop=170405, strand=-, nt=[ATGTCAAGAT..TATTAAATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=170645, stop=172384, strand=+, nt=[TTGCAATTAT..TAGAAAATAG]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=172391, stop=173590, strand=+, nt=[ATGAAAACAA..GAAAATCTAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=173571, stop=173897, strand=+, nt=[ATGAAGAAAA..AATTACATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=173908, stop=176871, strand=+, nt=[ATGGTGAACC..AAAGGATTAG]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=176873, stop=179545, strand=+, nt=[ATGAAAAAAA..ACTAAAATAG]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=179548, stop=180372, strand=+, nt=[ATGCCTGAAT..TCAAAAATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=180531, stop=181760, strand=+, nt=[ATGAATTCAT..TGGTGAATAG]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=181760, stop=182623, strand=+, nt=[GTGGTGGATT..GAGATACTAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=182623, stop=183981, strand=+, nt=[ATGAAAATAG..AAAAGACTAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=184094, stop=184804, strand=+, nt=[ATGATAGAGG..CCATGTTTAG]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=184797, stop=185771, strand=+, nt=[ATGTTTAGCA..TCAAATATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=185941, stop=186438, strand=+, nt=[ATGTTTAAAA..GAGAACATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=186605, stop=186949, strand=+, nt=[ATGTATACAA..TAAATTATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=187013, stop=187723, strand=+, nt=[ATGATAGAAA..TGATATTTAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=187841, stop=188854, strand=+, nt=[ATGAAAAAAA..AAGTTTATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=188996, stop=190192, strand=+, nt=[ATGAAAAAAA..AGAAATTTAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=190284, stop=191201, strand=+, nt=[ATGAGATACG..CAATAGATAA]
+08:30:47.231 - INFO - CDS - seq=contig_1, start=191243, stop=191398, strand=-, nt=[ATGAAAAAAG..CCATAAATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=191463, stop=193223, strand=-, nt=[ATGGAAGATA..TAAAAAATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=193379, stop=193972, strand=-, nt=[ATGGAGTTTT..AGAAATTTAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=194029, stop=194592, strand=+, nt=[ATGAAAATAA..GGAGAATTAG]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=194595, stop=195452, strand=+, nt=[ATGGCTAAAG..AAGACAATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=195452, stop=196714, strand=+, nt=[ATGAATACAA..AAAAAATTAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=196760, stop=197512, strand=+, nt=[ATGAAATACA..AGCAAAATAG]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=197522, stop=198562, strand=+, nt=[ATGAAGTATG..GTATGCATAG]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=198555, stop=199406, strand=+, nt=[ATGCATAGAG..AAAATATTAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=199408, stop=200070, strand=+, nt=[ATGAAAAAGG..TTATGAATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=200063, stop=200680, strand=+, nt=[ATGAATAAAA..CTCAAAATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=200858, stop=201055, strand=-, nt=[ATGGCTAGAA..ATTAATGTAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=201175, stop=201504, strand=+, nt=[ATGGAAAAAA..GAACAATTAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=201529, stop=203220, strand=+, nt=[ATGTCAAATG..TATTGAATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=203242, stop=207282, strand=+, nt=[ATGAATAAAA..AAGATTATAG]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=207293, stop=208288, strand=+, nt=[ATGGAAAAAA..ACAAGGATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=208290, stop=208994, strand=+, nt=[ATGAGAGAAC..CAATAATTAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=208981, stop=209304, strand=+, nt=[ATGCCAATAA..TTCTAATTAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=209423, stop=212374, strand=+, nt=[ATGATTTTTG..CGCCAACTAG]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=212382, stop=213380, strand=+, nt=[ATGAAAATTA..TAAAGGATAG]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=213383, stop=215518, strand=+, nt=[ATGCAAATTA..CAATGGATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=215505, stop=216359, strand=+, nt=[ATGACAATGG..ATTTGGATAG]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=216370, stop=217068, strand=+, nt=[ATGTCATATA..AAAAAAATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=217080, stop=218063, strand=+, nt=[ATGGGATTTT..TGAAAATTAG]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=218053, stop=218370, strand=+, nt=[ATGAAAATTA..GGAAATATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=218370, stop=219140, strand=+, nt=[ATGCTAAAAA..AAATATTTAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=219324, stop=220460, strand=+, nt=[ATGAAAATAT..ATACTTATAA]
+08:30:47.232 - INFO - CDS - seq=contig_1, start=220483, stop=221142, strand=+, nt=[ATGTTGTTAG..AGGAAAATAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=221146, stop=222129, strand=+, nt=[ATGTGAATTA..TTTTAAATAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=222164, stop=224839, strand=+, nt=[ATGTTAAAGA..ATGATTTTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=224871, stop=225296, strand=-, nt=[ATGAAGACAT..TATTAATTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=225283, stop=227031, strand=-, nt=[ATGAAAAAAT..AGACATGTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=227033, stop=229333, strand=-, nt=[TTGAAAAAAC..AGGTAACTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=229413, stop=230633, strand=+, nt=[ATGAAAAATC..TTCATTATAG]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=230643, stop=231035, strand=+, nt=[ATGAGTACAT..TACTATTTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=231096, stop=231428, strand=+, nt=[ATGTATAAAA..TAGCAAGTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=231478, stop=232758, strand=+, nt=[ATGATCAAAA..CGGTTATTAG]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=232774, stop=233277, strand=+, nt=[ATGTTAAGCA..TGGATATTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=233267, stop=234016, strand=+, nt=[ATGGATATTA..TAGGAGTTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=234018, stop=235442, strand=+, nt=[ATGATTGAAT..AGGAGAATAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=235444, stop=235731, strand=+, nt=[ATGGAAATTA..TCATCATTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=235798, stop=236034, strand=+, nt=[ATGAATACTA..TAGTAATTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=236064, stop=237860, strand=+, nt=[ATGAATTCTA..AAATAACTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=237901, stop=238767, strand=-, nt=[ATGAATTATA..AGAAATTTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=238850, stop=239938, strand=+, nt=[ATGAGACTAA..CTATGAATAG]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=245181, stop=246236, strand=+, nt=[ATGAAAACAA..TGGAAATTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=246239, stop=248620, strand=+, nt=[ATGAAAATCA..GGTGATTTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=248620, stop=249132, strand=+, nt=[ATGATTTATA..ATCAAAATAG]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=249149, stop=249328, strand=+, nt=[ATGGCAGTTC..TGAAGATTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=249370, stop=250014, strand=+, nt=[ATGAATATAC..AAACAAATAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=250106, stop=250534, strand=+, nt=[ATGTTATTAG..AGCACAATAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=250536, stop=251468, strand=+, nt=[ATGGAACACA..TAAGGAATAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=251471, stop=252754, strand=+, nt=[ATGAAATCAG..TGGAAACTAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=252771, stop=254084, strand=+, nt=[ATGTACAATA..GAACTGATAA]
+08:30:47.233 - INFO - CDS - seq=contig_1, start=254086, stop=254325, strand=+, nt=[ATGGATGAAA..TATTAAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=254352, stop=254786, strand=-, nt=[ATGGGAAATA..TACATATTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=254893, stop=255006, strand=+, nt=[ATGATTAAAA..GACAAATTAG]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=255064, stop=256290, strand=+, nt=[ATGAACCAGG..AACAAAATAG]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=256318, stop=257316, strand=+, nt=[ATGAGTAATT..CCACCGTTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=257334, stop=258998, strand=+, nt=[ATGAAAAAAA..AAAAAAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=259008, stop=261269, strand=+, nt=[ATGGAAAATA..AGGAGAGTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=261269, stop=263833, strand=+, nt=[ATGAAAAAAT..ACCACAATAG]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=263898, stop=264851, strand=+, nt=[ATGAATGAGT..GGTAAATTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=264851, stop=266107, strand=+, nt=[ATGGAAAAAA..AATTACATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=266119, stop=267102, strand=+, nt=[ATGCTTAATA..TCAAGGATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=267104, stop=268069, strand=+, nt=[ATGGTCAAAG..CCATAAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=268135, stop=269670, strand=+, nt=[ATGAAGAATA..AAATAATTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=269697, stop=270230, strand=-, nt=[ATGAAAAAAC..AGCAAAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=270434, stop=272398, strand=+, nt=[ATGAAAAAAT..AACTTTATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=272627, stop=275020, strand=+, nt=[ATGAAGAAAT..AACTTTATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=275060, stop=275575, strand=-, nt=[ATGAAAAAAA..AACCAAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=275647, stop=276474, strand=-, nt=[ATGAGGAAAA..GCATAATTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=276630, stop=277511, strand=+, nt=[ATGAAAAAAT..AAATAAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=277929, stop=279263, strand=+, nt=[ATGGACATTA..CGAAGAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=279291, stop=279425, strand=+, nt=[ATGATAAATT..ATACAAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=279613, stop=279837, strand=+, nt=[GTGAAATCAA..ACTAGATTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=280296, stop=282326, strand=+, nt=[ATGCAAGCAC..ATTAGTTTAG]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=282451, stop=284010, strand=+, nt=[ATGGAAAAAA..AAAAAAATAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=284012, stop=285190, strand=+, nt=[ATGTTAAATG..AAATGATTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=285183, stop=288176, strand=+, nt=[ATGATTAAAA..TGATATTTAA]
+08:30:47.234 - INFO - CDS - seq=contig_1, start=288280, stop=288567, strand=+, nt=[ATGCATATAT..TATAAAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=288829, stop=289368, strand=+, nt=[ATGTTTATTA..ACTTTGTTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=289591, stop=290328, strand=+, nt=[TTGCTTAAAG..AGCAAAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=290357, stop=292372, strand=+, nt=[ATGAGCAAAG..AGGAGAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=292375, stop=293316, strand=+, nt=[ATGAACAACA..TAAGATTTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=293612, stop=294436, strand=-, nt=[ATGATCCGCA..CCTAAAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=294437, stop=294532, strand=-, nt=[ATGCCTACAA..GCCTGAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=294964, stop=296619, strand=+, nt=[ATGAAAAAAT..ATTAAATTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=296772, stop=297203, strand=+, nt=[GTGGGGGATT..TAAGTTATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=297416, stop=297748, strand=+, nt=[ATGTTAATGT..AAAAAACTAG]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=297757, stop=298584, strand=-, nt=[ATGAAAAAAA..AAAAAACTAG]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=298586, stop=299635, strand=-, nt=[ATGAAAAAAG..AAAGGATTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=299635, stop=301206, strand=-, nt=[TTGAAAAATA..TTTAAAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=301306, stop=302142, strand=-, nt=[ATGATTAAGA..TATTAAGTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=302351, stop=303613, strand=+, nt=[ATGAAACAAT..AAATGAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=303606, stop=304256, strand=+, nt=[ATGAATAATT..GGAAAAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=304258, stop=306750, strand=+, nt=[ATGCATATGA..TTATGAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=306936, stop=307490, strand=-, nt=[ATGAGTAAAA..ATCATTTTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=308135, stop=308896, strand=-, nt=[ATGAAAAAAA..TACTAATTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=309266, stop=310294, strand=+, nt=[ATGAAGAAAA..GGAGATGTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=310430, stop=311032, strand=+, nt=[ATGAATAAAT..TTATAATTAG]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=311091, stop=311666, strand=+, nt=[ATGTATAAAC..AGTTAACTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=311783, stop=312223, strand=+, nt=[ATGGAAGTAA..AAAAAATTAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=312338, stop=312481, strand=+, nt=[ATGCGTGAAG..AAAAAAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=312525, stop=313595, strand=+, nt=[ATGAAAAAAC..TAGTAAATAA]
+08:30:47.235 - INFO - CDS - seq=contig_1, start=313604, stop=314635, strand=+, nt=[ATGTTAGAAG..AGGGATTTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=314639, stop=319003, strand=+, nt=[ATGAAACAAG..TAATTTTTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=319011, stop=319478, strand=+, nt=[ATGAAATTAC..AAAATTTTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=319536, stop=319724, strand=-, nt=[ATGGACATAA..CTGTTATTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=319778, stop=320389, strand=+, nt=[ATGAAAGAAA..ATTATTTTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=320381, stop=320560, strand=-, nt=[ATGTCATTAG..TTTAAAATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=320639, stop=320950, strand=+, nt=[ATGAGTAAAA..CACAAAATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=320937, stop=321269, strand=+, nt=[ATGCCACAAA..TAAAAAATAG]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=321325, stop=323490, strand=+, nt=[ATGGAAAAAG..TCAATTATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=323547, stop=325568, strand=+, nt=[ATGATAAATA..TCATGAGTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=325561, stop=325944, strand=+, nt=[ATGAGTAAAA..GATAGGCTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=325948, stop=326427, strand=+, nt=[ATGAATGAAA..TGGTGAATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=326429, stop=326836, strand=+, nt=[ATGGCTGACA..TATGTCTTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=326838, stop=327737, strand=+, nt=[ATGGGTAAAT..TAAGGATTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=327741, stop=328523, strand=+, nt=[ATGTCAACAA..GTATTTATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=328587, stop=329966, strand=+, nt=[ATGAGTAATA..CAAAAAATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=329978, stop=331846, strand=+, nt=[ATGGTTGAAG..AAACAAATAG]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=331854, stop=333194, strand=+, nt=[ATGAATTTAA..TAAAGGATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=333197, stop=333898, strand=+, nt=[ATGGGAATTA..CAAAAGTTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=333882, stop=334676, strand=+, nt=[ATGAGTTCAA..AATTAAATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=334860, stop=335939, strand=+, nt=[ATGAAAATAG..TGTAGGTTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=335943, stop=336350, strand=-, nt=[ATGGGATTAT..AAAAATGTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=336401, stop=336973, strand=+, nt=[ATGAATAAAT..AATATATTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=337013, stop=337225, strand=+, nt=[ATGAATCGCG..TCCTTGATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=337297, stop=338424, strand=+, nt=[ATGATAGACA..AAGACGTTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=338424, stop=338690, strand=+, nt=[ATGAAACATA..TTGGATGTAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=338696, stop=339490, strand=+, nt=[ATGAAATGAT..CTATTTATAA]
+08:30:47.236 - INFO - CDS - seq=contig_1, start=339511, stop=341367, strand=+, nt=[ATGGCTAAAA..AAAGGAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=341369, stop=341710, strand=+, nt=[ATGGGTTCAT..TGACCAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=341710, stop=342420, strand=+, nt=[ATGTTTCGTT..AGGTTATTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=342460, stop=342843, strand=+, nt=[ATGGAAAATG..CCAAAAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=342897, stop=343286, strand=-, nt=[ATGAATAAAC..TCAAATTTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=343421, stop=344344, strand=+, nt=[ATGAAAAACA..TTATGGATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=344337, stop=345155, strand=+, nt=[ATGGATAACA..AATTCTTTAG]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=345142, stop=345741, strand=-, nt=[ATGGGAAAAA..AGAATTTTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=345807, stop=346421, strand=+, nt=[ATGAAGATTA..ACAAAAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=346566, stop=348536, strand=+, nt=[ATGGCGGAAA..AAATGGCTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=348529, stop=351138, strand=+, nt=[ATGGCTAAAA..TTTAGATTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=351179, stop=353329, strand=+, nt=[ATGAAGTTTG..GTTGCTATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=353364, stop=354515, strand=+, nt=[ATGATACTTA..TGAAAAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=354505, stop=355056, strand=+, nt=[TTGAAAAATA..TAAAGAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=355126, stop=355866, strand=+, nt=[ATGAATAGTT..TAACAATTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=355885, stop=356049, strand=+, nt=[ATGGCAAATA..ACATAAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=356149, stop=356835, strand=+, nt=[ATGGCAAAAA..AGAAAAATAG]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=356904, stop=357455, strand=+, nt=[ATGTACTTTT..TGAACAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=357445, stop=358377, strand=+, nt=[ATGAACAATA..GTATAATTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=358399, stop=358992, strand=+, nt=[ATGAAAAAAA..AATATTATAG]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=359054, stop=359218, strand=+, nt=[ATGGATAAAA..TAAAGATTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=359256, stop=361199, strand=+, nt=[ATGGATTTAA..GAATAAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=361199, stop=361414, strand=+, nt=[ATGGAATGAT..AGCAAAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=361422, stop=362225, strand=-, nt=[ATGTATTTAG..GGATAAGTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=362286, stop=362591, strand=+, nt=[ATGATAAAAA..ACAAGAATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=362578, stop=362988, strand=+, nt=[ATGGACAAGA..AGAATGATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=362982, stop=363860, strand=+, nt=[ATGATAAAAA..TAAGTTATAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=363881, stop=364897, strand=+, nt=[ATGAAAAAAT..TTTTTATTAA]
+08:30:47.237 - INFO - CDS - seq=contig_1, start=364916, stop=365305, strand=+, nt=[ATGGCCAGTA..AAAAAAATAG]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=365330, stop=366460, strand=+, nt=[ATGAACAATG..GGTAGGTTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=366464, stop=366664, strand=+, nt=[ATGGAAAAAG..TAATGGATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=366657, stop=367910, strand=+, nt=[ATGGATAATA..CAAAAAATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=367910, stop=368509, strand=+, nt=[ATGATAGGCA..TAAATATTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=368602, stop=369486, strand=+, nt=[ATGCCTTTTT..GAAAAAATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=369493, stop=370047, strand=-, nt=[GTGATAGTTG..GGAAAATTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=370047, stop=370328, strand=-, nt=[TTGTCGTACT..GGATAAATAG]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=370331, stop=371659, strand=-, nt=[ATGAAAGATA..GGAAAATTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=371661, stop=372596, strand=-, nt=[ATGTTTCTCG..GGAGTGCTAG]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=372709, stop=372951, strand=+, nt=[ATGGCAAACA..AATGAAATAG]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=372962, stop=374221, strand=-, nt=[ATGAAAAAGA..AAAAAAATAG]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=374175, stop=374741, strand=-, nt=[GTGAAGTTTA..TATTTGTTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=374781, stop=377423, strand=-, nt=[ATGGAATCAA..CAAAAAATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=377824, stop=379308, strand=+, nt=[ATGGAAAACA..TATACAATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=379378, stop=379896, strand=-, nt=[ATGAAAGCCC..AAAAAATTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=379957, stop=382686, strand=-, nt=[ATGGATTTAT..AGAAGATTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=382722, stop=383306, strand=-, nt=[ATGATCAAGC..TAGTAAATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=383290, stop=383835, strand=-, nt=[ATGAATAATT..AGCAAGCTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=383828, stop=384388, strand=-, nt=[ATGAATTCAA..TTATGAATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=384445, stop=385134, strand=+, nt=[ATGGTTAATC..AATTATTTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=385176, stop=386573, strand=+, nt=[ATGAAAAATT..AAATTTTTAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=386628, stop=388460, strand=-, nt=[ATGTATAAAG..TAATTGATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=388470, stop=389411, strand=-, nt=[ATGAAAGTTG..AATAGAATAA]
+08:30:47.238 - INFO - CDS - seq=contig_1, start=389395, stop=389517, strand=-, nt=[ATGTATATAA..TTGCAATTAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=389527, stop=390528, strand=-, nt=[ATGGCAGAAA..TAAATTTTAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=390531, stop=391646, strand=-, nt=[ATGGAAACAA..GGGACATTAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=391662, stop=392657, strand=-, nt=[ATGTTAATTT..AATTATGTAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=392659, stop=394017, strand=-, nt=[ATGAAAACTA..CAAAGAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=394045, stop=395241, strand=-, nt=[ATGATTTTAA..ACCAAAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=395241, stop=396206, strand=-, nt=[ATGTACAACT..GGAAAAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=396327, stop=398048, strand=-, nt=[ATGAAAAGAA..TAAAAAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=398066, stop=399307, strand=-, nt=[ATGACATTTC..TTTAAAATAG]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=399377, stop=400711, strand=-, nt=[ATGACATTCA..CAATGCATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=400880, stop=402760, strand=-, nt=[ATGAAAAATT..TGATAAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=402783, stop=403709, strand=-, nt=[ATGGAAAAAA..TGAAAAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=403792, stop=404109, strand=-, nt=[ATGAATAAAG..AAAAAAATAG]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=404176, stop=405075, strand=+, nt=[ATGGAACTAG..CGACAATTAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=405072, stop=405611, strand=-, nt=[ATGTTTTTAA..ACTTTATTAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=405700, stop=406110, strand=-, nt=[ATGACAAAAA..AAAAAAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=406273, stop=406539, strand=-, nt=[ATGAAAAAAT..GTCACAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=406612, stop=407277, strand=-, nt=[ATGGCAAATA..ATTTTTTTAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=407310, stop=409112, strand=-, nt=[ATGACAAAAG..ATCTAAATAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=409216, stop=410100, strand=-, nt=[GTGATTAGAT..TAACAAATAG]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=410100, stop=411506, strand=-, nt=[ATGAGAAAAA..AGAACTTTAG]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=411526, stop=412293, strand=-, nt=[ATGAAAAATA..TATATTTTAA]
+08:30:47.239 - INFO - CDS - seq=contig_1, start=412535, stop=412864, strand=-, nt=[ATGGAAAGAA..TAAAAAATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=413060, stop=413665, strand=-, nt=[ATGGAATTAA..TTTAAAATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=413667, stop=415442, strand=-, nt=[ATGGAAGAAA..TAAAAATTAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=415559, stop=416794, strand=-, nt=[ATGAACATAA..AAAATATTAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=416805, stop=417302, strand=-, nt=[ATGTTTGCTA..AACAAAATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=417317, stop=418627, strand=-, nt=[ATGAATATAG..AAGAAAGTAG]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=418699, stop=419175, strand=-, nt=[ATGATGAAGT..ATCTTTATAG]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=419176, stop=420090, strand=-, nt=[ATGAAAAAAC..TAAAAAATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=420078, stop=421007, strand=-, nt=[ATGACACAAG..AAAAAACTAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=420991, stop=421773, strand=-, nt=[ATGAATAAAA..AAGAAATTAG]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=421766, stop=424471, strand=-, nt=[ATGGAAAAGA..AAATGAATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=424452, stop=424829, strand=-, nt=[ATGGAAAAAA..AATCTTATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=425263, stop=425898, strand=-, nt=[ATGAAAAAAT..CTTGAATTAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=425898, stop=428576, strand=-, nt=[ATGTTTAAAA..ATGATTATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=428756, stop=431188, strand=-, nt=[ATGTTTAATT..TAATCAATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=431210, stop=431737, strand=-, nt=[ATGACTAAAA..GTATAATTAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=431730, stop=435623, strand=-, nt=[GTGTTAATTA..AAATGACTAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=435654, stop=436211, strand=-, nt=[ATGTTAAGTA..AAATAGTTAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=436219, stop=437754, strand=-, nt=[ATGATAGCGA..TATGTCATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=437850, stop=439223, strand=-, nt=[ATGAATTTTA..TGATAAATAG]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=439370, stop=440260, strand=+, nt=[ATGTTTTTGT..AGTTCAATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=440299, stop=440814, strand=-, nt=[ATGAGAAAAA..ATTAAAATAA]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=440872, stop=441666, strand=+, nt=[ATGAAATTTA..ACCCTTCTAG]
+08:30:47.240 - INFO - CDS - seq=contig_1, start=441663, stop=442397, strand=-, nt=[ATGAGAACTT..TAAATTCTAG]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=442600, stop=442866, strand=-, nt=[ATGGTAACTA..TAGAAAATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=442981, stop=445359, strand=-, nt=[ATGAAAAAAA..CACAAATTAG]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=445473, stop=446768, strand=-, nt=[ATGAATTTTA..CAATGGATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=446808, stop=448331, strand=-, nt=[ATGGTTGACG..GAATAAATAG]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=448390, stop=448692, strand=-, nt=[ATGTATTTAG..AAGAAAATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=448706, stop=449260, strand=-, nt=[ATGTCTGCAA..AAGAGCATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=449286, stop=450227, strand=-, nt=[ATGTTTAATA..TAATGTATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=450220, stop=452268, strand=-, nt=[ATGAAAAATT..TAATGTTTAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=452301, stop=452900, strand=-, nt=[ATGGGAATGA..TAGAAAATAG]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=452935, stop=454038, strand=-, nt=[ATGAAAAAAG..AATAAAATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=454071, stop=455201, strand=-, nt=[ATGTCTGACA..TGTTTTTTAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=455221, stop=457020, strand=-, nt=[ATGGGAAAAG..CAAAAATTAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=457032, stop=457652, strand=-, nt=[ATGGCAAAAA..TGCAAGATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=457654, stop=458682, strand=-, nt=[ATGTTAACCG..TGGGGTGTAG]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=458732, stop=460876, strand=-, nt=[ATGGATTTTA..TTTAAATTAG]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=460985, stop=462355, strand=-, nt=[ATGAAAATAC..AAGAAATTAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=462389, stop=462640, strand=-, nt=[ATGTTACTGG..TGCAAACTAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=462755, stop=463252, strand=-, nt=[ATGACAGAAA..TTGGGAATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=463254, stop=463991, strand=-, nt=[ATGGAAAAAA..TAAGGAGTAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=464011, stop=465297, strand=-, nt=[ATGAAATTTG..GATGGATTAG]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=465299, stop=466054, strand=-, nt=[ATGGCAAAAA..AACAAACTAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=466107, stop=467069, strand=-, nt=[ATGAATTATT..TAAAAAATAA]
+08:30:47.241 - INFO - CDS - seq=contig_1, start=467071, stop=467796, strand=-, nt=[ATGAAAATTT..AGGAAAATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=467796, stop=468290, strand=-, nt=[ATGAATAAAT..ATTAATATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=468296, stop=468721, strand=-, nt=[ATGGTTAAAC..TAAAAAATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=469028, stop=470626, strand=-, nt=[ATGAGAAAAG..AAAGAAGTAG]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=470708, stop=471529, strand=-, nt=[ATGAAAGAAT..TAAAAAATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=471531, stop=472235, strand=-, nt=[ATGGAAAAGG..GTTAATATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=472271, stop=474163, strand=-, nt=[ATGAATAATG..AATGAGCTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=474156, stop=474632, strand=-, nt=[ATGAAGGAAA..TTATGAATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=474695, stop=479308, strand=-, nt=[ATGTTTCTAA..GGGAAATTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=479318, stop=481603, strand=-, nt=[ATGAAAAAAT..TATTTACTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=481841, stop=482395, strand=-, nt=[ATGAATAAAA..TATTTCTTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=482395, stop=482703, strand=-, nt=[ATGAATAATG..TTATAATTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=482791, stop=483054, strand=+, nt=[ATGGAAACTG..AATAAAATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=483091, stop=483723, strand=-, nt=[ATGAATAAAG..TATTGAATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=483857, stop=485533, strand=-, nt=[ATGTTTAATA..AGAAATTTAG]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=485526, stop=486143, strand=-, nt=[ATGAAATTGT..AAATGTTTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=486143, stop=487132, strand=-, nt=[ATGGAAATAA..TGAGTGATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=487231, stop=487665, strand=+, nt=[ATGAAAAATG..TGAAGAATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=487679, stop=488368, strand=-, nt=[ATGAAAAAAA..TAATGACTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=488384, stop=489733, strand=-, nt=[ATGGGATTTG..TAAATTTTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=489779, stop=491323, strand=-, nt=[ATGAGACCAA..AGAGATATAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=491393, stop=492421, strand=-, nt=[ATGAACTTAG..AGAAAAGTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=492445, stop=492909, strand=-, nt=[ATGGAACAAT..AAATTTCTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=493298, stop=493639, strand=-, nt=[ATGGGTAAAT..AGAAGACTAA]
+08:30:47.242 - INFO - CDS - seq=contig_1, start=493720, stop=494202, strand=+, nt=[ATGATAATAA..AGTCTGCTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=494191, stop=494736, strand=-, nt=[ATGATTAAAT..AGCAGACTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=494805, stop=495080, strand=-, nt=[ATGACAAAAA..TGCAAAATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=495127, stop=496113, strand=-, nt=[ATGGATATTA..ATTTTTTTAG]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=496116, stop=497426, strand=-, nt=[ATGAGTAAGA..AAGGACTTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=497429, stop=498091, strand=-, nt=[ATGAATAAGA..AGGTGAATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=498101, stop=498772, strand=-, nt=[ATGTCGCAAC..TTTAAAATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=498830, stop=499627, strand=-, nt=[ATGATTGAAG..TGCTTACTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=499697, stop=500314, strand=-, nt=[ATGATTTTTT..ATATCTTTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=500373, stop=500948, strand=+, nt=[ATGGCAAAAA..TAAAGCCTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=500955, stop=501740, strand=-, nt=[ATGGGAATAC..AATGATATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=501772, stop=502485, strand=-, nt=[ATGGGAAGAG..AAAAGAATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=502489, stop=503091, strand=-, nt=[ATGAAGATAG..AAAGGAATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=503092, stop=503697, strand=-, nt=[ATGAGAATAG..GACTAAGTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=503688, stop=504446, strand=-, nt=[ATGGAAGATA..ATGAGAATAG]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=504449, stop=505024, strand=-, nt=[ATGGATATAA..AGATAAATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=505040, stop=505777, strand=-, nt=[ATGAATAAAT..TATAAAATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=505780, stop=506610, strand=-, nt=[ATGACGTTAA..GAAAAAATAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=506617, stop=507459, strand=-, nt=[ATGATAAAAA..GGCAAAGTAG]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=507472, stop=509166, strand=-, nt=[ATGGCAAATT..TGAATTCTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=509177, stop=510835, strand=-, nt=[ATGGCATTAA..TAAAATGTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=510912, stop=511862, strand=-, nt=[ATGCAAAAAG..AGCAATTTAA]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=511887, stop=512438, strand=-, nt=[ATGAATTACG..TTCATTATAG]
+08:30:47.243 - INFO - CDS - seq=contig_1, start=512452, stop=513165, strand=-, nt=[ATGAATTATA..AATAGAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=513194, stop=513724, strand=-, nt=[ATGCAAAAAA..TATAAAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=513909, stop=514490, strand=-, nt=[ATGACAAACA..AGAAAAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=514494, stop=515375, strand=-, nt=[ATGGGAGCAA..AAAAGGTTAG]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=515377, stop=516258, strand=-, nt=[ATGCCAAAAT..AGATAAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=516423, stop=516905, strand=-, nt=[ATGATTATTT..ACTAGATTAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=516961, stop=517827, strand=-, nt=[ATGAAACAAT..TGCTGTTTAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=518080, stop=518364, strand=-, nt=[ATGAAATTTT..ACAAAAATAG]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=518364, stop=518672, strand=-, nt=[ATGATAAAAG..GGAGATATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=518685, stop=519278, strand=-, nt=[ATGTTTGCAA..TAAAAAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=519410, stop=519697, strand=-, nt=[ATGACAAAAC..AATTATTTAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=519726, stop=520616, strand=-, nt=[ATGTTACAAG..TTCTAAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=520650, stop=521123, strand=-, nt=[ATGAATGCAA..TATAAAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=521163, stop=522647, strand=-, nt=[ATGTTTGGAG..AAAAATTTAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=522648, stop=524384, strand=-, nt=[ATGATTAATC..GAATAAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=524393, stop=527326, strand=-, nt=[ATGAAAAACA..TGCAGAGTAG]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=527344, stop=529986, strand=-, nt=[ATGAAAAATT..CTTTGAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=530068, stop=531771, strand=-, nt=[ATGGCAGATA..AAAAAGATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=531923, stop=532477, strand=+, nt=[ATGATTAAGA..TTGCAAATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=532560, stop=532859, strand=+, nt=[ATGAATTTAA..TTTAATTTAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=532856, stop=533644, strand=-, nt=[ATGATTACAT..TCTTGATTAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=533716, stop=534708, strand=+, nt=[ATGAAAAAAA..TGGTTTATAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=534748, stop=535752, strand=-, nt=[ATGTTTAATT..AAGTATTTAA]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=535764, stop=536672, strand=-, nt=[ATGAACGCTA..AATGAATTAG]
+08:30:47.244 - INFO - CDS - seq=contig_1, start=536707, stop=537066, strand=-, nt=[ATGGCAAGAG..AGAAAAATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=537076, stop=537267, strand=-, nt=[ATGCCAAAGA..AATTCAATAG]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=537248, stop=537820, strand=-, nt=[ATGATCGAAA..TGAAAACTAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=537983, stop=539080, strand=-, nt=[ATGGAAAAGA..TTTAATTTAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=539088, stop=541187, strand=-, nt=[ATGGAAAAGT..ATTAATGTAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=541196, stop=543334, strand=-, nt=[ATGGAATTAG..TTTAACATAG]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=543334, stop=544158, strand=-, nt=[ATGAAAAAAT..TATTAATTAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=544171, stop=545115, strand=-, nt=[ATGTCAAAAT..TAATATATAG]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=545204, stop=545971, strand=-, nt=[GTGTTCACAA..AAATAAATAG]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=545989, stop=546294, strand=-, nt=[ATGAATTGGG..TAAAAAATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=546310, stop=548121, strand=-, nt=[GTGACTAGAA..AATGGTCTAG]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=548156, stop=550087, strand=-, nt=[ATGAAAATAT..AAAAAAATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=550301, stop=551734, strand=-, nt=[ATGAAAATAC..TAAATTATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=551827, stop=553293, strand=-, nt=[ATGAGAAAAA..CATTAAATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=553295, stop=554263, strand=-, nt=[ATGATTAAAA..GGGAAACTAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=554300, stop=554890, strand=-, nt=[ATGGAAAAAC..AAATAAATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=554892, stop=555320, strand=-, nt=[ATGAATAAAG..TAAAGGATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=555343, stop=557256, strand=-, nt=[ATGAAAAATA..AATTTGATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=557331, stop=558686, strand=-, nt=[ATGTCAAAAA..CAAAAAATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=558788, stop=559639, strand=-, nt=[ATGAAAAAGT..TGAATTATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=559726, stop=564609, strand=-, nt=[ATGAAAAAAT..AAGTGAGTAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=564729, stop=565139, strand=-, nt=[ATGAAAAAAA..ATTTAAATAA]
+08:30:47.245 - INFO - CDS - seq=contig_1, start=565355, stop=568372, strand=-, nt=[ATGAAAAAAT..TTTTATATAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=568883, stop=570703, strand=-, nt=[ATGAACAAAA..TATGAAATAG]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=570746, stop=571546, strand=-, nt=[ATGATAGAAC..AAAGAATTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=571557, stop=572474, strand=-, nt=[ATGAAAATAT..TTTTTCTTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=572491, stop=573156, strand=-, nt=[ATGAGTAAAC..ATTAAAATAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=573149, stop=574954, strand=-, nt=[ATGGAAAAAA..CGATGAGTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=575078, stop=576460, strand=-, nt=[ATGTTTAAAG..TTCACTTTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=576473, stop=577177, strand=-, nt=[ATGCTAGTAG..AAAAATTTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=577282, stop=578442, strand=-, nt=[ATGGAAAAAG..AATAAGATAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=578600, stop=579361, strand=-, nt=[ATGATTAACT..ATACTTATAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=579354, stop=580085, strand=-, nt=[ATGAAAATTA..AAATGATTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=580159, stop=580680, strand=-, nt=[ATGAAAGGCA..TAATTCGTAG]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=580770, stop=583001, strand=-, nt=[ATGAACAAAA..TCAAAACTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=583137, stop=584363, strand=-, nt=[ATGAAAAAAC..TAAAGGTTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=584589, stop=586685, strand=-, nt=[ATGAAAAAAC..TAAAGGTTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=586868, stop=587734, strand=-, nt=[ATGAAAATAG..AAAATTATAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=587764, stop=588609, strand=-, nt=[ATGATGAAAA..TAAAAATTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=588640, stop=590778, strand=-, nt=[ATGGAAAAGT..TTTAATTTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=590787, stop=593459, strand=-, nt=[ATGAAAAAAT..TGAATTTTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=593622, stop=595673, strand=-, nt=[ATGGAATTAA..TATTGCTTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=595677, stop=596621, strand=-, nt=[ATGATATATA..GGAGGTATAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=596621, stop=597325, strand=-, nt=[ATGATAAAAG..GGTTAATTAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=597432, stop=597659, strand=+, nt=[ATGGAATTAT..AAAAAAATAA]
+08:30:47.246 - INFO - CDS - seq=contig_1, start=597696, stop=599129, strand=-, nt=[ATGGGTAAAG..AGCTTATTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=599138, stop=599686, strand=-, nt=[ATGCACGAAA..TATTATTTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=599889, stop=600338, strand=-, nt=[ATGTTTTATT..TCTAAATTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=600339, stop=602609, strand=-, nt=[ATGTGAAAAT..GGAGTGATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=602686, stop=603261, strand=-, nt=[ATGAATAACC..TTTTATATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=603254, stop=603652, strand=-, nt=[ATGAATTATT..AAATGAATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=603707, stop=604852, strand=-, nt=[ATGATAAAAA..GATAGTTTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=604933, stop=605640, strand=+, nt=[ATGATAGAAA..CGAAATTTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=605640, stop=606557, strand=+, nt=[ATGAAAAATA..TAACATTTAG]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=606565, stop=607503, strand=+, nt=[ATGGTATTTA..CAATTTATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=607543, stop=609123, strand=-, nt=[ATGTCAAAAC..AAAAAAATAG]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=609127, stop=609945, strand=-, nt=[ATGAAATTCA..AGGAGAATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=609947, stop=610690, strand=-, nt=[ATGAGAAAAA..TAATTTATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=610738, stop=611871, strand=-, nt=[ATGATAAATA..TTTTTCATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=611887, stop=612612, strand=-, nt=[ATGAAAGTAA..CAAAAAATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=612621, stop=613337, strand=-, nt=[ATGTTTATTA..AATTTATTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=613382, stop=614221, strand=+, nt=[ATGGCTAAAA..AACAGCATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=614282, stop=614677, strand=-, nt=[ATGGCAAATA..AAAACGTTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=614677, stop=615123, strand=-, nt=[ATGAAACAAA..AGATAATTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=615222, stop=619430, strand=-, nt=[ATGAAAACTA..CGCAAGTTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=619449, stop=620186, strand=-, nt=[ATGAAGAGTT..ATTTTATTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=620189, stop=621070, strand=-, nt=[ATGAGAATGG..ACCATTATAG]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=621082, stop=622152, strand=-, nt=[ATGTCAAATA..AAAAAAATAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=622137, stop=623345, strand=-, nt=[ATGGCTGAAG..AATAAATTAA]
+08:30:47.247 - INFO - CDS - seq=contig_1, start=623427, stop=624380, strand=-, nt=[ATGAACAAAA..TGTTAACTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=624446, stop=624805, strand=-, nt=[ATGTCATACA..ATTAGTTTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=624819, stop=625772, strand=-, nt=[ATGAAACAAT..AACAATTTAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=625774, stop=626163, strand=-, nt=[ATGGCTAAAC..AAGAGGTTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=626176, stop=626541, strand=-, nt=[ATGGCTCGTA..GAAAAAATAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=626554, stop=626667, strand=-, nt=[ATGAAAGTAA..TCAAGGATAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=626694, stop=626912, strand=-, nt=[ATGGCAAAAG..ATTTAAGTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=626912, stop=627679, strand=-, nt=[ATGAACATTA..GGAGGATTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=627679, stop=628314, strand=-, nt=[ATGAATGTTA..AAACAAGTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=628325, stop=629737, strand=-, nt=[GTGGCTAAAA..CATATGATAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=629738, stop=630175, strand=-, nt=[ATGAAATTAC..GGTGATTTAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=630189, stop=630995, strand=-, nt=[ATGTCAGAAG..AAAAAAGTAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=631013, stop=631363, strand=-, nt=[ATGAAATACA..TCAATTCTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=631386, stop=631928, strand=-, nt=[ATGTCACGTA..CGGTAAATAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=631944, stop=632333, strand=-, nt=[ATGACAACAG..TGTTTGATAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=632348, stop=632533, strand=-, nt=[ATGGCAAAAA..ATCATGATAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=632542, stop=633093, strand=-, nt=[ATGAATAAAG..CACTAAGTAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=633105, stop=633422, strand=-, nt=[ATGAATAAAA..TATTAAATAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=633434, stop=633802, strand=-, nt=[ATGATACAAA..AGTAATTTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=633814, stop=634074, strand=-, nt=[ATGGAAAGAA..AATTATTTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=634090, stop=635139, strand=-, nt=[ATGTCTAAAA..CAAAAAATAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=635132, stop=635551, strand=-, nt=[ATGTTAATGC..AAATGTCTAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=635553, stop=636314, strand=-, nt=[ATGGGACAAA..GGTCAAATAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=636317, stop=636670, strand=-, nt=[ATGGAAGCAA..GGTTAAATAA]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=636693, stop=636962, strand=-, nt=[ATGTCAAGAT..AAAGAAATAG]
+08:30:47.248 - INFO - CDS - seq=contig_1, start=636971, stop=637813, strand=-, nt=[ATGCCAATCA..AGGTAAATAG]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=637852, stop=638136, strand=-, nt=[ATGCATTTAT..CGATTTATAG]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=638136, stop=638762, strand=-, nt=[ATGAAATACA..ATACGCATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=638776, stop=639495, strand=-, nt=[ATGAAAGGAA..ACAAGAGTAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=639551, stop=639859, strand=-, nt=[ATGGCTCAAC..TAAATTATAG]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=640036, stop=642714, strand=-, nt=[ATGAAAAAAT..AATATTGTAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=642813, stop=643688, strand=+, nt=[ATGAAATTAA..AGAATTATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=643722, stop=645065, strand=-, nt=[ATGATAACAA..AAATAAATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=645195, stop=645866, strand=+, nt=[ATGATTGCTT..TGAAATTTAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=645863, stop=646525, strand=-, nt=[ATGCTATTTA..ATGAGCTTAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=646600, stop=648108, strand=-, nt=[ATGGATCATG..AATTCAATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=648334, stop=649521, strand=-, nt=[ATGGCAAAAG..TGTTAAATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=649613, stop=651688, strand=-, nt=[ATGGCAAGAG..AAATTCTTAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=651702, stop=652169, strand=-, nt=[ATGCGTAAAG..CCGTTGATAG]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=652198, stop=652608, strand=-, nt=[ATGCCAACAA..ACCTAAATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=652719, stop=652907, strand=-, nt=[ATGGATAAAG..ACACATGTAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=652920, stop=653921, strand=-, nt=[ATGAAAAAAT..TAATAATTAG]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=653961, stop=654464, strand=-, nt=[ATGAACAAAA..TGTAAGATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=654465, stop=655886, strand=-, nt=[ATGGAAAAAA..GTATTTGTAG]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=655935, stop=656720, strand=-, nt=[ATGAAAATTG..TTTGACCTAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=656721, stop=657803, strand=-, nt=[ATGGATAAAA..TAATATTTAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=657819, stop=658424, strand=-, nt=[ATGTCAATGC..ACCCAAATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=658426, stop=659370, strand=-, nt=[ATGGCTAAAA..GGGTCAATAA]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=659380, stop=661221, strand=-, nt=[ATGAGTTATA..AATTATATAG]
+08:30:47.249 - INFO - CDS - seq=contig_1, start=661303, stop=661728, strand=-, nt=[ATGCCAAAAG..AAAAAAATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=661808, stop=662734, strand=-, nt=[ATGTCAAAAA..AATATTTTAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=662753, stop=664258, strand=-, nt=[ATGATTAAAA..CATTGCATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=664288, stop=665283, strand=-, nt=[ATGATTAATT..AGGTAAATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=665302, stop=666480, strand=-, nt=[ATGAATAAAA..AAATATATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=666686, stop=666859, strand=-, nt=[ATGCTTATAG..CGAAAAATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=666874, stop=667767, strand=-, nt=[ATGGCAAAAA..AGCAAAATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=667820, stop=669424, strand=-, nt=[ATGAAAAAAA..TTTAAATTAG]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=669462, stop=669839, strand=-, nt=[ATGAATGAAT..TGAATATTAG]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=669862, stop=671049, strand=-, nt=[ATGGAAAAGT..TATAAAATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=671050, stop=672501, strand=-, nt=[ATGAAAAATA..AGGAGTATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=672573, stop=673487, strand=-, nt=[ATGAAAAGAT..AAAAAGATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=673496, stop=674593, strand=-, nt=[ATGGGATTAA..TAATAAATAG]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=674600, stop=675478, strand=-, nt=[ATGGCAGCAA..AGATGAGTAG]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=675465, stop=676232, strand=-, nt=[ATGTCTAAAA..CAGCAAATAG]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=676285, stop=676989, strand=-, nt=[ATGAATGAAA..AGGTTCTTAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=677042, stop=677995, strand=-, nt=[ATGAATATGT..AAAAAGATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=677997, stop=680111, strand=-, nt=[ATGAATAATA..AGGTTTTTAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=680104, stop=681627, strand=-, nt=[ATGGAACATG..TTATGAATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=681629, stop=682978, strand=-, nt=[ATGAAAAAAT..GAATAATTAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=683249, stop=685117, strand=-, nt=[ATGAATTGTG..CAAAAAATAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=685128, stop=686648, strand=-, nt=[ATGTCTAAAA..AATTAAGTAA]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=686663, stop=687952, strand=-, nt=[ATGTTAGATA..AGTATTTTAG]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=687960, stop=689240, strand=-, nt=[ATGAAAACAA..AATTTACTAG]
+08:30:47.250 - INFO - CDS - seq=contig_1, start=689283, stop=689843, strand=-, nt=[ATGAAATTAA..TTTTAATTAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=689843, stop=690892, strand=-, nt=[ATGATTAAGA..GGTAAAATAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=690963, stop=692492, strand=+, nt=[ATGGGACTAG..TAAAAACTAG]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=692489, stop=693250, strand=-, nt=[ATGAAAGCTA..AAAACTCTAG]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=693240, stop=693764, strand=-, nt=[ATGGGAATAA..TGAAAGCTAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=693818, stop=694873, strand=+, nt=[ATGGGTAAAA..TAAATTATAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=695055, stop=696098, strand=+, nt=[ATGATGATGC..TAATTCATAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=696121, stop=697182, strand=+, nt=[ATGAAATTTG..ATACTTATAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=697240, stop=698040, strand=-, nt=[ATGAATGGTA..TTTAAAATAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=698053, stop=699414, strand=-, nt=[ATGAAAAATA..AGGAAAATAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=699437, stop=700639, strand=-, nt=[ATGTATAAGA..AAATATTTAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=700632, stop=700976, strand=-, nt=[ATGAAAAATA..AGATGTATAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=700992, stop=701126, strand=-, nt=[ATGAAAAGAA..TTCTGCTTAA]
+08:30:47.251 - INFO - CDS - seq=contig_1, start=3, stop=1340, strand=+, nt=[AACGCTGATA..GAAAAGTTAA]
+08:30:47.251 - INFO - CDS - predicted=640
+08:30:47.328 - INFO - ORF - discarded=0
+08:30:47.456 - INFO - UPS - looked-up=601
+08:30:47.552 - INFO - IPS - looked-up=601
+08:30:47.553 - INFO - ORF - write internal aa seqs: # seqs=39, path=/tmp/tmpp8tcjq5o/cds.psc.faa
+08:34:40.616 - INFO - PSC - found: PSC=24, PSCC=3
+08:34:40.761 - INFO - PSC - looked-up=628
+08:34:40.910 - INFO - PSCC - looked-up=621
+08:34:40.913 - INFO - ORF - write internal aa seqs: # seqs=640, path=/tmp/tmpp8tcjq5o/cds.expert.faa
+08:34:43.206 - INFO - EXPERT-AMRFINDER - found=0
+08:34:45.054 - INFO - EXPERT_AA_SEQ - found=0
+08:34:45.055 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=12234, stop=12929, strand=+
+08:34:45.055 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=tilS
+08:34:45.055 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ftsH
+08:34:45.055 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=hslO
+08:34:45.056 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=asnA
+08:34:45.056 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=24121, stop=25146, strand=+
+08:34:45.056 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rlmB
+08:34:45.056 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=luxR
+08:34:45.056 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=secE
+08:34:45.056 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=nusG
+08:34:45.056 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=glpK
+08:34:45.057 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=46474, stop=46869, strand=+
+08:34:45.057 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=secA
+08:34:45.057 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=uvrB
+08:34:45.057 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=uvrA
+08:34:45.058 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=whiA
+08:34:45.058 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=secG
+08:34:45.058 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=smpB
+08:34:45.058 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=73009, stop=73284, strand=+
+08:34:45.058 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=nrnA
+08:34:45.058 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=85595, stop=85849, strand=+
+08:34:45.058 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=85830, stop=86435, strand=+
+08:34:45.058 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=88508, stop=89410, strand=+
+08:34:45.059 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=94021, stop=96963, strand=+
+08:34:45.059 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=trmB
+08:34:45.059 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=107723, stop=108166, strand=-
+08:34:45.059 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=tsaD
+08:34:45.059 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=109889, stop=110662, strand=+
+08:34:45.060 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rluA
+08:34:45.060 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=122622, stop=124559, strand=+
+08:34:45.060 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=124584, stop=126293, strand=+
+08:34:45.060 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ligA
+08:34:45.060 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=gatC
+08:34:45.060 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=gatB
+08:34:45.060 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=trkA
+08:34:45.060 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=trkG
+08:34:45.060 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=136694, stop=136816, strand=+
+08:34:45.061 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=149135, stop=150415, strand=+
+08:34:45.061 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=152252, stop=153388, strand=+
+08:34:45.061 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=153381, stop=154121, strand=+
+08:34:45.061 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=degV
+08:34:45.061 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=degV
+08:34:45.061 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ytpR
+08:34:45.061 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=158458, stop=159069, strand=+
+08:34:45.061 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=159470, stop=159952, strand=+
+08:34:45.061 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=167035, stop=169758, strand=+
+08:34:45.061 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ezrA
+08:34:45.061 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=thiI
+08:34:45.061 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=173571, stop=173897, strand=+
+08:34:45.062 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=dnaD
+08:34:45.062 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=184797, stop=185771, strand=+
+08:34:45.062 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=185941, stop=186438, strand=+
+08:34:45.062 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=186605, stop=186949, strand=+
+08:34:45.062 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=190284, stop=191201, strand=+
+08:34:45.062 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=191243, stop=191398, strand=-
+08:34:45.062 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rsmD
+08:34:45.062 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=nusB
+08:34:45.062 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=201175, stop=201504, strand=+
+08:34:45.063 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=plsX
+08:34:45.063 - INFO - ANNOTATION - fix product: revise DUF. new=DUF1904 domain-containing protein, old=DUF1904 family protein
+08:34:45.063 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=pstA
+08:34:45.063 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=pstB
+08:34:45.063 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=phoU
+08:34:45.063 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ftsY
+08:34:45.063 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ylxM
+08:34:45.063 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=cutC
+08:34:45.064 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=235444, stop=235731, strand=+
+08:34:45.064 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=235798, stop=236034, strand=+
+08:34:45.064 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=238850, stop=239938, strand=+
+08:34:45.064 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=248620, stop=249132, strand=+
+08:34:45.064 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=249370, stop=250014, strand=+
+08:34:45.064 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=mraZ
+08:34:45.064 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rsmH
+08:34:45.064 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=251471, stop=252754, strand=+
+08:34:45.064 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ftsZ
+08:34:45.064 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=sepF
+08:34:45.064 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=254352, stop=254786, strand=-
+08:34:45.064 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=254893, stop=255006, strand=+
+08:34:45.065 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=oppB
+08:34:45.065 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=oppC
+08:34:45.065 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=oppD
+08:34:45.065 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=261269, stop=263833, strand=+
+08:34:45.065 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=267104, stop=268069, strand=+
+08:34:45.065 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=275060, stop=275575, strand=-
+08:34:45.065 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=275647, stop=276474, strand=-
+08:34:45.065 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=279291, stop=279425, strand=+
+08:34:45.065 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=279613, stop=279837, strand=+
+08:34:45.065 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=288829, stop=289368, strand=+
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=293612, stop=294436, strand=-
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=294437, stop=294532, strand=-
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=296772, stop=297203, strand=+
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=297416, stop=297748, strand=+
+08:34:45.066 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=mupG
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=303606, stop=304256, strand=+
+08:34:45.066 - INFO - ANNOTATION - fix product: revise DUF. new=DUF262 domain-containing protein, old=DUF262 domain-containing HNH endonuclease family protein
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=308135, stop=308896, strand=-
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=310430, stop=311032, strand=+
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=311091, stop=311666, strand=+
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=311783, stop=312223, strand=+
+08:34:45.066 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rimP
+08:34:45.066 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=319536, stop=319724, strand=-
+08:34:45.067 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=319778, stop=320389, strand=+
+08:34:45.067 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=320381, stop=320560, strand=-
+08:34:45.067 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=325561, stop=325944, strand=+
+08:34:45.067 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ybeY
+08:34:45.067 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=recO
+08:34:45.067 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=335943, stop=336350, strand=-
+08:34:45.067 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=337013, stop=337225, strand=+
+08:34:45.067 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=nusA
+08:34:45.067 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rnpM
+08:34:45.068 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rbfA
+08:34:45.068 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=342460, stop=342843, strand=+
+08:34:45.068 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=342897, stop=343286, strand=-
+08:34:45.068 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=truB
+08:34:45.068 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=354505, stop=355056, strand=+
+08:34:45.068 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ruvB
+08:34:45.068 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=yneF
+08:34:45.068 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=362286, stop=362591, strand=+
+08:34:45.068 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=363881, stop=364897, strand=+
+08:34:45.069 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=nusB
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=368602, stop=369486, strand=+
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=370331, stop=371659, strand=-
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=372962, stop=374221, strand=-
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=374175, stop=374741, strand=-
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=379378, stop=379896, strand=-
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=383290, stop=383835, strand=-
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=383828, stop=384388, strand=-
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=384445, stop=385134, strand=+
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=385176, stop=386573, strand=+
+08:34:45.069 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=389395, stop=389517, strand=-
+08:34:45.070 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=405072, stop=405611, strand=-
+08:34:45.070 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=405700, stop=406110, strand=-
+08:34:45.070 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=406273, stop=406539, strand=-
+08:34:45.070 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=lemA
+08:34:45.070 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=411526, stop=412293, strand=-
+08:34:45.070 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=413060, stop=413665, strand=-
+08:34:45.070 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=417317, stop=418627, strand=-
+08:34:45.070 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=pnuC
+08:34:45.070 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rluA
+08:34:45.071 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=424452, stop=424829, strand=-
+08:34:45.071 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=425263, stop=425898, strand=-
+08:34:45.071 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=435654, stop=436211, strand=-
+08:34:45.071 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=440872, stop=441666, strand=+
+08:34:45.071 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=446808, stop=448331, strand=-
+08:34:45.071 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=448390, stop=448692, strand=-
+08:34:45.071 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=mnmA
+08:34:45.071 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=dnaJ
+08:34:45.072 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=dnaK
+08:34:45.072 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=grpE
+08:34:45.072 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=hrcA
+08:34:45.072 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=462755, stop=463252, strand=-
+08:34:45.072 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=obgE
+08:34:45.072 - INFO - ANNOTATION - fix product: revise DUF. new=DUF3196 domain-containing protein, old=DUF3196 family protein
+08:34:45.072 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=466107, stop=467069, strand=-
+08:34:45.072 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=trmD
+08:34:45.072 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=467796, stop=468290, strand=-
+08:34:45.072 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=469028, stop=470626, strand=-
+08:34:45.072 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=474156, stop=474632, strand=-
+08:34:45.072 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=479318, stop=481603, strand=-
+08:34:45.072 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=dprA
+08:34:45.073 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=482791, stop=483054, strand=+
+08:34:45.073 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=483091, stop=483723, strand=-
+08:34:45.073 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ylqF
+08:34:45.073 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=487231, stop=487665, strand=+
+08:34:45.073 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=recA
+08:34:45.073 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=recU
+08:34:45.073 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=dnaD
+08:34:45.073 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=498101, stop=498772, strand=-
+08:34:45.073 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=498830, stop=499627, strand=-
+08:34:45.073 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=499697, stop=500314, strand=-
+08:34:45.073 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=500955, stop=501740, strand=-
+08:34:45.074 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=scpB
+08:34:45.074 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=505780, stop=506610, strand=-
+08:34:45.074 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=507472, stop=509166, strand=-
+08:34:45.074 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=513194, stop=513724, strand=-
+08:34:45.074 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=513909, stop=514490, strand=-
+08:34:45.074 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=518685, stop=519278, strand=-
+08:34:45.074 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=greA
+08:34:45.074 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=uvrC
+08:34:45.075 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ftsK
+08:34:45.075 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=532856, stop=533644, strand=-
+08:34:45.075 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=mupG
+08:34:45.075 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=543334, stop=544158, strand=-
+08:34:45.075 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ruvX
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=558788, stop=559639, strand=-
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=559726, stop=564609, strand=-
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=564729, stop=565139, strand=-
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=565355, stop=568372, strand=-
+08:34:45.076 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=typA
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=570746, stop=571546, strand=-
+08:34:45.076 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=dnaJ
+08:34:45.076 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=sprT
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=578600, stop=579361, strand=-
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=584589, stop=586685, strand=-
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=597432, stop=597659, strand=+
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=599889, stop=600338, strand=-
+08:34:45.076 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=600339, stop=602609, strand=-
+08:34:45.077 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=tsaB
+08:34:45.077 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=tsaE
+08:34:45.077 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=603707, stop=604852, strand=-
+08:34:45.077 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=605640, stop=606557, strand=+
+08:34:45.077 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=606565, stop=607503, strand=+
+08:34:45.077 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=610738, stop=611871, strand=-
+08:34:45.077 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=612621, stop=613337, strand=-
+08:34:45.077 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=truA
+08:34:45.077 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=623427, stop=624380, strand=-
+08:34:45.078 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=secY
+08:34:45.078 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=630189, stop=630995, strand=-
+08:34:45.078 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=652719, stop=652907, strand=-
+08:34:45.078 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=652920, stop=653921, strand=-
+08:34:45.078 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=654465, stop=655886, strand=-
+08:34:45.079 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=hemK
+08:34:45.079 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=nrnA
+08:34:45.079 - INFO - ANNOTATION - marked as hypothetical: seq=contig_1, start=659380, stop=661221, strand=-
+08:34:45.079 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=yfcC
+08:34:45.079 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=ychF
+08:34:45.079 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rsmG
+08:34:45.079 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=mnmG
+08:34:45.080 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=rsmA
+08:34:45.080 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=tatD
+08:34:45.080 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=mnmE
+08:34:45.080 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=yidC
+08:34:45.080 - INFO - ANNOTATION - fix gene: extract symbol from protein name. symbol=dnaA
+08:34:45.080 - INFO - ORF - write internal aa seqs: # seqs=124, path=/tmp/tmpp8tcjq5o/cds.pseudo.candidates.faa
+08:37:59.116 - INFO - CDS - found: pseudogene-candidates=0
+08:37:59.116 - INFO - PSC - looked-up=0
+08:37:59.116 - INFO - PSCC - looked-up=0
+08:37:59.302 - INFO - CDS - pfam detected: seq=contig_1, start=565355, stop=568372, strand=-, pfam-id=PF04519.19, length=41, aa-start=717, aa-stop=757, aa-cov=0.0, hmm-cov=1.0, evalue=1.1e-08, bitscore=28.2, name=Bactofilin
+08:37:59.429 - INFO - CDS - pfam detected: seq=contig_1, start=440872, stop=441666, strand=+, pfam-id=PF01633.27, length=151, aa-start=68, aa-stop=205, aa-cov=0.5, hmm-cov=1.0, evalue=2.2e-09, bitscore=29.9, name=Choline_kinase
+08:37:59.540 - INFO - CDS - pfam detected: seq=contig_1, start=12234, stop=12929, strand=+, pfam-id=PF13177.12, length=120, aa-start=24, aa-stop=143, aa-cov=0.5, hmm-cov=1.0, evalue=1.1e-29, bitscore=96.4, name=DNA_pol3_delta2
+08:37:59.559 - INFO - CDS - pfam detected: seq=contig_1, start=565355, stop=568372, strand=-, pfam-id=PF07411.17, length=19, aa-start=303, aa-stop=321, aa-cov=0.0, hmm-cov=1.0, evalue=5.0e-08, bitscore=25.8, name=DUF1508
+08:37:59.593 - INFO - CDS - pfam detected: seq=contig_1, start=565355, stop=568372, strand=-, pfam-id=PF11929.14, length=40, aa-start=372, aa-stop=411, aa-cov=0.0, hmm-cov=1.0, evalue=9.4e-09, bitscore=28.2, name=DUF3447
+08:37:59.685 - INFO - CDS - pfam detected: seq=contig_1, start=565355, stop=568372, strand=-, pfam-id=PF22319.1, length=46, aa-start=793, aa-stop=838, aa-cov=0.0, hmm-cov=1.0, evalue=2.3e-11, bitscore=36.8, name=DUF6972
+08:37:59.931 - INFO - CDS - pfam detected: seq=contig_1, start=249370, stop=250014, strand=+, pfam-id=PF01541.30, length=66, aa-start=58, aa-stop=123, aa-cov=0.3, hmm-cov=0.7, evalue=4.3e-07, bitscore=23.2, name=GIY-YIG
+08:38:00.047 - INFO - CDS - pfam detected: seq=contig_1, start=411526, stop=412293, strand=-, pfam-id=PF01418.23, length=53, aa-start=24, aa-stop=76, aa-cov=0.2, hmm-cov=1.0, evalue=9.5e-11, bitscore=34.6, name=HTH_6
+08:38:00.107 - INFO - CDS - pfam detected: seq=contig_1, start=12234, stop=12929, strand=+, pfam-id=PF19995.5, length=85, aa-start=5, aa-stop=83, aa-cov=0.3, hmm-cov=1.0, evalue=1.5e-07, bitscore=24.9, name=iSTAND
+08:38:00.280 - INFO - CDS - pfam detected: seq=contig_1, start=532856, stop=533644, strand=-, pfam-id=PF20143.4, length=68, aa-start=120, aa-stop=187, aa-cov=0.3, hmm-cov=0.9, evalue=2.6e-12, bitscore=39.6, name=NAD_kinase_C
+08:38:00.477 - INFO - CDS - pfam detected: seq=contig_1, start=425263, stop=425898, strand=-, pfam-id=PF01048.26, length=186, aa-start=34, aa-stop=203, aa-cov=0.8, hmm-cov=1.0, evalue=1.2e-11, bitscore=37.3, name=PNP_UDP_1
+08:38:00.492 - INFO - CDS - pfam detected: seq=contig_1, start=467796, stop=468290, strand=-, pfam-id=PF24986.1, length=64, aa-start=98, aa-stop=160, aa-cov=0.4, hmm-cov=1.0, evalue=1.1e-11, bitscore=37.3, name=PRC_RimM
+08:38:00.564 - INFO - CDS - pfam detected: seq=contig_1, start=630189, stop=630995, strand=-, pfam-id=PF00333.26, length=64, aa-start=48, aa-stop=111, aa-cov=0.2, hmm-cov=1.0, evalue=1.3e-28, bitscore=91.9, name=Ribosomal_S5
+08:38:00.564 - INFO - CDS - pfam detected: seq=contig_1, start=630189, stop=630995, strand=-, pfam-id=PF03719.21, length=69, aa-start=123, aa-stop=191, aa-cov=0.3, hmm-cov=1.0, evalue=5.1e-31, bitscore=99.0, name=Ribosomal_S5_C
+08:38:00.569 - INFO - CDS - pfam detected: seq=contig_1, start=467796, stop=468290, strand=-, pfam-id=PF01782.24, length=83, aa-start=9, aa-stop=89, aa-cov=0.5, hmm-cov=1.0, evalue=1.8e-08, bitscore=27.6, name=RimM
+08:38:00.622 - INFO - CDS - pfam detected: seq=contig_1, start=261269, stop=263833, strand=+, pfam-id=PF00496.27, length=67, aa-start=323, aa-stop=389, aa-cov=0.1, hmm-cov=1.0, evalue=3.1e-10, bitscore=32.6, name=SBP_bac_5
+08:38:00.676 - INFO - CDS - pfam detected: seq=contig_1, start=311091, stop=311666, strand=+, pfam-id=PF13274.11, length=111, aa-start=61, aa-stop=146, aa-cov=0.5, hmm-cov=1.0, evalue=9.1e-08, bitscore=26.0, name=SocA_Panacea
+08:38:00.944 - INFO - CDS - predicted-pfams=17, CDS-w/-pfams=11
+08:38:01.701 - INFO - S_ORF - predicted=10864
+08:38:02.200 - INFO - S_ORF - sORF filter: # valid=593, # discarded=10271
+08:38:02.246 - INFO - ORF - discarded=0
+08:38:02.366 - INFO - UPS - looked-up=0
+08:38:02.367 - INFO - IPS - looked-up=0
+08:38:02.367 - INFO - ORF - write internal aa seqs: # seqs=593, path=/tmp/tmpp8tcjq5o/sorf.faa
+08:38:02.460 - INFO - S_ORF - found=0
+08:38:02.460 - INFO - PSC - looked-up=0
+08:38:02.461 - INFO - PSCC - looked-up=0
+08:38:03.903 - INFO - ORI - predicted=0
+08:38:04.091 - INFO - ORI - predicted=0
+08:38:04.093 - INFO - ANNOTATION - overlap: tRNA (tRNA-Leu(caa)) [103573, 103630] overlapping with tmRNA (transfer-messenger RNA, SsrA) [103228, 103630] at [103573,103630] on seq=contig_1
+08:38:04.097 - INFO - UTILS - generated sequence tag prefix: prefix=AHAGHMOOOI, length=10, MD5=A1A0168882F88E24BF1D5EB7E1C103EB
+08:38:04.098 - INFO - MAIN - selected features=677
+08:38:04.098 - INFO - MAIN - locus tag prefix=GCF_964020035
+08:38:04.100 - INFO - UTILS - genome-size=701400
+08:38:04.103 - INFO - UTILS - GC=0.265
+08:38:04.103 - INFO - UTILS - N=0.000
+08:38:04.103 - INFO - UTILS - N50=701400
+08:38:04.103 - INFO - UTILS - N90=701400
+08:38:04.103 - INFO - UTILS - coding-ratio=0.956
+08:38:04.105 - INFO - TSV - write feature tsv: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.tsv
+08:38:04.107 - INFO - GFF - write features: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.gff3
+08:38:04.128 - INFO - INSDC - write GenBank: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.gbff
+08:38:04.216 - INFO - INSDC - write EMBL: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.embl
+08:38:04.296 - INFO - FASTA - write genome sequences: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.fna, description=True, wrap=True
+08:38:04.298 - INFO - FASTA - write feature nucleotide sequences: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.ffn
+08:38:04.300 - INFO - FASTA - write translated CDS/sORF: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.faa
+08:38:04.300 - INFO - TSV - write tsv: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.inference.tsv
+08:38:04.302 - INFO - TSV - write hypothetical tsv: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.hypotheticals.tsv
+08:38:04.302 - INFO - FASTA - write translated CDS/sORF: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.hypotheticals.faa
+08:38:04.302 - INFO - JSON - write JSON: path=/media/orange/spiroplasma_genomes/annotation/GCF_964020035/GCF_964020035.json
+08:38:04.357 - INFO - MAIN - removed tmp dir: /tmp/tmpp8tcjq5o

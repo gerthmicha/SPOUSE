@@ -1,0 +1,1194 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	102	482	+	GCA_965226525_0001		hypothetical protein	
+contig_1	tRNA	564	640	+	GCA_965226525_0002	trnH	tRNA-His(gtg)	SO:0000262
+contig_1	cds	654	1295	+	GCA_965226525_0003		hypothetical protein	
+contig_1	cds	1261	1881	+	GCA_965226525_0004		hypothetical protein	PFAM:PF13521.12
+contig_1	cds	1853	2302	+	GCA_965226525_0005		hypothetical protein	PFAM:PF02367.23
+contig_1	cds	2303	2869	+	GCA_965226525_0006		hypothetical protein	
+contig_1	cds	2897	5242	+	GCA_965226525_0007		hypothetical protein	PFAM:PF00133.28, PFAM:PF08264.19, PFAM:PF13603.12
+contig_1	cds	5319	5669	+	GCA_965226525_0008		hypothetical protein	PFAM:PF01381.28
+contig_1	cds	5694	6338	+	GCA_965226525_0009		hypothetical protein	
+contig_1	cds	6387	7394	+	GCA_965226525_0010		hypothetical protein	
+contig_1	cds	7400	9808	+	GCA_965226525_0011		hypothetical protein	PFAM:PF00533.33, PFAM:PF01653.23, PFAM:PF03120.22, PFAM:PF12826.13
+contig_1	cds	10384	12429	+	GCA_965226525_0012		hypothetical protein	
+contig_1	cds	13286	13432	+	GCA_965226525_0013		hypothetical protein	
+contig_1	cds	13480	13575	+	GCA_965226525_0014		hypothetical protein	
+contig_1	cds	13977	15551	+	GCA_965226525_0015		hypothetical protein	
+contig_1	cds	16627	18213	+	GCA_965226525_0016		hypothetical protein	PFAM:PF01555.25
+contig_1	cds	18220	20601	+	GCA_965226525_0017		hypothetical protein	PFAM:PF00270.35
+contig_1	cds	22091	23677	+	GCA_965226525_0018		hypothetical protein	PFAM:PF01555.25
+contig_1	cds	23684	26068	+	GCA_965226525_0019		hypothetical protein	PFAM:PF00270.35
+contig_1	cds	26403	26546	-	GCA_965226525_0020		hypothetical protein	
+contig_1	cds	26622	26999	+	GCA_965226525_0021		hypothetical protein	PFAM:PF01250.22
+contig_1	cds	27022	28035	+	GCA_965226525_0022		hypothetical protein	PFAM:PF00156.33, PFAM:PF13793.12, PFAM:PF14572.12
+contig_1	cds	27983	29926	+	GCA_965226525_0023		hypothetical protein	PFAM:PF00709.27, PFAM:PF01195.25
+contig_1	cds	30001	30240	-	GCA_965226525_0024		hypothetical protein	
+contig_1	cds	30484	31776	+	GCA_965226525_0025		hypothetical protein	
+contig_1	cds	32071	32724	-	GCA_965226525_0026		hypothetical protein	
+contig_1	cds	33659	35239	+	GCA_965226525_0027		hypothetical protein	
+contig_1	cds	35375	35482	+	GCA_965226525_0028		hypothetical protein	
+contig_1	cds	35727	37103	+	GCA_965226525_0029		hypothetical protein	
+contig_1	cds	37235	37342	+	GCA_965226525_0030		hypothetical protein	
+contig_1	cds	37344	37562	+	GCA_965226525_0031		hypothetical protein	
+contig_1	cds	37575	38906	+	GCA_965226525_0032		hypothetical protein	
+contig_1	cds	39006	39338	+	GCA_965226525_0033		hypothetical protein	
+contig_1	cds	39331	40770	+	GCA_965226525_0034		hypothetical protein	PFAM:PF01425.27
+contig_1	cds	40760	42475	+	GCA_965226525_0035		hypothetical protein	PFAM:PF02934.20
+contig_1	cds	42472	43926	-	GCA_965226525_0036		hypothetical protein	
+contig_1	cds	43991	44674	+	GCA_965226525_0037		hypothetical protein	PFAM:PF02254.24
+contig_1	cds	44851	45153	+	GCA_965226525_0038		hypothetical protein	PFAM:PF00085.26
+contig_1	tRNA	45271	45348	+	GCA_965226525_0039	trnC	tRNA-Cys(gca)	SO:0000258
+contig_1	tRNA	45353	45428	+	GCA_965226525_0040	trnA	tRNA-Ala(tgc)	SO:0000254
+contig_1	tRNA	45442	45521	+	GCA_965226525_0041	trnP	tRNA-Pro(tgg)	SO:0000268
+contig_1	tRNA	45525	45602	+	GCA_965226525_0042	trnM	tRNA-Met(cat)	SO:0000266
+contig_1	tRNA	45610	45686	+	GCA_965226525_0043	trnI	tRNA-Ile(gat)	SO:0000263
+contig_1	tRNA	45692	45782	+	GCA_965226525_0044	trnS	tRNA-Ser(tga)	SO:0000269
+contig_1	tRNA	45789	45865	+	GCA_965226525_0045	trnK	tRNA-Lys(ctt)	SO:0000265
+contig_1	tRNA	45936	46025	-	GCA_965226525_0046	trnL	tRNA-Leu(aag)	SO:0000264
+contig_1	cds	46199	47740	+	GCA_965226525_0047		hypothetical protein	PFAM:PF00883.26
+contig_1	cds	47763	48947	+	GCA_965226525_0048		Elongation factor Tu	SO:0001217, UniRef:UniRef50_Q74JU6
+contig_1	cds	48968	49150	+	GCA_965226525_0049		hypothetical protein	
+contig_1	cds	49265	51511	+	GCA_965226525_0050		hypothetical protein	PFAM:PF01396.24
+contig_1	cds	51595	52299	+	GCA_965226525_0051		hypothetical protein	
+contig_1	cds	52381	53208	+	GCA_965226525_0052		hypothetical protein	PFAM:PF25025.1
+contig_1	cds	53218	53928	+	GCA_965226525_0053		hypothetical protein	
+contig_1	cds	53947	54666	+	GCA_965226525_0054		hypothetical protein	
+contig_1	cds	54650	55201	+	GCA_965226525_0055		hypothetical protein	PFAM:PF01765.24
+contig_1	cds	55306	59502	+	GCA_965226525_0056		hypothetical protein	PFAM:PF00929.31, PFAM:PF07733.18, PFAM:PF13482.12, PFAM:PF14579.12, PFAM:PF17657.6
+contig_1	tRNA	59543	59617	+	GCA_965226525_0057	trnW	tRNA-Trp(cca)	SO:0000271
+contig_1	cds	59671	62229	-	GCA_965226525_0058		hypothetical protein	PFAM:PF00133.28, PFAM:PF08264.19, PFAM:PF10458.14, PFAM:PF13603.12
+contig_1	cds	62235	63032	-	GCA_965226525_0059		hypothetical protein	PFAM:PF13098.12
+contig_1	cds	63055	63360	-	GCA_965226525_0060		Large ribosomal subunit protein bL27	SO:0001217, UniRef:UniRef50_P05657
+contig_1	cds	63366	63797	-	GCA_965226525_0061		hypothetical protein	
+contig_1	cds	63857	65176	-	GCA_965226525_0062		hypothetical protein	PFAM:PF04542.20
+contig_1	cds	65166	66914	-	GCA_965226525_0063		hypothetical protein	PFAM:PF01807.25, PFAM:PF08275.17, PFAM:PF13362.12, PFAM:PF13662.12
+contig_1	cds	66907	68244	-	GCA_965226525_0064		hypothetical protein	PFAM:PF00587.30, PFAM:PF03129.25
+contig_1	tRNA	68381	68457	+	GCA_965226525_0065	trnN	tRNA-Asn(gtt)	SO:0000257
+contig_1	tRNA	68463	68539	+	GCA_965226525_0066	trnE	tRNA-Glu(ttc)	SO:0000259
+contig_1	cds	68575	69006	-	GCA_965226525_0067		hypothetical protein	PFAM:PF01029.23
+contig_1	cds	68993	69841	-	GCA_965226525_0068		hypothetical protein	PFAM:PF01261.30
+contig_1	cds	70488	71786	+	GCA_965226525_0069		hypothetical protein	
+contig_1	cds	72262	73545	+	GCA_965226525_0070		hypothetical protein	
+contig_1	cds	73860	75680	+	GCA_965226525_0071		hypothetical protein	
+contig_1	cds	75870	77387	+	GCA_965226525_0072		hypothetical protein	
+contig_1	cds	77862	78902	+	GCA_965226525_0073		hypothetical protein	
+contig_1	cds	79358	80716	+	GCA_965226525_0074		hypothetical protein	
+contig_1	cds	81285	81848	+	GCA_965226525_0075		hypothetical protein	
+contig_1	cds	81856	82653	+	GCA_965226525_0076		hypothetical protein	
+contig_1	cds	82969	83103	+	GCA_965226525_0077		hypothetical protein	
+contig_1	cds	83138	83326	+	GCA_965226525_0078		hypothetical protein	
+contig_1	cds	84241	86112	+	GCA_965226525_0079		hypothetical protein	PFAM:PF03235.19, PFAM:PF07510.16
+contig_1	cds	86113	87981	+	GCA_965226525_0080		hypothetical protein	PFAM:PF03235.19, PFAM:PF07510.16
+contig_1	cds	88102	89367	+	GCA_965226525_0081		hypothetical protein	
+contig_1	cds	89377	91311	+	GCA_965226525_0082		hypothetical protein	PFAM:PF00176.29, PFAM:PF00271.37
+contig_1	cds	91568	93409	+	GCA_965226525_0083		hypothetical protein	
+contig_1	cds	94253	98656	+	GCA_965226525_0084		hypothetical protein	
+contig_1	cds	98997	100802	+	GCA_965226525_0085		hypothetical protein	
+contig_1	cds	101392	101589	+	GCA_965226525_0086		hypothetical protein	
+contig_1	cds	101927	103498	+	GCA_965226525_0087		hypothetical protein	
+contig_1	cds	103976	105529	+	GCA_965226525_0088		hypothetical protein	PFAM:PF01555.25
+contig_1	cds	105540	107768	+	GCA_965226525_0089		hypothetical protein	
+contig_1	cds	107881	109929	-	GCA_965226525_0090		hypothetical protein	PFAM:PF00176.29, PFAM:PF00270.35, PFAM:PF00271.37
+contig_1	cds	109953	111224	-	GCA_965226525_0091		hypothetical protein	
+contig_1	rRNA	111637	114538	+	GCA_965226525_0092	rrl	23S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01980, RFAM:RF02541, SO:0001001
+contig_1	rRNA	114599	114707	+	GCA_965226525_0093	rrf	5S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01985, RFAM:RF00001, SO:0000652
+contig_1	cds	114991	116142	+	GCA_965226525_0094		hypothetical protein	PFAM:PF00004.35
+contig_1	cds	116150	116875	+	GCA_965226525_0095		hypothetical protein	
+contig_1	cds	117471	118136	+	GCA_965226525_0096		hypothetical protein	
+contig_1	cds	118138	118281	+	GCA_965226525_0097		hypothetical protein	
+contig_1	cds	118608	121946	+	GCA_965226525_0098		hypothetical protein	PFAM:PF00270.35, PFAM:PF11867.13, PFAM:PF22679.2
+contig_1	cds	121946	123463	+	GCA_965226525_0099		site-specific DNA-methyltransferase (adenine-specific)	SO:0001217, UniRef:UniRef50_W6AJD6
+contig_1	cds	123477	124544	-	GCA_965226525_0100		hypothetical protein	PFAM:PF01420.25
+contig_1	cds	124610	125335	+	GCA_965226525_0101		Site-specific integrase	SO:0001217, UniRef:UniRef50_A0A2K9BJD8
+contig_1	cds	125449	126615	+	GCA_965226525_0102		hypothetical protein	PFAM:PF01420.25
+contig_1	cds	126764	127099	+	GCA_965226525_0103		hypothetical protein	
+contig_1	tRNA	127130	127204	+	GCA_965226525_0104	trnQ	tRNA-Gln(ctg)	SO:0000261
+contig_1	cds	127288	127566	-	GCA_965226525_0105		Small ribosomal subunit protein bS20	SO:0001217, UniRef:UniRef50_A9NGM5
+contig_1	cds	127664	128278	+	GCA_965226525_0106		hypothetical protein	
+contig_1	cds	128298	130004	+	GCA_965226525_0107		hypothetical protein	PFAM:PF11074.14
+contig_1	cds	130019	130723	-	GCA_965226525_0108		tRNA (guanine-N(1)-)-methyltransferase	SO:0001217, UniRef:UniRef50_Q98Q98
+contig_1	cds	130775	131029	-	GCA_965226525_0109		hypothetical protein	
+contig_1	cds	131043	131306	-	GCA_965226525_0110		hypothetical protein	
+contig_1	cds	131310	132380	-	GCA_965226525_0111		hypothetical protein	PFAM:PF00044.30, PFAM:PF02800.25
+contig_1	cds	132414	133322	-	GCA_965226525_0112		hypothetical protein	PFAM:PF00308.24, PFAM:PF01695.23
+contig_1	cds	133324	134256	-	GCA_965226525_0113		hypothetical protein	
+contig_1	cds	134313	134738	-	GCA_965226525_0114		hypothetical protein	PFAM:PF06831.19
+contig_1	cds	135380	141250	+	GCA_965226525_0115		hypothetical protein	PFAM:PF02687.27
+contig_1	cds	141247	141375	-	GCA_965226525_0116		hypothetical protein	
+contig_1	cds	141332	141649	-	GCA_965226525_0117		hypothetical protein	PFAM:PF01367.25
+contig_1	cds	141810	142319	-	GCA_965226525_0118		hypothetical protein	PFAM:PF06827.20, PFAM:PF06831.19
+contig_1	cds	142850	148720	+	GCA_965226525_0119		hypothetical protein	PFAM:PF02687.27
+contig_1	cds	148802	149119	-	GCA_965226525_0120		hypothetical protein	PFAM:PF01367.25
+contig_1	cds	149280	150110	-	GCA_965226525_0121		hypothetical protein	PFAM:PF01149.29, PFAM:PF06827.20, PFAM:PF06831.19
+contig_1	cds	150322	156162	+	GCA_965226525_0122		hypothetical protein	PFAM:PF02687.27
+contig_1	cds	156159	157034	-	GCA_965226525_0123		hypothetical protein	PFAM:PF01367.25, PFAM:PF02739.22
+contig_1	cds	157074	158972	-	GCA_965226525_0124		hypothetical protein	
+contig_1	cds	158988	161555	-	GCA_965226525_0125		hypothetical protein	
+contig_1	cds	161822	162301	+	GCA_965226525_0126		hypothetical protein	
+contig_1	cds	162444	163766	+	GCA_965226525_0127		hypothetical protein	PFAM:PF00145.23
+contig_1	cds	163756	164892	+	GCA_965226525_0128		hypothetical protein	PFAM:PF13391.12
+contig_1	cds	165283	165534	+	GCA_965226525_0129		hypothetical protein	
+contig_1	cds	165546	165776	+	GCA_965226525_0130		hypothetical protein	
+contig_1	cds	165809	167428	+	GCA_965226525_0131		hypothetical protein	
+contig_1	cds	167592	167795	+	GCA_965226525_0132		hypothetical protein	
+contig_1	cds	167893	170934	-	GCA_965226525_0133		hypothetical protein	PFAM:PF07733.18, PFAM:PF14579.12, PFAM:PF17657.6
+contig_1	cds	170939	172600	-	GCA_965226525_0134		hypothetical protein	
+contig_1	cds	172785	173384	+	GCA_965226525_0135		Small ribosomal subunit protein uS4	SO:0001217, UniRef:UniRef50_Q82ZI6
+contig_1	cds	173384	174538	+	GCA_965226525_0136		hypothetical protein	
+contig_1	cds	174968	175642	+	GCA_965226525_0137		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_1	cds	175642	176523	+	GCA_965226525_0138		hypothetical protein	
+contig_1	cds	176531	177391	+	GCA_965226525_0139		hypothetical protein	
+contig_1	cds	177454	178749	-	GCA_965226525_0140		hypothetical protein	
+contig_1	tRNA	178775	178848	-	GCA_965226525_0141		tRNA-Xxx	
+contig_1	cds	179017	179790	+	GCA_965226525_0142		hypothetical protein	
+contig_1	cds	179796	180395	+	GCA_965226525_0143		hypothetical protein	PFAM:PF01121.26
+contig_1	cds	180379	181095	-	GCA_965226525_0144		hypothetical protein	PFAM:PF12804.13
+contig_1	cds	181107	182321	-	GCA_965226525_0145		hypothetical protein	
+contig_1	cds	182334	183305	-	GCA_965226525_0146		hypothetical protein	
+contig_1	cds	183341	183550	-	GCA_965226525_0147		hypothetical protein	
+contig_1	cds	183551	185152	-	GCA_965226525_0148		hypothetical protein	
+contig_1	cds	185180	186385	-	GCA_965226525_0149		8-amino-7-ketopelargonate synthase	SO:0001217, UniRef:UniRef50_A0A3M1BBY3
+contig_1	cds	186385	187455	-	GCA_965226525_0150		hypothetical protein	PFAM:PF00107.32, PFAM:PF08240.17
+contig_1	cds	187463	188824	-	GCA_965226525_0151		hypothetical protein	PFAM:PF00070.33, PFAM:PF02852.28, PFAM:PF07992.20
+contig_1	cds	188923	189861	+	GCA_965226525_0152		hypothetical protein	
+contig_1	cds	190103	191923	-	GCA_965226525_0153		hypothetical protein	PFAM:PF09522.15
+contig_1	cds	191955	202250	-	GCA_965226525_0154		hypothetical protein	
+contig_1	cds	202513	205353	-	GCA_965226525_0155		hypothetical protein	
+contig_1	tRNA	205636	205723	+	GCA_965226525_0156	trnL	tRNA-Leu(caa)	SO:0000264
+contig_1	cds	205739	206863	-	GCA_965226525_0157		hypothetical protein	PFAM:PF00226.36, PFAM:PF00684.24, PFAM:PF01556.23
+contig_1	cds	206885	208729	-	GCA_965226525_0158	dnaK	Chaperone protein DnaK	SO:0001217, UniRef:UniRef50_A5I640
+contig_1	cds	208748	209260	-	GCA_965226525_0159		hypothetical protein	
+contig_1	cds	209271	211388	-	GCA_965226525_0160	clpB	Chaperone protein ClpB	SO:0001217, UniRef:UniRef50_Q2W711
+contig_1	cds	211416	211901	-	GCA_965226525_0161		hypothetical protein	PFAM:PF01272.25, PFAM:PF03449.20
+contig_1	cds	212141	212857	-	GCA_965226525_0162		hypothetical protein	PFAM:PF20582.4
+contig_1	cds	212835	213116	-	GCA_965226525_0163		hypothetical protein	
+contig_1	cds	213394	215508	+	GCA_965226525_0164		hypothetical protein	PFAM:PF00575.29, PFAM:PF01138.27, PFAM:PF03725.20
+contig_1	cds	215525	217204	+	GCA_965226525_0165		hypothetical protein	PFAM:PF17770.6
+contig_1	cds	217211	218332	+	GCA_965226525_0166		hypothetical protein	PFAM:PF01467.32
+contig_1	cds	218345	218902	-	GCA_965226525_0167		hypothetical protein	
+contig_1	cds	218883	220433	-	GCA_965226525_0168		hypothetical protein	
+contig_1	cds	220577	222013	-	GCA_965226525_0169		hypothetical protein	PFAM:PF00587.30, PFAM:PF03129.25, PFAM:PF09180.16
+contig_1	tRNA	222165	222259	-	GCA_965226525_0170	trnS	tRNA-Ser(gct)	SO:0000269
+contig_1	cds	222317	223651	-	GCA_965226525_0171		hypothetical protein	
+contig_1	cds	223732	224469	-	GCA_965226525_0172		hypothetical protein	PFAM:PF01048.26
+contig_1	cds	224764	226968	-	GCA_965226525_0173		hypothetical protein	PFAM:PF13175.12, PFAM:PF13304.12, PFAM:PF13476.12
+contig_1	cds	227262	227855	-	GCA_965226525_0174		hypothetical protein	
+contig_1	cds	227861	236902	-	GCA_965226525_0175		hypothetical protein	
+contig_1	cds	237125	238072	-	GCA_965226525_0176		hypothetical protein	
+contig_1	cds	238103	239272	-	GCA_965226525_0177		hypothetical protein	
+contig_1	cds	239273	240826	-	GCA_965226525_0178		hypothetical protein	PFAM:PF00005.33
+contig_1	cds	241122	242336	-	GCA_965226525_0179		hypothetical protein	
+contig_1	rRNA	242588	244127	-	GCA_965226525_0180	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_1	cds	244277	245053	-	GCA_965226525_0181		hypothetical protein	PFAM:PF00312.27, PFAM:PF01687.23
+contig_1	cds	245043	245381	-	GCA_965226525_0182		hypothetical protein	
+contig_1	cds	245371	247218	-	GCA_965226525_0183		hypothetical protein	PFAM:PF00009.33, PFAM:PF00025.27, PFAM:PF11987.13, PFAM:PF22042.2
+contig_1	cds	247348	248280	+	GCA_965226525_0184		hypothetical protein	PFAM:PF01633.27
+contig_1	cds	248258	248788	-	GCA_965226525_0185		hypothetical protein	
+contig_1	cds	248804	249964	-	GCA_965226525_0186		hypothetical protein	PFAM:PF08529.16, PFAM:PF13184.12
+contig_1	cds	250109	250762	+	GCA_965226525_0187		hypothetical protein	
+contig_1	cds	250897	252825	+	GCA_965226525_0188		hypothetical protein	PFAM:PF00753.33, PFAM:PF12706.13, PFAM:PF13483.12
+contig_1	cds	252869	253813	+	GCA_965226525_0189		hypothetical protein	PFAM:PF21694.2
+contig_1	cds	253821	254429	+	GCA_965226525_0190		hypothetical protein	
+contig_1	cds	254483	255121	+	GCA_965226525_0191		hypothetical protein	PFAM:PF12847.13
+contig_1	cds	255123	255878	+	GCA_965226525_0192		hypothetical protein	
+contig_1	cds	255900	256256	+	GCA_965226525_0193		hypothetical protein	
+contig_1	cds	256234	257499	-	GCA_965226525_0194		hypothetical protein	PFAM:PF01018.28, PFAM:PF02421.24, PFAM:PF09269.16
+contig_1	cds	257510	258475	-	GCA_965226525_0195		hypothetical protein	
+contig_1	cds	258637	259104	+	GCA_965226525_0196		hypothetical protein	
+contig_1	cds	259107	261425	-	GCA_965226525_0197		hypothetical protein	PFAM:PF00004.35, PFAM:PF01695.23, PFAM:PF05362.19, PFAM:PF07728.20, PFAM:PF13541.12, PFAM:PF22667.2
+contig_1	cds	261536	262348	-	GCA_965226525_0198		Metallophosphoesterase	SO:0001217, UniRef:UniRef50_E7GAE4
+contig_1	cds	262366	263034	-	GCA_965226525_0199		hypothetical protein	PFAM:PF01895.24
+contig_1	cds	263047	263835	-	GCA_965226525_0200		Phosphate ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A291IS61
+contig_1	cds	263819	265690	-	GCA_965226525_0201		hypothetical protein	
+contig_1	cds	265665	266555	-	GCA_965226525_0202		hypothetical protein	
+contig_1	cds	266548	267240	-	GCA_965226525_0203		hypothetical protein	PFAM:PF00035.32
+contig_1	cds	267293	267646	-	GCA_965226525_0204		Large ribosomal subunit protein bL19	SO:0001217, UniRef:UniRef50_A0A7V0JWC8
+contig_1	cds	267665	269566	+	GCA_965226525_0205		hypothetical protein	PFAM:PF00009.33, PFAM:PF00071.28, PFAM:PF00679.30, PFAM:PF10662.15
+contig_1	cds	269584	269856	+	GCA_965226525_0206		hypothetical protein	
+contig_1	cds	269840	270664	+	GCA_965226525_0207		hypothetical protein	
+contig_1	cds	271256	271603	+	GCA_965226525_0208		hypothetical protein	
+contig_1	cds	271657	272793	+	GCA_965226525_0209		hypothetical protein	PFAM:PF01409.25
+contig_1	cds	272798	275035	+	GCA_965226525_0210		hypothetical protein	PFAM:PF01588.26, PFAM:PF03484.21, PFAM:PF17759.6
+contig_1	cds	274995	275207	+	GCA_965226525_0211		Large ribosomal subunit protein bL32	SO:0001217, UniRef:UniRef50_P49228
+contig_1	cds	275232	276443	+	GCA_965226525_0212		hypothetical protein	
+contig_1	cds	276457	277548	+	GCA_965226525_0213	ftsZ	Cell division protein FtsZ	SO:0001217, UniRef:UniRef50_Q6F172
+contig_1	cds	277581	277880	+	GCA_965226525_0214		hypothetical protein	
+contig_1	cds	277887	280685	+	GCA_965226525_0215		hypothetical protein	PFAM:PF00133.28, PFAM:PF01406.26, PFAM:PF08264.19
+contig_1	cds	280742	281266	+	GCA_965226525_0216		hypothetical protein	
+contig_1	cds	281267	281899	+	GCA_965226525_0217		hypothetical protein	
+contig_1	cds	282037	282957	+	GCA_965226525_0218		hypothetical protein	
+contig_1	cds	283068	284054	+	GCA_965226525_0219		hypothetical protein	PFAM:PF01368.27, PFAM:PF02272.25
+contig_1	cds	284054	284650	+	GCA_965226525_0220		hypothetical protein	
+contig_1	cds	284666	285739	+	GCA_965226525_0221		hypothetical protein	PFAM:PF00472.26, PFAM:PF03462.23
+contig_1	cds	285720	286364	+	GCA_965226525_0222		hypothetical protein	PFAM:PF01170.24, PFAM:PF05175.20, PFAM:PF08241.18, PFAM:PF08242.18, PFAM:PF13489.12, PFAM:PF13649.12, PFAM:PF13847.12
+contig_1	cds	286365	288446	-	GCA_965226525_0223		Elongation factor G	SO:0001217, UniRef:UniRef50_B2FQ42
+contig_1	cds	288459	288929	-	GCA_965226525_0224		Small ribosomal subunit protein uS7	SO:0001217, UniRef:UniRef50_D1AWJ9
+contig_1	cds	288936	289358	-	GCA_965226525_0225		Small ribosomal subunit protein uS12	SO:0001217, UniRef:UniRef50_P0A0H0
+contig_1	cds	289393	289992	-	GCA_965226525_0226		hypothetical protein	
+contig_1	cds	290002	291639	-	GCA_965226525_0227		hypothetical protein	PFAM:PF02878.22, PFAM:PF02879.22, PFAM:PF02880.22
+contig_1	cds	291655	293304	-	GCA_965226525_0228		hypothetical protein	
+contig_1	cds	293341	293589	-	GCA_965226525_0229		hypothetical protein	
+contig_1	cds	293652	294950	-	GCA_965226525_0230		hypothetical protein	PFAM:PF00438.25, PFAM:PF02772.21, PFAM:PF02773.21
+contig_1	cds	295563	295979	+	GCA_965226525_0231		hypothetical protein	
+contig_1	cds	296056	297075	-	GCA_965226525_0232		hypothetical protein	PFAM:PF00557.29, PFAM:PF01321.24
+contig_1	cds	297068	297976	-	GCA_965226525_0233		hypothetical protein	PFAM:PF00009.33, PFAM:PF00350.29, PFAM:PF02421.24, PFAM:PF07650.23, PFAM:PF10662.15
+contig_1	cds	298028	298441	-	GCA_965226525_0234		hypothetical protein	
+contig_1	cds	298431	300488	-	GCA_965226525_0235		hypothetical protein	PFAM:PF00005.33
+contig_1	cds	300685	302508	-	GCA_965226525_0236		hypothetical protein	
+contig_1	cds	302982	304082	-	GCA_965226525_0237		hypothetical protein	
+contig_1	cds	304551	306368	-	GCA_965226525_0238		hypothetical protein	
+contig_1	cds	306550	308658	-	GCA_965226525_0239		hypothetical protein	
+contig_1	cds	308889	308996	-	GCA_965226525_0240		hypothetical protein	
+contig_1	cds	309132	310466	-	GCA_965226525_0241		hypothetical protein	
+contig_1	cds	310942	312543	-	GCA_965226525_0242		hypothetical protein	
+contig_1	cds	312659	312775	-	GCA_965226525_0243		hypothetical protein	
+contig_1	cds	312777	312902	-	GCA_965226525_0244		hypothetical protein	
+contig_1	cds	313016	313264	-	GCA_965226525_0245		hypothetical protein	
+contig_1	cds	313369	314067	-	GCA_965226525_0246		hypothetical protein	
+contig_1	cds	314915	316843	-	GCA_965226525_0247		hypothetical protein	
+contig_1	cds	317319	318146	-	GCA_965226525_0248		hypothetical protein	
+contig_1	cds	318255	318359	-	GCA_965226525_0249		hypothetical protein	
+contig_1	cds	319208	321838	-	GCA_965226525_0250		hypothetical protein	
+contig_1	cds	322070	322177	-	GCA_965226525_0251		hypothetical protein	
+contig_1	cds	322313	323593	-	GCA_965226525_0252		hypothetical protein	
+contig_1	cds	324069	325919	-	GCA_965226525_0253		hypothetical protein	
+contig_1	cds	326354	326632	-	GCA_965226525_0254		hypothetical protein	
+contig_1	tRNA	326980	327068	-	GCA_965226525_0255	trnL	tRNA-Leu(taa)	SO:0000264
+contig_1	tRNA	327077	327149	-	GCA_965226525_0256	trnK	tRNA-Lys(ttt)	SO:0000265
+contig_1	cds	327587	327865	-	GCA_965226525_0257		hypothetical protein	
+contig_1	cds	328064	330154	-	GCA_965226525_0258		hypothetical protein	
+contig_1	cds	330387	330512	-	GCA_965226525_0259		hypothetical protein	
+contig_1	cds	330627	332222	-	GCA_965226525_0260		hypothetical protein	
+contig_1	cds	332409	333986	-	GCA_965226525_0261		hypothetical protein	
+contig_1	cds	334222	334347	-	GCA_965226525_0262		hypothetical protein	
+contig_1	cds	334474	335811	-	GCA_965226525_0263		hypothetical protein	
+contig_1	cds	335999	336145	-	GCA_965226525_0264		hypothetical protein	
+contig_1	cds	336129	336281	-	GCA_965226525_0265		hypothetical protein	
+contig_1	cds	336413	336631	-	GCA_965226525_0266		hypothetical protein	
+contig_1	cds	336632	337426	-	GCA_965226525_0267		hypothetical protein	
+contig_1	cds	337516	339099	-	GCA_965226525_0268		hypothetical protein	
+contig_1	cds	339413	340744	-	GCA_965226525_0269		hypothetical protein	
+contig_1	cds	341221	342255	-	GCA_965226525_0270		hypothetical protein	
+contig_1	cds	342727	344346	-	GCA_965226525_0271		hypothetical protein	
+contig_1	cds	344821	345090	-	GCA_965226525_0272		hypothetical protein	
+contig_1	cds	345151	346626	-	GCA_965226525_0273		hypothetical protein	
+contig_1	cds	346805	347182	-	GCA_965226525_0274		hypothetical protein	
+contig_1	cds	347580	347936	-	GCA_965226525_0275		hypothetical protein	
+contig_1	cds	348242	348730	-	GCA_965226525_0276		hypothetical protein	
+contig_1	cds	349154	351013	-	GCA_965226525_0277		hypothetical protein	
+contig_1	cds	351099	351722	-	GCA_965226525_0278		hypothetical protein	
+contig_1	cds	351973	352194	+	GCA_965226525_0279		hypothetical protein	
+contig_1	cds	352816	353670	+	GCA_965226525_0280		hypothetical protein	
+contig_1	cds	353766	354482	+	GCA_965226525_0281		hypothetical protein	
+contig_1	cds	354910	355911	-	GCA_965226525_0282		hypothetical protein	PFAM:PF00145.23
+contig_1	cds	356476	356997	-	GCA_965226525_0283	thsB	Thoeris protein ThsB TIR-like domain-containing protein	SO:0001217, UniRef:UniRef50_Q6F1E6
+contig_1	cds	357550	358074	-	GCA_965226525_0284	thsB	Thoeris protein ThsB TIR-like domain-containing protein	SO:0001217, UniRef:UniRef50_Q6F1E6
+contig_1	cds	358660	359319	+	GCA_965226525_0285		hypothetical protein	
+contig_1	cds	359276	359593	-	GCA_965226525_0286		hypothetical protein	
+contig_1	cds	359559	359918	-	GCA_965226525_0287		hypothetical protein	
+contig_1	cds	360082	360318	-	GCA_965226525_0288		hypothetical protein	
+contig_1	cds	361080	361769	-	GCA_965226525_0289		hypothetical protein	
+contig_1	cds	362051	362203	+	GCA_965226525_0290		hypothetical protein	
+contig_1	cds	362315	364207	-	GCA_965226525_0291		hypothetical protein	PFAM:PF03235.19, PFAM:PF07510.16
+contig_1	cds	364854	365087	-	GCA_965226525_0292		hypothetical protein	
+contig_1	cds	365158	365436	-	GCA_965226525_0293		hypothetical protein	
+contig_1	cds	365651	366946	+	GCA_965226525_0294		hypothetical protein	PFAM:PF00206.25, PFAM:PF10397.14
+contig_1	cds	366958	367518	+	GCA_965226525_0295		hypothetical protein	PFAM:PF00156.33
+contig_1	cds	367482	368366	+	GCA_965226525_0296		hypothetical protein	PFAM:PF00590.25
+contig_1	cds	368341	369894	+	GCA_965226525_0297		hypothetical protein	PFAM:PF00133.28, PFAM:PF01406.26, PFAM:PF19303.5
+contig_1	cds	369953	370519	+	GCA_965226525_0298		hypothetical protein	PFAM:PF00156.33
+contig_1	cds	370530	371792	+	GCA_965226525_0299		hypothetical protein	PFAM:PF00587.30, PFAM:PF03129.25
+contig_1	cds	371804	372340	+	GCA_965226525_0300		hypothetical protein	PFAM:PF00707.27, PFAM:PF05198.21
+contig_1	cds	372366	372581	+	GCA_965226525_0301		Large ribosomal subunit protein bL35	SO:0001217, UniRef:UniRef50_A0A5N5XRC8
+contig_1	cds	372586	372936	+	GCA_965226525_0302		Large ribosomal subunit protein bL20	SO:0001217, UniRef:UniRef50_Q9RSW7
+contig_1	cds	372948	374084	+	GCA_965226525_0303		hypothetical protein	
+contig_1	cds	374356	375708	+	GCA_965226525_0304		hypothetical protein	PFAM:PF00152.25, PFAM:PF01336.31, PFAM:PF01409.25
+contig_1	cds	375717	376622	-	GCA_965226525_0305		hypothetical protein	
+contig_1	cds	376673	377650	+	GCA_965226525_0306		hypothetical protein	
+contig_1	cds	377662	378543	+	GCA_965226525_0307		hypothetical protein	PFAM:PF00398.26
+contig_1	cds	378576	379226	+	GCA_965226525_0308		hypothetical protein	
+contig_1	cds	379242	380756	-	GCA_965226525_0309		hypothetical protein	PFAM:PF00013.35, PFAM:PF08668.18
+contig_1	cds	380840	381829	-	GCA_965226525_0310		hypothetical protein	PFAM:PF08423.17, PFAM:PF13479.12, PFAM:PF21096.2
+contig_1	ncRNA	381946	382233	-	GCA_965226525_0311	RNaseP_bact_b	Bacterial RNase P class B	RFAM:RF00011, SO:0000386
+contig_1	cds	382295	382624	-	GCA_965226525_0312		hypothetical protein	
+contig_1	cds	382706	382984	-	GCA_965226525_0313		hypothetical protein	PFAM:PF00216.26
+contig_1	cds	383061	384878	-	GCA_965226525_0314		hypothetical protein	PFAM:PF00009.33, PFAM:PF00350.29, PFAM:PF02224.24, PFAM:PF02421.24, PFAM:PF04548.22, PFAM:PF09439.16, PFAM:PF10662.15, PFAM:PF13189.12, PFAM:PF13238.12
+contig_1	cds	384851	385501	-	GCA_965226525_0315		hypothetical protein	
+contig_1	cds	385521	386132	-	GCA_965226525_0316		hypothetical protein	
+contig_1	cds	386235	386723	+	GCA_965226525_0317		hypothetical protein	PFAM:PF00719.24
+contig_1	cds	386727	388388	-	GCA_965226525_0318		hypothetical protein	PFAM:PF00753.33, PFAM:PF07521.17, PFAM:PF12706.13, PFAM:PF17770.6, PFAM:PF22505.1
+contig_1	cds	388530	389690	+	GCA_965226525_0319		hypothetical protein	PFAM:PF00625.27
+contig_1	cds	389694	390407	+	GCA_965226525_0320		hypothetical protein	
+contig_1	cds	390413	391435	+	GCA_965226525_0321		hypothetical protein	PFAM:PF00069.31, PFAM:PF03109.22, PFAM:PF07714.23
+contig_1	cds	391497	391844	-	GCA_965226525_0322		hypothetical protein	
+contig_1	cds	391789	392055	-	GCA_965226525_0323		hypothetical protein	
+contig_1	cds	392691	392912	+	GCA_965226525_0324		hypothetical protein	
+contig_1	cds	393095	395887	+	GCA_965226525_0325		hypothetical protein	PFAM:PF00769.24, PFAM:PF22185.1
+contig_1	cds	396073	397623	+	GCA_965226525_0326		hypothetical protein	
+contig_1	cds	397719	397997	+	GCA_965226525_0327		hypothetical protein	
+contig_1	cds	398168	398902	-	GCA_965226525_0328		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_1	tRNA	399263	399340	+	GCA_965226525_0329	trnR	tRNA-Arg(acg)	SO:0001036
+contig_1	tRNA	399374	399448	+	GCA_965226525_0330	trnE	tRNA-Glu(ctc)	SO:0000259
+contig_1	cds	399491	399913	+	GCA_965226525_0331		hypothetical protein	
+contig_1	cds	400055	400918	-	GCA_965226525_0332		hypothetical protein	
+contig_1	cds	400919	401827	-	GCA_965226525_0333		hypothetical protein	
+contig_1	cds	401972	402913	-	GCA_965226525_0334		hypothetical protein	
+contig_1	tRNA	403074	403149	+	GCA_965226525_0335	trnF	tRNA-Phe(gaa)	SO:0000267
+contig_1	cds	403703	407185	+	GCA_965226525_0336		hypothetical protein	PFAM:PF13395.12
+contig_1	crispr	407245	408344	?			CRISPR array with 17 repeats of length 36, consensus sequence AACTTATTCTAACCAAAAACAACAACTAAATAAGAC and spacer length 30	SO:0001459
+contig_1	crispr-repeat	407245	407280	?			CRISPR repeat	
+contig_1	crispr-spacer	407279	407308	?			CRISPR spacer, sequence ACAACCTAAATTTGATTTAGACATTCCTTT	
+contig_1	crispr-repeat	407309	407344	?			CRISPR repeat	
+contig_1	crispr-spacer	407345	407374	?			CRISPR spacer, sequence TTATTTTCTCAATTGTTTTGGAGTTAAGTA	
+contig_1	crispr-repeat	407375	407410	?			CRISPR repeat	
+contig_1	crispr-spacer	407411	407440	?			CRISPR spacer, sequence CTATAAAACTATTTTATCATCTTTGACAAG	
+contig_1	crispr-repeat	407441	407476	?			CRISPR repeat	
+contig_1	crispr-spacer	407477	407506	?			CRISPR spacer, sequence TATAGTCTGAGATTGAGTGCGGATGTTTCT	
+contig_1	crispr-repeat	407507	407542	?			CRISPR repeat	
+contig_1	crispr-spacer	407543	407572	?			CRISPR spacer, sequence TAGTGCTAACTTATCTATCTCTCCTCATCT	
+contig_1	crispr-repeat	407573	407608	?			CRISPR repeat	
+contig_1	crispr-spacer	407609	407638	?			CRISPR spacer, sequence CTCTAAAAAATGCTTAGAATCACTTTGTTT	
+contig_1	crispr-repeat	407639	407674	?			CRISPR repeat	
+contig_1	crispr-spacer	407675	407704	?			CRISPR spacer, sequence TCTCATATCTTAATCTTCTTCTTATCATTG	
+contig_1	crispr-repeat	407705	407740	?			CRISPR repeat	
+contig_1	crispr-spacer	407741	407770	?			CRISPR spacer, sequence CTTTTTTGTTGAAATAATCAATGTTTAATA	
+contig_1	crispr-repeat	407771	407806	?			CRISPR repeat	
+contig_1	crispr-spacer	407807	407836	?			CRISPR spacer, sequence CTTTTTTGTTGAAATAATCAATGTTTAATA	
+contig_1	crispr-repeat	407837	407872	?			CRISPR repeat	
+contig_1	crispr-spacer	407873	407902	?			CRISPR spacer, sequence AACCTATAAAGATATCCCTCTTCTTTTGAC	
+contig_1	crispr-repeat	407903	407938	?			CRISPR repeat	
+contig_1	crispr-spacer	407939	407968	?			CRISPR spacer, sequence ATTACTCTCTGCCTGTATTTAGTCAACAAA	
+contig_1	crispr-repeat	407969	408004	?			CRISPR repeat	
+contig_1	crispr-spacer	408005	408034	?			CRISPR spacer, sequence TTAATAAAAACTATTAAAAATTAGTTTATG	
+contig_1	crispr-repeat	408035	408070	?			CRISPR repeat	
+contig_1	crispr-spacer	408071	408100	?			CRISPR spacer, sequence TCAATTTCACCACGCCGTCGATGCCGCGGT	
+contig_1	crispr-repeat	408101	408136	?			CRISPR repeat	
+contig_1	crispr-spacer	408137	408166	?			CRISPR spacer, sequence TATGAGCAAATGAGCACCAAGCACCCCTGA	
+contig_1	crispr-repeat	408167	408202	?			CRISPR repeat	
+contig_1	crispr-spacer	408203	408232	?			CRISPR spacer, sequence CTTTAATGTTTTCCATCGATGCGTCGCGTT	
+contig_1	crispr-repeat	408233	408268	?			CRISPR repeat	
+contig_1	crispr-spacer	408269	408298	?			CRISPR spacer, sequence TTCAGTTCTAGAATTTGAAGGTCATAAGTC	
+contig_1	crispr-repeat	408299	408334	?			CRISPR repeat	
+contig_1	crispr-spacer	408335	408344	?			CRISPR spacer, sequence CAAGCATATT	
+contig_1	crispr	408497	408676	?			CRISPR array with 3 repeats of length 39, consensus sequence GAACTTATTCTAACCAAAAACAACAACTAAATAAGACT and spacer length 28	SO:0001459
+contig_1	crispr-repeat	408497	408535	?			CRISPR repeat	
+contig_1	crispr-spacer	408533	408561	?			CRISPR spacer, sequence GAGATCAGCCTTAGATGTTTTTTCTGATG	
+contig_1	crispr-repeat	408562	408600	?			CRISPR repeat	
+contig_1	crispr-spacer	408600	408627	?			CRISPR spacer, sequence TATTCACATAGTAGGCAATGAAGCATAA	
+contig_1	crispr-repeat	408628	408666	?			CRISPR repeat	
+contig_1	crispr-spacer	408667	408676	?			CRISPR spacer, sequence CATTAAAGCA	
+contig_1	crispr	408762	409203	?			CRISPR array with 7 repeats of length 36, consensus sequence AACTTATTCTAACCAAAAACAACAACTAAATAAGAC and spacer length 30	SO:0001459
+contig_1	crispr-repeat	408762	408797	?			CRISPR repeat	
+contig_1	crispr-spacer	408798	408827	?			CRISPR spacer, sequence GGATTATGTTAAAAGCACTAACTAATCAAT	
+contig_1	crispr-repeat	408828	408863	?			CRISPR repeat	
+contig_1	crispr-spacer	408864	408893	?			CRISPR spacer, sequence AAGTAACAACTTTATCTAAAGACATGAGAA	
+contig_1	crispr-repeat	408894	408929	?			CRISPR repeat	
+contig_1	crispr-spacer	408930	408959	?			CRISPR spacer, sequence TAAGAATAATTTAATGAATTATAGTCCTCT	
+contig_1	crispr-repeat	408960	408995	?			CRISPR repeat	
+contig_1	crispr-spacer	408996	409025	?			CRISPR spacer, sequence CAGAATCAGCTATTAAGTCAGATTGAAAAG	
+contig_1	crispr-repeat	409026	409061	?			CRISPR repeat	
+contig_1	crispr-spacer	409062	409091	?			CRISPR spacer, sequence TAATATTTTTGGCAATTATCCTAATGCTGA	
+contig_1	crispr-repeat	409092	409127	?			CRISPR repeat	
+contig_1	crispr-spacer	409128	409157	?			CRISPR spacer, sequence TTCATCTGAACAGTCTTAGCGCCATAACTT	
+contig_1	crispr-repeat	409158	409193	?			CRISPR repeat	
+contig_1	crispr-spacer	409194	409203	?			CRISPR spacer, sequence TAAAAGCTCA	
+contig_1	cds	410008	410472	+	GCA_965226525_0337		hypothetical protein	
+contig_1	cds	412305	412565	+	GCA_965226525_0338		hypothetical protein	
+contig_1	cds	413967	414230	+	GCA_965226525_0339		hypothetical protein	
+contig_1	cds	414819	414950	+	GCA_965226525_0340		hypothetical protein	
+contig_1	cds	417597	417917	+	GCA_965226525_0341		hypothetical protein	
+contig_1	cds	419244	419558	+	GCA_965226525_0342		hypothetical protein	
+contig_1	crispr	419717	440363	?			CRISPR array with 313 repeats of length 36, consensus sequence AACTTATTCTAACCAAAAACAACAACTAAATAAGAC and spacer length 30	SO:0001459
+contig_1	crispr-repeat	419717	419752	?			CRISPR repeat	
+contig_1	crispr-spacer	419753	419782	?			CRISPR spacer, sequence AGCATGTGTTCATGCTTATAAATTAAATGA	
+contig_1	crispr-repeat	419783	419818	?			CRISPR repeat	
+contig_1	crispr-spacer	419819	419848	?			CRISPR spacer, sequence TTCTTGACTGAGTGCCTCACCAAATAAAAA	
+contig_1	crispr-repeat	419849	419884	?			CRISPR repeat	
+contig_1	crispr-spacer	419885	419914	?			CRISPR spacer, sequence TGCCTTTATTTCAATTAAATCCAAAGCAAA	
+contig_1	crispr-repeat	419915	419950	?			CRISPR repeat	
+contig_1	crispr-spacer	419951	419980	?			CRISPR spacer, sequence GAACTTTTTTTGATTTTTTGATGCTGAAAA	
+contig_1	crispr-repeat	419981	420016	?			CRISPR repeat	
+contig_1	crispr-spacer	420017	420046	?			CRISPR spacer, sequence TTGGTCCACTTGACCCCCCGCTGTTTTCAT	
+contig_1	crispr-repeat	420047	420082	?			CRISPR repeat	
+contig_1	crispr-spacer	420083	420113	?			CRISPR spacer, sequence ATGAAATAATTGAACTGGTCAAGTTTCATTG	
+contig_1	crispr-repeat	420114	420149	?			CRISPR repeat	
+contig_1	crispr-spacer	420150	420179	?			CRISPR spacer, sequence TTAACTAATTCAGAATCAATTCCTTTCAAG	
+contig_1	crispr-repeat	420180	420215	?			CRISPR repeat	
+contig_1	crispr-spacer	420216	420245	?			CRISPR spacer, sequence AAACAATGTTGTTCCTAGCATCTCTCACTG	
+contig_1	crispr-repeat	420246	420281	?			CRISPR repeat	
+contig_1	crispr-spacer	420282	420311	?			CRISPR spacer, sequence CAACGACGACGTAGCACTCCTTCGATTTTT	
+contig_1	crispr-repeat	420312	420347	?			CRISPR repeat	
+contig_1	crispr-spacer	420348	420377	?			CRISPR spacer, sequence TAAACATCAACAGTGCTAAGCTTAATAACT	
+contig_1	crispr-repeat	420378	420413	?			CRISPR repeat	
+contig_1	crispr-spacer	420414	420443	?			CRISPR spacer, sequence CAAAAACAAGAGTTAAATGGGTTAAAGATG	
+contig_1	crispr-repeat	420444	420479	?			CRISPR repeat	
+contig_1	crispr-spacer	420480	420509	?			CRISPR spacer, sequence TGATGGAAAAATTAGGAGTTCTGGCAAGCA	
+contig_1	crispr-repeat	420510	420545	?			CRISPR repeat	
+contig_1	crispr-spacer	420546	420575	?			CRISPR spacer, sequence GGGGTGGCTAGGGGTTATTACTTGCTCTTG	
+contig_1	crispr-repeat	420576	420611	?			CRISPR repeat	
+contig_1	crispr-spacer	420612	420641	?			CRISPR spacer, sequence AAGGACCAAAAGGAGATGATGGTGTTCAAG	
+contig_1	crispr-repeat	420642	420677	?			CRISPR repeat	
+contig_1	crispr-spacer	420678	420707	?			CRISPR spacer, sequence TCTGGATTTCTGCGATTTCAGGCGTTTTTA	
+contig_1	crispr-repeat	420708	420743	?			CRISPR repeat	
+contig_1	crispr-spacer	420744	420773	?			CRISPR spacer, sequence TCACAGTTGCTAATGCTCCAAATCCAATAG	
+contig_1	crispr-repeat	420774	420809	?			CRISPR repeat	
+contig_1	crispr-spacer	420810	420839	?			CRISPR spacer, sequence GTCTTCTTAAAAAGACGCAGCAGAACAAGA	
+contig_1	crispr-repeat	420840	420875	?			CRISPR repeat	
+contig_1	crispr-spacer	420876	420905	?			CRISPR spacer, sequence AGAAGTAATTAAGAATAAGGACTAAAAATT	
+contig_1	crispr-repeat	420906	420941	?			CRISPR repeat	
+contig_1	crispr-spacer	420942	420971	?			CRISPR spacer, sequence GACGTCGCAGCAAACGGTCGTTCTATCAAT	
+contig_1	crispr-repeat	420972	421007	?			CRISPR repeat	
+contig_1	crispr-spacer	421008	421037	?			CRISPR spacer, sequence AGGTTATTTAAACAAAAAAGGATTAAGTAA	
+contig_1	crispr-repeat	421038	421073	?			CRISPR repeat	
+contig_1	crispr-spacer	421074	421103	?			CRISPR spacer, sequence TTTCTGTTCATTGAGAACCTTAATAAAAAC	
+contig_1	crispr-repeat	421104	421139	?			CRISPR repeat	
+contig_1	crispr-spacer	421140	421169	?			CRISPR spacer, sequence GGAGTCAAAAAGATTTGGAGGAAATTCATA	
+contig_1	crispr-repeat	421170	421205	?			CRISPR repeat	
+contig_1	crispr-spacer	421206	421235	?			CRISPR spacer, sequence AGAAGATTCACGCAGTAATTTGTTCAACTC	
+contig_1	crispr-repeat	421236	421271	?			CRISPR repeat	
+contig_1	crispr-spacer	421272	421301	?			CRISPR spacer, sequence AAAGAAATCACGACCAGAATCGAATTAAGC	
+contig_1	crispr-repeat	421302	421337	?			CRISPR repeat	
+contig_1	crispr-spacer	421338	421367	?			CRISPR spacer, sequence CGGTTTAATCTGAACTCCACGATGGGGATA	
+contig_1	crispr-repeat	421368	421403	?			CRISPR repeat	
+contig_1	crispr-spacer	421404	421433	?			CRISPR spacer, sequence AGATAAGAGATTCAGGCAAAGGCAATTTAA	
+contig_1	crispr-repeat	421434	421469	?			CRISPR repeat	
+contig_1	crispr-spacer	421470	421499	?			CRISPR spacer, sequence AAAGGAATGATCTTTCATTGTTGAAATCAG	
+contig_1	crispr-repeat	421500	421535	?			CRISPR repeat	
+contig_1	crispr-spacer	421536	421565	?			CRISPR spacer, sequence CCCCTTTTAGTTTTTGCTTTTTTGGATTCT	
+contig_1	crispr-repeat	421566	421601	?			CRISPR repeat	
+contig_1	crispr-spacer	421602	421631	?			CRISPR spacer, sequence AAGGATAAGCACATTAAAGCATTCAATACA	
+contig_1	crispr-repeat	421632	421667	?			CRISPR repeat	
+contig_1	crispr-spacer	421668	421697	?			CRISPR spacer, sequence CTCAAGGATGTCAAGAATGTTCATTTACCC	
+contig_1	crispr-repeat	421698	421733	?			CRISPR repeat	
+contig_1	crispr-spacer	421734	421763	?			CRISPR spacer, sequence ACAAACTTATGACTTTGCCATTTATAAAGA	
+contig_1	crispr-repeat	421764	421799	?			CRISPR repeat	
+contig_1	crispr-spacer	421800	421829	?			CRISPR spacer, sequence ATATGTGCTTATTGCTATATTTCTTAACAA	
+contig_1	crispr-repeat	421830	421865	?			CRISPR repeat	
+contig_1	crispr-spacer	421866	421895	?			CRISPR spacer, sequence GTGTAATTAGTGTTATTAGGTCTTTAATTA	
+contig_1	crispr-repeat	421896	421931	?			CRISPR repeat	
+contig_1	crispr-spacer	421932	421961	?			CRISPR spacer, sequence CTAAGGTGATTAGTCTTAGAAGGTCTTCTA	
+contig_1	crispr-repeat	421962	421997	?			CRISPR repeat	
+contig_1	crispr-spacer	421998	422027	?			CRISPR spacer, sequence CAGAGACCCCTGTCGCTCCTCCGTCTGAAG	
+contig_1	crispr-repeat	422028	422063	?			CRISPR repeat	
+contig_1	crispr-spacer	422064	422093	?			CRISPR spacer, sequence AGCTGGAAGTGATTACCTGCTGCTAATGGT	
+contig_1	crispr-repeat	422094	422129	?			CRISPR repeat	
+contig_1	crispr-spacer	422130	422159	?			CRISPR spacer, sequence AAACAACTTGGTCATTAATAAAGTCATTGC	
+contig_1	crispr-repeat	422160	422195	?			CRISPR repeat	
+contig_1	crispr-spacer	422196	422225	?			CRISPR spacer, sequence GTGCTATTTGTATGGGGTGGATAAAGATTG	
+contig_1	crispr-repeat	422226	422261	?			CRISPR repeat	
+contig_1	crispr-spacer	422262	422291	?			CRISPR spacer, sequence CTAAGCTGATCAATTGCTCAGAAGGTCCTT	
+contig_1	crispr-repeat	422292	422327	?			CRISPR repeat	
+contig_1	crispr-spacer	422328	422357	?			CRISPR spacer, sequence TAAGCACTTATCAAAATAAGCTTTTAAATG	
+contig_1	crispr-repeat	422358	422393	?			CRISPR repeat	
+contig_1	crispr-spacer	422394	422423	?			CRISPR spacer, sequence AGTGATTTTTATCACCGGACTAGAAGATAA	
+contig_1	crispr-repeat	422424	422459	?			CRISPR repeat	
+contig_1	crispr-spacer	422460	422489	?			CRISPR spacer, sequence AGTGATTTTTATCACCGGACTAGAAGATAA	
+contig_1	crispr-repeat	422490	422525	?			CRISPR repeat	
+contig_1	crispr-spacer	422526	422555	?			CRISPR spacer, sequence GAGCGCTCGCCGGACTGTTGATTTAAAAGT	
+contig_1	crispr-repeat	422556	422591	?			CRISPR repeat	
+contig_1	crispr-spacer	422592	422621	?			CRISPR spacer, sequence CTACCTCCTGAACAGGTTCAAAAACTACTA	
+contig_1	crispr-repeat	422622	422657	?			CRISPR repeat	
+contig_1	crispr-spacer	422658	422687	?			CRISPR spacer, sequence TGTTTGCGACCGCGAAATGGTTTTCCGACC	
+contig_1	crispr-repeat	422688	422723	?			CRISPR repeat	
+contig_1	crispr-spacer	422724	422753	?			CRISPR spacer, sequence GTAGGAATCTTTAATAATCCATTAATTGGA	
+contig_1	crispr-repeat	422754	422789	?			CRISPR repeat	
+contig_1	crispr-spacer	422790	422819	?			CRISPR spacer, sequence TTGATGTCGTAATAATTGACGTTGTTTTGA	
+contig_1	crispr-repeat	422820	422855	?			CRISPR repeat	
+contig_1	crispr-spacer	422856	422885	?			CRISPR spacer, sequence AGTAATAATTCTATCTTCTCTTTCTTCTAT	
+contig_1	crispr-repeat	422886	422921	?			CRISPR repeat	
+contig_1	crispr-spacer	422922	422951	?			CRISPR spacer, sequence ACGCCTTTGCCTGAGCAACAGCCTGAATCT	
+contig_1	crispr-repeat	422952	422987	?			CRISPR repeat	
+contig_1	crispr-spacer	422988	423017	?			CRISPR spacer, sequence TCCTCATTTAGTTTAGATAAAGAAACCCCA	
+contig_1	crispr-repeat	423018	423053	?			CRISPR repeat	
+contig_1	crispr-spacer	423054	423083	?			CRISPR spacer, sequence TTGGTAATAGAAGCAAAAATAGAATATTAA	
+contig_1	crispr-repeat	423084	423119	?			CRISPR repeat	
+contig_1	crispr-spacer	423120	423149	?			CRISPR spacer, sequence CAGTTGCAGACATCTATCACTTCTGCACTC	
+contig_1	crispr-repeat	423150	423185	?			CRISPR repeat	
+contig_1	crispr-spacer	423186	423215	?			CRISPR spacer, sequence AAAAAAAATACACCTTGGGGAACTGTTCGC	
+contig_1	crispr-repeat	423216	423251	?			CRISPR repeat	
+contig_1	crispr-spacer	423252	423281	?			CRISPR spacer, sequence ACCTATAAGATGACTTTTAAGCCATTTTTG	
+contig_1	crispr-repeat	423282	423317	?			CRISPR repeat	
+contig_1	crispr-spacer	423318	423347	?			CRISPR spacer, sequence TTCTTTTTAAATTAAATAAAAAATATTTAA	
+contig_1	crispr-repeat	423348	423383	?			CRISPR repeat	
+contig_1	crispr-spacer	423384	423413	?			CRISPR spacer, sequence TGCTGCTCTGATTGCTCACAAAGTTTCTCA	
+contig_1	crispr-repeat	423414	423449	?			CRISPR repeat	
+contig_1	crispr-spacer	423450	423479	?			CRISPR spacer, sequence AAGGTTTAAACGCCCTTATCAGTTGGCATT	
+contig_1	crispr-repeat	423480	423515	?			CRISPR repeat	
+contig_1	crispr-spacer	423516	423545	?			CRISPR spacer, sequence CTACAAATTGGATTGTTTAAAGTGTTGTAT	
+contig_1	crispr-repeat	423546	423581	?			CRISPR repeat	
+contig_1	crispr-spacer	423582	423611	?			CRISPR spacer, sequence CATAATTAGAATAAGCATCTTTTTGAAGGT	
+contig_1	crispr-repeat	423612	423647	?			CRISPR repeat	
+contig_1	crispr-spacer	423648	423677	?			CRISPR spacer, sequence TTATAAAGGATGGTGTTGTGAGATTGGTTT	
+contig_1	crispr-repeat	423678	423713	?			CRISPR repeat	
+contig_1	crispr-spacer	423714	423743	?			CRISPR spacer, sequence AGGCAGCATCTTATTGCTTCCTCCTCCTGT	
+contig_1	crispr-repeat	423744	423779	?			CRISPR repeat	
+contig_1	crispr-spacer	423780	423809	?			CRISPR spacer, sequence CCGATCTGTGATTGACAAAACATTTTGTAG	
+contig_1	crispr-repeat	423810	423845	?			CRISPR repeat	
+contig_1	crispr-spacer	423846	423875	?			CRISPR spacer, sequence ACATTGACTTAATCCGTTTCGATTTATCGA	
+contig_1	crispr-repeat	423876	423911	?			CRISPR repeat	
+contig_1	crispr-spacer	423912	423941	?			CRISPR spacer, sequence TTAAACCTAGAAGATGTGGATTTTAAGGTT	
+contig_1	crispr-repeat	423942	423977	?			CRISPR repeat	
+contig_1	crispr-spacer	423978	424007	?			CRISPR spacer, sequence ATTTAAAGCAGCATTATAACCTCCATTTTC	
+contig_1	crispr-repeat	424008	424043	?			CRISPR repeat	
+contig_1	crispr-spacer	424044	424073	?			CRISPR spacer, sequence CAAGAACACTTAAAACATAAAACCTAATAT	
+contig_1	crispr-repeat	424074	424109	?			CRISPR repeat	
+contig_1	crispr-spacer	424110	424139	?			CRISPR spacer, sequence AAAAATTGACCTATGAATCTCCTCCAAATC	
+contig_1	crispr-repeat	424140	424175	?			CRISPR repeat	
+contig_1	crispr-spacer	424176	424205	?			CRISPR spacer, sequence TTTGAACCTAATCAAGGTGGGTTTGTAATT	
+contig_1	crispr-repeat	424206	424241	?			CRISPR repeat	
+contig_1	crispr-spacer	424242	424271	?			CRISPR spacer, sequence CTGATGCTTCTGCACTATTGGTTGACCCCC	
+contig_1	crispr-repeat	424272	424307	?			CRISPR repeat	
+contig_1	crispr-spacer	424308	424337	?			CRISPR spacer, sequence TAGGTCTTTTTATTAGTGAACCTTCCACAT	
+contig_1	crispr-repeat	424338	424373	?			CRISPR repeat	
+contig_1	crispr-spacer	424374	424403	?			CRISPR spacer, sequence TATATGATTCTTTTTTAAAGTTTTTAAGCT	
+contig_1	crispr-repeat	424404	424439	?			CRISPR repeat	
+contig_1	crispr-spacer	424440	424469	?			CRISPR spacer, sequence AACACAAAAACACCCAAAAGCACCAAAAAA	
+contig_1	crispr-repeat	424470	424505	?			CRISPR repeat	
+contig_1	crispr-spacer	424506	424535	?			CRISPR spacer, sequence TTTATTTTGATAACAACTTTAAATTTTTAA	
+contig_1	crispr-repeat	424536	424571	?			CRISPR repeat	
+contig_1	crispr-spacer	424572	424601	?			CRISPR spacer, sequence GACTTTTACAACTCCCCTTCTTTTTGGTCA	
+contig_1	crispr-repeat	424602	424637	?			CRISPR repeat	
+contig_1	crispr-spacer	424638	424667	?			CRISPR spacer, sequence TTCTCTTCCTGAGATAACATCTAATGCCTT	
+contig_1	crispr-repeat	424668	424703	?			CRISPR repeat	
+contig_1	crispr-spacer	424704	424733	?			CRISPR spacer, sequence TAGGATCTTCTTCATTTTCCAAATGAGGAA	
+contig_1	crispr-repeat	424734	424769	?			CRISPR repeat	
+contig_1	crispr-spacer	424770	424799	?			CRISPR spacer, sequence CTTCGTGGAGTCAATCGTTTGAGTTGAGTG	
+contig_1	crispr-repeat	424800	424835	?			CRISPR repeat	
+contig_1	crispr-spacer	424836	424865	?			CRISPR spacer, sequence ATGTAGTCAAATCTGGCTTGAAAGTCATCT	
+contig_1	crispr-repeat	424866	424901	?			CRISPR repeat	
+contig_1	crispr-spacer	424902	424931	?			CRISPR spacer, sequence TTCTGTGTGCTTTGCTGGTTGAAGAAGACA	
+contig_1	crispr-repeat	424932	424967	?			CRISPR repeat	
+contig_1	crispr-spacer	424968	424998	?			CRISPR spacer, sequence CAATAAAGGATTCGCTGAAACAATATTAAGA	
+contig_1	crispr-repeat	424999	425034	?			CRISPR repeat	
+contig_1	crispr-spacer	425035	425064	?			CRISPR spacer, sequence CTGTTCAAGGTTCAGACAAAACAGATGTGG	
+contig_1	crispr-repeat	425065	425100	?			CRISPR repeat	
+contig_1	crispr-spacer	425101	425130	?			CRISPR spacer, sequence CTTATCAGTACTTATTACTCTCTTTTTGTT	
+contig_1	crispr-repeat	425131	425166	?			CRISPR repeat	
+contig_1	crispr-spacer	425167	425196	?			CRISPR spacer, sequence CAATTACTGATCGTACAGGAAACCAATTAA	
+contig_1	crispr-repeat	425197	425232	?			CRISPR repeat	
+contig_1	crispr-spacer	425233	425262	?			CRISPR spacer, sequence AACACTAAACACAAAAACACCCAAAAGCAC	
+contig_1	crispr-repeat	425263	425298	?			CRISPR repeat	
+contig_1	crispr-spacer	425299	425328	?			CRISPR spacer, sequence AATTAGGTTTTGCAAGTGGTATGCTGACAG	
+contig_1	crispr-repeat	425329	425364	?			CRISPR repeat	
+contig_1	crispr-spacer	425365	425394	?			CRISPR spacer, sequence GACTGAAACCACTTGTCTCAATTTCAATTT	
+contig_1	crispr-repeat	425395	425430	?			CRISPR repeat	
+contig_1	crispr-spacer	425431	425460	?			CRISPR spacer, sequence AACAACCAACAACAGCAATTAAAATTATTC	
+contig_1	crispr-repeat	425461	425496	?			CRISPR repeat	
+contig_1	crispr-spacer	425497	425526	?			CRISPR spacer, sequence TTCAAATACAAAAGAAACAAAATCAAAAGT	
+contig_1	crispr-repeat	425527	425562	?			CRISPR repeat	
+contig_1	crispr-spacer	425563	425592	?			CRISPR spacer, sequence TGGATAAGAGAGCATTCATCAAGGGAATTT	
+contig_1	crispr-repeat	425593	425628	?			CRISPR repeat	
+contig_1	crispr-spacer	425629	425658	?			CRISPR spacer, sequence TGGCTTTTCCTTCATGTCAGCCATTTTTAT	
+contig_1	crispr-repeat	425659	425694	?			CRISPR repeat	
+contig_1	crispr-spacer	425695	425724	?			CRISPR spacer, sequence GACCCCCGCTCGGACTTTATGAATACAAAC	
+contig_1	crispr-repeat	425725	425760	?			CRISPR repeat	
+contig_1	crispr-spacer	425761	425790	?			CRISPR spacer, sequence ACCAATTGATTTAATTAGACCAAAAAATCC	
+contig_1	crispr-repeat	425791	425826	?			CRISPR repeat	
+contig_1	crispr-spacer	425827	425856	?			CRISPR spacer, sequence TTAACAAAAAAAATTAAAAATTAGTTTATG	
+contig_1	crispr-repeat	425857	425892	?			CRISPR repeat	
+contig_1	crispr-spacer	425893	425922	?			CRISPR spacer, sequence AAGACTCAGGGTGGGCAAACAGGTAATTTG	
+contig_1	crispr-repeat	425923	425958	?			CRISPR repeat	
+contig_1	crispr-spacer	425959	425988	?			CRISPR spacer, sequence TTATTGAGTCTAAAAAATTAATTGAATATT	
+contig_1	crispr-repeat	425989	426024	?			CRISPR repeat	
+contig_1	crispr-spacer	426025	426054	?			CRISPR spacer, sequence TTCGACTCCAAAAATAATTAAAATCAATCG	
+contig_1	crispr-repeat	426055	426090	?			CRISPR repeat	
+contig_1	crispr-spacer	426091	426120	?			CRISPR spacer, sequence CAAACATGTTTATATGCAGCTGCTAAATTT	
+contig_1	crispr-repeat	426121	426156	?			CRISPR repeat	
+contig_1	crispr-spacer	426157	426186	?			CRISPR spacer, sequence TGAAGCAGTATCTTTTTTCTTGAAAAAACA	
+contig_1	crispr-repeat	426187	426222	?			CRISPR repeat	
+contig_1	crispr-spacer	426223	426252	?			CRISPR spacer, sequence TCAGTAGTGGGCTAAGTATGCTGTTGCTCT	
+contig_1	crispr-repeat	426253	426288	?			CRISPR repeat	
+contig_1	crispr-spacer	426289	426318	?			CRISPR spacer, sequence AGAGATTGTCAGCAATCAATCAAGTTAAAA	
+contig_1	crispr-repeat	426319	426354	?			CRISPR repeat	
+contig_1	crispr-spacer	426355	426384	?			CRISPR spacer, sequence CGTTATAGGTAATTTTTTGCCTTCTAATAA	
+contig_1	crispr-repeat	426385	426420	?			CRISPR repeat	
+contig_1	crispr-spacer	426421	426450	?			CRISPR spacer, sequence CATTAGACTGAAATTGAGTGACATCTTTGC	
+contig_1	crispr-repeat	426451	426486	?			CRISPR repeat	
+contig_1	crispr-spacer	426487	426516	?			CRISPR spacer, sequence ACTCGAGTTATATTAACGAGGACAAGATAT	
+contig_1	crispr-repeat	426517	426552	?			CRISPR repeat	
+contig_1	crispr-spacer	426553	426582	?			CRISPR spacer, sequence AAACAAAAGAGAGCAGATTTAAGAAGTCAA	
+contig_1	crispr-repeat	426583	426618	?			CRISPR repeat	
+contig_1	crispr-spacer	426619	426648	?			CRISPR spacer, sequence AAGAGATTTTAAAACTAATTAATTAGTTAT	
+contig_1	crispr-repeat	426649	426684	?			CRISPR repeat	
+contig_1	crispr-spacer	426685	426714	?			CRISPR spacer, sequence ATTTTTAATCACTTTTCAGCATCTTTTGAT	
+contig_1	crispr-repeat	426715	426750	?			CRISPR repeat	
+contig_1	crispr-spacer	426751	426780	?			CRISPR spacer, sequence TATTAACCAAATAACATTAGTGATTACTAT	
+contig_1	crispr-repeat	426781	426816	?			CRISPR repeat	
+contig_1	crispr-spacer	426817	426846	?			CRISPR spacer, sequence TCTCACCTTTGACACCACTTAAATTATAAG	
+contig_1	crispr-repeat	426847	426882	?			CRISPR repeat	
+contig_1	crispr-spacer	426883	426912	?			CRISPR spacer, sequence GTAGTTGAGTTGATTTGGTCTTGACCAATA	
+contig_1	crispr-repeat	426913	426948	?			CRISPR repeat	
+contig_1	crispr-spacer	426949	426978	?			CRISPR spacer, sequence TCGCCGCGACTGCCGCACCAGCAGCAACTA	
+contig_1	crispr-repeat	426979	427014	?			CRISPR repeat	
+contig_1	crispr-spacer	427015	427044	?			CRISPR spacer, sequence CCGAGAAGTTAAAAGAGGTGGAGCAGCATG	
+contig_1	crispr-repeat	427045	427080	?			CRISPR repeat	
+contig_1	crispr-spacer	427081	427110	?			CRISPR spacer, sequence CCCCGCTCTCTCACTCGAGATGATTATATA	
+contig_1	crispr-repeat	427111	427146	?			CRISPR repeat	
+contig_1	crispr-spacer	427147	427176	?			CRISPR spacer, sequence CAAGGAGATGTGATACTTTGATTTGAGAGC	
+contig_1	crispr-repeat	427177	427212	?			CRISPR repeat	
+contig_1	crispr-spacer	427213	427242	?			CRISPR spacer, sequence TTGCTGTTGCTTGTTTTGTTTACAGCATCA	
+contig_1	crispr-repeat	427243	427278	?			CRISPR repeat	
+contig_1	crispr-spacer	427279	427308	?			CRISPR spacer, sequence CAAAAAACTTATACATATCAATTTTCATTG	
+contig_1	crispr-repeat	427309	427344	?			CRISPR repeat	
+contig_1	crispr-spacer	427345	427374	?			CRISPR spacer, sequence TAGTTAATGTATTCTTGATAGTGCTTATTG	
+contig_1	crispr-repeat	427375	427410	?			CRISPR repeat	
+contig_1	crispr-spacer	427411	427440	?			CRISPR spacer, sequence ACAATTTATAAAAACAATTTAAAACAATTT	
+contig_1	crispr-repeat	427441	427476	?			CRISPR repeat	
+contig_1	crispr-spacer	427477	427506	?			CRISPR spacer, sequence GTCGATTTGGGTCGTGTGATTGATAAGGTT	
+contig_1	crispr-repeat	427507	427542	?			CRISPR repeat	
+contig_1	crispr-spacer	427543	427572	?			CRISPR spacer, sequence CTCAATAAAATGAAGCAACATTTGCAATGA	
+contig_1	crispr-repeat	427573	427608	?			CRISPR repeat	
+contig_1	crispr-spacer	427609	427638	?			CRISPR spacer, sequence GATTAAAAAGTAATAGAAAAAAGCAATGAA	
+contig_1	crispr-repeat	427639	427674	?			CRISPR repeat	
+contig_1	crispr-spacer	427675	427704	?			CRISPR spacer, sequence CTTAATCAACCTTCTGAATATCGACTAGTT	
+contig_1	crispr-repeat	427705	427740	?			CRISPR repeat	
+contig_1	crispr-spacer	427741	427770	?			CRISPR spacer, sequence CTTAATTTAACAACTTGATTTGATGCTTTT	
+contig_1	crispr-repeat	427771	427806	?			CRISPR repeat	
+contig_1	crispr-spacer	427807	427836	?			CRISPR spacer, sequence ACAGAACCAACGAATCGATGAATCACGCGA	
+contig_1	crispr-repeat	427837	427872	?			CRISPR repeat	
+contig_1	crispr-spacer	427873	427902	?			CRISPR spacer, sequence CACAAAAACACCCTAAGCATGATTAATTCA	
+contig_1	crispr-repeat	427903	427938	?			CRISPR repeat	
+contig_1	crispr-spacer	427939	427968	?			CRISPR spacer, sequence TATTTGCTGCTGTTTGTTGCTTTTTGTGTT	
+contig_1	crispr-repeat	427969	428004	?			CRISPR repeat	
+contig_1	crispr-spacer	428005	428034	?			CRISPR spacer, sequence ATAATTAAATAAGTCAATGTCTCAGCAATA	
+contig_1	crispr-repeat	428035	428070	?			CRISPR repeat	
+contig_1	crispr-spacer	428071	428100	?			CRISPR spacer, sequence ATAGAGATGAAGTTGAACAACTAATAGAAC	
+contig_1	crispr-repeat	428101	428136	?			CRISPR repeat	
+contig_1	crispr-spacer	428137	428166	?			CRISPR spacer, sequence CAGCAAACAAAGCACTCTAAGCTTAAACAT	
+contig_1	crispr-repeat	428167	428202	?			CRISPR repeat	
+contig_1	crispr-spacer	428203	428232	?			CRISPR spacer, sequence AACTGTTTGCTTTTGAACAACATCACCAAA	
+contig_1	crispr-repeat	428233	428268	?			CRISPR repeat	
+contig_1	crispr-spacer	428269	428298	?			CRISPR spacer, sequence TTAAAAAGTTAAAAAGTGGATTCATGAGTG	
+contig_1	crispr-repeat	428299	428334	?			CRISPR repeat	
+contig_1	crispr-spacer	428335	428364	?			CRISPR spacer, sequence TTTACCCGCGTTTTGCTCGGCAACTCAAAG	
+contig_1	crispr-repeat	428365	428400	?			CRISPR repeat	
+contig_1	crispr-spacer	428401	428430	?			CRISPR spacer, sequence ATGAGCAGAAAAGTGAATCACCATACCTAC	
+contig_1	crispr-repeat	428431	428466	?			CRISPR repeat	
+contig_1	crispr-spacer	428467	428496	?			CRISPR spacer, sequence AGGTTTGTTTATATTGTTTGTGTTATTTGT	
+contig_1	crispr-repeat	428497	428532	?			CRISPR repeat	
+contig_1	crispr-spacer	428533	428562	?			CRISPR spacer, sequence ACAATTTATAAAAACAATTTAAAACAATTT	
+contig_1	crispr-repeat	428563	428598	?			CRISPR repeat	
+contig_1	crispr-spacer	428599	428628	?			CRISPR spacer, sequence CTGCTGTTTTTTGTTGTGCTGGAAGAACAC	
+contig_1	crispr-repeat	428629	428664	?			CRISPR repeat	
+contig_1	crispr-spacer	428665	428694	?			CRISPR spacer, sequence TAAGGATATTGCTTATCTAAACCAAAAAAA	
+contig_1	crispr-repeat	428695	428730	?			CRISPR repeat	
+contig_1	crispr-spacer	428731	428760	?			CRISPR spacer, sequence GGGACATCTTAAAAGACTTGTCGGTGAAGT	
+contig_1	crispr-repeat	428761	428796	?			CRISPR repeat	
+contig_1	crispr-spacer	428797	428826	?			CRISPR spacer, sequence CAATTTAGAATTTAATCAAGAGAGAAAAAA	
+contig_1	crispr-repeat	428827	428862	?			CRISPR repeat	
+contig_1	crispr-spacer	428863	428892	?			CRISPR spacer, sequence ATCAGAAAATGATATAGTGGTGGTCTAACA	
+contig_1	crispr-repeat	428893	428928	?			CRISPR repeat	
+contig_1	crispr-spacer	428929	428958	?			CRISPR spacer, sequence GATTTTTTTCTTGAAACATTCAGGGCATTG	
+contig_1	crispr-repeat	428959	428994	?			CRISPR repeat	
+contig_1	crispr-spacer	428995	429024	?			CRISPR spacer, sequence CGTTTTTTAGATTAGGTGATGAATCGGTGA	
+contig_1	crispr-repeat	429025	429060	?			CRISPR repeat	
+contig_1	crispr-spacer	429061	429090	?			CRISPR spacer, sequence CATCTCCCTTTTCACCCTTTGCTGCTGATA	
+contig_1	crispr-repeat	429091	429126	?			CRISPR repeat	
+contig_1	crispr-spacer	429127	429156	?			CRISPR spacer, sequence CTGTCCACAAAGTGCACTGCTTGTTCAAAA	
+contig_1	crispr-repeat	429157	429192	?			CRISPR repeat	
+contig_1	crispr-spacer	429193	429222	?			CRISPR spacer, sequence TTCAAGAAAAATTGTTATTTAAAGTAATGT	
+contig_1	crispr-repeat	429223	429258	?			CRISPR repeat	
+contig_1	crispr-spacer	429259	429288	?			CRISPR spacer, sequence TTCGGTTTAACAATTAAGAAACAATCAAAG	
+contig_1	crispr-repeat	429289	429324	?			CRISPR repeat	
+contig_1	crispr-spacer	429325	429354	?			CRISPR spacer, sequence TCGACGACCTTATTATCCGAAATCAACAAC	
+contig_1	crispr-repeat	429355	429390	?			CRISPR repeat	
+contig_1	crispr-spacer	429391	429420	?			CRISPR spacer, sequence CTAACATTATTACTTCCACCAGTTTTAAAT	
+contig_1	crispr-repeat	429421	429456	?			CRISPR repeat	
+contig_1	crispr-spacer	429457	429486	?			CRISPR spacer, sequence GATGTTGTTCCCTGAGGTTCCGTCCTTGAT	
+contig_1	crispr-repeat	429487	429522	?			CRISPR repeat	
+contig_1	crispr-spacer	429523	429552	?			CRISPR spacer, sequence TTAGACCAATTTTAAGTAAACAATGTGTTT	
+contig_1	crispr-repeat	429553	429588	?			CRISPR repeat	
+contig_1	crispr-spacer	429589	429618	?			CRISPR spacer, sequence CCACTTCTGTAAAATCAATTGAAATAACAT	
+contig_1	crispr-repeat	429619	429654	?			CRISPR repeat	
+contig_1	crispr-spacer	429655	429684	?			CRISPR spacer, sequence ATCGATCAATTTCCACAATATAACCAACCA	
+contig_1	crispr-repeat	429685	429720	?			CRISPR repeat	
+contig_1	crispr-spacer	429721	429750	?			CRISPR spacer, sequence CTTCAACTTGCACTATTTCTTCATCTTCTA	
+contig_1	crispr-repeat	429751	429786	?			CRISPR repeat	
+contig_1	crispr-spacer	429787	429816	?			CRISPR spacer, sequence CAGCGGATTTAGGATACCACTCAGCGCATC	
+contig_1	crispr-repeat	429817	429852	?			CRISPR repeat	
+contig_1	crispr-spacer	429853	429883	?			CRISPR spacer, sequence TGGTATATTAATGCATGAGGAGAGAGATAGA	
+contig_1	crispr-repeat	429884	429919	?			CRISPR repeat	
+contig_1	crispr-spacer	429920	429949	?			CRISPR spacer, sequence CGACTTTTGGGACCAAATTGAACTCGACCT	
+contig_1	crispr-repeat	429950	429985	?			CRISPR repeat	
+contig_1	crispr-spacer	429986	430015	?			CRISPR spacer, sequence AGTCTATAACAATGCTCTTAATGCTAAGTC	
+contig_1	crispr-repeat	430016	430051	?			CRISPR repeat	
+contig_1	crispr-spacer	430052	430081	?			CRISPR spacer, sequence AAGCATCTTTGACATCTGCTAAGAAGGTTC	
+contig_1	crispr-repeat	430082	430117	?			CRISPR repeat	
+contig_1	crispr-spacer	430118	430147	?			CRISPR spacer, sequence GTTATATTTCTTTAGATTGTGCTTTTGATA	
+contig_1	crispr-repeat	430148	430183	?			CRISPR repeat	
+contig_1	crispr-spacer	430184	430213	?			CRISPR spacer, sequence GGATGCTTCTTCTTTTTTAGCTTCTGCTTG	
+contig_1	crispr-repeat	430214	430249	?			CRISPR repeat	
+contig_1	crispr-spacer	430250	430279	?			CRISPR spacer, sequence TTTAAATATGGTTTATTCTTTTTTAAGAAC	
+contig_1	crispr-repeat	430280	430315	?			CRISPR repeat	
+contig_1	crispr-spacer	430316	430345	?			CRISPR spacer, sequence TCTAAACCTGCTGCTGCTGCTATCTCCTTG	
+contig_1	crispr-repeat	430346	430381	?			CRISPR repeat	
+contig_1	crispr-spacer	430382	430411	?			CRISPR spacer, sequence TTTATTTTAATCAAGAGTCTTTGCATGAGA	
+contig_1	crispr-repeat	430412	430447	?			CRISPR repeat	
+contig_1	crispr-spacer	430448	430477	?			CRISPR spacer, sequence TTTTTACCAGCAACTAACATATTGACATTT	
+contig_1	crispr-repeat	430478	430513	?			CRISPR repeat	
+contig_1	crispr-spacer	430514	430543	?			CRISPR spacer, sequence CTAAAATTTGGGGCATCAATTTTTCATCAG	
+contig_1	crispr-repeat	430544	430579	?			CRISPR repeat	
+contig_1	crispr-spacer	430580	430609	?			CRISPR spacer, sequence ACCGCATTCACTACATATTCCGGCACTTGA	
+contig_1	crispr-repeat	430610	430645	?			CRISPR repeat	
+contig_1	crispr-spacer	430646	430675	?			CRISPR spacer, sequence ATGAACTCTTCATTAAGTCTTCTCATATTT	
+contig_1	crispr-repeat	430676	430711	?			CRISPR repeat	
+contig_1	crispr-spacer	430712	430741	?			CRISPR spacer, sequence CTTTTTAGGTCTTAATTTAATTTGTAAAAC	
+contig_1	crispr-repeat	430742	430777	?			CRISPR repeat	
+contig_1	crispr-spacer	430778	430807	?			CRISPR spacer, sequence CAGTTTTCTAGAAGAAAGAGTAGGGAAGCA	
+contig_1	crispr-repeat	430808	430843	?			CRISPR repeat	
+contig_1	crispr-spacer	430844	430873	?			CRISPR spacer, sequence TATTTTGTCAGTAACTTCTTTCATCGTCAA	
+contig_1	crispr-repeat	430874	430909	?			CRISPR repeat	
+contig_1	crispr-spacer	430910	430939	?			CRISPR spacer, sequence ATGCCATCGTTTATCAGAACGCCCTGAACG	
+contig_1	crispr-repeat	430940	430975	?			CRISPR repeat	
+contig_1	crispr-spacer	430976	431005	?			CRISPR spacer, sequence CTGCTGTTGTTTGTCTTGTTTACAATACCA	
+contig_1	crispr-repeat	431006	431041	?			CRISPR repeat	
+contig_1	crispr-spacer	431042	431071	?			CRISPR spacer, sequence CTATTAATTGAATGTAGAACTTGCCTCCTA	
+contig_1	crispr-repeat	431072	431107	?			CRISPR repeat	
+contig_1	crispr-spacer	431108	431137	?			CRISPR spacer, sequence ACTCCCACTAGGGAAGGTTTACAGTTTGCA	
+contig_1	crispr-repeat	431138	431173	?			CRISPR repeat	
+contig_1	crispr-spacer	431174	431203	?			CRISPR spacer, sequence GTAACATTATTACTTCCACCAGTTTTAAAT	
+contig_1	crispr-repeat	431204	431239	?			CRISPR repeat	
+contig_1	crispr-spacer	431240	431269	?			CRISPR spacer, sequence GTTATAGAAGATATAGTTTATGACTGTGCT	
+contig_1	crispr-repeat	431270	431305	?			CRISPR repeat	
+contig_1	crispr-spacer	431306	431336	?			CRISPR spacer, sequence CAAGCATGCCTCACAGTGTTTAACTGTATAA	
+contig_1	crispr-repeat	431337	431372	?			CRISPR repeat	
+contig_1	crispr-spacer	431373	431402	?			CRISPR spacer, sequence AATTCTATACTTCTTGTAGAAGTGGTAACT	
+contig_1	crispr-repeat	431403	431438	?			CRISPR repeat	
+contig_1	crispr-spacer	431439	431468	?			CRISPR spacer, sequence ACCTCTCTAAGATAAAGTGAGTCGATGAGA	
+contig_1	crispr-repeat	431469	431504	?			CRISPR repeat	
+contig_1	crispr-spacer	431505	431534	?			CRISPR spacer, sequence ATTCAAACGGGCAACAATTCCTCCTTGAGT	
+contig_1	crispr-repeat	431535	431570	?			CRISPR repeat	
+contig_1	crispr-spacer	431571	431600	?			CRISPR spacer, sequence AAAGTTCCGCTGATTAAATCGTTTGTCCTT	
+contig_1	crispr-repeat	431601	431636	?			CRISPR repeat	
+contig_1	crispr-spacer	431637	431666	?			CRISPR spacer, sequence AGGTTTCCCTGTTTTTTGAAAAGCTGATTT	
+contig_1	crispr-repeat	431667	431702	?			CRISPR repeat	
+contig_1	crispr-spacer	431703	431732	?			CRISPR spacer, sequence TATCACCAGCAAAAAAAACTGGACCATCAC	
+contig_1	crispr-repeat	431733	431768	?			CRISPR repeat	
+contig_1	crispr-spacer	431769	431798	?			CRISPR spacer, sequence GAAAGTTGCTTCAAAGATAAGCACATTAAA	
+contig_1	crispr-repeat	431799	431834	?			CRISPR repeat	
+contig_1	crispr-spacer	431835	431864	?			CRISPR spacer, sequence AAGAACCATAGAACTTAAACTCATCTATAA	
+contig_1	crispr-repeat	431865	431900	?			CRISPR repeat	
+contig_1	crispr-spacer	431901	431930	?			CRISPR spacer, sequence ACAATTTCTATGTCTGTAATTATGAAAATA	
+contig_1	crispr-repeat	431931	431966	?			CRISPR repeat	
+contig_1	crispr-spacer	431967	431996	?			CRISPR spacer, sequence CTATATATAGTTATGCCTTTCTGTGCCCTA	
+contig_1	crispr-repeat	431997	432032	?			CRISPR repeat	
+contig_1	crispr-spacer	432033	432062	?			CRISPR spacer, sequence ATAAAAATCCACAATCACTATAAAAAATGA	
+contig_1	crispr-repeat	432063	432098	?			CRISPR repeat	
+contig_1	crispr-spacer	432099	432128	?			CRISPR spacer, sequence AAGTGTTGTATTTGTGGCAGCTGTAAGCAT	
+contig_1	crispr-repeat	432129	432164	?			CRISPR repeat	
+contig_1	crispr-spacer	432165	432194	?			CRISPR spacer, sequence CTGTATAAAGTAGTTCTACAACAGTAGAAA	
+contig_1	crispr-repeat	432195	432230	?			CRISPR repeat	
+contig_1	crispr-spacer	432231	432260	?			CRISPR spacer, sequence TCATCTTCTTGTTCACGCTTTTCCAGAATC	
+contig_1	crispr-repeat	432261	432296	?			CRISPR repeat	
+contig_1	crispr-spacer	432297	432326	?			CRISPR spacer, sequence TTGCTCAATTTAATAGTTTAATCTGTTCGT	
+contig_1	crispr-repeat	432327	432362	?			CRISPR repeat	
+contig_1	crispr-spacer	432363	432392	?			CRISPR spacer, sequence CTAACCTCAATATCTAATTCACTATTTAGA	
+contig_1	crispr-repeat	432393	432428	?			CRISPR repeat	
+contig_1	crispr-spacer	432429	432458	?			CRISPR spacer, sequence AATGAAAAAAGGCATCAGAAGAAGAATGAG	
+contig_1	crispr-repeat	432459	432494	?			CRISPR repeat	
+contig_1	crispr-spacer	432495	432524	?			CRISPR spacer, sequence CCTCTTCTGCTATTTGTTTTTGAGTGTATT	
+contig_1	crispr-repeat	432525	432560	?			CRISPR repeat	
+contig_1	crispr-spacer	432561	432590	?			CRISPR spacer, sequence AAAAGATAATGAAATTGTTTTATCAATTAA	
+contig_1	crispr-repeat	432591	432626	?			CRISPR repeat	
+contig_1	crispr-spacer	432627	432656	?			CRISPR spacer, sequence TCATGAATCCACTTTTTTTACTTTTTAAAC	
+contig_1	crispr-repeat	432657	432692	?			CRISPR repeat	
+contig_1	crispr-spacer	432693	432722	?			CRISPR spacer, sequence AAAATAGAAATATGGAACTAAATAAAAAAA	
+contig_1	crispr-repeat	432723	432758	?			CRISPR repeat	
+contig_1	crispr-spacer	432759	432788	?			CRISPR spacer, sequence TTAACTCTTGTTTTAGATGGTAATTCAAAT	
+contig_1	crispr-repeat	432789	432824	?			CRISPR repeat	
+contig_1	crispr-spacer	432825	432854	?			CRISPR spacer, sequence CCATCTTTTAAGAATGGTAAGTTATAGACC	
+contig_1	crispr-repeat	432855	432890	?			CRISPR repeat	
+contig_1	crispr-spacer	432891	432920	?			CRISPR spacer, sequence ATATAAGGAGGTTTTATATATGGCACAAGT	
+contig_1	crispr-repeat	432921	432956	?			CRISPR repeat	
+contig_1	crispr-spacer	432957	432986	?			CRISPR spacer, sequence TAAGTTTAGTTTTAAAAATGGTAAAGTTCG	
+contig_1	crispr-repeat	432987	433022	?			CRISPR repeat	
+contig_1	crispr-spacer	433023	433052	?			CRISPR spacer, sequence ATTCAACGCTTTTGGCAACTAGTTCAAATC	
+contig_1	crispr-repeat	433053	433088	?			CRISPR repeat	
+contig_1	crispr-spacer	433089	433118	?			CRISPR spacer, sequence CACATCTCTTCTCTGCTGAGAAGCGTTCTC	
+contig_1	crispr-repeat	433119	433154	?			CRISPR repeat	
+contig_1	crispr-spacer	433155	433184	?			CRISPR spacer, sequence CTAAGACTGTCAAAACATAAAACCTAATAT	
+contig_1	crispr-repeat	433185	433220	?			CRISPR repeat	
+contig_1	crispr-spacer	433221	433250	?			CRISPR spacer, sequence CTGCTGCTTTTTGTTGTGCTGGAAGAACAC	
+contig_1	crispr-repeat	433251	433286	?			CRISPR repeat	
+contig_1	crispr-spacer	433287	433316	?			CRISPR spacer, sequence TTCTAGATTATGTAATCTGCCCCATATTCT	
+contig_1	crispr-repeat	433317	433352	?			CRISPR repeat	
+contig_1	crispr-spacer	433353	433382	?			CRISPR spacer, sequence AATACTTTAAACTTCTGGTTTCAAAATATA	
+contig_1	crispr-repeat	433383	433418	?			CRISPR repeat	
+contig_1	crispr-spacer	433419	433448	?			CRISPR spacer, sequence CCAAAAACAGAGAACAAATCTTAAATAAAT	
+contig_1	crispr-repeat	433449	433484	?			CRISPR repeat	
+contig_1	crispr-spacer	433485	433514	?			CRISPR spacer, sequence AAGGTCATCTTAAACGTGTTGTTAGTGAAG	
+contig_1	crispr-repeat	433515	433550	?			CRISPR repeat	
+contig_1	crispr-spacer	433551	433580	?			CRISPR spacer, sequence ACTCCCACCCTTCACTAGTCAACATCAAAA	
+contig_1	crispr-repeat	433581	433616	?			CRISPR repeat	
+contig_1	crispr-spacer	433617	433646	?			CRISPR spacer, sequence CTGCTGTCTTTTGTTGTGCTGGAAGAACAC	
+contig_1	crispr-repeat	433647	433682	?			CRISPR repeat	
+contig_1	crispr-spacer	433683	433712	?			CRISPR spacer, sequence GAAGCATCTTATTATCTTCCAGTAGGCATA	
+contig_1	crispr-repeat	433713	433748	?			CRISPR repeat	
+contig_1	crispr-spacer	433749	433778	?			CRISPR spacer, sequence AACCTTTTCATCTTGAAAAAAGATTAATTC	
+contig_1	crispr-repeat	433779	433814	?			CRISPR repeat	
+contig_1	crispr-spacer	433815	433844	?			CRISPR spacer, sequence AGCATCAACCAAAGAATAGGCTTAAAATGA	
+contig_1	crispr-repeat	433845	433880	?			CRISPR repeat	
+contig_1	crispr-spacer	433881	433910	?			CRISPR spacer, sequence ATGCCTTTAATGAATGCCCTTTTATCTACT	
+contig_1	crispr-repeat	433911	433946	?			CRISPR repeat	
+contig_1	crispr-spacer	433947	433976	?			CRISPR spacer, sequence TAAATTAACTGTGAAATCATTAATGTTTTC	
+contig_1	crispr-repeat	433977	434012	?			CRISPR repeat	
+contig_1	crispr-spacer	434013	434042	?			CRISPR spacer, sequence TTGAGGTCAATTATCAAATTTTTAGTTGAA	
+contig_1	crispr-repeat	434043	434078	?			CRISPR repeat	
+contig_1	crispr-spacer	434079	434108	?			CRISPR spacer, sequence TCAAGAGCAGCAGACATGTGCTTGCCCACC	
+contig_1	crispr-repeat	434109	434144	?			CRISPR repeat	
+contig_1	crispr-spacer	434145	434174	?			CRISPR spacer, sequence ATAGGTTCCAACCTTAGCATTAGAAACTTC	
+contig_1	crispr-repeat	434175	434210	?			CRISPR repeat	
+contig_1	crispr-spacer	434211	434240	?			CRISPR spacer, sequence TTGGTAGTTTTTTAAGGTAGAATTTGCTGC	
+contig_1	crispr-repeat	434241	434276	?			CRISPR repeat	
+contig_1	crispr-spacer	434277	434306	?			CRISPR spacer, sequence AATGCTTCTAAGCTTAGCAATTACTTTTTG	
+contig_1	crispr-repeat	434307	434342	?			CRISPR repeat	
+contig_1	crispr-spacer	434343	434372	?			CRISPR spacer, sequence TGGTTGCAAGATCTTCTGCTCAATAAATCC	
+contig_1	crispr-repeat	434373	434408	?			CRISPR repeat	
+contig_1	crispr-spacer	434409	434438	?			CRISPR spacer, sequence TTTGTGTAAAGAACTCAACCAAATAACAGA	
+contig_1	crispr-repeat	434439	434474	?			CRISPR repeat	
+contig_1	crispr-spacer	434475	434504	?			CRISPR spacer, sequence TTAAATAAGCTTTTAAAAAATCAGGGAAAC	
+contig_1	crispr-repeat	434505	434540	?			CRISPR repeat	
+contig_1	crispr-spacer	434541	434570	?			CRISPR spacer, sequence GAAGAACTTTTCAAAAAGTAAAAAATGGTG	
+contig_1	crispr-repeat	434571	434606	?			CRISPR repeat	
+contig_1	crispr-spacer	434607	434636	?			CRISPR spacer, sequence GTAGTATCAAGAAACTAATCCACTCATTAA	
+contig_1	crispr-repeat	434637	434672	?			CRISPR repeat	
+contig_1	crispr-spacer	434673	434702	?			CRISPR spacer, sequence TTTAAAAATCTTTTAAATCAGTTCATTAAT	
+contig_1	crispr-repeat	434703	434738	?			CRISPR repeat	
+contig_1	crispr-spacer	434739	434768	?			CRISPR spacer, sequence AACCAAAAATTAGAAAAGCAGCAAAGAAAA	
+contig_1	crispr-repeat	434769	434804	?			CRISPR repeat	
+contig_1	crispr-spacer	434805	434834	?			CRISPR spacer, sequence GAAGTGATCAGCTTCTTAAATTGACCTTCA	
+contig_1	crispr-repeat	434835	434870	?			CRISPR repeat	
+contig_1	crispr-spacer	434871	434900	?			CRISPR spacer, sequence TGCCTTGGTCTTCTTCAAACCAACCTCTAA	
+contig_1	crispr-repeat	434901	434936	?			CRISPR repeat	
+contig_1	crispr-spacer	434937	434966	?			CRISPR spacer, sequence CTTCTTGCTTAGCTCCTTAGACCTCTCATC	
+contig_1	crispr-repeat	434967	435002	?			CRISPR repeat	
+contig_1	crispr-spacer	435003	435032	?			CRISPR spacer, sequence TAATCAGCAATATAAGGTGAGAATTAAATA	
+contig_1	crispr-repeat	435033	435068	?			CRISPR repeat	
+contig_1	crispr-spacer	435069	435098	?			CRISPR spacer, sequence ACTGACTTCATGATGAAGGACAGTATTCTC	
+contig_1	crispr-repeat	435099	435134	?			CRISPR repeat	
+contig_1	crispr-spacer	435135	435164	?			CRISPR spacer, sequence TACTTCTTAAAATAGCAGTAAATGAAATTG	
+contig_1	crispr-repeat	435165	435200	?			CRISPR repeat	
+contig_1	crispr-spacer	435201	435230	?			CRISPR spacer, sequence TATGTGCTTCTTTTACTTTTCTTAACAATA	
+contig_1	crispr-repeat	435231	435266	?			CRISPR repeat	
+contig_1	crispr-spacer	435267	435296	?			CRISPR spacer, sequence TTTTTTTTGTGCTGTTTAACACTAAAAAGT	
+contig_1	crispr-repeat	435297	435332	?			CRISPR repeat	
+contig_1	crispr-spacer	435333	435362	?			CRISPR spacer, sequence ACCTTTTTTTCTGAAATTTAATTGGTTTTC	
+contig_1	crispr-repeat	435363	435398	?			CRISPR repeat	
+contig_1	crispr-spacer	435399	435428	?			CRISPR spacer, sequence CAGTCCAAAGAACACAGTTTTTAGACAGAA	
+contig_1	crispr-repeat	435429	435464	?			CRISPR repeat	
+contig_1	crispr-spacer	435465	435494	?			CRISPR spacer, sequence TGGAAAAGTTGACAGATGTTCTTCAATCTC	
+contig_1	crispr-repeat	435495	435530	?			CRISPR repeat	
+contig_1	crispr-spacer	435531	435560	?			CRISPR spacer, sequence ATAATTTCATAGGCAAGAGATTGAAGAACA	
+contig_1	crispr-repeat	435561	435596	?			CRISPR repeat	
+contig_1	crispr-spacer	435597	435626	?			CRISPR spacer, sequence AATATAAGGACTCCTTTTTAAATTAATCAC	
+contig_1	crispr-repeat	435627	435662	?			CRISPR repeat	
+contig_1	crispr-spacer	435663	435692	?			CRISPR spacer, sequence TATTTGCTGGTGTTTTAGGGTGTTTAGTGT	
+contig_1	crispr-repeat	435693	435728	?			CRISPR repeat	
+contig_1	crispr-spacer	435729	435758	?			CRISPR spacer, sequence CTTAAACATTGGTGAGGACTATCCTGGAAG	
+contig_1	crispr-repeat	435759	435794	?			CRISPR repeat	
+contig_1	crispr-spacer	435795	435824	?			CRISPR spacer, sequence TGATATGTCCGGATTAAATCCACTCGCTCC	
+contig_1	crispr-repeat	435825	435860	?			CRISPR repeat	
+contig_1	crispr-spacer	435861	435890	?			CRISPR spacer, sequence GAAAGATAATGAACTTGTTTTATCTGTTAA	
+contig_1	crispr-repeat	435891	435926	?			CRISPR repeat	
+contig_1	crispr-spacer	435927	435956	?			CRISPR spacer, sequence CCATGCCAACAGTATAAAGCAATTCAACTA	
+contig_1	crispr-repeat	435957	435992	?			CRISPR repeat	
+contig_1	crispr-spacer	435993	436022	?			CRISPR spacer, sequence AAAGTAAATCATAAATCACTTCACGGATTC	
+contig_1	crispr-repeat	436023	436058	?			CRISPR repeat	
+contig_1	crispr-spacer	436059	436088	?			CRISPR spacer, sequence AAAAGAACTAATCAATTTTTCCTTTTTTTC	
+contig_1	crispr-repeat	436089	436124	?			CRISPR repeat	
+contig_1	crispr-spacer	436125	436154	?			CRISPR spacer, sequence AAACAATCCAGCTTGTAAATTGTGTCACAG	
+contig_1	crispr-repeat	436155	436190	?			CRISPR repeat	
+contig_1	crispr-spacer	436191	436220	?			CRISPR spacer, sequence ATGTTTTTGTTGTAGGTGAAATGAATGAAT	
+contig_1	crispr-repeat	436221	436256	?			CRISPR repeat	
+contig_1	crispr-spacer	436257	436286	?			CRISPR spacer, sequence GTCTGAGTGTGTACAGCATCATTTTTATTT	
+contig_1	crispr-repeat	436287	436322	?			CRISPR repeat	
+contig_1	crispr-spacer	436323	436352	?			CRISPR spacer, sequence TCCTGGCTTAAAAAGACCTCAAAGGTGCTA	
+contig_1	crispr-repeat	436353	436388	?			CRISPR repeat	
+contig_1	crispr-spacer	436389	436418	?			CRISPR spacer, sequence TGAGTTGAAGGTGCTTTTTTTGAAAGCACA	
+contig_1	crispr-repeat	436419	436454	?			CRISPR repeat	
+contig_1	crispr-spacer	436455	436484	?			CRISPR spacer, sequence CTGCTTTTAAAATAACAATAAGAAACAACC	
+contig_1	crispr-repeat	436485	436520	?			CRISPR repeat	
+contig_1	crispr-spacer	436521	436550	?			CRISPR spacer, sequence GACTGATGAAAAAAGAATATCTTTTATTTC	
+contig_1	crispr-repeat	436551	436586	?			CRISPR repeat	
+contig_1	crispr-spacer	436587	436616	?			CRISPR spacer, sequence CTTTGATGACCTCTTTAATGGATTTAAAAA	
+contig_1	crispr-repeat	436617	436652	?			CRISPR repeat	
+contig_1	crispr-spacer	436653	436682	?			CRISPR spacer, sequence ATAAATAAAGAAAATCTAGAATTAATTTCT	
+contig_1	crispr-repeat	436683	436718	?			CRISPR repeat	
+contig_1	crispr-spacer	436719	436748	?			CRISPR spacer, sequence GATAAACTGACTGCTTGCATGAAGAAGACC	
+contig_1	crispr-repeat	436749	436784	?			CRISPR repeat	
+contig_1	crispr-spacer	436785	436814	?			CRISPR spacer, sequence GGGTGCTGACAAGATGATATTAGATAAGTT	
+contig_1	crispr-repeat	436815	436850	?			CRISPR repeat	
+contig_1	crispr-spacer	436851	436880	?			CRISPR spacer, sequence TCTTTGATACAAATCAACAACTGACAAATC	
+contig_1	crispr-repeat	436881	436916	?			CRISPR repeat	
+contig_1	crispr-spacer	436917	436946	?			CRISPR spacer, sequence CAGTTTTTATTTGTATGTCAGAAAAAGAAA	
+contig_1	crispr-repeat	436947	436982	?			CRISPR repeat	
+contig_1	crispr-spacer	436983	437012	?			CRISPR spacer, sequence GTCTAGGTCTTGTTTTAGGCAAAGCAGTTG	
+contig_1	crispr-repeat	437013	437048	?			CRISPR repeat	
+contig_1	crispr-spacer	437049	437078	?			CRISPR spacer, sequence ATATTTTCAATCCCTTCTATTTGTTTATTT	
+contig_1	crispr-repeat	437079	437114	?			CRISPR repeat	
+contig_1	crispr-spacer	437115	437144	?			CRISPR spacer, sequence TGAAAAGTCTACTGGTTCAATCTTTAACAT	
+contig_1	crispr-repeat	437145	437180	?			CRISPR repeat	
+contig_1	crispr-spacer	437181	437210	?			CRISPR spacer, sequence TGAGTGATTGAAATCTTCTTTTGCTGATTC	
+contig_1	crispr-repeat	437211	437246	?			CRISPR repeat	
+contig_1	crispr-spacer	437247	437277	?			CRISPR spacer, sequence ATAGTGGCAAAATGGCATCTAAGATTGAAGG	
+contig_1	crispr-repeat	437278	437313	?			CRISPR repeat	
+contig_1	crispr-spacer	437314	437343	?			CRISPR spacer, sequence TTTTGCTTATATCAATTCAGCAGTTGAATT	
+contig_1	crispr-repeat	437344	437379	?			CRISPR repeat	
+contig_1	crispr-spacer	437380	437409	?			CRISPR spacer, sequence TTAAAACCTCTTATTTCAACCTCAACCCCA	
+contig_1	crispr-repeat	437410	437445	?			CRISPR repeat	
+contig_1	crispr-spacer	437446	437475	?			CRISPR spacer, sequence TGAATTTGTTCACAGCAACAGGTCCAAATT	
+contig_1	crispr-repeat	437476	437511	?			CRISPR repeat	
+contig_1	crispr-spacer	437512	437541	?			CRISPR spacer, sequence TGCCTTCGATGAACATTTTAAGCAAAAAAA	
+contig_1	crispr-repeat	437542	437577	?			CRISPR repeat	
+contig_1	crispr-spacer	437578	437607	?			CRISPR spacer, sequence CTAAAACTCCAAGCTTCTCCATAATTGGGA	
+contig_1	crispr-repeat	437608	437643	?			CRISPR repeat	
+contig_1	crispr-spacer	437644	437673	?			CRISPR spacer, sequence CAATAAGTTATTAAATACATCATTAAAGGC	
+contig_1	crispr-repeat	437674	437709	?			CRISPR repeat	
+contig_1	crispr-spacer	437710	437739	?			CRISPR spacer, sequence CAAGTCTAAATCTAAGTTGATTCTCATTAA	
+contig_1	crispr-repeat	437740	437775	?			CRISPR repeat	
+contig_1	crispr-spacer	437776	437805	?			CRISPR spacer, sequence CTCGTCTACCTATCTATCCGATAGTTAAGT	
+contig_1	crispr-repeat	437806	437841	?			CRISPR repeat	
+contig_1	crispr-spacer	437842	437871	?			CRISPR spacer, sequence GGGTAATATGATGTGAAAACCATTGTTGAA	
+contig_1	crispr-repeat	437872	437907	?			CRISPR repeat	
+contig_1	crispr-spacer	437908	437937	?			CRISPR spacer, sequence CTTAATATTTTTAAATGAAAAGGCCTCTTT	
+contig_1	crispr-repeat	437938	437973	?			CRISPR repeat	
+contig_1	crispr-spacer	437974	438003	?			CRISPR spacer, sequence TTGTTTTGCTGTTGAATTACTGGGTTGGTT	
+contig_1	crispr-repeat	438004	438039	?			CRISPR repeat	
+contig_1	crispr-spacer	438040	438071	?			CRISPR spacer, sequence TCTGATGAAAATTTTTTTGTTATATAGGTATC	
+contig_1	crispr-repeat	438072	438107	?			CRISPR repeat	
+contig_1	crispr-spacer	438108	438137	?			CRISPR spacer, sequence ACAAACAACATTTTAAGCATGATTCCATAG	
+contig_1	crispr-repeat	438138	438173	?			CRISPR repeat	
+contig_1	crispr-spacer	438174	438203	?			CRISPR spacer, sequence TACCAAAAGAGTCTACTTGAACAAGGATTT	
+contig_1	crispr-repeat	438204	438239	?			CRISPR repeat	
+contig_1	crispr-spacer	438240	438269	?			CRISPR spacer, sequence GGGATGTGACAGAGACTTGAGCAATGTTGA	
+contig_1	crispr-repeat	438270	438305	?			CRISPR repeat	
+contig_1	crispr-spacer	438306	438335	?			CRISPR spacer, sequence TTTCTAGCAATTCCATAAACTCTGCTTTAT	
+contig_1	crispr-repeat	438336	438371	?			CRISPR repeat	
+contig_1	crispr-spacer	438372	438401	?			CRISPR spacer, sequence CTCAAAGTGCTGAGAATAGATGGTGTGAAA	
+contig_1	crispr-repeat	438402	438437	?			CRISPR repeat	
+contig_1	crispr-spacer	438438	438467	?			CRISPR spacer, sequence TCCAAATATGTCCTGTAAGAATTGAACTAT	
+contig_1	crispr-repeat	438468	438503	?			CRISPR repeat	
+contig_1	crispr-spacer	438504	438533	?			CRISPR spacer, sequence CATCAGCAGAAATTTTAATTACTGGATTAG	
+contig_1	crispr-repeat	438534	438569	?			CRISPR repeat	
+contig_1	crispr-spacer	438570	438599	?			CRISPR spacer, sequence ACCTCCAAAGCGATTTTCAATTAGAAATTG	
+contig_1	crispr-repeat	438600	438635	?			CRISPR repeat	
+contig_1	crispr-spacer	438636	438665	?			CRISPR spacer, sequence TGAAATGTTGATTAAACAGAACACGAAAAC	
+contig_1	crispr-repeat	438666	438701	?			CRISPR repeat	
+contig_1	crispr-spacer	438702	438731	?			CRISPR spacer, sequence CTGGTTTGCCTGGACCAACTGTCTGCTCAT	
+contig_1	crispr-repeat	438732	438767	?			CRISPR repeat	
+contig_1	crispr-spacer	438768	438797	?			CRISPR spacer, sequence CATGTTCAGTCCTCTACATTAACATACTGT	
+contig_1	crispr-repeat	438798	438833	?			CRISPR repeat	
+contig_1	crispr-spacer	438834	438863	?			CRISPR spacer, sequence TCAGAGGACACTATCCTTAAACCTCAAGCA	
+contig_1	crispr-repeat	438864	438899	?			CRISPR repeat	
+contig_1	crispr-spacer	438900	438929	?			CRISPR spacer, sequence TTAAAGGCAAGAATGGACAAACTTGAGAAA	
+contig_1	crispr-repeat	438930	438965	?			CRISPR repeat	
+contig_1	crispr-spacer	438966	438995	?			CRISPR spacer, sequence TTGGTAGACCTGTGTTTGGCAAGAAAAAAG	
+contig_1	crispr-repeat	438996	439031	?			CRISPR repeat	
+contig_1	crispr-spacer	439032	439061	?			CRISPR spacer, sequence TTATTAATTTCTGGTCTTAAAAGTTAATTA	
+contig_1	crispr-repeat	439062	439097	?			CRISPR repeat	
+contig_1	crispr-spacer	439098	439127	?			CRISPR spacer, sequence TCTTCAACCATCATTTTGAGACCTAAAAAT	
+contig_1	crispr-repeat	439128	439163	?			CRISPR repeat	
+contig_1	crispr-spacer	439164	439193	?			CRISPR spacer, sequence TTTGTCATCTAGTTATCCTCCTCCTCTTCT	
+contig_1	crispr-repeat	439194	439229	?			CRISPR repeat	
+contig_1	crispr-spacer	439230	439259	?			CRISPR spacer, sequence TCCACTCATGAATCCACCATTTTTTACTTT	
+contig_1	crispr-repeat	439260	439295	?			CRISPR repeat	
+contig_1	crispr-spacer	439296	439325	?			CRISPR spacer, sequence AACACTAATCCCAACTCGTTGATAACGACA	
+contig_1	crispr-repeat	439326	439361	?			CRISPR repeat	
+contig_1	crispr-spacer	439362	439391	?			CRISPR spacer, sequence AAATGAATCTGATACTTAAAAGAACATACA	
+contig_1	crispr-repeat	439392	439427	?			CRISPR repeat	
+contig_1	crispr-spacer	439428	439457	?			CRISPR spacer, sequence CTGGTTAAATAACATCAAAGAAGAGCATGT	
+contig_1	crispr-repeat	439458	439493	?			CRISPR repeat	
+contig_1	crispr-spacer	439494	439523	?			CRISPR spacer, sequence AATCAGATCATTAGTATTCTTTAAGTCTGC	
+contig_1	crispr-repeat	439524	439559	?			CRISPR repeat	
+contig_1	crispr-spacer	439560	439589	?			CRISPR spacer, sequence CATACTTGAAATTGACGTTTTCAACAACAC	
+contig_1	crispr-repeat	439590	439625	?			CRISPR repeat	
+contig_1	crispr-spacer	439626	439655	?			CRISPR spacer, sequence AGCAGACGATTGAAACTGAGGGAGACTTCC	
+contig_1	crispr-repeat	439656	439691	?			CRISPR repeat	
+contig_1	crispr-spacer	439692	439722	?			CRISPR spacer, sequence GAATATAATTTAATGCTTCCTCCTTTTTTTT	
+contig_1	crispr-repeat	439723	439758	?			CRISPR repeat	
+contig_1	crispr-spacer	439759	439788	?			CRISPR spacer, sequence CTTTTTGATATTGTAGACAACTTAAACAGC	
+contig_1	crispr-repeat	439789	439824	?			CRISPR repeat	
+contig_1	crispr-spacer	439825	439854	?			CRISPR spacer, sequence AGCGTTGCCAGAGGCGTTCGCTCAACCTCC	
+contig_1	crispr-repeat	439855	439890	?			CRISPR repeat	
+contig_1	crispr-spacer	439891	439920	?			CRISPR spacer, sequence TTTCCTACATGTGGAAAAATCACTTTATCA	
+contig_1	crispr-repeat	439921	439956	?			CRISPR repeat	
+contig_1	crispr-spacer	439957	439986	?			CRISPR spacer, sequence AGAGAAAACCACAGTCACTATAAAAAATAA	
+contig_1	crispr-repeat	439987	440022	?			CRISPR repeat	
+contig_1	crispr-spacer	440023	440052	?			CRISPR spacer, sequence AAAAATCTTGTGAAATCTGGCATATTCTAG	
+contig_1	crispr-repeat	440053	440088	?			CRISPR repeat	
+contig_1	crispr-spacer	440089	440118	?			CRISPR spacer, sequence TTCTCTTTGTTTCTTTTTTGACAAAAAAAA	
+contig_1	crispr-repeat	440119	440154	?			CRISPR repeat	
+contig_1	crispr-spacer	440155	440185	?			CRISPR spacer, sequence CCAAAATGTCTTTATGATATCACCCATCAAT	
+contig_1	crispr-repeat	440186	440221	?			CRISPR repeat	
+contig_1	crispr-spacer	440222	440251	?			CRISPR spacer, sequence ATCAATAAAAGTTTTTAATAGTCTGCTCTT	
+contig_1	crispr-repeat	440252	440287	?			CRISPR repeat	
+contig_1	crispr-spacer	440288	440317	?			CRISPR spacer, sequence TGAGAACCTTCTGAACCGCATTGTTGATTA	
+contig_1	crispr-repeat	440318	440353	?			CRISPR repeat	
+contig_1	crispr-spacer	440354	440363	?			CRISPR spacer, sequence CAATAACAAT	
+contig_1	cds	440473	441675	-	GCA_965226525_0343		hypothetical protein	
+contig_1	cds	441678	442025	-	GCA_965226525_0344		hypothetical protein	
+contig_1	tRNA	442197	442272	+	GCA_965226525_0345	trnfM	tRNA-fMet(cat)	SO:0000266
+contig_1	tRNA	442303	442378	+	GCA_965226525_0346	trnD	tRNA-Asp(gtc)	SO:0000256
+contig_1	cds	442902	445361	-	GCA_965226525_0347		hypothetical protein	PFAM:PF00521.26, PFAM:PF03989.18
+contig_1	cds	445365	447362	-	GCA_965226525_0348		hypothetical protein	PFAM:PF00204.31, PFAM:PF02518.31
+contig_1	cds	447426	448268	-	GCA_965226525_0349		hypothetical protein	PFAM:PF00702.32, PFAM:PF08282.18
+contig_1	cds	448444	449274	+	GCA_965226525_0350		hypothetical protein	PFAM:PF03167.24
+contig_1	cds	449407	449589	+	GCA_965226525_0351		hypothetical protein	
+contig_1	cds	449611	450168	+	GCA_965226525_0352		hypothetical protein	
+contig_1	cds	450198	451322	-	GCA_965226525_0353		hypothetical protein	PFAM:PF00712.24, PFAM:PF02767.21, PFAM:PF02768.20
+contig_1	cds	451486	452790	-	GCA_965226525_0354		hypothetical protein	PFAM:PF00004.35, PFAM:PF00308.24, PFAM:PF01695.23, PFAM:PF08299.17
+contig_1	cds	453355	454563	+	GCA_965226525_0355		hypothetical protein	
+contig_1	cds	454527	454985	+	GCA_965226525_0356		hypothetical protein	
+contig_1	cds	455006	455782	+	GCA_965226525_0357		hypothetical protein	PFAM:PF01026.27
+contig_1	cds	455790	456710	+	GCA_965226525_0358		hypothetical protein	
+contig_1	cds	456738	457988	+	GCA_965226525_0359		hypothetical protein	PFAM:PF00587.30, PFAM:PF02403.27
+contig_1	cds	458265	459776	+	GCA_965226525_0360		hypothetical protein	PFAM:PF00004.35, PFAM:PF07728.20, PFAM:PF13177.12, PFAM:PF13401.12, PFAM:PF22608.2
+contig_1	cds	459778	460422	+	GCA_965226525_0361		hypothetical protein	PFAM:PF02223.23
+contig_1	cds	460398	461321	+	GCA_965226525_0362		hypothetical protein	PFAM:PF13177.12
+contig_1	cds	461343	461468	+	GCA_965226525_0363		hypothetical protein	
+contig_1	cds	461749	461880	-	GCA_965226525_0364		hypothetical protein	
+contig_1	crispr	462151	462458	?			CRISPR array with 5 repeats of length 36, consensus sequence GGCAAAAACCTCTGGGTTATCTCAGAGAATTGCACC and spacer length 30	SO:0001459
+contig_1	crispr-repeat	462151	462186	?			CRISPR repeat	
+contig_1	crispr-spacer	462187	462216	?			CRISPR spacer, sequence ATATTTGTTCAAGCTCATTCATTGCTTTTC	
+contig_1	crispr-repeat	462217	462252	?			CRISPR repeat	
+contig_1	crispr-spacer	462253	462282	?			CRISPR spacer, sequence TAAAATTCCTCTTTGAAAATAAAATTGTTT	
+contig_1	crispr-repeat	462283	462318	?			CRISPR repeat	
+contig_1	crispr-spacer	462319	462348	?			CRISPR spacer, sequence ATGTAGAGGTTCTCTTTTGTTTTGTTTGAA	
+contig_1	crispr-repeat	462349	462384	?			CRISPR repeat	
+contig_1	crispr-spacer	462385	462414	?			CRISPR spacer, sequence TCCAGAAGTTGTTAGGTCTGGTGTAAATGT	
+contig_1	crispr-repeat	462415	462450	?			CRISPR repeat	
+contig_1	crispr-spacer	462451	462458	?			CRISPR spacer, sequence CCTGATTA	
+contig_1	cds	462639	465434	+	GCA_965226525_0365		hypothetical protein	
+contig_1	cds	465515	467422	+	GCA_965226525_0366	ftsH	ATP-dependent zinc metalloprotease FtsH	SO:0001217, UniRef:UniRef50_Q6F0E5
+contig_1	cds	467843	469204	+	GCA_965226525_0367		hypothetical protein	PFAM:PF00772.26, PFAM:PF03796.21, PFAM:PF13481.12
+contig_1	cds	469208	469870	+	GCA_965226525_0368		hypothetical protein	
+contig_1	cds	469898	470578	+	GCA_965226525_0369		Uracil-DNA glycosylase	SO:0001217, UniRef:UniRef50_A0A0R2K2W6
+contig_1	cds	470591	471553	+	GCA_965226525_0370		hypothetical protein	
+contig_1	cds	471587	473020	+	GCA_965226525_0371		hypothetical protein	PFAM:PF01406.26
+contig_1	cds	473007	473744	+	GCA_965226525_0372		hypothetical protein	
+contig_1	cds	473757	475070	-	GCA_965226525_0373		hypothetical protein	PFAM:PF00591.27, PFAM:PF02885.22, PFAM:PF07831.19
+contig_1	cds	475640	476200	+	GCA_965226525_0374		hypothetical protein	
+contig_1	cds	476204	476638	+	GCA_965226525_0375		Large ribosomal subunit protein uL11	SO:0001217, UniRef:UniRef50_P47327
+contig_1	cds	476650	477342	+	GCA_965226525_0376		hypothetical protein	PFAM:PF00687.26
+contig_1	cds	477476	477991	+	GCA_965226525_0377		hypothetical protein	
+contig_1	cds	478282	478710	+	GCA_965226525_0378		hypothetical protein	PFAM:PF00542.24, PFAM:PF16320.10
+contig_1	cds	478771	479070	+	GCA_965226525_0379		hypothetical protein	
+contig_1	cds	479083	479589	+	GCA_965226525_0380		hypothetical protein	PFAM:PF00436.31
+contig_1	cds	479579	479857	+	GCA_965226525_0381		Small ribosomal subunit protein bS18	SO:0001217, UniRef:UniRef50_P66457
+contig_1	cds	479875	481332	+	GCA_965226525_0382		hypothetical protein	PFAM:PF00749.27, PFAM:PF19269.4
+contig_1	cds	481308	482489	+	GCA_965226525_0383		hypothetical protein	
+contig_1	cds	482522	483457	+	GCA_965226525_0384		hypothetical protein	PFAM:PF00070.33, PFAM:PF07992.20
+contig_1	cds	483554	484495	-	GCA_965226525_0385		hypothetical protein	
+contig_1	cds	484768	486411	+	GCA_965226525_0386		hypothetical protein	PFAM:PF03485.21, PFAM:PF05746.21
+contig_1	cds	486426	488051	+	GCA_965226525_0387		hypothetical protein	PFAM:PF00117.34, PFAM:PF06418.20, PFAM:PF07722.19
+contig_1	cds	488100	491816	+	GCA_965226525_0388		hypothetical protein	PFAM:PF00562.33, PFAM:PF04560.25, PFAM:PF04561.19, PFAM:PF04565.21, PFAM:PF10385.14
+contig_1	cds	491823	495560	+	GCA_965226525_0389		hypothetical protein	PFAM:PF00623.25, PFAM:PF04983.23, PFAM:PF04997.17, PFAM:PF04998.22, PFAM:PF05000.22
+contig_1	cds	495529	496017	+	GCA_965226525_0390		hypothetical protein	
+contig_1	cds	496255	497853	-	GCA_965226525_0391		hypothetical protein	PFAM:PF01541.30, PFAM:PF08459.17, PFAM:PF22920.2
+contig_1	cds	497964	498266	+	GCA_965226525_0392		Small ribosomal subunit protein uS10	SO:0001217, UniRef:UniRef50_Q2LQA2
+contig_1	cds	498281	499051	+	GCA_965226525_0393		hypothetical protein	
+contig_1	cds	499044	499742	+	GCA_965226525_0394		hypothetical protein	
+contig_1	cds	499755	500165	+	GCA_965226525_0395		hypothetical protein	
+contig_1	cds	500152	501000	+	GCA_965226525_0396		Large ribosomal subunit protein uL2	SO:0001217, UniRef:UniRef50_Q6F7R5
+contig_1	cds	501021	501296	+	GCA_965226525_0397		Small ribosomal subunit protein uS19	SO:0001217, UniRef:UniRef50_Q6ME59
+contig_1	cds	501305	501667	+	GCA_965226525_0398		Large ribosomal subunit protein uL22	SO:0001217, UniRef:UniRef50_Q98PY6
+contig_1	cds	501670	502353	+	GCA_965226525_0399		hypothetical protein	PFAM:PF00189.25, PFAM:PF07650.23
+contig_1	cds	502356	502772	+	GCA_965226525_0400		Large ribosomal subunit protein uL16	SO:0001217, UniRef:UniRef50_P02415
+contig_1	cds	502778	502987	+	GCA_965226525_0401		hypothetical protein	
+contig_1	cds	503085	505886	+	GCA_965226525_0402		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_1	cds	505901	507379	+	GCA_965226525_0403		Lysine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q3A9M2
+contig_1	cds	507437	507820	+	GCA_965226525_0404		hypothetical protein	PFAM:PF00366.26
+contig_1	cds	507820	508185	+	GCA_965226525_0405		hypothetical protein	PFAM:PF00238.24
+contig_1	cds	508197	508505	+	GCA_965226525_0406		Large ribosomal subunit protein uL24	SO:0001217, UniRef:UniRef50_D7CVE8
+contig_1	cds	508486	509061	+	GCA_965226525_0407		Large ribosomal subunit protein uL5	SO:0001217, UniRef:UniRef50_Q9PQP8
+contig_1	cds	509424	509645	+	GCA_965226525_0408		Small ribosomal subunit protein uS8	SO:0001217, UniRef:UniRef50_A0A959LL62
+contig_1	cds	509663	510223	+	GCA_965226525_0409		hypothetical protein	PFAM:PF00347.28
+contig_1	cds	510234	510581	+	GCA_965226525_0410		Large ribosomal subunit protein uL18	SO:0001217, UniRef:UniRef50_Q8Y445
+contig_1	cds	510584	511321	+	GCA_965226525_0411		hypothetical protein	PFAM:PF00333.26, PFAM:PF03719.21
+contig_1	cds	511325	511792	+	GCA_965226525_0412		Large ribosomal subunit protein uL15	SO:0001217, UniRef:UniRef50_Q5M2D2
+contig_1	cds	511797	513149	+	GCA_965226525_0413		hypothetical protein	
+contig_1	cds	513154	513816	+	GCA_965226525_0414		hypothetical protein	PFAM:PF00406.28, PFAM:PF05191.20, PFAM:PF13207.12, PFAM:PF13671.12
+contig_1	cds	513803	514570	+	GCA_965226525_0415		Methionine aminopeptidase	SO:0001217, UniRef:UniRef50_Q59509
+contig_1	cds	514635	514862	+	GCA_965226525_0416		Translation initiation factor IF-1	SO:0001217, UniRef:UniRef50_Q5SHR1
+contig_1	cds	514987	515367	+	GCA_965226525_0417		Small ribosomal subunit protein uS13	SO:0001217, UniRef:UniRef50_Q8DML1
+contig_1	cds	515429	515830	+	GCA_965226525_0418		Small ribosomal subunit protein uS11	SO:0001217, UniRef:UniRef50_P04969
+contig_1	cds	515889	516854	+	GCA_965226525_0419		hypothetical protein	PFAM:PF01000.31, PFAM:PF01193.29, PFAM:PF03118.21
+contig_1	cds	516864	517229	+	GCA_965226525_0420		hypothetical protein	
+contig_1	cds	517251	518102	+	GCA_965226525_0421		hypothetical protein	PFAM:PF00005.33
+contig_1	cds	518084	518980	+	GCA_965226525_0422		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_1	cds	518982	519851	+	GCA_965226525_0423		hypothetical protein	
+contig_1	cds	519894	520331	+	GCA_965226525_0424		Large ribosomal subunit protein uL13	SO:0001217, UniRef:UniRef50_Q110D4
+contig_1	cds	520336	520755	+	GCA_965226525_0425		hypothetical protein	
+contig_1	tRNA	520844	520920	+	GCA_965226525_0426	trnI	tRNA-Ile(tat)	SO:0000263
+contig_1	cds	520941	521516	+	GCA_965226525_0427		hypothetical protein	
+contig_1	cds	521506	524049	+	GCA_965226525_0428		hypothetical protein	PFAM:PF00580.27, PFAM:PF06271.18, PFAM:PF13245.12, PFAM:PF13361.12, PFAM:PF13538.12
+contig_1	cds	524051	524704	+	GCA_965226525_0429		hypothetical protein	
+contig_1	tRNA	524749	524823	+	GCA_965226525_0430	trnG	tRNA-Gly(tcc)	SO:0000260
+contig_1	cds	524838	525308	+	GCA_965226525_0431		hypothetical protein	
+contig_1	cds	525313	526308	+	GCA_965226525_0432		hypothetical protein	
+contig_1	cds	526318	528252	-	GCA_965226525_0433		hypothetical protein	PFAM:PF01580.24
+contig_1	cds	528273	529211	-	GCA_965226525_0434		hypothetical protein	
+contig_1	cds	529558	529977	-	GCA_965226525_0435		hypothetical protein	PFAM:PF01230.28
+contig_1	cds	530069	532927	+	GCA_965226525_0436		hypothetical protein	
+contig_1	tRNA	533040	533115	+	GCA_965226525_0437	trnV	tRNA-Val(tac)	SO:0000273
+contig_1	tRNA	533122	533198	+	GCA_965226525_0438	trnT	tRNA-Thr(tgt)	SO:0000270
+contig_1	tRNA	533257	533345	+	GCA_965226525_0439	trnY	tRNA-Tyr(gta)	SO:0000272
+contig_1	tRNA	533351	533425	+	GCA_965226525_0440	trnQ	tRNA-Gln(ttg)	SO:0000261
+contig_1	tRNA	533438	533513	+	GCA_965226525_0441	trnK	tRNA-Lys(ttt)	SO:0000265
+contig_1	tRNA	533514	533602	+	GCA_965226525_0442	trnL	tRNA-Leu(taa)	SO:0000264
+contig_1	cds	534333	536156	+	GCA_965226525_0443		hypothetical protein	
+contig_1	cds	536343	537923	+	GCA_965226525_0444		hypothetical protein	
+contig_1	cds	538106	539683	+	GCA_965226525_0445		hypothetical protein	
+contig_1	cds	539871	541451	+	GCA_965226525_0446		hypothetical protein	
+contig_1	cds	541638	543215	+	GCA_965226525_0447		hypothetical protein	
+contig_1	cds	543402	545213	+	GCA_965226525_0448		hypothetical protein	
+contig_1	cds	545400	546986	+	GCA_965226525_0449		hypothetical protein	
+contig_1	cds	547170	548750	+	GCA_965226525_0450		hypothetical protein	
+contig_1	cds	549224	550336	+	GCA_965226525_0451		hypothetical protein	
+contig_1	cds	550518	552089	+	GCA_965226525_0452		hypothetical protein	
+contig_1	cds	552405	553982	+	GCA_965226525_0453		hypothetical protein	
+contig_1	cds	554167	555741	+	GCA_965226525_0454		hypothetical protein	
+contig_1	cds	555927	557498	+	GCA_965226525_0455		hypothetical protein	
+contig_1	cds	557684	559255	+	GCA_965226525_0456		hypothetical protein	
+contig_1	cds	559435	561006	+	GCA_965226525_0457		hypothetical protein	
+contig_1	cds	561193	562776	+	GCA_965226525_0458		hypothetical protein	
+contig_1	cds	562961	564544	+	GCA_965226525_0459		hypothetical protein	
+contig_1	cds	564727	566304	+	GCA_965226525_0460		hypothetical protein	
+contig_1	cds	566485	568047	+	GCA_965226525_0461		hypothetical protein	
+contig_1	cds	568235	569821	+	GCA_965226525_0462		hypothetical protein	
+contig_1	tRNA	569893	569968	+	GCA_965226525_0463	trnR	tRNA-Arg(tct)	SO:0001036
+contig_1	cds	569994	571331	+	GCA_965226525_0464		hypothetical protein	PFAM:PF00254.34
+contig_1	cds	571282	571455	+	GCA_965226525_0465		hypothetical protein	
+contig_1	cds	571491	571667	+	GCA_965226525_0466		hypothetical protein	
+contig_1	cds	571695	573569	+	GCA_965226525_0467		hypothetical protein	
+contig_1	cds	573562	574851	+	GCA_965226525_0468		hypothetical protein	PFAM:PF00587.30, PFAM:PF01409.25, PFAM:PF13393.11
+contig_1	cds	574854	576512	+	GCA_965226525_0469		hypothetical protein	PFAM:PF00152.25, PFAM:PF01336.31, PFAM:PF01409.25
+contig_1	tRNA	576553	576641	+	GCA_965226525_0470	trnL	tRNA-Leu(tag)	SO:0000264
+contig_1	cds	576690	576911	+	GCA_965226525_0471		UPF0154 protein DEA51_06910	SO:0001217, UniRef:UniRef50_A0A357R0W8
+contig_1	cds	577103	578509	+	GCA_965226525_0472		hypothetical protein	
+contig_1	cds	578519	581413	+	GCA_965226525_0473		hypothetical protein	PFAM:PF07973.19
+contig_1	cds	581417	581815	-	GCA_965226525_0474		hypothetical protein	
+contig_1	cds	581784	582428	-	GCA_965226525_0475		hypothetical protein	PFAM:PF14681.12, PFAM:PF24390.1
+contig_1	cds	582528	583220	+	GCA_965226525_0476		hypothetical protein	PFAM:PF00119.25
+contig_1	cds	583240	583530	+	GCA_965226525_0477		ATP synthase subunit c	SO:0001217, UniRef:UniRef50_A0A432ZXT0
+contig_1	cds	583564	584085	+	GCA_965226525_0478		hypothetical protein	PFAM:PF00430.23
+contig_1	cds	584078	584617	+	GCA_965226525_0479		hypothetical protein	
+contig_1	cds	584623	586149	+	GCA_965226525_0480		ATP synthase subunit alpha	SO:0001217, UniRef:UniRef50_P33252
+contig_1	cds	586176	587018	+	GCA_965226525_0481		hypothetical protein	PFAM:PF00231.24
+contig_1	cds	587011	588426	+	GCA_965226525_0482		ATP synthase subunit beta, sodium ion specific	SO:0001217, UniRef:UniRef50_P29707
+contig_1	cds	588485	590416	+	GCA_965226525_0483		hypothetical protein	
+contig_1	cds	591045	591938	-	GCA_965226525_0484		hypothetical protein	
+contig_1	cds	592140	592427	+	GCA_965226525_0485		hypothetical protein	PFAM:PF02823.21
+contig_1	cds	592469	594973	+	GCA_965226525_0486		hypothetical protein	PFAM:PF00270.35, PFAM:PF00271.37, PFAM:PF01043.26, PFAM:PF07517.20, PFAM:PF21090.3
+contig_1	cds	594997	596964	+	GCA_965226525_0487		hypothetical protein	PFAM:PF00270.35, PFAM:PF00271.37, PFAM:PF17757.6
+contig_1	cds	596977	599829	+	GCA_965226525_0488		UvrABC system protein A	SO:0001217, UniRef:UniRef50_A0A0J0UTW8
+contig_1	cds	599861	601063	+	GCA_965226525_0489		hypothetical protein	
+contig_1	cds	601083	602129	+	GCA_965226525_0490		hypothetical protein	
+contig_1	cds	602143	602400	+	GCA_965226525_0491		hypothetical protein	
+contig_1	cds	602478	607337	+	GCA_965226525_0492		hypothetical protein	
+contig_1	cds	607364	607816	+	GCA_965226525_0493		hypothetical protein	

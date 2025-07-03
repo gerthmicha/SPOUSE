@@ -1,0 +1,141 @@
+Reading sequence file alignments/group_457.fas
+Found 155 sequences of length 68
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 31.6%
+Found 53 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0%100.0%
+
+Using a window size of  10 with k as 8
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.88e-02
+
+Reading sequence file alignments/group_457.fas
+Found 155 sequences of length 68
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 31.6%
+Found 53 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0%100.0%
+
+Using a window size of  20 with k as 16
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        8.04e-02
+
+Reading sequence file alignments/group_457.fas
+Found 155 sequences of length 68
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 31.6%
+Found 53 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0%100.0%
+
+Using a window size of  30 with k as 23
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        3.15e-01
+
+Reading sequence file alignments/group_457.fas
+Found 155 sequences of length 68
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 31.6%
+Found 53 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0%100.0%
+
+Using a window size of  40 with k as 31
+Too few informative sites to use normal approximation.
+Try doing a permutation test or increasing alignment length
+Can also try decreasing windowsize.
+
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        --
+
+Reading sequence file alignments/group_457.fas
+Found 155 sequences of length 68
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 31.6%
+Found 53 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0%100.0%
+
+Using a window size of  50 with k as 39
+Too few informative sites to use normal approximation.
+Try doing a permutation test or increasing alignment length
+Can also try decreasing windowsize.
+
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        --
+
+Reading sequence file alignments/group_457.fas
+Found 155 sequences of length 68
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 31.6%
+Found 53 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0%100.0%
+
+Using a window size of 100 with k as 78
+Too few informative sites to use normal approximation.
+Try doing a permutation test or increasing alignment length
+Can also try decreasing windowsize.
+
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        --
+
+Reading sequence file alignments/group_457.fas
+Found 155 sequences of length 68
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 31.6%
+Found 53 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0%100.0%
+
+Using a window size of 200 with k as 156
+Too few informative sites to use normal approximation.
+Try doing a permutation test or increasing alignment length
+Can also try decreasing windowsize.
+
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        --
+

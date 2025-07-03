@@ -1,0 +1,493 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	4	177	+	GCA_027564955_0001		hypothetical protein	
+contig_18	cds	27	179	+	GCA_027564955_0002		hypothetical protein	
+contig_25	cds	2	232	+	GCA_027564955_0003		hypothetical protein	
+contig_41	cds	1	231	-	GCA_027564955_0004		hypothetical protein	
+contig_42	cds	83	247	-	GCA_027564955_0005		hypothetical protein	
+contig_43	cds	39	173	+	GCA_027564955_0006		hypothetical protein	
+contig_54	cds	25	231	-	GCA_027564955_0007		hypothetical protein	
+contig_68	cds	2	157	-	GCA_027564955_0008		hypothetical protein	
+contig_84	cds	24	173	+	GCA_027564955_0009		hypothetical protein	
+contig_98	cds	24	251	-	GCA_027564955_0010		hypothetical protein	
+contig_109	rRNA	6	1000	-	GCA_027564955_0011	rrl	23S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01980, RFAM:RF02541, SO:0001001
+contig_115	tRNA	160	233	-	GCA_027564955_0012		tRNA-Xxx	
+contig_119	cds	14	202	+	GCA_027564955_0013		hypothetical protein	
+contig_120	cds	51	320	-	GCA_027564955_0014		hypothetical protein	
+contig_121	cds	11	247	+	GCA_027564955_0015		hypothetical protein	
+contig_154	cds	19	252	+	GCA_027564955_0016		hypothetical protein	
+contig_164	cds	91	294	-	GCA_027564955_0017		hypothetical protein	
+contig_165	cds	61	240	-	GCA_027564955_0018		hypothetical protein	
+contig_166	cds	10	207	+	GCA_027564955_0019		hypothetical protein	
+contig_171	cds	3	221	+	GCA_027564955_0020		hypothetical protein	
+contig_176	cds	5	217	+	GCA_027564955_0021		hypothetical protein	
+contig_180	cds	53	232	-	GCA_027564955_0022		hypothetical protein	
+contig_184	cds	28	228	+	GCA_027564955_0023		hypothetical protein	
+contig_197	cds	6	335	+	GCA_027564955_0024		hypothetical protein	
+contig_218	cds	75	218	+	GCA_027564955_0025		hypothetical protein	
+contig_232	cds	59	223	-	GCA_027564955_0026		hypothetical protein	
+contig_258	cds	9	152	+	GCA_027564955_0027		hypothetical protein	
+contig_260	cds	18	206	-	GCA_027564955_0028		hypothetical protein	
+contig_261	cds	37	210	-	GCA_027564955_0029		hypothetical protein	
+contig_263	cds	59	319	-	GCA_027564955_0030		hypothetical protein	
+contig_267	cds	43	231	-	GCA_027564955_0031		hypothetical protein	
+contig_272	cds	4	186	+	GCA_027564955_0032		hypothetical protein	
+contig_273	cds	83	250	-	GCA_027564955_0033		hypothetical protein	
+contig_283	cds	14	250	+	GCA_027564955_0034		hypothetical protein	
+contig_284	cds	95	241	-	GCA_027564955_0035		hypothetical protein	
+contig_304	tRNA	86	158	-	GCA_027564955_0036	trnK	tRNA-Lys(ttt)	SO:0000265
+contig_307	cds	19	171	+	GCA_027564955_0037		hypothetical protein	
+contig_309	cds	2	211	-	GCA_027564955_0038		hypothetical protein	
+contig_310	cds	70	249	-	GCA_027564955_0039		hypothetical protein	
+contig_317	cds	136	321	-	GCA_027564955_0040		hypothetical protein	
+contig_329	rRNA	1	785	+	GCA_027564955_0041	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_332	cds	1	180	+	GCA_027564955_0042		hypothetical protein	
+contig_340	cds	46	237	-	GCA_027564955_0043		(pseudo) Integron gene cassette protein	SO:0001217, UniRef:UniRef50_A0A1B2Z0F9, UniRef:UniRef90_B0TIG5
+contig_342	cds	11	217	+	GCA_027564955_0044		hypothetical protein	
+contig_356	cds	4	237	-	GCA_027564955_0045		hypothetical protein	
+contig_399	tRNA	103	179	+	GCA_027564955_0046	trnfM	tRNA-fMet(cat)	SO:0000266
+contig_408	cds	8	214	-	GCA_027564955_0047		hypothetical protein	
+contig_415	cds	17	211	+	GCA_027564955_0048		hypothetical protein	PFAM:PF00004.35, PFAM:PF07728.20, PFAM:PF13191.12, SO:0001217, UniRef:UniRef50_UPI0019ED8EC8
+contig_424	cds	47	214	-	GCA_027564955_0049		hypothetical protein	
+contig_425	cds	10	219	+	GCA_027564955_0050		hypothetical protein	
+contig_426	cds	18	284	-	GCA_027564955_0051		hypothetical protein	
+contig_437	cds	31	315	+	GCA_027564955_0052		hypothetical protein	
+contig_438	cds	106	609	-	GCA_027564955_0053		hypothetical protein	
+contig_454	cds	41	241	-	GCA_027564955_0054		hypothetical protein	
+contig_455	cds	55	195	+	GCA_027564955_0055		hypothetical protein	
+contig_456	cds	10	144	+	GCA_027564955_0056		hypothetical protein	
+contig_460	cds	23	166	-	GCA_027564955_0057		hypothetical protein	
+contig_482	cds	92	289	-	GCA_027564955_0058		hypothetical protein	
+contig_484	cds	60	227	-	GCA_027564955_0059		hypothetical protein	
+contig_495	cds	48	212	-	GCA_027564955_0060		hypothetical protein	
+contig_497	cds	54	170	+	GCA_027564955_0061		hypothetical protein	
+contig_502	cds	6	212	+	GCA_027564955_0062		hypothetical protein	
+contig_518	cds	29	238	-	GCA_027564955_0063		hypothetical protein	
+contig_525	cds	24	143	+	GCA_027564955_0064		hypothetical protein	
+contig_535	cds	94	276	-	GCA_027564955_0065		hypothetical protein	
+contig_561	cds	37	186	+	GCA_027564955_0066		hypothetical protein	
+contig_572	cds	22	195	-	GCA_027564955_0067		hypothetical protein	
+contig_577	cds	1	219	+	GCA_027564955_0068		hypothetical protein	
+contig_591	cds	42	245	+	GCA_027564955_0069		hypothetical protein	
+contig_607	cds	20	244	-	GCA_027564955_0070		hypothetical protein	
+contig_614	cds	73	234	+	GCA_027564955_0071		hypothetical protein	
+contig_634	cds	82	303	-	GCA_027564955_0072		hypothetical protein	
+contig_638	cds	5	241	+	GCA_027564955_0073		hypothetical protein	
+contig_642	cds	30	164	+	GCA_027564955_0074		hypothetical protein	
+contig_650	cds	12	209	+	GCA_027564955_0075		hypothetical protein	
+contig_673	cds	4	189	+	GCA_027564955_0076		hypothetical protein	
+contig_677	cds	6	152	+	GCA_027564955_0077		hypothetical protein	
+contig_681	cds	16	201	+	GCA_027564955_0078		hypothetical protein	
+contig_688	cds	7	201	+	GCA_027564955_0079		hypothetical protein	
+contig_715	cds	48	239	-	GCA_027564955_0080		hypothetical protein	
+contig_723	cds	16	189	+	GCA_027564955_0081		hypothetical protein	
+contig_728	cds	28	234	+	GCA_027564955_0082		hypothetical protein	
+contig_738	cds	3	209	+	GCA_027564955_0083		hypothetical protein	
+contig_744	cds	35	235	+	GCA_027564955_0084		hypothetical protein	
+contig_767	cds	127	570	+	GCA_027564955_0085		hypothetical protein	
+contig_778	cds	17	250	+	GCA_027564955_0086		hypothetical protein	
+contig_833	cds	12	149	+	GCA_027564955_0087		hypothetical protein	
+contig_834	cds	42	191	+	GCA_027564955_0088		hypothetical protein	
+contig_849	cds	27	236	-	GCA_027564955_0089		hypothetical protein	
+contig_863	cds	46	216	-	GCA_027564955_0090		hypothetical protein	
+contig_870	cds	1	207	+	GCA_027564955_0091		hypothetical protein	
+contig_872	cds	41	205	+	GCA_027564955_0092		hypothetical protein	
+contig_878	cds	33	608	-	GCA_027564955_0093		hypothetical protein	PFAM:PF03143.23, PFAM:PF03144.31
+contig_911	cds	36	230	+	GCA_027564955_0094		hypothetical protein	
+contig_919	cds	11	217	+	GCA_027564955_0095		hypothetical protein	
+contig_933	cds	69	269	-	GCA_027564955_0096		hypothetical protein	
+contig_936	cds	6	191	+	GCA_027564955_0097		hypothetical protein	
+contig_938	cds	15	242	+	GCA_027564955_0098		hypothetical protein	
+contig_948	cds	64	228	-	GCA_027564955_0099		hypothetical protein	
+contig_950	cds	80	238	-	GCA_027564955_0100		hypothetical protein	
+contig_955	cds	53	250	-	GCA_027564955_0101		hypothetical protein	
+contig_967	cds	2	172	+	GCA_027564955_0102		hypothetical protein	
+contig_968	cds	33	161	-	GCA_027564955_0103		hypothetical protein	
+contig_977	cds	69	248	-	GCA_027564955_0104		hypothetical protein	
+contig_978	cds	28	219	-	GCA_027564955_0105		hypothetical protein	
+contig_980	cds	17	184	+	GCA_027564955_0106		hypothetical protein	
+contig_982	cds	3	149	+	GCA_027564955_0107		hypothetical protein	
+contig_989	cds	3	182	+	GCA_027564955_0108		hypothetical protein	
+contig_992	cds	37	201	+	GCA_027564955_0109		hypothetical protein	
+contig_994	cds	48	242	-	GCA_027564955_0110		hypothetical protein	
+contig_999	cds	76	240	-	GCA_027564955_0111		hypothetical protein	
+contig_1006	cds	12	215	+	GCA_027564955_0112		hypothetical protein	
+contig_1010	cds	57	236	-	GCA_027564955_0113		hypothetical protein	
+contig_1015	cds	10	240	-	GCA_027564955_0114		hypothetical protein	
+contig_1029	cds	3	209	+	GCA_027564955_0115		hypothetical protein	
+contig_1065	cds	30	221	+	GCA_027564955_0116		hypothetical protein	
+contig_1079	cds	42	209	-	GCA_027564955_0117		hypothetical protein	
+contig_1091	cds	32	223	+	GCA_027564955_0118		hypothetical protein	
+contig_1099	cds	92	262	-	GCA_027564955_0119		hypothetical protein	
+contig_1110	cds	8	238	+	GCA_027564955_0120		hypothetical protein	
+contig_1146	cds	55	228	+	GCA_027564955_0121		hypothetical protein	
+contig_1150	cds	77	214	-	GCA_027564955_0122		hypothetical protein	
+contig_1160	cds	30	203	+	GCA_027564955_0123		hypothetical protein	
+contig_1174	cds	50	211	-	GCA_027564955_0124		hypothetical protein	
+contig_1183	cds	20	238	+	GCA_027564955_0125		hypothetical protein	
+contig_1188	cds	56	268	-	GCA_027564955_0126		hypothetical protein	
+contig_1189	cds	6	209	-	GCA_027564955_0127		hypothetical protein	
+contig_1195	cds	3	173	+	GCA_027564955_0128		hypothetical protein	
+contig_1198	cds	4	210	+	GCA_027564955_0129		hypothetical protein	
+contig_1211	tRNA	47	122	-	GCA_027564955_0130	trnF	tRNA-Phe(gaa)	SO:0000267
+contig_1211	tRNA	125	200	-	GCA_027564955_0131	trnD	tRNA-Asp(gtc)	SO:0000256
+contig_1211	tRNA	206	282	-	GCA_027564955_0132	trnfM	tRNA-fMet(cat)	SO:0000266
+contig_1211	tRNA	300	390	-	GCA_027564955_0133	trnS	tRNA-Ser(tga)	SO:0000269
+contig_1211	tRNA	398	474	-	GCA_027564955_0134	trnI	tRNA-Ile2(cat)	SO:0000263
+contig_1211	tRNA	476	552	-	GCA_027564955_0135	trnM	tRNA-Met(cat)	SO:0000266
+contig_1216	cds	72	221	-	GCA_027564955_0136		hypothetical protein	
+contig_1225	cds	3	146	+	GCA_027564955_0137		hypothetical protein	
+contig_1233	cds	25	267	-	GCA_027564955_0138		hypothetical protein	
+contig_1250	cds	28	216	-	GCA_027564955_0139		hypothetical protein	
+contig_1260	cds	31	225	-	GCA_027564955_0140		hypothetical protein	
+contig_1272	cds	72	182	+	GCA_027564955_0141		hypothetical protein	
+contig_1273	cds	83	238	-	GCA_027564955_0142		hypothetical protein	
+contig_1284	cds	47	235	-	GCA_027564955_0143		hypothetical protein	
+contig_1287	cds	82	219	+	GCA_027564955_0144		hypothetical protein	
+contig_1288	cds	47	229	+	GCA_027564955_0145		hypothetical protein	
+contig_1292	cds	15	209	-	GCA_027564955_0146		hypothetical protein	
+contig_1297	cds	13	201	+	GCA_027564955_0147		hypothetical protein	
+contig_1302	cds	7	174	+	GCA_027564955_0148		hypothetical protein	
+contig_1303	cds	33	185	+	GCA_027564955_0149		hypothetical protein	
+contig_1304	cds	66	236	-	GCA_027564955_0150		hypothetical protein	
+contig_1312	cds	34	237	+	GCA_027564955_0151		hypothetical protein	
+contig_1319	cds	11	238	+	GCA_027564955_0152		hypothetical protein	
+contig_1321	rRNA	1	610	-	GCA_027564955_0153	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_1327	cds	61	186	-	GCA_027564955_0154		hypothetical protein	
+contig_1337	cds	31	225	-	GCA_027564955_0155		hypothetical protein	
+contig_1354	cds	12	272	-	GCA_027564955_0156		hypothetical protein	
+contig_1359	cds	76	237	-	GCA_027564955_0157		hypothetical protein	
+contig_1376	cds	1	258	-	GCA_027564955_0158		hypothetical protein	
+contig_1377	cds	23	232	+	GCA_027564955_0159		hypothetical protein	
+contig_1395	cds	39	209	+	GCA_027564955_0160		hypothetical protein	
+contig_1409	cds	96	269	-	GCA_027564955_0161		hypothetical protein	
+contig_1418	cds	9	209	+	GCA_027564955_0162		hypothetical protein	
+contig_1433	cds	117	218	-	GCA_027564955_0163		hypothetical protein	
+contig_1441	cds	9	158	+	GCA_027564955_0164		hypothetical protein	
+contig_1443	cds	103	258	-	GCA_027564955_0165		hypothetical protein	
+contig_1449	cds	72	221	-	GCA_027564955_0166		hypothetical protein	
+contig_1455	cds	22	222	-	GCA_027564955_0167		hypothetical protein	
+contig_1485	cds	23	235	-	GCA_027564955_0168		hypothetical protein	
+contig_1500	cds	11	160	+	GCA_027564955_0169		hypothetical protein	
+contig_1505	cds	51	227	+	GCA_027564955_0170		hypothetical protein	
+contig_1510	cds	7	231	-	GCA_027564955_0171		hypothetical protein	
+contig_1521	cds	10	171	-	GCA_027564955_0172		hypothetical protein	
+contig_1526	cds	46	225	-	GCA_027564955_0173		hypothetical protein	
+contig_1547	cds	7	198	+	GCA_027564955_0174		hypothetical protein	
+contig_1555	cds	60	236	+	GCA_027564955_0175		hypothetical protein	
+contig_1562	cds	12	185	-	GCA_027564955_0176		hypothetical protein	
+contig_1563	cds	2	223	-	GCA_027564955_0177		hypothetical protein	
+contig_1572	cds	3	233	-	GCA_027564955_0178		hypothetical protein	
+contig_1576	cds	24	227	-	GCA_027564955_0179		hypothetical protein	
+contig_1581	cds	17	235	-	GCA_027564955_0180		hypothetical protein	
+contig_1591	cds	33	200	+	GCA_027564955_0181		hypothetical protein	
+contig_1593	cds	61	222	-	GCA_027564955_0182		hypothetical protein	
+contig_1599	cds	41	220	+	GCA_027564955_0183		hypothetical protein	
+contig_1653	rRNA	1	581	-	GCA_027564955_0184	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_1686	cds	21	269	-	GCA_027564955_0185		hypothetical protein	
+contig_1689	cds	20	193	+	GCA_027564955_0186		hypothetical protein	
+contig_1691	cds	5	163	+	GCA_027564955_0187		hypothetical protein	
+contig_1710	cds	73	183	+	GCA_027564955_0188		hypothetical protein	
+contig_1715	cds	48	230	-	GCA_027564955_0189		hypothetical protein	
+contig_1723	cds	30	233	-	GCA_027564955_0190		hypothetical protein	
+contig_1726	cds	35	214	+	GCA_027564955_0191		hypothetical protein	
+contig_1732	cds	23	229	+	GCA_027564955_0192		hypothetical protein	
+contig_1747	cds	55	234	-	GCA_027564955_0193		hypothetical protein	
+contig_1774	cds	8	262	+	GCA_027564955_0194		hypothetical protein	
+contig_1779	cds	9	200	+	GCA_027564955_0195		hypothetical protein	
+contig_1796	cds	30	251	-	GCA_027564955_0196		hypothetical protein	
+contig_1798	cds	8	205	+	GCA_027564955_0197		hypothetical protein	
+contig_1800	cds	10	159	+	GCA_027564955_0198		hypothetical protein	
+contig_1801	cds	18	188	-	GCA_027564955_0199		hypothetical protein	
+contig_1814	cds	25	231	+	GCA_027564955_0200		hypothetical protein	
+contig_1818	cds	13	186	+	GCA_027564955_0201		hypothetical protein	
+contig_1827	cds	63	191	-	GCA_027564955_0202		hypothetical protein	
+contig_1829	cds	23	238	+	GCA_027564955_0203		hypothetical protein	
+contig_1842	cds	3	221	+	GCA_027564955_0204		hypothetical protein	
+contig_1843	cds	4	168	+	GCA_027564955_0205		hypothetical protein	
+contig_1849	cds	31	222	+	GCA_027564955_0206		hypothetical protein	
+contig_1854	cds	17	211	-	GCA_027564955_0207		hypothetical protein	
+contig_1861	cds	6	191	+	GCA_027564955_0208		hypothetical protein	
+contig_1870	cds	48	197	-	GCA_027564955_0209		hypothetical protein	
+contig_1874	cds	201	572	-	GCA_027564955_0210		hypothetical protein	
+contig_1877	cds	95	217	-	GCA_027564955_0211		hypothetical protein	
+contig_1881	cds	4	225	-	GCA_027564955_0212		hypothetical protein	
+contig_1902	cds	62	223	-	GCA_027564955_0213		hypothetical protein	
+contig_1907	cds	31	225	+	GCA_027564955_0214		hypothetical protein	
+contig_1932	cds	8	184	+	GCA_027564955_0215		hypothetical protein	
+contig_1944	cds	68	226	-	GCA_027564955_0216		hypothetical protein	
+contig_1985	cds	51	293	+	GCA_027564955_0217		hypothetical protein	
+contig_1993	cds	30	221	-	GCA_027564955_0218		hypothetical protein	
+contig_2005	cds	23	205	+	GCA_027564955_0219		hypothetical protein	
+contig_2009	cds	76	213	-	GCA_027564955_0220		hypothetical protein	
+contig_2021	cds	4	165	-	GCA_027564955_0221		hypothetical protein	
+contig_2029	cds	12	266	+	GCA_027564955_0222		hypothetical protein	
+contig_2061	cds	15	155	+	GCA_027564955_0223		hypothetical protein	
+contig_2066	cds	5	199	-	GCA_027564955_0224		hypothetical protein	
+contig_2093	cds	74	202	-	GCA_027564955_0225		hypothetical protein	
+contig_2103	cds	39	143	+	GCA_027564955_0226		hypothetical protein	
+contig_2139	cds	34	210	+	GCA_027564955_0227		hypothetical protein	
+contig_2142	cds	37	162	+	GCA_027564955_0228		hypothetical protein	
+contig_2151	cds	27	191	+	GCA_027564955_0229		hypothetical protein	
+contig_2166	cds	37	225	-	GCA_027564955_0230		hypothetical protein	
+contig_2168	cds	25	210	-	GCA_027564955_0231		hypothetical protein	
+contig_2173	cds	6	179	+	GCA_027564955_0232		hypothetical protein	
+contig_2198	cds	33	170	+	GCA_027564955_0233		hypothetical protein	
+contig_2203	cds	32	247	+	GCA_027564955_0234		hypothetical protein	
+contig_2204	tRNA	37	109	-	GCA_027564955_0235	trnA	tRNA-Ala(tgc)	SO:0000254
+contig_2204	tRNA	125	198	-	GCA_027564955_0236	trnI	tRNA-Ile(gat)	SO:0000263
+contig_2204	rRNA	253	1606	-	GCA_027564955_0237	rrs	(5' truncated) 16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_2226	cds	84	230	-	GCA_027564955_0238		hypothetical protein	
+contig_2235	cds	3	218	+	GCA_027564955_0239		hypothetical protein	
+contig_2240	cds	46	138	+	GCA_027564955_0240		hypothetical protein	
+contig_2244	cds	22	195	+	GCA_027564955_0241		hypothetical protein	
+contig_2251	cds	18	194	+	GCA_027564955_0242		hypothetical protein	
+contig_2255	cds	46	204	-	GCA_027564955_0243		hypothetical protein	
+contig_2294	cds	75	212	-	GCA_027564955_0244		hypothetical protein	
+contig_2299	cds	40	198	-	GCA_027564955_0245		hypothetical protein	
+contig_2301	cds	36	224	+	GCA_027564955_0246		hypothetical protein	
+contig_2307	cds	52	204	+	GCA_027564955_0247		hypothetical protein	
+contig_2312	cds	4	168	-	GCA_027564955_0248		hypothetical protein	
+contig_2314	cds	101	238	+	GCA_027564955_0249		hypothetical protein	
+contig_2315	rRNA	1	542	-	GCA_027564955_0250	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_2325	cds	1	219	+	GCA_027564955_0251		hypothetical protein	
+contig_2330	cds	23	181	+	GCA_027564955_0252		hypothetical protein	
+contig_2337	cds	77	241	+	GCA_027564955_0253		hypothetical protein	
+contig_2344	cds	20	208	-	GCA_027564955_0254		hypothetical protein	
+contig_2355	cds	36	218	-	GCA_027564955_0255		hypothetical protein	
+contig_2384	cds	18	221	+	GCA_027564955_0256		hypothetical protein	
+contig_2400	cds	52	198	-	GCA_027564955_0257		hypothetical protein	
+contig_2407	cds	16	219	+	GCA_027564955_0258		hypothetical protein	
+contig_2409	cds	42	194	+	GCA_027564955_0259		hypothetical protein	
+contig_2445	cds	18	167	+	GCA_027564955_0260		hypothetical protein	
+contig_2449	cds	77	217	+	GCA_027564955_0261		hypothetical protein	
+contig_2454	cds	25	144	+	GCA_027564955_0262		hypothetical protein	
+contig_2458	cds	33	182	-	GCA_027564955_0263		hypothetical protein	
+contig_2478	cds	17	187	+	GCA_027564955_0264		hypothetical protein	
+contig_2489	cds	27	173	+	GCA_027564955_0265		hypothetical protein	
+contig_2493	cds	70	186	+	GCA_027564955_0266		hypothetical protein	
+contig_2496	cds	27	173	+	GCA_027564955_0267		hypothetical protein	
+contig_2502	cds	10	237	-	GCA_027564955_0268		hypothetical protein	
+contig_2508	cds	42	197	-	GCA_027564955_0269		hypothetical protein	
+contig_2542	cds	59	211	-	GCA_027564955_0270		hypothetical protein	
+contig_2559	cds	6	203	+	GCA_027564955_0271		hypothetical protein	
+contig_2572	cds	25	171	+	GCA_027564955_0272		hypothetical protein	
+contig_2577	cds	9	215	-	GCA_027564955_0273		hypothetical protein	
+contig_2590	cds	22	189	-	GCA_027564955_0274		hypothetical protein	
+contig_2602	cds	73	252	-	GCA_027564955_0275		hypothetical protein	
+contig_2613	cds	53	202	-	GCA_027564955_0276		hypothetical protein	
+contig_2634	cds	17	241	-	GCA_027564955_0277		hypothetical protein	
+contig_2640	cds	10	207	+	GCA_027564955_0278		hypothetical protein	
+contig_2645	tRNA	101	185	+	GCA_027564955_0279	trnL	tRNA-Leu(caa)	SO:0000264
+contig_2663	cds	15	176	+	GCA_027564955_0280		hypothetical protein	
+contig_2681	cds	4	216	-	GCA_027564955_0281		hypothetical protein	
+contig_2683	cds	13	198	+	GCA_027564955_0282		hypothetical protein	
+contig_2684	cds	7	207	-	GCA_027564955_0283		hypothetical protein	
+contig_2687	cds	25	171	+	GCA_027564955_0284		hypothetical protein	
+contig_2697	cds	10	222	+	GCA_027564955_0285		hypothetical protein	
+contig_2712	cds	37	270	-	GCA_027564955_0286		hypothetical protein	
+contig_2759	cds	27	206	-	GCA_027564955_0287		hypothetical protein	
+contig_2770	cds	15	197	-	GCA_027564955_0288		hypothetical protein	
+contig_2772	cds	11	208	-	GCA_027564955_0289		hypothetical protein	
+contig_2825	cds	5	193	+	GCA_027564955_0290		hypothetical protein	
+contig_2830	cds	2	208	+	GCA_027564955_0291		hypothetical protein	
+contig_2836	cds	12	203	-	GCA_027564955_0292		hypothetical protein	
+contig_2838	cds	27	203	-	GCA_027564955_0293		hypothetical protein	
+contig_2839	cds	28	210	+	GCA_027564955_0294		hypothetical protein	
+contig_2868	cds	163	519	+	GCA_027564955_0295		hypothetical protein	
+contig_2871	cds	15	200	-	GCA_027564955_0296		hypothetical protein	
+contig_2887	cds	2	220	+	GCA_027564955_0297		hypothetical protein	
+contig_2896	cds	9	194	+	GCA_027564955_0298		hypothetical protein	
+contig_2900	cds	1	162	+	GCA_027564955_0299		hypothetical protein	
+contig_2904	cds	14	193	+	GCA_027564955_0300		hypothetical protein	
+contig_2911	cds	100	255	+	GCA_027564955_0301		hypothetical protein	
+contig_2923	cds	30	215	-	GCA_027564955_0302		hypothetical protein	
+contig_2957	tRNA	45	119	-	GCA_027564955_0303	trnN	tRNA-Asn(gtt)	SO:0000257
+contig_2967	cds	21	173	+	GCA_027564955_0304		hypothetical protein	
+contig_2973	cds	29	184	+	GCA_027564955_0305		hypothetical protein	
+contig_2982	cds	66	191	-	GCA_027564955_0306		hypothetical protein	
+contig_3008	cds	4	195	+	GCA_027564955_0307		hypothetical protein	
+contig_3025	cds	4	204	+	GCA_027564955_0308		hypothetical protein	
+contig_3052	cds	15	173	+	GCA_027564955_0309		hypothetical protein	
+contig_3054	cds	15	185	+	GCA_027564955_0310		hypothetical protein	
+contig_3056	cds	65	190	-	GCA_027564955_0311		hypothetical protein	
+contig_3082	cds	40	171	+	GCA_027564955_0312		hypothetical protein	
+contig_3085	cds	31	180	+	GCA_027564955_0313		hypothetical protein	
+contig_3087	cds	62	205	+	GCA_027564955_0314		hypothetical protein	
+contig_3088	cds	38	154	-	GCA_027564955_0315		hypothetical protein	
+contig_3093	cds	36	167	-	GCA_027564955_0316		hypothetical protein	
+contig_3098	cds	89	184	-	GCA_027564955_0317		hypothetical protein	
+contig_3099	cds	47	259	-	GCA_027564955_0318		hypothetical protein	
+contig_3106	cds	17	157	-	GCA_027564955_0319		hypothetical protein	
+contig_3126	cds	26	196	+	GCA_027564955_0320		hypothetical protein	
+contig_3143	cds	40	255	-	GCA_027564955_0321		hypothetical protein	
+contig_3153	cds	60	203	+	GCA_027564955_0322		hypothetical protein	
+contig_3156	cds	59	199	-	GCA_027564955_0323		hypothetical protein	
+contig_3177	cds	56	202	-	GCA_027564955_0324		hypothetical protein	
+contig_3180	cds	104	217	+	GCA_027564955_0325		hypothetical protein	
+contig_3182	cds	34	201	-	GCA_027564955_0326		hypothetical protein	
+contig_3187	cds	33	203	-	GCA_027564955_0327		hypothetical protein	
+contig_3189	cds	28	192	-	GCA_027564955_0328		hypothetical protein	
+contig_3200	cds	33	185	+	GCA_027564955_0329		hypothetical protein	
+contig_3226	cds	23	214	-	GCA_027564955_0330		hypothetical protein	
+contig_3240	cds	32	148	+	GCA_027564955_0331		hypothetical protein	
+contig_3242	cds	26	265	-	GCA_027564955_0332		hypothetical protein	
+contig_3252	cds	63	206	+	GCA_027564955_0333		hypothetical protein	
+contig_3269	cds	50	211	-	GCA_027564955_0334		hypothetical protein	
+contig_3275	cds	19	204	-	GCA_027564955_0335		hypothetical protein	
+contig_3309	tRNA	28	111	+	GCA_027564955_0336	trnY	tRNA-Tyr(gta)	SO:0000272
+contig_3309	rRNA	225	1324	+	GCA_027564955_0337	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_3318	cds	9	215	-	GCA_027564955_0338		hypothetical protein	
+contig_3335	cds	23	178	-	GCA_027564955_0339		hypothetical protein	
+contig_3349	cds	13	201	-	GCA_027564955_0340		hypothetical protein	
+contig_3358	cds	7	141	+	GCA_027564955_0341		hypothetical protein	
+contig_3360	cds	24	170	-	GCA_027564955_0342		hypothetical protein	
+contig_3361	cds	41	217	-	GCA_027564955_0343		hypothetical protein	
+contig_3370	cds	35	187	+	GCA_027564955_0344		hypothetical protein	
+contig_3374	cds	21	185	+	GCA_027564955_0345		hypothetical protein	
+contig_3404	cds	20	166	+	GCA_027564955_0346		hypothetical protein	
+contig_3405	cds	27	179	-	GCA_027564955_0347		hypothetical protein	
+contig_3410	cds	35	208	-	GCA_027564955_0348		hypothetical protein	
+contig_3420	cds	7	465	+	GCA_027564955_0349		Putative elongation factor 4	SO:0001217, UniRef:UniRef50_Q8P173
+contig_3424	cds	27	200	+	GCA_027564955_0350		hypothetical protein	
+contig_3443	cds	17	205	+	GCA_027564955_0351		hypothetical protein	
+contig_3449	cds	1	159	+	GCA_027564955_0352		hypothetical protein	
+contig_3468	cds	17	208	+	GCA_027564955_0353		hypothetical protein	
+contig_3478	cds	1	192	+	GCA_027564955_0354		hypothetical protein	
+contig_3483	cds	31	198	-	GCA_027564955_0355		hypothetical protein	
+contig_3485	cds	110	199	-	GCA_027564955_0356		hypothetical protein	
+contig_3492	cds	31	162	+	GCA_027564955_0357		hypothetical protein	
+contig_3529	cds	37	219	+	GCA_027564955_0358		hypothetical protein	
+contig_3548	cds	57	170	+	GCA_027564955_0359		hypothetical protein	
+contig_3550	cds	34	213	-	GCA_027564955_0360		hypothetical protein	
+contig_3563	cds	100	234	-	GCA_027564955_0361		hypothetical protein	
+contig_3564	cds	12	164	+	GCA_027564955_0362		hypothetical protein	
+contig_3585	cds	96	257	-	GCA_027564955_0363		hypothetical protein	
+contig_3603	cds	23	136	-	GCA_027564955_0364		hypothetical protein	
+contig_3611	cds	53	169	-	GCA_027564955_0365		hypothetical protein	
+contig_3616	cds	37	231	-	GCA_027564955_0366		hypothetical protein	
+contig_3622	cds	4	198	+	GCA_027564955_0367		hypothetical protein	
+contig_3628	cds	51	176	-	GCA_027564955_0368		hypothetical protein	
+contig_3631	cds	65	175	-	GCA_027564955_0369		hypothetical protein	
+contig_3638	cds	71	238	-	GCA_027564955_0370		hypothetical protein	
+contig_3639	rRNA	48	156	+	GCA_027564955_0371	rrf	5S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01985, RFAM:RF00001, SO:0000652
+contig_3639	tRNA	182	257	+	GCA_027564955_0372	trnV	tRNA-Val(tac)	SO:0000273
+contig_3639	tRNA	310	385	+	GCA_027564955_0373	trnT	tRNA-Thr(tgt)	SO:0000270
+contig_3639	tRNA	393	468	+	GCA_027564955_0374	trnK	tRNA-Lys(ttt)	SO:0000265
+contig_3646	cds	29	190	-	GCA_027564955_0375		hypothetical protein	
+contig_3653	cds	8	187	+	GCA_027564955_0376		hypothetical protein	
+contig_3709	cds	55	198	-	GCA_027564955_0377		hypothetical protein	
+contig_3710	cds	62	190	-	GCA_027564955_0378		hypothetical protein	
+contig_3722	cds	18	152	+	GCA_027564955_0379		hypothetical protein	
+contig_3737	cds	21	170	+	GCA_027564955_0380		hypothetical protein	
+contig_3739	cds	2	190	+	GCA_027564955_0381		hypothetical protein	
+contig_3748	cds	19	210	+	GCA_027564955_0382		hypothetical protein	
+contig_3750	cds	26	283	+	GCA_027564955_0383		Hsp70 family protein	SO:0001217, UniRef:UniRef50_UPI000ABAE53E
+contig_3786	cds	63	212	-	GCA_027564955_0384		hypothetical protein	
+contig_3788	cds	40	195	+	GCA_027564955_0385		hypothetical protein	
+contig_3802	cds	16	192	-	GCA_027564955_0386		hypothetical protein	
+contig_3824	cds	35	208	+	GCA_027564955_0387		hypothetical protein	
+contig_3852	cds	34	204	-	GCA_027564955_0388		hypothetical protein	
+contig_3858	cds	78	191	-	GCA_027564955_0389		hypothetical protein	
+contig_3861	cds	150	359	+	GCA_027564955_0390		hypothetical protein	
+contig_3865	cds	29	178	-	GCA_027564955_0391		hypothetical protein	
+contig_3871	tRNA	37	112	-	GCA_027564955_0392	trnT	tRNA-Thr(tgt)	SO:0000270
+contig_3878	cds	7	189	-	GCA_027564955_0393		hypothetical protein	
+contig_3897	cds	9	209	+	GCA_027564955_0394		hypothetical protein	
+contig_3905	cds	37	207	+	GCA_027564955_0395		hypothetical protein	
+contig_3907	cds	20	187	+	GCA_027564955_0396		hypothetical protein	
+contig_3930	cds	36	140	+	GCA_027564955_0397		hypothetical protein	
+contig_3939	cds	7	183	+	GCA_027564955_0398		hypothetical protein	
+contig_3946	cds	48	203	-	GCA_027564955_0399		hypothetical protein	
+contig_4005	cds	28	156	-	GCA_027564955_0400		hypothetical protein	
+contig_4007	cds	18	206	+	GCA_027564955_0401		hypothetical protein	
+contig_4020	cds	27	176	+	GCA_027564955_0402		hypothetical protein	
+contig_4034	cds	72	209	-	GCA_027564955_0403		hypothetical protein	
+contig_4037	cds	21	173	-	GCA_027564955_0404		hypothetical protein	
+contig_4068	tRNA	61	137	-	GCA_027564955_0405	trnfM	tRNA-fMet(cat)	SO:0000266
+contig_4069	cds	10	192	+	GCA_027564955_0406		hypothetical protein	
+contig_4071	cds	25	255	-	GCA_027564955_0407		hypothetical protein	
+contig_4111	cds	35	175	-	GCA_027564955_0408		hypothetical protein	
+contig_4138	cds	3	257	+	GCA_027564955_0409		hypothetical protein	
+contig_4158	cds	3	203	-	GCA_027564955_0410		hypothetical protein	
+contig_4167	cds	12	134	-	GCA_027564955_0411		hypothetical protein	
+contig_4183	cds	20	199	+	GCA_027564955_0412		hypothetical protein	
+contig_4198	cds	47	199	-	GCA_027564955_0413		hypothetical protein	
+contig_4214	cds	48	161	+	GCA_027564955_0414		hypothetical protein	
+contig_4215	cds	6	182	+	GCA_027564955_0415		hypothetical protein	
+contig_4223	cds	20	190	+	GCA_027564955_0416		hypothetical protein	
+contig_4225	cds	2	196	-	GCA_027564955_0417		hypothetical protein	
+contig_4227	cds	44	187	-	GCA_027564955_0418		hypothetical protein	
+contig_4237	cds	1	231	+	GCA_027564955_0419		hypothetical protein	
+contig_4341	cds	12	185	+	GCA_027564955_0420		hypothetical protein	
+contig_4342	cds	40	198	-	GCA_027564955_0421		hypothetical protein	
+contig_4344	cds	32	166	+	GCA_027564955_0422		hypothetical protein	
+contig_4352	cds	64	189	+	GCA_027564955_0423		hypothetical protein	
+contig_4353	cds	15	191	+	GCA_027564955_0424		hypothetical protein	
+contig_4369	cds	71	265	+	GCA_027564955_0425		hypothetical protein	
+contig_4405	tRNA	105	180	+	GCA_027564955_0426	trnE	tRNA-Glu(ttc)	SO:0000259
+contig_4405	tRNA	194	270	+	GCA_027564955_0427	trnR	tRNA-Arg(acg)	SO:0001036
+contig_4405	tRNA	295	371	+	GCA_027564955_0428	trnP	tRNA-Pro(tgg)	SO:0000268
+contig_4406	rRNA	1	923	+	GCA_027564955_0429	rrl	23S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01980, RFAM:RF02541, SO:0001001
+contig_4408	cds	12	188	+	GCA_027564955_0430		hypothetical protein	
+contig_4413	cds	70	237	-	GCA_027564955_0431		hypothetical protein	
+contig_4414	cds	84	254	+	GCA_027564955_0432		hypothetical protein	
+contig_4417	cds	53	274	+	GCA_027564955_0433		hypothetical protein	
+contig_4423	cds	3	248	+	GCA_027564955_0434		hypothetical protein	
+contig_4447	cds	72	203	-	GCA_027564955_0435		hypothetical protein	
+contig_4465	cds	3	263	-	GCA_027564955_0436		hypothetical protein	
+contig_4470	tRNA	82	156	-	GCA_027564955_0437	trnQ	tRNA-Gln(ttg)	SO:0000261
+contig_4480	cds	16	225	-	GCA_027564955_0438		hypothetical protein	
+contig_4493	cds	66	311	+	GCA_027564955_0439		hypothetical protein	
+contig_4512	cds	53	238	-	GCA_027564955_0440		hypothetical protein	
+contig_4516	rRNA	1	1217	+	GCA_027564955_0441	rrl	23S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01980, RFAM:RF02541, SO:0001001
+contig_4526	cds	89	232	-	GCA_027564955_0442		hypothetical protein	
+contig_4564	cds	106	255	-	GCA_027564955_0443		hypothetical protein	
+contig_4583	cds	66	236	-	GCA_027564955_0444		hypothetical protein	
+contig_4595	cds	13	204	+	GCA_027564955_0445		hypothetical protein	
+contig_4604	cds	5	253	+	GCA_027564955_0446		hypothetical protein	
+contig_4612	cds	12	233	-	GCA_027564955_0447		hypothetical protein	
+contig_4618	cds	78	251	+	GCA_027564955_0448		hypothetical protein	
+contig_4626	tRNA	37	109	-	GCA_027564955_0449	trnA	tRNA-Ala(tgc)	SO:0000254
+contig_4626	tRNA	125	198	-	GCA_027564955_0450	trnI	tRNA-Ile(gat)	SO:0000263
+contig_4626	rRNA	253	1139	-	GCA_027564955_0451	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_4637	cds	127	288	-	GCA_027564955_0452		hypothetical protein	
+contig_4639	cds	3	179	+	GCA_027564955_0453		hypothetical protein	
+contig_4640	cds	94	243	+	GCA_027564955_0454		hypothetical protein	
+contig_4647	cds	85	258	-	GCA_027564955_0455		hypothetical protein	
+contig_4650	cds	69	248	+	GCA_027564955_0456		hypothetical protein	
+contig_4658	cds	13	237	+	GCA_027564955_0457		hypothetical protein	
+contig_4681	cds	4	369	-	GCA_027564955_0458	rpsM	30S ribosomal protein S13	COG:COG0099, COG:J, GO:0000049, GO:0003723, GO:0003735, GO:0005829, GO:0005840, GO:0006412, GO:0015935, GO:0019843, KEGG:K02952, SO:0001217, UniRef:UniRef50_Q9PQN6, UniRef:UniRef90_Q2NIX9
+contig_4703	cds	159	347	-	GCA_027564955_0459		hypothetical protein	
+contig_4711	cds	5	187	+	GCA_027564955_0460		hypothetical protein	
+contig_4725	cds	122	364	-	GCA_027564955_0461		hypothetical protein	
+contig_4732	cds	21	257	-	GCA_027564955_0462		hypothetical protein	
+contig_4734	cds	3	197	+	GCA_027564955_0463		hypothetical protein	
+contig_4737	tRNA	110	186	-	GCA_027564955_0464	trnI	tRNA-Ile(gat)	SO:0000263
+contig_4737	rRNA	292	1083	-	GCA_027564955_0465	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_4765	cds	36	251	-	GCA_027564955_0466		hypothetical protein	
+contig_4766	cds	45	257	+	GCA_027564955_0467		hypothetical protein	
+contig_4781	cds	54	326	+	GCA_027564955_0468	rpmA	50S ribosomal protein L27	COG:COG0211, COG:J, GO:0000315, GO:0003735, GO:0006412, GO:0022625, KEGG:K02899, SO:0001217, UniRef:UniRef50_Q2NIJ9, UniRef:UniRef90_Q2NIJ9
+contig_4785	cds	8	187	+	GCA_027564955_0469		hypothetical protein	
+contig_4792	cds	2	193	+	GCA_027564955_0470		hypothetical protein	
+contig_4796	cds	53	220	+	GCA_027564955_0471		hypothetical protein	
+contig_4817	cds	56	235	+	GCA_027564955_0472		hypothetical protein	
+contig_4836	cds	9	320	-	GCA_027564955_0473		hypothetical protein	
+contig_4847	cds	29	304	-	GCA_027564955_0474		50S ribosomal protein L5	SO:0001217, UniRef:UniRef50_K6DFC8
+contig_4858	cds	19	186	+	GCA_027564955_0475		hypothetical protein	
+contig_4867	cds	1	177	+	GCA_027564955_0476		hypothetical protein	
+contig_4869	cds	125	301	+	GCA_027564955_0477		hypothetical protein	
+contig_4872	cds	40	222	+	GCA_027564955_0478		hypothetical protein	
+contig_4913	cds	201	356	-	GCA_027564955_0479		hypothetical protein	
+contig_4918	cds	114	239	-	GCA_027564955_0480		hypothetical protein	
+contig_4932	cds	90	227	-	GCA_027564955_0481		hypothetical protein	
+contig_4941	cds	3	242	+	GCA_027564955_0482		hypothetical protein	
+contig_4943	cds	3	242	+	GCA_027564955_0483		hypothetical protein	
+contig_4953	cds	19	240	-	GCA_027564955_0484		hypothetical protein	
+contig_4954	cds	84	224	+	GCA_027564955_0485		hypothetical protein	
+contig_4957	cds	132	329	-	GCA_027564955_0486		hypothetical protein	
+contig_4958	rRNA	1	995	+	GCA_027564955_0487	rrl	23S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01980, RFAM:RF02541, SO:0001001

@@ -1,0 +1,557 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	tRNA	117	190	+	GCA_002135175_0001		tRNA-Xxx	
+contig_1	cds	217	1500	+	GCA_002135175_0002		hypothetical protein	PFAM:PF22421.1
+contig_1	cds	1497	2096	-	GCA_002135175_0003		hypothetical protein	PFAM:PF01479.30
+contig_1	cds	2241	3920	+	GCA_002135175_0004		hypothetical protein	
+contig_1	cds	3902	6922	+	GCA_002135175_0005		hypothetical protein	PFAM:PF07733.18, PFAM:PF14579.12, PFAM:PF17657.6
+contig_1	cds	6928	15156	-	GCA_002135175_0006		hypothetical protein	PFAM:PF02687.27
+contig_1	cds	15894	16871	+	GCA_002135175_0007		hypothetical protein	PFAM:PF00145.23
+contig_1	cds	17187	23420	-	GCA_002135175_0008		hypothetical protein	
+contig_1	cds	24028	26061	-	GCA_002135175_0009		hypothetical protein	PFAM:PF13175.12, PFAM:PF13304.12, PFAM:PF20469.4
+contig_1	cds	26369	28321	-	GCA_002135175_0010		hypothetical protein	PFAM:PF18135.7
+contig_1	cds	28275	31196	-	GCA_002135175_0011		hypothetical protein	PFAM:PF00270.35, PFAM:PF00271.37, PFAM:PF22240.1
+contig_1	cds	31504	32484	-	GCA_002135175_0012		hypothetical protein	
+contig_1	cds	32664	33524	-	GCA_002135175_0013		hypothetical protein	
+contig_1	cds	33738	35045	-	GCA_002135175_0014		hypothetical protein	PFAM:PF00082.27
+contig_1	cds	35589	36791	-	GCA_002135175_0015		hypothetical protein	PFAM:PF13910.11
+contig_1	cds	37155	37634	-	GCA_002135175_0016		hypothetical protein	
+contig_1	cds	37696	37953	-	GCA_002135175_0017		hypothetical protein	
+contig_1	cds	38111	38353	+	GCA_002135175_0018		hypothetical protein	
+contig_1	cds	38434	39153	+	GCA_002135175_0019		hypothetical protein	PFAM:PF01048.26
+contig_1	cds	39167	40528	+	GCA_002135175_0020		MFS transporter, AGZA family, xanthine/uracil permease	SO:0001217, UniRef:UniRef50_S0IS78
+contig_1	cds	41616	44012	+	GCA_002135175_0021		site-specific DNA-methyltransferase (adenine-specific)	SO:0001217, UniRef:UniRef50_A0A1T4PXI5
+contig_1	cds	44544	45770	+	GCA_002135175_0022		hypothetical protein	
+contig_1	cds	46541	49765	-	GCA_002135175_0023		hypothetical protein	
+contig_1	cds	50495	51673	-	GCA_002135175_0024		hypothetical protein	
+contig_1	cds	52130	54337	-	GCA_002135175_0025		hypothetical protein	
+contig_1	cds	54564	54923	-	GCA_002135175_0026		hypothetical protein	
+contig_1	cds	54862	55344	-	GCA_002135175_0027		hypothetical protein	
+contig_1	cds	55331	56170	-	GCA_002135175_0028		Cytosine-specific methyltransferase	SO:0001217, UniRef:UniRef50_Q6MU27
+contig_1	cds	56230	56361	-	GCA_002135175_0029		hypothetical protein	PFAM:PF00145.23
+contig_1	cds	57172	59214	-	GCA_002135175_0030		hypothetical protein	
+contig_1	rRNA	59332	62303	-	GCA_002135175_0031	rrl	23S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01980, RFAM:RF02541, SO:0001001
+contig_1	rRNA	62445	63995	-	GCA_002135175_0032	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_1	cds	64171	64923	-	GCA_002135175_0033		hypothetical protein	PFAM:PF12705.13
+contig_1	cds	64927	65178	-	GCA_002135175_0034		hypothetical protein	PFAM:PF00312.27
+contig_1	cds	65242	66087	-	GCA_002135175_0035		hypothetical protein	PFAM:PF01687.23
+contig_1	cds	66080	66442	-	GCA_002135175_0036		hypothetical protein	
+contig_1	cds	66432	68234	-	GCA_002135175_0037		hypothetical protein	PFAM:PF00009.33, PFAM:PF00071.28, PFAM:PF11987.13
+contig_1	cds	68250	69446	-	GCA_002135175_0038		hypothetical protein	PFAM:PF08529.16, PFAM:PF13184.12
+contig_1	cds	69537	73856	-	GCA_002135175_0039		hypothetical protein	PFAM:PF00929.31, PFAM:PF07733.18, PFAM:PF14579.12, PFAM:PF17657.6
+contig_1	cds	73914	74492	-	GCA_002135175_0040		hypothetical protein	PFAM:PF01765.24
+contig_1	cds	74449	75186	-	GCA_002135175_0041		hypothetical protein	
+contig_1	cds	75187	75852	-	GCA_002135175_0042		hypothetical protein	
+contig_1	cds	75863	76717	-	GCA_002135175_0043		hypothetical protein	
+contig_1	cds	76752	77591	-	GCA_002135175_0044		hypothetical protein	
+contig_1	cds	77603	79810	-	GCA_002135175_0045		hypothetical protein	PFAM:PF01396.24
+contig_1	cds	80251	81435	-	GCA_002135175_0046		Elongation factor Tu	SO:0001217, UniRef:UniRef50_Q74JU6
+contig_1	cds	81520	82968	-	GCA_002135175_0047		hypothetical protein	PFAM:PF00883.26
+contig_1	tRNA	83033	83108	-	GCA_002135175_0048	trnR	tRNA-Arg(tct)	SO:0001036
+contig_1	cds	83165	83647	-	GCA_002135175_0049		hypothetical protein	
+contig_1	cds	83706	84209	+	GCA_002135175_0050		hypothetical protein	
+contig_1	cds	84167	86527	-	GCA_002135175_0051		Lon protease	SO:0001217, UniRef:UniRef50_Q6MTF4
+contig_1	cds	86659	87762	-	GCA_002135175_0052		hypothetical protein	PFAM:PF02421.24, PFAM:PF06071.19
+contig_1	cds	87846	88496	+	GCA_002135175_0053		hypothetical protein	
+contig_1	cds	88919	90082	-	GCA_002135175_0054		hypothetical protein	PFAM:PF00561.26, PFAM:PF12146.15
+contig_1	cds	90100	91071	-	GCA_002135175_0055		hypothetical protein	
+contig_1	cds	91136	91930	-	GCA_002135175_0056		hypothetical protein	PFAM:PF00149.33, PFAM:PF13277.11
+contig_1	cds	91931	92587	-	GCA_002135175_0057		hypothetical protein	PFAM:PF01895.24
+contig_1	cds	92609	93400	-	GCA_002135175_0058		Phosphate ABC transporter, ATP-binding protein	SO:0001217, UniRef:UniRef50_B5YHJ7
+contig_1	cds	93418	95256	-	GCA_002135175_0059		hypothetical protein	
+contig_1	cds	95257	96210	-	GCA_002135175_0060		hypothetical protein	
+contig_1	cds	96401	96754	-	GCA_002135175_0061		Large ribosomal subunit protein bL19	SO:0001217, UniRef:UniRef50_B2UM93
+contig_1	cds	97102	98898	+	GCA_002135175_0062		Elongation factor 4	SO:0001217, UniRef:UniRef50_O67618
+contig_1	cds	98898	99086	+	GCA_002135175_0063		hypothetical protein	
+contig_1	cds	99123	99938	+	GCA_002135175_0064		hypothetical protein	
+contig_1	cds	99940	100356	-	GCA_002135175_0065		hypothetical protein	PFAM:PF01381.28
+contig_1	cds	100444	102816	-	GCA_002135175_0066		hypothetical protein	PFAM:PF00133.28, PFAM:PF08264.19, PFAM:PF13603.12
+contig_1	cds	102888	103472	-	GCA_002135175_0067		hypothetical protein	
+contig_1	cds	103465	103929	-	GCA_002135175_0068		hypothetical protein	PFAM:PF02367.23
+contig_1	cds	103910	104482	-	GCA_002135175_0069		hypothetical protein	PFAM:PF00910.28, PFAM:PF13521.12
+contig_1	cds	104495	105076	-	GCA_002135175_0070		hypothetical protein	
+contig_1	tRNA	105098	105173	-	GCA_002135175_0071	trnH	tRNA-His(gtg)	SO:0000262
+contig_1	cds	105270	106727	-	GCA_002135175_0072		hypothetical protein	PFAM:PF00571.33, PFAM:PF03448.22
+contig_1	cds	106730	107074	-	GCA_002135175_0073		hypothetical protein	
+contig_1	cds	107394	107621	+	GCA_002135175_0074		hypothetical protein	
+contig_1	tRNA	107852	107930	-	GCA_002135175_0075	trnP	tRNA-Pro(tgg)	SO:0000268
+contig_1	tRNA	107937	108012	-	GCA_002135175_0076	trnA	tRNA-Ala(tgc)	SO:0000254
+contig_1	tRNA	108069	108146	-	GCA_002135175_0077	trnC	tRNA-Cys(gca)	SO:0000258
+contig_1	cds	108246	109127	+	GCA_002135175_0078		hypothetical protein	PFAM:PF00009.33, PFAM:PF00071.28, PFAM:PF00350.29, PFAM:PF02421.24, PFAM:PF03193.22, PFAM:PF07650.23
+contig_1	cds	109128	110123	+	GCA_002135175_0079		hypothetical protein	PFAM:PF00557.29, PFAM:PF01321.24
+contig_1	cds	110172	115415	-	GCA_002135175_0080		hypothetical protein	
+contig_1	cds	115792	119118	+	GCA_002135175_0081		hypothetical protein	
+contig_1	cds	119397	120344	-	GCA_002135175_0082		hypothetical protein	
+contig_1	cds	120334	120468	-	GCA_002135175_0083		hypothetical protein	
+contig_1	tRNA	120679	120756	+	GCA_002135175_0084	trnM	tRNA-Met(cat)	SO:0000266
+contig_1	tRNA	120859	120934	+	GCA_002135175_0085	trnI	tRNA-Ile(gat)	SO:0000263
+contig_1	tRNA	120952	121042	+	GCA_002135175_0086	trnS	tRNA-Ser(tga)	SO:0000269
+contig_1	cds	121095	123614	+	GCA_002135175_0087		type I site-specific deoxyribonuclease	SO:0001217, UniRef:UniRef50_A0A935BKT3
+contig_1	cds	123624	126008	+	GCA_002135175_0088		site-specific DNA-methyltransferase (adenine-specific)	SO:0001217, UniRef:UniRef50_A0A1T4PXI5
+contig_1	cds	126190	126582	+	GCA_002135175_0089		DUF4062 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A948D2A7
+contig_1	cds	126586	127083	+	GCA_002135175_0090		hypothetical protein	PFAM:PF24838.2
+contig_1	cds	127176	127382	-	GCA_002135175_0091		hypothetical protein	
+contig_1	cds	127438	128553	+	GCA_002135175_0092		hypothetical protein	
+contig_1	cds	128543	129526	+	GCA_002135175_0093		hypothetical protein	
+contig_1	cds	129661	131046	+	GCA_002135175_0094		hypothetical protein	PFAM:PF00070.33, PFAM:PF02852.28, PFAM:PF07992.20
+contig_1	cds	131091	132137	+	GCA_002135175_0095		hypothetical protein	PFAM:PF00107.32, PFAM:PF08240.17
+contig_1	cds	132156	133349	+	GCA_002135175_0096		8-amino-7-ketopelargonate synthase	SO:0001217, UniRef:UniRef50_A0A3M1BBY3
+contig_1	cds	133355	134125	-	GCA_002135175_0097		hypothetical protein	
+contig_1	cds	134113	134859	-	GCA_002135175_0098		hypothetical protein	
+contig_1	cds	134852	135733	-	GCA_002135175_0099		hypothetical protein	PFAM:PF01633.27
+contig_1	cds	135789	136397	+	GCA_002135175_0100		hypothetical protein	PFAM:PF01121.26
+contig_1	cds	136510	138927	+	GCA_002135175_0101		type I site-specific deoxyribonuclease	SO:0001217, UniRef:UniRef50_A0A935BKT3
+contig_1	cds	138961	139512	+	GCA_002135175_0102		hypothetical protein	PFAM:PF01420.25
+contig_1	cds	139626	139742	+	GCA_002135175_0103		hypothetical protein	
+contig_1	cds	140005	141819	+	GCA_002135175_0104		hypothetical protein	
+contig_1	cds	141824	142063	+	GCA_002135175_0105		hypothetical protein	
+contig_1	cds	142074	142496	-	GCA_002135175_0106		hypothetical protein	
+contig_1	cds	142486	144519	-	GCA_002135175_0107		hypothetical protein	PFAM:PF00005.33
+contig_1	cds	144564	145433	+	GCA_002135175_0108		hypothetical protein	PFAM:PF01261.30
+contig_1	cds	145440	145865	+	GCA_002135175_0109		hypothetical protein	PFAM:PF01029.23
+contig_1	cds	145979	146305	+	GCA_002135175_0110		hypothetical protein	
+contig_1	cds	146318	148030	+	GCA_002135175_0111		hypothetical protein	
+contig_1	cds	148030	149670	+	GCA_002135175_0112		hypothetical protein	PFAM:PF02878.22, PFAM:PF02879.22, PFAM:PF02880.22
+contig_1	cds	149762	150379	+	GCA_002135175_0113		hypothetical protein	
+contig_1	cds	150390	150806	+	GCA_002135175_0114		Small ribosomal subunit protein uS12	SO:0001217, UniRef:UniRef50_P66375
+contig_1	cds	150813	151280	+	GCA_002135175_0115		Small ribosomal subunit protein uS7	SO:0001217, UniRef:UniRef50_P21469
+contig_1	cds	151280	153367	+	GCA_002135175_0116		Elongation factor G	SO:0001217, UniRef:UniRef50_P9WNM7
+contig_1	cds	153378	153938	-	GCA_002135175_0117		hypothetical protein	
+contig_1	cds	153942	154586	-	GCA_002135175_0118		hypothetical protein	PFAM:PF01170.24, PFAM:PF05175.20, PFAM:PF08241.18, PFAM:PF08242.18, PFAM:PF13649.12, PFAM:PF13847.12
+contig_1	cds	154579	155640	-	GCA_002135175_0119		Peptide chain release factor 1	SO:0001217, UniRef:UniRef50_A0A373I1C5
+contig_1	cds	155653	156249	-	GCA_002135175_0120		hypothetical protein	
+contig_1	cds	156237	157211	-	GCA_002135175_0121		hypothetical protein	PFAM:PF01368.27, PFAM:PF02272.25
+contig_1	cds	157221	158570	-	GCA_002135175_0122		hypothetical protein	PFAM:PF00152.25, PFAM:PF01336.31, PFAM:PF01409.25
+contig_1	cds	158586	159629	-	GCA_002135175_0123		hypothetical protein	PFAM:PF10035.14
+contig_1	cds	159642	160076	-	GCA_002135175_0124		hypothetical protein	
+contig_1	cds	160063	160719	-	GCA_002135175_0125		hypothetical protein	PFAM:PF14681.12
+contig_1	cds	160859	161530	+	GCA_002135175_0126		hypothetical protein	PFAM:PF00119.25
+contig_1	cds	161570	161803	+	GCA_002135175_0127		ATP synthase subunit c	SO:0001217, UniRef:UniRef50_B9L1H4
+contig_1	cds	161878	162402	+	GCA_002135175_0128		hypothetical protein	PFAM:PF00430.23
+contig_1	cds	162395	162949	+	GCA_002135175_0129		hypothetical protein	
+contig_1	cds	162949	164490	+	GCA_002135175_0130		hypothetical protein	PFAM:PF00006.31, PFAM:PF00306.32, PFAM:PF02874.29
+contig_1	cds	164511	165329	+	GCA_002135175_0131		hypothetical protein	PFAM:PF00231.24
+contig_1	cds	165340	166803	+	GCA_002135175_0132		ATP synthase subunit beta	SO:0001217, UniRef:UniRef50_P0A300
+contig_1	cds	166810	167187	+	GCA_002135175_0133		hypothetical protein	PFAM:PF02823.21
+contig_1	cds	167205	169628	+	GCA_002135175_0134		hypothetical protein	PFAM:PF00270.35, PFAM:PF01043.26, PFAM:PF07517.20, PFAM:PF21090.3
+contig_1	cds	169671	170906	+	GCA_002135175_0135		hypothetical protein	
+contig_1	cds	170881	171984	+	GCA_002135175_0136		hypothetical protein	
+contig_1	cds	172110	172361	+	GCA_002135175_0137		hypothetical protein	
+contig_1	cds	172367	172696	+	GCA_002135175_0138		hypothetical protein	PFAM:PF00085.26
+contig_1	cds	172686	173495	+	GCA_002135175_0139		hypothetical protein	PFAM:PF00702.32, PFAM:PF08282.18
+contig_1	cds	174005	174250	+	GCA_002135175_0140		hypothetical protein	
+contig_1	cds	174271	174714	-	GCA_002135175_0141		hypothetical protein	
+contig_1	cds	174870	176171	+	GCA_002135175_0142		hypothetical protein	PFAM:PF00025.27, PFAM:PF00071.28, PFAM:PF01018.28, PFAM:PF02421.24
+contig_1	tRNA	176238	176325	+	GCA_002135175_0143	trnL	tRNA-Leu(gag)	SO:0000264
+contig_1	tRNA	176362	176436	+	GCA_002135175_0144	trnQ	tRNA-Gln(ctg)	SO:0000261
+contig_1	cds	176482	177894	+	GCA_002135175_0145		hypothetical protein	PFAM:PF00254.34
+contig_1	cds	177907	178617	+	GCA_002135175_0146		hypothetical protein	PFAM:PF20772.2
+contig_1	cds	178621	180174	+	GCA_002135175_0147		hypothetical protein	
+contig_1	cds	180195	181526	+	GCA_002135175_0148		hypothetical protein	PFAM:PF01409.25, PFAM:PF13393.11
+contig_1	cds	181563	183212	+	GCA_002135175_0149		hypothetical protein	PFAM:PF00152.25, PFAM:PF01336.31, PFAM:PF01409.25
+contig_1	tRNA	183226	183311	+	GCA_002135175_0150	trnL	tRNA-Leu(tag)	SO:0000264
+contig_1	cds	183365	183580	+	GCA_002135175_0151		UPF0154 protein IM774_08730	SO:0001217, UniRef:UniRef50_A0A929L5C3
+contig_1	cds	183763	185238	+	GCA_002135175_0152		hypothetical protein	
+contig_1	cds	185226	186617	+	GCA_002135175_0153		hypothetical protein	
+contig_1	cds	186769	187101	+	GCA_002135175_0154		hypothetical protein	
+contig_1	cds	187448	187807	+	GCA_002135175_0155		hypothetical protein	
+contig_1	cds	187866	188507	+	GCA_002135175_0156		hypothetical protein	
+contig_1	cds	188539	189579	+	GCA_002135175_0157		hypothetical protein	
+contig_1	cds	189621	191963	+	GCA_002135175_0158		hypothetical protein	PFAM:PF00533.33, PFAM:PF01653.23, PFAM:PF03120.22, PFAM:PF12826.13
+contig_1	cds	191908	192288	+	GCA_002135175_0159		hypothetical protein	
+contig_1	cds	192281	193729	+	GCA_002135175_0160		hypothetical protein	PFAM:PF01425.27
+contig_1	cds	193741	195195	+	GCA_002135175_0161		hypothetical protein	PFAM:PF02637.23, PFAM:PF02934.20
+contig_1	cds	195307	196308	+	GCA_002135175_0162		hypothetical protein	PFAM:PF02272.25
+contig_1	cds	196388	196678	+	GCA_002135175_0163		hypothetical protein	PFAM:PF00366.26
+contig_1	cds	196682	197047	+	GCA_002135175_0164		Large ribosomal subunit protein uL14	SO:0001217, UniRef:UniRef50_Q5SHP8
+contig_1	cds	197052	197357	+	GCA_002135175_0165		hypothetical protein	
+contig_1	cds	197363	197911	+	GCA_002135175_0166		Large ribosomal subunit protein uL5	SO:0001217, UniRef:UniRef50_P73308
+contig_1	cds	198143	198541	+	GCA_002135175_0167		Small ribosomal subunit protein uS8	SO:0001217, UniRef:UniRef50_Q601K0
+contig_1	cds	198547	199098	+	GCA_002135175_0168		Large ribosomal subunit protein uL6	SO:0001217, UniRef:UniRef50_P0DOY8
+contig_1	cds	199125	199478	+	GCA_002135175_0169		Large ribosomal subunit protein uL18	SO:0001217, UniRef:UniRef50_A5GVX5
+contig_1	cds	199485	200387	+	GCA_002135175_0170		hypothetical protein	PFAM:PF00333.26, PFAM:PF03719.21
+contig_1	cds	200377	200880	+	GCA_002135175_0171		Large ribosomal subunit protein uL15	SO:0001217, UniRef:UniRef50_A0A7G8BEI2
+contig_1	cds	200910	202274	+	GCA_002135175_0172		hypothetical protein	
+contig_1	cds	202268	202924	+	GCA_002135175_0173		hypothetical protein	PFAM:PF00406.28, PFAM:PF05191.20, PFAM:PF13207.12
+contig_1	cds	202927	203697	+	GCA_002135175_0174		hypothetical protein	PFAM:PF00557.29
+contig_1	cds	203675	203893	+	GCA_002135175_0175		Translation initiation factor IF-1	SO:0001217, UniRef:UniRef50_Q6F1X1
+contig_1	cds	204034	204414	+	GCA_002135175_0176		Small ribosomal subunit protein uS13	SO:0001217, UniRef:UniRef50_Q50297
+contig_1	cds	204414	204827	+	GCA_002135175_0177		Small ribosomal subunit protein uS11	SO:0001217, UniRef:UniRef50_P04969
+contig_1	cds	204877	205851	+	GCA_002135175_0178		hypothetical protein	PFAM:PF01000.31, PFAM:PF01193.29, PFAM:PF03118.21
+contig_1	cds	205880	206242	+	GCA_002135175_0179		hypothetical protein	
+contig_1	cds	206247	207092	+	GCA_002135175_0180		hypothetical protein	PFAM:PF00005.33
+contig_1	cds	207044	207949	+	GCA_002135175_0181		hypothetical protein	PFAM:PF00004.35, PFAM:PF00005.33, PFAM:PF13304.12
+contig_1	cds	207952	208959	+	GCA_002135175_0182		hypothetical protein	
+contig_1	cds	209043	209480	+	GCA_002135175_0183		Large ribosomal subunit protein uL13	SO:0001217, UniRef:UniRef50_P70974
+contig_1	cds	209485	209916	+	GCA_002135175_0184		Small ribosomal subunit protein uS9	SO:0001217, UniRef:UniRef50_R5M0X5
+contig_1	tRNA	209920	209994	+	GCA_002135175_0185	trnI	tRNA-Ile(tat)	SO:0000263
+contig_1	tRNA	210012	210086	-	GCA_002135175_0186	trnR	tRNA-Arg(cct)	SO:0001036
+contig_1	cds	210134	210676	+	GCA_002135175_0187		hypothetical protein	
+contig_1	cds	210689	213232	+	GCA_002135175_0188		hypothetical protein	PFAM:PF00580.27, PFAM:PF06271.18, PFAM:PF13245.12, PFAM:PF13361.12, PFAM:PF13538.12, PFAM:PF13604.12
+contig_1	cds	213242	213910	+	GCA_002135175_0189		hypothetical protein	
+contig_1	tRNA	213976	214049	+	GCA_002135175_0190	trnG	tRNA-Gly(tcc)	SO:0000260
+contig_1	cds	214059	214586	+	GCA_002135175_0191		hypothetical protein	
+contig_1	cds	214596	215579	+	GCA_002135175_0192		hypothetical protein	
+contig_1	cds	215576	218029	-	GCA_002135175_0193		hypothetical protein	PFAM:PF01580.24, PFAM:PF09397.16, PFAM:PF17854.6
+contig_1	cds	218072	219010	-	GCA_002135175_0194		tRNA N6-adenosine threonylcarbamoyltransferase	SO:0001217, UniRef:UniRef50_A6LKP0
+contig_1	cds	219030	219254	-	GCA_002135175_0195		hypothetical protein	
+contig_1	cds	219235	219660	-	GCA_002135175_0196		hypothetical protein	PFAM:PF01230.28
+contig_1	cds	219799	222723	+	GCA_002135175_0197		hypothetical protein	
+contig_1	tRNA	222770	222845	+	GCA_002135175_0198	trnV	tRNA-Val(tac)	SO:0000273
+contig_1	tRNA	222851	222928	+	GCA_002135175_0199	trnT	tRNA-Thr(tgt)	SO:0000270
+contig_1	tRNA	222930	223014	+	GCA_002135175_0200	trnY	tRNA-Tyr(gta)	SO:0000272
+contig_1	tRNA	223027	223101	+	GCA_002135175_0201	trnQ	tRNA-Gln(ttg)	SO:0000261
+contig_1	cds	223163	223801	+	GCA_002135175_0202		hypothetical protein	
+contig_1	cds	223809	224402	+	GCA_002135175_0203		hypothetical protein	
+contig_1	tRNA	224465	224539	+	GCA_002135175_0204	trnK	tRNA-Lys(ttt)	SO:0000265
+contig_1	tRNA	224541	224627	+	GCA_002135175_0205	trnL	tRNA-Leu(taa)	SO:0000264
+contig_1	cds	224657	224977	-	GCA_002135175_0206		hypothetical protein	
+contig_1	cds	224978	225751	-	GCA_002135175_0207		hypothetical protein	
+contig_1	cds	225744	226367	-	GCA_002135175_0208		hypothetical protein	PFAM:PF12847.13
+contig_1	cds	226442	227389	-	GCA_002135175_0209		hypothetical protein	PFAM:PF21694.2
+contig_1	cds	227380	229521	-	GCA_002135175_0210		hypothetical protein	PFAM:PF00753.33, PFAM:PF12706.13
+contig_1	cds	229522	230196	-	GCA_002135175_0211		hypothetical protein	
+contig_1	cds	230260	230604	+	GCA_002135175_0212		hypothetical protein	
+contig_1	tRNA	230619	230705	+	GCA_002135175_0213	trnL	tRNA-Leu(caa)	SO:0000264
+contig_1	cds	230707	231291	-	GCA_002135175_0214		hypothetical protein	
+contig_1	cds	231299	233791	-	GCA_002135175_0215		hypothetical protein	PFAM:PF00133.28, PFAM:PF01406.26, PFAM:PF08264.19, PFAM:PF10458.14, PFAM:PF13603.12
+contig_1	cds	233791	234348	-	GCA_002135175_0216		hypothetical protein	
+contig_1	cds	234360	234659	-	GCA_002135175_0217		Large ribosomal subunit protein bL27	SO:0001217, UniRef:UniRef50_P60493
+contig_1	cds	234675	235067	-	GCA_002135175_0218		hypothetical protein	
+contig_1	cds	235149	236438	-	GCA_002135175_0219		hypothetical protein	PFAM:PF04542.20, PFAM:PF04545.22
+contig_1	cds	236428	238209	-	GCA_002135175_0220		hypothetical protein	PFAM:PF01807.25, PFAM:PF08275.17, PFAM:PF13662.12
+contig_1	cds	238199	239506	-	GCA_002135175_0221		hypothetical protein	PFAM:PF00587.30, PFAM:PF03129.25
+contig_1	cds	239603	241135	-	GCA_002135175_0222		hypothetical protein	
+contig_1	cds	241149	242117	-	GCA_002135175_0223		hypothetical protein	
+contig_1	cds	242125	243306	-	GCA_002135175_0224		hypothetical protein	
+contig_1	cds	243306	245108	-	GCA_002135175_0225		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_1	cds	245210	245833	-	GCA_002135175_0226		hypothetical protein	
+contig_1	tRNA	246349	246424	-	GCA_002135175_0227	trnE	tRNA-Glu(ctc)	SO:0000259
+contig_1	tRNA	246452	246527	-	GCA_002135175_0228	trnE	tRNA-Glu(ttc)	SO:0000259
+contig_1	tRNA	246553	246627	-	GCA_002135175_0229	trnN	tRNA-Asn(gtt)	SO:0000257
+contig_1	tRNA	246765	246859	+	GCA_002135175_0230	trnS	tRNA-Ser(gct)	SO:0000269
+contig_1	cds	246910	248460	+	GCA_002135175_0231		hypothetical protein	PFAM:PF13091.12
+contig_1	cds	248480	248968	+	GCA_002135175_0232		hypothetical protein	
+contig_1	cds	248972	250384	+	GCA_002135175_0233		hypothetical protein	PFAM:PF00587.30, PFAM:PF03129.25, PFAM:PF09180.16
+contig_1	cds	250427	251917	+	GCA_002135175_0234		hypothetical protein	
+contig_1	cds	251918	252436	+	GCA_002135175_0235		hypothetical protein	
+contig_1	tRNA	252493	252566	+	GCA_002135175_0236	trnW	tRNA-Trp(cca)	SO:0000271
+contig_1	cds	252569	253687	-	GCA_002135175_0237		hypothetical protein	PFAM:PF01467.32, PFAM:PF08668.18
+contig_1	cds	253680	255356	-	GCA_002135175_0238		hypothetical protein	PFAM:PF00753.33, PFAM:PF17770.6
+contig_1	cds	255395	257665	-	GCA_002135175_0239		hypothetical protein	PFAM:PF00013.35, PFAM:PF00575.29, PFAM:PF01138.27, PFAM:PF03725.20
+contig_1	cds	257767	258171	+	GCA_002135175_0240		hypothetical protein	
+contig_1	cds	258164	258847	+	GCA_002135175_0241		hypothetical protein	PFAM:PF20582.4
+contig_1	cds	258895	259677	-	GCA_002135175_0242		hypothetical protein	
+contig_1	cds	259681	259818	-	GCA_002135175_0243		hypothetical protein	
+contig_1	cds	259938	260420	+	GCA_002135175_0244		hypothetical protein	PFAM:PF01272.25, PFAM:PF03449.20
+contig_1	cds	260734	261831	+	GCA_002135175_0245		hypothetical protein	
+contig_1	cds	261834	263966	+	GCA_002135175_0246	clpB	Chaperone protein ClpB	SO:0001217, UniRef:UniRef50_A0A9D1FGQ7
+contig_1	cds	263970	264458	+	GCA_002135175_0247		hypothetical protein	
+contig_1	cds	264503	266386	+	GCA_002135175_0248	dnaK	Chaperone protein DnaK	SO:0001217, UniRef:UniRef50_B1H009
+contig_1	cds	266489	267601	+	GCA_002135175_0249		hypothetical protein	PFAM:PF00226.36, PFAM:PF00684.24, PFAM:PF01556.23
+contig_1	cds	267630	268271	+	GCA_002135175_0250		hypothetical protein	
+contig_1	cds	268327	269931	+	GCA_002135175_0251		hypothetical protein	PFAM:PF11074.14
+contig_1	cds	269928	270716	-	GCA_002135175_0252		hypothetical protein	
+contig_1	cds	270763	271113	-	GCA_002135175_0253		hypothetical protein	
+contig_1	cds	271120	272190	-	GCA_002135175_0254		hypothetical protein	
+contig_1	cds	272253	273152	-	GCA_002135175_0255		hypothetical protein	PFAM:PF01695.23
+contig_1	cds	273159	273995	-	GCA_002135175_0256		hypothetical protein	
+contig_1	cds	274124	274951	-	GCA_002135175_0257		hypothetical protein	PFAM:PF01149.29, PFAM:PF06827.20, PFAM:PF06831.19
+contig_1	cds	274952	275845	-	GCA_002135175_0258		hypothetical protein	PFAM:PF01367.25, PFAM:PF02739.22
+contig_1	cds	275895	276134	-	GCA_002135175_0259		hypothetical protein	
+contig_1	cds	276107	276643	-	GCA_002135175_0260		hypothetical protein	
+contig_1	cds	276621	278798	-	GCA_002135175_0261		hypothetical protein	
+contig_1	cds	278932	279885	-	GCA_002135175_0262		hypothetical protein	
+contig_1	cds	279888	280592	-	GCA_002135175_0263		(5' truncated) hypothetical protein	PFAM:PF00005.33
+contig_2	cds	1	1296	+	GCA_002135175_0264		(5' truncated) hypothetical protein	PFAM:PF00004.35, PFAM:PF00308.24, PFAM:PF08299.17, PFAM:PF24883.1
+contig_2	cds	1359	2477	+	GCA_002135175_0265		hypothetical protein	PFAM:PF00712.24, PFAM:PF02767.21, PFAM:PF02768.20
+contig_2	cds	2481	3545	+	GCA_002135175_0266		hypothetical protein	
+contig_2	cds	3649	5718	+	GCA_002135175_0267		hypothetical protein	PFAM:PF00204.31, PFAM:PF02518.31
+contig_2	cds	5723	8191	+	GCA_002135175_0268		hypothetical protein	PFAM:PF00521.26, PFAM:PF03989.18
+contig_2	cds	8283	9506	+	GCA_002135175_0269		hypothetical protein	PFAM:PF00587.30
+contig_2	cds	9511	11052	+	GCA_002135175_0270		hypothetical protein	PFAM:PF00004.35, PFAM:PF07728.20, PFAM:PF13177.12, PFAM:PF21960.2, PFAM:PF22608.2
+contig_2	cds	11045	11704	+	GCA_002135175_0271		hypothetical protein	PFAM:PF02223.23, PFAM:PF13521.12
+contig_2	cds	11694	12653	+	GCA_002135175_0272		hypothetical protein	PFAM:PF13177.12
+contig_2	cds	12698	14623	+	GCA_002135175_0273	ftsH	ATP-dependent zinc metalloprotease FtsH	SO:0001217, UniRef:UniRef50_Q6F0E5
+contig_2	cds	14630	16699	+	GCA_002135175_0274		hypothetical protein	PFAM:PF01368.27, PFAM:PF24898.1
+contig_2	cds	16754	18082	+	GCA_002135175_0275		hypothetical protein	PFAM:PF00772.26, PFAM:PF03796.21, PFAM:PF06745.19, PFAM:PF13481.12
+contig_2	cds	18082	18771	+	GCA_002135175_0276		hypothetical protein	
+contig_2	cds	18779	19441	+	GCA_002135175_0277		hypothetical protein	PFAM:PF03167.24
+contig_2	cds	19445	20407	+	GCA_002135175_0278		hypothetical protein	
+contig_2	cds	20432	21775	+	GCA_002135175_0279		hypothetical protein	PFAM:PF00133.28, PFAM:PF01406.26
+contig_2	cds	21822	22553	+	GCA_002135175_0280		hypothetical protein	
+contig_2	cds	22513	23103	+	GCA_002135175_0281		hypothetical protein	PFAM:PF00196.25, PFAM:PF08281.18
+contig_2	cds	23143	23439	+	GCA_002135175_0282		hypothetical protein	
+contig_2	cds	23445	24035	+	GCA_002135175_0283		hypothetical protein	
+contig_2	cds	24047	24523	+	GCA_002135175_0284		Large ribosomal subunit protein uL11	SO:0001217, UniRef:UniRef50_P47327
+contig_2	cds	24523	25212	+	GCA_002135175_0285		hypothetical protein	PFAM:PF00687.26
+contig_2	cds	25234	26736	+	GCA_002135175_0286		hypothetical protein	PFAM:PF00133.28, PFAM:PF01406.26, PFAM:PF19303.5
+contig_2	cds	26720	27364	+	GCA_002135175_0287		hypothetical protein	PFAM:PF00156.33, PFAM:PF14681.12
+contig_2	cds	27392	29125	+	GCA_002135175_0288		hypothetical protein	PFAM:PF00587.30, PFAM:PF03129.25
+contig_2	cds	29221	29850	+	GCA_002135175_0289		hypothetical protein	PFAM:PF00707.27, PFAM:PF05198.21
+contig_2	cds	29801	29986	+	GCA_002135175_0290		hypothetical protein	
+contig_2	cds	29996	30343	+	GCA_002135175_0291		Large ribosomal subunit protein bL20	SO:0001217, UniRef:UniRef50_Q88WU6
+contig_2	cds	30368	31486	+	GCA_002135175_0292		hypothetical protein	
+contig_2	cds	31479	32504	+	GCA_002135175_0293		hypothetical protein	PFAM:PF01409.25
+contig_2	cds	32507	34729	+	GCA_002135175_0294		hypothetical protein	PFAM:PF01588.26, PFAM:PF03484.21
+contig_2	cds	34729	34941	+	GCA_002135175_0295		Large ribosomal subunit protein bL32	SO:0001217, UniRef:UniRef50_Q6NCE6
+contig_2	cds	34942	35817	+	GCA_002135175_0296		hypothetical protein	PFAM:PF13847.12
+contig_2	cds	35821	36981	+	GCA_002135175_0297		hypothetical protein	
+contig_2	cds	36996	38207	+	GCA_002135175_0298	ftsZ	Cell division protein FtsZ	SO:0001217, UniRef:UniRef50_Q6F172
+contig_2	cds	38211	38516	+	GCA_002135175_0299		hypothetical protein	
+contig_2	cds	38520	41222	+	GCA_002135175_0300		hypothetical protein	PFAM:PF00133.28, PFAM:PF01406.26, PFAM:PF08264.19
+contig_2	cds	41201	41683	+	GCA_002135175_0301		hypothetical protein	
+contig_2	cds	41697	42542	+	GCA_002135175_0302		hypothetical protein	
+contig_2	cds	42593	42706	+	GCA_002135175_0303		hypothetical protein	
+contig_2	cds	42751	43635	+	GCA_002135175_0304		hypothetical protein	
+contig_2	cds	43646	44551	-	GCA_002135175_0305		hypothetical protein	
+contig_2	cds	44598	45461	+	GCA_002135175_0306		hypothetical protein	
+contig_2	cds	45478	46299	+	GCA_002135175_0307		hypothetical protein	PFAM:PF00398.26
+contig_2	cds	46326	46643	+	GCA_002135175_0308		hypothetical protein	
+contig_2	cds	46667	47317	+	GCA_002135175_0309		hypothetical protein	
+contig_2	cds	47305	48600	+	GCA_002135175_0310		hypothetical protein	PFAM:PF00591.27, PFAM:PF07831.19
+contig_2	cds	48597	49823	-	GCA_002135175_0311		hypothetical protein	PFAM:PF00013.35, PFAM:PF08668.18, PFAM:PF12072.13
+contig_2	cds	49896	50852	-	GCA_002135175_0312		hypothetical protein	PFAM:PF00004.35, PFAM:PF03796.21, PFAM:PF06745.19, PFAM:PF08423.17, PFAM:PF21096.2
+contig_2	ncRNA	50935	51212	-	GCA_002135175_0313	RNaseP_bact_b	Bacterial RNase P class B	RFAM:RF00011, SO:0000386
+contig_2	cds	51233	51955	-	GCA_002135175_0314		hypothetical protein	PFAM:PF01048.26
+contig_2	cds	51955	52272	-	GCA_002135175_0315		hypothetical protein	
+contig_2	cds	52360	52644	-	GCA_002135175_0316		hypothetical protein	PFAM:PF00216.26
+contig_2	cds	52649	52909	-	GCA_002135175_0317		hypothetical protein	PFAM:PF00216.26
+contig_2	cds	52983	54659	-	GCA_002135175_0318		hypothetical protein	PFAM:PF00005.33, PFAM:PF00009.33, PFAM:PF00025.27, PFAM:PF00071.28, PFAM:PF00350.29, PFAM:PF01580.24, PFAM:PF02224.24, PFAM:PF02421.24, PFAM:PF03193.22, PFAM:PF04548.22, PFAM:PF08477.19, PFAM:PF09439.16, PFAM:PF10662.15, PFAM:PF13189.12, PFAM:PF13238.12, PFAM:PF13401.12, PFAM:PF13555.12
+contig_2	cds	54664	55329	-	GCA_002135175_0319		hypothetical protein	
+contig_2	cds	55317	55988	-	GCA_002135175_0320		hypothetical protein	
+contig_2	cds	56120	56626	+	GCA_002135175_0321		Inorganic pyrophosphatase	SO:0001217, UniRef:UniRef50_P56153
+contig_2	cds	56623	58302	-	GCA_002135175_0322		hypothetical protein	PFAM:PF00753.33, PFAM:PF07521.17, PFAM:PF12706.13, PFAM:PF17770.6, PFAM:PF22505.1
+contig_2	cds	58509	59678	+	GCA_002135175_0323		hypothetical protein	PFAM:PF00625.27, PFAM:PF05175.20
+contig_2	cds	59684	60394	+	GCA_002135175_0324		hypothetical protein	
+contig_2	cds	60405	61436	+	GCA_002135175_0325		hypothetical protein	PFAM:PF00069.31, PFAM:PF03109.22, PFAM:PF07714.23
+contig_2	cds	61510	61746	+	GCA_002135175_0326		hypothetical protein	
+contig_2	cds	62079	65948	+	GCA_002135175_0327		hypothetical protein	
+contig_2	tRNA	66201	66276	+	GCA_002135175_0328	trnK	tRNA-Lys(ctt)	SO:0000265
+contig_2	cds	66510	68021	-	GCA_002135175_0329		hypothetical protein	
+contig_2	cds	68147	68797	+	GCA_002135175_0330		hypothetical protein	PFAM:PF02080.26, PFAM:PF02254.24
+contig_2	cds	68808	70313	-	GCA_002135175_0331		Lysine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q88Z28
+contig_2	cds	70318	72489	-	GCA_002135175_0332		hypothetical protein	PFAM:PF00005.33
+contig_2	cds	72510	72791	-	GCA_002135175_0333		hypothetical protein	
+contig_2	cds	72763	73191	-	GCA_002135175_0334		hypothetical protein	PFAM:PF00252.24
+contig_2	cds	73198	73851	-	GCA_002135175_0335		hypothetical protein	PFAM:PF00189.25, PFAM:PF07650.23
+contig_2	cds	73853	74329	-	GCA_002135175_0336		hypothetical protein	PFAM:PF00237.24
+contig_2	cds	74310	74576	-	GCA_002135175_0337		hypothetical protein	PFAM:PF00203.26
+contig_2	cds	74601	75449	-	GCA_002135175_0338		Large ribosomal subunit protein uL2	SO:0001217, UniRef:UniRef50_O66434
+contig_2	cds	75455	75913	-	GCA_002135175_0339		hypothetical protein	
+contig_2	cds	75913	76647	-	GCA_002135175_0340		hypothetical protein	
+contig_2	cds	76650	77429	-	GCA_002135175_0341		hypothetical protein	
+contig_2	cds	77442	77747	-	GCA_002135175_0342		Small ribosomal subunit protein uS10	SO:0001217, UniRef:UniRef50_Q2LQA2
+contig_2	cds	78136	81939	-	GCA_002135175_0343		hypothetical protein	PFAM:PF00623.25, PFAM:PF04983.23, PFAM:PF04997.17, PFAM:PF04998.22, PFAM:PF05000.22
+contig_2	cds	81942	85688	-	GCA_002135175_0344		hypothetical protein	PFAM:PF00562.33, PFAM:PF04560.25, PFAM:PF04561.19, PFAM:PF04565.21, PFAM:PF10385.14
+contig_2	cds	85761	87422	-	GCA_002135175_0345		hypothetical protein	PFAM:PF00117.34, PFAM:PF06418.20
+contig_2	cds	87422	89080	-	GCA_002135175_0346		hypothetical protein	PFAM:PF00133.28, PFAM:PF03485.21, PFAM:PF05746.21
+contig_2	cds	89295	90242	-	GCA_002135175_0347		Carbamate kinase	SO:0001217, UniRef:UniRef50_Q4L9V7
+contig_2	cds	90249	92090	-	GCA_002135175_0348		hypothetical protein	
+contig_2	cds	92465	93379	-	GCA_002135175_0349		hypothetical protein	PFAM:PF00070.33, PFAM:PF07992.20
+contig_2	cds	93484	94470	-	GCA_002135175_0350		Ornithine carbamoyltransferase, catabolic	SO:0001217, UniRef:UniRef50_Q8G998
+contig_2	cds	94479	95717	-	GCA_002135175_0351		hypothetical protein	
+contig_2	cds	95853	97022	-	GCA_002135175_0352		hypothetical protein	
+contig_2	cds	97107	98573	-	GCA_002135175_0353		hypothetical protein	PFAM:PF00749.27, PFAM:PF19269.4
+contig_2	cds	98613	98882	-	GCA_002135175_0354		Small ribosomal subunit protein bS18	SO:0001217, UniRef:UniRef50_P66457
+contig_2	cds	98885	99484	-	GCA_002135175_0355		hypothetical protein	PFAM:PF00436.31
+contig_2	cds	99494	99778	-	GCA_002135175_0356		hypothetical protein	
+contig_2	cds	99872	100342	-	GCA_002135175_0357		hypothetical protein	PFAM:PF00542.24, PFAM:PF16320.10
+contig_2	cds	100406	100918	-	GCA_002135175_0358		hypothetical protein	
+contig_2	cds	101172	103301	-	GCA_002135175_0359		hypothetical protein	
+contig_2	cds	103608	104201	-	GCA_002135175_0360		hypothetical protein	PFAM:PF00156.33
+contig_2	cds	104194	105486	-	GCA_002135175_0361		hypothetical protein	PFAM:PF00206.25
+contig_2	cds	105668	107530	-	GCA_002135175_0362		hypothetical protein	PFAM:PF00709.27, PFAM:PF01195.25
+contig_2	cds	107520	108506	-	GCA_002135175_0363		hypothetical protein	PFAM:PF00156.33, PFAM:PF13793.12, PFAM:PF14572.12, PFAM:PF14681.12
+contig_2	cds	108603	108944	-	GCA_002135175_0364		hypothetical protein	
+contig_2	cds	108964	109230	-	GCA_002135175_0365		hypothetical protein	
+contig_2	cds	109763	110122	-	GCA_002135175_0366		hypothetical protein	PFAM:PF01250.22
+contig_2	cds	110228	110491	-	GCA_002135175_0367		hypothetical protein	
+contig_2	cds	111037	111537	+	GCA_002135175_0368		hypothetical protein	
+contig_2	tRNA	111918	111994	+	GCA_002135175_0369	trnR	tRNA-Arg(tcg)	SO:0001036
+contig_2	cds	112050	113414	+	GCA_002135175_0370		hypothetical protein	
+contig_2	cds	113419	115425	+	GCA_002135175_0371		hypothetical protein	PFAM:PF00176.29, PFAM:PF00270.35, PFAM:PF00271.37, PFAM:PF09848.15
+contig_2	tRNA	115516	115592	+	GCA_002135175_0372	trnfM	tRNA-fMet(cat)	SO:0000266
+contig_2	cds	115842	116366	+	GCA_002135175_0373		hypothetical protein	
+contig_2	cds	116446	117825	+	GCA_002135175_0374		hypothetical protein	
+contig_2	cds	117832	117924	-	GCA_002135175_0375		hypothetical protein	
+contig_2	tRNA	118414	118488	+	GCA_002135175_0376	trnD	tRNA-Asp(gtc)	SO:0000256
+contig_2	tRNA	118490	118564	+	GCA_002135175_0377	trnF	tRNA-Phe(gaa)	SO:0000267
+contig_2	cds	118701	119888	+	GCA_002135175_0378		hypothetical protein	PFAM:PF00438.25, PFAM:PF02772.21, PFAM:PF02773.21
+contig_2	cds	119960	120253	-	GCA_002135175_0379		hypothetical protein	
+contig_2	cds	120339	120932	+	GCA_002135175_0380		hypothetical protein	
+contig_2	cds	121006	122328	+	GCA_002135175_0381		hypothetical protein	
+contig_2	cds	122813	123976	+	GCA_002135175_0382		hypothetical protein	
+contig_2	cds	124004	124174	+	GCA_002135175_0383		hypothetical protein	
+contig_2	cds	124099	124713	-	GCA_002135175_0384		hypothetical protein	
+contig_2	cds	124721	127033	-	GCA_002135175_0385		hypothetical protein	
+contig_2	cds	127477	131277	-	GCA_002135175_0386		hypothetical protein	PFAM:PF13395.12, PFAM:PF14279.12, PFAM:PF18541.7, PFAM:PF22702.2
+contig_2	cds	131680	132597	+	GCA_002135175_0387		hypothetical protein	
+contig_2	cds	132566	132934	+	GCA_002135175_0388		CRISPR-associated endoribonuclease Cas2	SO:0001217, UniRef:UniRef50_V5RKD9
+contig_2	cds	132936	134126	+	GCA_002135175_0389		hypothetical protein	
+contig_2	crispr	134236	139319	?			CRISPR array with 57 repeats of length 36, consensus sequence GTCTTATTTATTTGTTGTTTTAATTAAGATATAGAC and spacer length 30	SO:0001459
+contig_2	crispr-repeat	134236	134271	?			CRISPR repeat	
+contig_2	crispr-spacer	134272	134301	?			CRISPR spacer, sequence TAGCATTTACAGATGGCAGAATTCAGTCGG	
+contig_2	crispr-repeat	134302	134337	?			CRISPR repeat	
+contig_2	crispr-spacer	134338	134367	?			CRISPR spacer, sequence GATTACCAACGGCAAATTAACCGGTAATGG	
+contig_2	crispr-repeat	134368	134403	?			CRISPR repeat	
+contig_2	crispr-spacer	134404	134433	?			CRISPR spacer, sequence AAAGACTTTTTTTTATCTGTGAAGAGCTGG	
+contig_2	crispr-repeat	134434	134469	?			CRISPR repeat	
+contig_2	crispr-spacer	134470	134499	?			CRISPR spacer, sequence TTTCGAAATTGCGAGCACAATCGAGCGACT	
+contig_2	crispr-repeat	134500	134535	?			CRISPR repeat	
+contig_2	crispr-spacer	134536	134565	?			CRISPR spacer, sequence GCTCGACACACGAATTGGTATTAACATGGT	
+contig_2	crispr-repeat	134566	134601	?			CRISPR repeat	
+contig_2	crispr-spacer	134602	134631	?			CRISPR spacer, sequence ACGTGCCATCCGATTTTCTAATAACTCCTC	
+contig_2	crispr-repeat	134632	134667	?			CRISPR repeat	
+contig_2	crispr-spacer	134668	134697	?			CRISPR spacer, sequence ACGAAAACGGGGTGAATAGGATGGAAATTT	
+contig_2	crispr-repeat	134698	134733	?			CRISPR repeat	
+contig_2	crispr-spacer	134734	134763	?			CRISPR spacer, sequence CAAAATATCACTGAGTTGCAAAAAAGATTG	
+contig_2	crispr-repeat	134764	134799	?			CRISPR repeat	
+contig_2	crispr-spacer	134800	134829	?			CRISPR spacer, sequence TTGCTTCTCTGAACCATTTTAATCCCAGCG	
+contig_2	crispr-repeat	134830	134865	?			CRISPR repeat	
+contig_2	crispr-spacer	134866	134895	?			CRISPR spacer, sequence TTTCAGCGAGTAGCGCTTATAATATCACAC	
+contig_2	crispr-repeat	134896	134931	?			CRISPR repeat	
+contig_2	crispr-spacer	134932	134961	?			CRISPR spacer, sequence AAAAACACTTGAAAGGTTTGCGGGTATTTC	
+contig_2	crispr-repeat	134962	134997	?			CRISPR repeat	
+contig_2	crispr-spacer	134998	135027	?			CRISPR spacer, sequence TTAAATGCCTTTACCGTTGTTGTTGTTTCA	
+contig_2	crispr-repeat	135028	135063	?			CRISPR repeat	
+contig_2	crispr-spacer	135064	135093	?			CRISPR spacer, sequence GAGGTTGAGCAACATTTACGAATGTACTCG	
+contig_2	crispr-repeat	135094	135129	?			CRISPR repeat	
+contig_2	crispr-spacer	135130	135159	?			CRISPR spacer, sequence TTGTTGACACGATTACTAGTTCTGTTTCTG	
+contig_2	crispr-repeat	135160	135195	?			CRISPR repeat	
+contig_2	crispr-spacer	135196	135225	?			CRISPR spacer, sequence TTAACCGCGCTATCTCGCCCACCTTTATAT	
+contig_2	crispr-repeat	135226	135261	?			CRISPR repeat	
+contig_2	crispr-spacer	135262	135291	?			CRISPR spacer, sequence AAAATTTCAGGAAAGACCCGAGAGGGGCGT	
+contig_2	crispr-repeat	135292	135327	?			CRISPR repeat	
+contig_2	crispr-spacer	135328	135357	?			CRISPR spacer, sequence CATGTACAGCAGGTATCACAGGGAGCGTTT	
+contig_2	crispr-repeat	135358	135393	?			CRISPR repeat	
+contig_2	crispr-spacer	135394	135423	?			CRISPR spacer, sequence TAGAGGAAAATGATGAGGAAATGGATGGAA	
+contig_2	crispr-repeat	135424	135459	?			CRISPR repeat	
+contig_2	crispr-spacer	135460	135489	?			CRISPR spacer, sequence AATTTTCGCATACTGTTCCGTTTAACTTTT	
+contig_2	crispr-repeat	135490	135525	?			CRISPR repeat	
+contig_2	crispr-spacer	135526	135555	?			CRISPR spacer, sequence TATCGACACCTGAATACGCTACAAAAATAT	
+contig_2	crispr-repeat	135556	135591	?			CRISPR repeat	
+contig_2	crispr-spacer	135592	135621	?			CRISPR spacer, sequence ACGCGGTGGCGACAAAATATCTGATTACCG	
+contig_2	crispr-repeat	135622	135657	?			CRISPR repeat	
+contig_2	crispr-spacer	135658	135687	?			CRISPR spacer, sequence CAACAAAAAGATATGTTGATAATCAAAGCG	
+contig_2	crispr-repeat	135688	135723	?			CRISPR repeat	
+contig_2	crispr-spacer	135724	135753	?			CRISPR spacer, sequence AAAAAAATTCATCAGTGTCGTCAACGGCAT	
+contig_2	crispr-repeat	135754	135789	?			CRISPR repeat	
+contig_2	crispr-spacer	135790	135819	?			CRISPR spacer, sequence CGCGTTGACAGTGGGTAAAACATATGGACG	
+contig_2	crispr-repeat	135820	135855	?			CRISPR repeat	
+contig_2	crispr-spacer	135856	135885	?			CRISPR spacer, sequence ACACACTAGAACTACTATCAGCTTTATCTT	
+contig_2	crispr-repeat	135886	135921	?			CRISPR repeat	
+contig_2	crispr-spacer	135922	135951	?			CRISPR spacer, sequence TAATGACAGAATTTAACAATTCCCCAGGCT	
+contig_2	crispr-repeat	135952	135987	?			CRISPR repeat	
+contig_2	crispr-spacer	135988	136017	?			CRISPR spacer, sequence GCCTCTGTCCCTGAATTAAAAGCTGAATTA	
+contig_2	crispr-repeat	136018	136053	?			CRISPR repeat	
+contig_2	crispr-spacer	136054	136083	?			CRISPR spacer, sequence AAATCGAAGAATATACCCGTTCCATGATGT	
+contig_2	crispr-repeat	136084	136119	?			CRISPR repeat	
+contig_2	crispr-spacer	136120	136149	?			CRISPR spacer, sequence AGATTTCTTTTGAATATCCCATTAGAGAGG	
+contig_2	crispr-repeat	136150	136185	?			CRISPR repeat	
+contig_2	crispr-spacer	136186	136215	?			CRISPR spacer, sequence TTTTTATTTGTCAAGTTTTTTGAAATTCAT	
+contig_2	crispr-repeat	136216	136251	?			CRISPR repeat	
+contig_2	crispr-spacer	136252	136281	?			CRISPR spacer, sequence CAGAGCACGTTGATATCGTTGGTGTCGATG	
+contig_2	crispr-repeat	136282	136317	?			CRISPR repeat	
+contig_2	crispr-spacer	136318	136347	?			CRISPR spacer, sequence CAAAAATCAGGGAATAATGTAATGAGATAT	
+contig_2	crispr-repeat	136348	136383	?			CRISPR repeat	
+contig_2	crispr-spacer	136384	136413	?			CRISPR spacer, sequence CGGGGAACGAATTTTGGGATGTTTTGGCAT	
+contig_2	crispr-repeat	136414	136449	?			CRISPR repeat	
+contig_2	crispr-spacer	136450	136479	?			CRISPR spacer, sequence AAAACATTTTTTTAAGATTTCAGGACATGC	
+contig_2	crispr-repeat	136480	136515	?			CRISPR repeat	
+contig_2	crispr-spacer	136516	136545	?			CRISPR spacer, sequence AAGGTATCGGACATAAAATTAAATTCGTTC	
+contig_2	crispr-repeat	136546	136581	?			CRISPR repeat	
+contig_2	crispr-spacer	136582	136611	?			CRISPR spacer, sequence GCAATATAGACGTTGGATATGCCTGAGATG	
+contig_2	crispr-repeat	136612	136647	?			CRISPR repeat	
+contig_2	crispr-spacer	136648	136677	?			CRISPR spacer, sequence AGGGATTGCTTGGCGATATTGAGCAAAACA	
+contig_2	crispr-repeat	136678	136713	?			CRISPR repeat	
+contig_2	crispr-spacer	136714	136743	?			CRISPR spacer, sequence GAAAAGTTTTCAAATCGGAAACATAACGTC	
+contig_2	crispr-repeat	136744	136779	?			CRISPR repeat	
+contig_2	crispr-spacer	136780	136810	?			CRISPR spacer, sequence TAAACTTCCATCCGCTTTTCGAATAACACCC	
+contig_2	crispr-repeat	136811	136846	?			CRISPR repeat	
+contig_2	crispr-spacer	136847	136877	?			CRISPR spacer, sequence TTATTAAAGGGTGCAATCATCAACTTTTTTA	
+contig_2	crispr-repeat	136878	136913	?			CRISPR repeat	
+contig_2	crispr-spacer	136914	136943	?			CRISPR spacer, sequence ATTAAAAAAGGATTTATGGCTGGGAAAATC	
+contig_2	crispr-repeat	136944	136979	?			CRISPR repeat	
+contig_2	crispr-spacer	136980	137009	?			CRISPR spacer, sequence TCATGCATGCTGTGAAAAAGTAAGTCGTTG	
+contig_2	crispr-repeat	137010	137045	?			CRISPR repeat	
+contig_2	crispr-spacer	137046	137075	?			CRISPR spacer, sequence AAATTGGTGAAAAATTGGGTGAGTGAAGCT	
+contig_2	crispr-repeat	137076	137111	?			CRISPR repeat	
+contig_2	crispr-spacer	137112	137141	?			CRISPR spacer, sequence AAACAGTAATAAATGCCAATGCAAATGCCA	
+contig_2	crispr-repeat	137142	137177	?			CRISPR repeat	
+contig_2	crispr-spacer	137178	137207	?			CRISPR spacer, sequence AAAAAATGAAATGTCCTGATGTGCAGGGGG	
+contig_2	crispr-repeat	137208	137243	?			CRISPR repeat	
+contig_2	crispr-spacer	137244	137273	?			CRISPR spacer, sequence TTCCGATCGAGTACACAGATGCGATGTCGG	
+contig_2	crispr-repeat	137274	137309	?			CRISPR repeat	
+contig_2	crispr-spacer	137310	137339	?			CRISPR spacer, sequence CATGAAATTGTATGAAACTTACAAAAATAT	
+contig_2	crispr-repeat	137340	137375	?			CRISPR repeat	
+contig_2	crispr-spacer	137376	137405	?			CRISPR spacer, sequence ACACCAAAACTAAAAAAATCAGTGAAACTG	
+contig_2	crispr-repeat	137406	137441	?			CRISPR repeat	
+contig_2	crispr-spacer	137442	137471	?			CRISPR spacer, sequence ATGCGGTGGCGACGAAATATCTGATTACAG	
+contig_2	crispr-repeat	137472	137507	?			CRISPR repeat	
+contig_2	crispr-spacer	137508	137537	?			CRISPR spacer, sequence TCGTTTTATTAATTTAGTATCATTTTTGCA	
+contig_2	crispr-repeat	137538	137573	?			CRISPR repeat	
+contig_2	crispr-spacer	137574	137603	?			CRISPR spacer, sequence CTAAAACAAACGAGGGGAATTTAATTCCTT	
+contig_2	crispr-repeat	137604	137639	?			CRISPR repeat	
+contig_2	crispr-spacer	137640	137669	?			CRISPR spacer, sequence AGTTATTAACTCGTGTATTATATGGTACAA	
+contig_2	crispr-repeat	137670	137705	?			CRISPR repeat	
+contig_2	crispr-spacer	137706	137735	?			CRISPR spacer, sequence TTTAAAATTCGATTTAATACCGACAATAAC	
+contig_2	crispr-repeat	137736	137771	?			CRISPR repeat	
+contig_2	crispr-spacer	137772	137801	?			CRISPR spacer, sequence CATTAGATTACACGTTGTGGGACGGTAACA	
+contig_2	crispr-repeat	137802	137837	?			CRISPR repeat	
+contig_2	crispr-spacer	137838	137867	?			CRISPR spacer, sequence CAAAATAATGACGTTATTAGATAGAATTGA	
+contig_2	crispr-repeat	137868	137903	?			CRISPR repeat	
+contig_2	crispr-spacer	137904	137933	?			CRISPR spacer, sequence GATACGTGCGAATGATGAGCTTAATGCCAC	
+contig_2	crispr-repeat	137934	137969	?			CRISPR repeat	
+contig_2	crispr-spacer	137970	139319	?			CRISPR spacer, sequence TTTTTTTTCCGGTTTTCGAAACACAAGAAGGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTATGTTTTTCTGTTTTGTCGATTGGGACGAGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACGAATAGTCGAGCGATTGTATTCCATATCCAGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTCGCGAACAACGCGTTTCGATTTAAAACGCGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACAGCGGGGAACTCAGGGGAAATCTTTCAATGGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACAAGAACATATTTTTGACAGATGAGAGGAAAGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTGGTATTCGGTGGGTAAGAAATTGACAAAAGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACGTTGTCTTACACCAAAAGAAAACATTACTCGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTCTGCATCGATAAAGACGATTGATACTACCGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTACAAAGAAATGAAAGCATCGCTGGAAACTGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACGAGGTTATTAGGGAAAGAATTTTAATTAAAGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTTAGTCAACAATTACATGATGCAATTATTCGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACAGACAAAAAAATAGTATAGAGGAGGAAGAGGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACATACTCTAACACGGGCATATCCGTAAACTCGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTTGCAAAAGTTGCTGACCTTGAAGCAAAAGGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTTTAAATCACTTCATTGGCTGTCAACATTAGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACAAAGCCTCAGGAAAGAGCCGAGAAGGTCGCGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACAAAATTTTGCACCATCAGAAACTGAAATCAGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACCCAACCAAGTTAATTAAATGGGTGTCGGTGGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACATCCAATGTTTGGCAAAAACTTCATTTCTAGTCTTATTTATTTGTTGTTTTAATTAAGATATAGACTTTTGGAACGCGTTGAACTCGATACAGATA	
+contig_2	crispr	138000	139319	?			CRISPR array with 20 repeats of length 36, consensus sequence GTCTTATTTATTTGTTGTTTTAATTAAGATATAGAC and spacer length 30	SO:0001459
+contig_2	crispr-repeat	138000	138035	?			CRISPR repeat	
+contig_2	crispr-spacer	138036	138065	?			CRISPR spacer, sequence TATGTTTTTCTGTTTTGTCGATTGGGACGA	
+contig_2	crispr-repeat	138066	138101	?			CRISPR repeat	
+contig_2	crispr-spacer	138102	138131	?			CRISPR spacer, sequence GAATAGTCGAGCGATTGTATTCCATATCCA	
+contig_2	crispr-repeat	138132	138167	?			CRISPR repeat	
+contig_2	crispr-spacer	138168	138197	?			CRISPR spacer, sequence TCGCGAACAACGCGTTTCGATTTAAAACGC	
+contig_2	crispr-repeat	138198	138233	?			CRISPR repeat	
+contig_2	crispr-spacer	138234	138263	?			CRISPR spacer, sequence AGCGGGGAACTCAGGGGAAATCTTTCAATG	
+contig_2	crispr-repeat	138264	138299	?			CRISPR repeat	
+contig_2	crispr-spacer	138300	138329	?			CRISPR spacer, sequence AAGAACATATTTTTGACAGATGAGAGGAAA	
+contig_2	crispr-repeat	138330	138365	?			CRISPR repeat	
+contig_2	crispr-spacer	138366	138395	?			CRISPR spacer, sequence TGGTATTCGGTGGGTAAGAAATTGACAAAA	
+contig_2	crispr-repeat	138396	138431	?			CRISPR repeat	
+contig_2	crispr-spacer	138432	138461	?			CRISPR spacer, sequence GTTGTCTTACACCAAAAGAAAACATTACTC	
+contig_2	crispr-repeat	138462	138497	?			CRISPR repeat	
+contig_2	crispr-spacer	138498	138527	?			CRISPR spacer, sequence TCTGCATCGATAAAGACGATTGATACTACC	
+contig_2	crispr-repeat	138528	138563	?			CRISPR repeat	
+contig_2	crispr-spacer	138564	138593	?			CRISPR spacer, sequence TACAAAGAAATGAAAGCATCGCTGGAAACT	
+contig_2	crispr-repeat	138594	138629	?			CRISPR repeat	
+contig_2	crispr-spacer	138630	138659	?			CRISPR spacer, sequence GAGGTTATTAGGGAAAGAATTTTAATTAAA	
+contig_2	crispr-repeat	138660	138695	?			CRISPR repeat	
+contig_2	crispr-spacer	138696	138725	?			CRISPR spacer, sequence TTAGTCAACAATTACATGATGCAATTATTC	
+contig_2	crispr-repeat	138726	138761	?			CRISPR repeat	
+contig_2	crispr-spacer	138762	138791	?			CRISPR spacer, sequence AGACAAAAAAATAGTATAGAGGAGGAAGAG	
+contig_2	crispr-repeat	138792	138827	?			CRISPR repeat	
+contig_2	crispr-spacer	138828	138857	?			CRISPR spacer, sequence ATACTCTAACACGGGCATATCCGTAAACTC	
+contig_2	crispr-repeat	138858	138893	?			CRISPR repeat	
+contig_2	crispr-spacer	138894	138923	?			CRISPR spacer, sequence TTGCAAAAGTTGCTGACCTTGAAGCAAAAG	
+contig_2	crispr-repeat	138924	138959	?			CRISPR repeat	
+contig_2	crispr-spacer	138960	138989	?			CRISPR spacer, sequence TTTAAATCACTTCATTGGCTGTCAACATTA	
+contig_2	crispr-repeat	138990	139025	?			CRISPR repeat	
+contig_2	crispr-spacer	139026	139055	?			CRISPR spacer, sequence AAAGCCTCAGGAAAGAGCCGAGAAGGTCGC	
+contig_2	crispr-repeat	139056	139091	?			CRISPR repeat	
+contig_2	crispr-spacer	139092	139121	?			CRISPR spacer, sequence AAAATTTTGCACCATCAGAAACTGAAATCA	
+contig_2	crispr-repeat	139122	139157	?			CRISPR repeat	
+contig_2	crispr-spacer	139158	139187	?			CRISPR spacer, sequence CCAACCAAGTTAATTAAATGGGTGTCGGTG	
+contig_2	crispr-repeat	139188	139223	?			CRISPR repeat	
+contig_2	crispr-spacer	139224	139253	?			CRISPR spacer, sequence ATCCAATGTTTGGCAAAAACTTCATTTCTA	
+contig_2	crispr-repeat	139254	139289	?			CRISPR repeat	
+contig_2	crispr-spacer	139290	139319	?			CRISPR spacer, sequence TTTTGGAACGCGTTGAACTCGATACAGATA	
+contig_2	cds	139979	140185	+	GCA_002135175_0390		hypothetical protein	
+contig_2	cds	140127	140894	+	GCA_002135175_0391		hypothetical protein	
+contig_2	cds	141115	141912	-	GCA_002135175_0392		hypothetical protein	PFAM:PF01026.27
+contig_2	cds	141938	143122	-	GCA_002135175_0393		hypothetical protein	
+contig_2	cds	143212	143547	-	GCA_002135175_0394		hypothetical protein	
+contig_2	cds	143625	143759	-	GCA_002135175_0395		Large ribosomal subunit protein bL34	SO:0001217, UniRef:UniRef50_P80340

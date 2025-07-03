@@ -1,0 +1,192 @@
+IQ-TREE multicore version 1.6.12 for Linux 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    elmer (AVX2, FMA3, 125 GB RAM)
+Command: iqtree -m LG+I+G -fast -s supermat.fas -nt 6
+Seed:    449896 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Jul  3 09:06:30 2025
+Kernel:  AVX+FMA - 6 threads (64 CPU cores detected)
+
+Reading alignment file supermat.fas ... Fasta format detected
+Alignment most likely contains protein sequences
+WARNING: 57 sites contain only gaps or ambiguous characters.
+Alignment has 160 sequences with 32612 columns, 27739 distinct patterns
+22827 parsimony-informative, 2890 singleton sites, 6895 constant sites
+              Gap/Ambiguity  Composition  p-value
+   1  CR182          27.48%    failed      0.31%
+   2  GCA002135175   46.88%    failed      0.00%
+   3  GCA005795965   40.57%    failed      0.00%
+   4  GCA017847635   28.18%    failed      0.00%
+   5  GCA017847655   19.73%    failed      0.00%
+   6  GCA017847675   19.57%    failed      0.00%
+   7  GCA019295385   18.95%    failed      0.00%
+   8  GCA019325155   21.43%    failed      0.00%
+   9  GCA022712415   25.78%    failed      0.00%
+  10  GCA022712555   40.45%    failed      0.00%
+  11  GCA026239475   20.70%    failed      0.14%
+  12  GCA026239495   20.70%    failed      0.14%
+  13  GCA028622045   19.05%    failed      0.00%
+  14  GCA031119525   19.01%    failed      0.00%
+  15  GCA039206795   19.01%    failed      0.00%
+  16  GCA048590285   83.79%    failed      1.56%
+  17  GCA964019725   20.39%    passed     11.39%
+  18  GCA964019825   19.84%    failed      0.05%
+  19  GCA964030995   19.07%    failed      0.00%
+  20  GCA964031075   19.89%    failed      0.00%
+  21  GCA964263215   19.17%    failed      0.00%
+  22  GCA964273395   19.60%    failed      0.00%
+  23  GCA964273555   19.76%    failed      0.00%
+  24  GCA965226525   43.99%    failed      0.00%
+  25  GCF000236085   18.40%    failed      0.00%
+  26  GCF000328865   18.44%    failed      0.00%
+  27  GCF000400935   18.56%    failed      0.00%
+  28  GCF000400955   18.51%    failed      0.00%
+  29  GCF000439435   19.83%    failed      0.00%
+  30  GCF000439455   19.92%    failed      0.00%
+  31  GCF000500935   19.60%    failed      0.00%
+  32  GCF000517365   18.84%    failed      0.00%
+  33  GCF000565175   19.92%    failed      0.00%
+  34  GCF000565195   19.74%    failed      0.00%
+  35  GCF000565215   19.57%    failed      0.00%
+  36  GCF000820525   18.95%    failed      0.00%
+  37  GCF001029245   18.91%    failed      0.00%
+  38  GCF001029265   18.93%    failed      0.00%
+  39  GCF001262715   19.62%    failed      0.00%
+  40  GCF001267155   19.68%    failed      0.00%
+  41  GCF001274875   19.07%    failed      0.53%
+  42  GCF001281045   19.23%    failed      0.00%
+  43  GCF001513715   19.62%    failed      0.00%
+  44  GCF001715535   19.31%    failed      0.00%
+  45  GCF001792795   18.65%    failed      0.00%
+  46  GCF001886495   18.65%    failed      0.00%
+  47  GCF001886855   18.36%    failed      0.00%
+  48  GCF002028345   18.93%    failed      0.00%
+  49  GCF002163565   30.96%    failed      0.00%
+  50  GCF002237575   19.55%    failed      0.00%
+  51  GCF002795265   19.35%    failed      0.00%
+  52  GCF002813555   19.65%    failed      0.00%
+  53  GCF002865545   19.99%    failed      0.00%
+  54  GCF002868295   18.40%    failed      0.00%
+  55  GCF002968355   19.13%    failed      0.00%
+  56  GCF003124105   20.07%    failed      0.00%
+  57  GCF003124115   18.94%    failed      0.00%
+  58  GCF003339775   18.89%    failed      0.00%
+  59  GCF003363775   19.64%    failed      0.00%
+  60  GCF003987485   22.09%    failed      0.00%
+  61  GCF003989055   18.69%    failed      0.00%
+  62  GCF004379335   19.57%    failed      0.00%
+  63  GCF005222125   18.44%    failed      0.00%
+  64  GCF007993715   18.73%    failed      0.00%
+  65  GCF008086545   19.77%    failed      0.00%
+  66  GCF009730595   19.24%    failed      0.00%
+  67  GCF009866525   18.95%    failed      0.00%
+  68  GCF010365785   21.54%    failed      0.00%
+  69  GCF010365805   19.97%    failed      0.00%
+  70  GCF010587055   19.44%    failed      0.00%
+  71  GCF010587105   19.32%    failed      0.00%
+  72  GCF010587175   21.71%    failed      0.00%
+  73  GCF010587255   18.62%    failed      0.00%
+  74  GCF010587305   18.36%    failed      0.00%
+  75  GCF012163225   19.17%    failed      0.00%
+  76  GCF013113755   18.79%    failed      0.00%
+  77  GCF016082235   18.97%    failed      0.00%
+  78  GCF016082285   20.17%    failed      0.00%
+  79  GCF018831625   20.54%    failed      0.00%
+  80  GCF021496725   19.17%    failed      0.00%
+  81  GCF022569815   22.78%    failed      0.00%
+  82  GCF023509825   18.92%    failed      0.00%
+  83  GCF023566085   18.93%    failed      0.00%
+  84  GCF023566095   18.92%    failed      0.00%
+  85  GCF023846195   19.97%    failed      0.00%
+  86  GCF027923845   22.03%    failed      0.00%
+  87  GCF029607405   18.40%    failed      0.00%
+  88  GCF029607425   18.39%    failed      0.00%
+  89  GCF029607445   18.40%    failed      0.00%
+  90  GCF030060925   18.67%    failed      0.00%
+  91  GCF030316605   19.09%    failed      0.00%
+  92  GCF030913225   20.20%    failed      0.00%
+  93  GCF040369795   19.17%    failed      0.00%
+  94  GCF040372085   22.74%    failed      0.00%
+  95  GCF040940205   18.94%    failed      0.00%
+  96  GCF042465095   21.49%    failed      0.00%
+  97  GCF044714355   18.46%    failed      0.00%
+  98  GCF044714365   18.40%    failed      0.00%
+  99  GCF049669535   18.49%    failed      0.00%
+ 100  GCF049949145   18.49%    failed      0.00%
+ 101  GCF049949155   18.48%    failed      0.00%
+ 102  GCF902809815   19.06%    failed      0.00%
+ 103  GCF964019485   24.09%    failed      0.00%
+ 104  GCF964019495   19.09%    failed      0.00%
+ 105  GCF964019505   21.53%    failed      0.00%
+ 106  GCF964019525   21.18%    failed      0.00%
+ 107  GCF964019535   19.05%    failed      0.00%
+ 108  GCF964019575   19.05%    failed      0.00%
+ 109  GCF964019595   19.28%    failed      0.00%
+ 110  GCF964019625   19.92%    failed      0.00%
+ 111  GCF964019665   19.38%    failed      0.00%
+ 112  GCF964019705   19.03%    failed      0.00%
+ 113  GCF964019715   20.66%    failed      0.00%
+ 114  GCF964019735   19.05%    failed      0.00%
+ 115  GCF964019755   21.24%    failed      0.00%
+ 116  GCF964019765   19.85%    failed      0.00%
+ 117  GCF964019845   19.06%    failed      0.00%
+ 118  GCF964019925   19.23%    failed      0.00%
+ 119  GCF964019975   19.04%    failed      0.00%
+ 120  GCF964020005   20.04%    failed      0.00%
+ 121  GCF964020035   20.01%    failed      0.00%
+ 122  GCF964020065   19.68%    failed      0.00%
+ 123  GCF964020095   19.09%    failed      0.00%
+ 124  GCF964020195   19.05%    failed      0.00%
+ 125  GCF964020205   18.99%    failed      0.00%
+ 126  GCF964020225   19.30%    failed      0.00%
+ 127  GCF964020235   24.98%    failed      0.00%
+ 128  GCF964020965   18.62%    failed      0.00%
+ 129  GCF964030635   21.08%    failed      0.00%
+ 130  GCF964030645   21.33%    failed      0.00%
+ 131  GCF964030655   21.17%    failed      0.00%
+ 132  GCF964030685   20.21%    failed      0.00%
+ 133  GCF964030795   19.01%    failed      0.00%
+ 134  GCF964030805   20.64%    failed      0.00%
+ 135  GCF964030825   19.76%    failed      0.00%
+ 136  GCF964030835   20.92%    failed      0.00%
+ 137  GCF964030855   19.75%    failed      0.00%
+ 138  GCF964030865   19.38%    failed      0.00%
+ 139  GCF964030895   19.47%    failed      0.00%
+ 140  GCF964030925   19.24%    failed      0.00%
+ 141  GCF964030965   19.55%    failed      0.00%
+ 142  GCF964030985   19.19%    failed      0.00%
+ 143  GCF964031045   19.87%    failed      0.00%
+ 144  GCF964031085   21.73%    failed      0.00%
+ 145  GCF964031115   21.85%    failed      0.00%
+ 146  GCF964031135   20.05%    failed      0.00%
+ 147  GCF964031155   20.41%    failed      0.00%
+ 148  GCF964031175   19.05%    failed      0.00%
+ 149  GCF964031195   19.12%    failed      0.00%
+ 150  GCF964031205   19.77%    failed      0.00%
+ 151  GCF964031275   19.09%    failed      0.00%
+ 152  GCF964035735   20.42%    failed      0.00%
+ 153  GCF964263245   22.10%    failed      0.47%
+ 154  GCF964264745   19.15%    failed      0.00%
+ 155  GCF964264785   20.75%    failed      0.00%
+ 156  GCF964273375   21.51%    failed      0.00%
+ 157  GCF964277355   19.61%    failed      0.00%
+ 158  GCF965178695   19.28%    failed      0.00%
+ 159  GCF918697755   57.07%    failed      0.00%
+ 160  GCA027564955   99.63%    passed     19.16%
+WARNING: 3 sequences contain more than 50% gaps/ambiguity
+****  TOTAL          21.61%  158 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: GCA026239495 is identical to GCA026239475 but kept for subsequent analysis
+NOTE: GCF009866525 is identical to GCF000820525 but kept for subsequent analysis
+NOTE: GCF002028345 is identical to GCF001029265 but kept for subsequent analysis
+NOTE: GCF001886495 is identical to GCF001792795 but kept for subsequent analysis
+NOTE: GCF010587305 is identical to GCF001886855 but kept for subsequent analysis
+NOTE: GCF021496725 is identical to GCF012163225 but kept for subsequent analysis
+NOTE: GCF029607445 is identical to GCF029607405 but kept for subsequent analysis
+NOTE: GCF049949145 is identical to GCF049669535 but kept for subsequent analysis
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 3.817 seconds
+
+NOTE: 2744 MB RAM (2 GB) is required!
+Estimate model parameters (epsilon = 0.500)
+Thoroughly optimizing +I+G parameters from 10 start values...

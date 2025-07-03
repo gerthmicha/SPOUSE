@@ -1,0 +1,1348 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	730	1242	-	GCF_964263245_00001		Lipoprotein	SO:0001217, UniRef:UniRef50_A0AAJ4EIG9
+contig_1	cds	2938	3777	+	GCF_964263245_00002		Cof-type HAD-IIB family hydrolase	EC:3.1.3.104, KEGG:K21064, SO:0001217, UniRef:UniRef50_A0A1J0U1G6, UniRef:UniRef90_UPI0030D181C8
+contig_1	cds	3991	4317	+	GCF_964263245_00003		OB-fold nucleic acid binding domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0K2JGL9, UniRef:UniRef90_UPI0030D3906D
+contig_1	cds	5032	5862	-	GCF_964263245_00004		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0K2JFM0
+contig_1	cds	6063	6242	+	GCF_964263245_00005		hypothetical protein	
+contig_1	cds	7827	9752	+	GCF_964263245_00006		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_R4U2Q3, UniRef:UniRef90_UPI0030D0D783
+contig_1	cds	9766	10728	+	GCF_964263245_00007	nrnA	bifunctional oligoribonuclease/PAP phosphatase NrnA	EC:3.1.13.3, EC:3.1.3.7, KEGG:K06881, SO:0001217, UniRef:UniRef50_A0A2P6FAC9, UniRef:UniRef90_UPI0030CD0093
+contig_1	cds	10735	11319	+	GCF_964263245_00008		Thymidine kinase	SO:0001217, UniRef:UniRef50_A0A8T3U0R6
+contig_1	cds	11763	12839	+	GCF_964263245_00009	prfA	peptide chain release factor 1	GO:0003747, GO:0006415, KEGG:K02835, SO:0001217, UniRef:UniRef50_A5IZH6, UniRef:UniRef90_A0A1J0TZA5
+contig_1	cds	12839	13699	+	GCF_964263245_00010	prmC	peptide chain release factor N(5)-glutamine methyltransferase	EC:2.1.1.297, GO:0006412, GO:0008757, GO:0018364, SO:0001217, UniRef:UniRef50_R4U2Q4, UniRef:UniRef90_UPI0030CC9DC0
+contig_1	cds	13734	15155	+	GCF_964263245_00011		Polypeptide chain release factor methylase	SO:0001217, UniRef:UniRef50_A0A1J0TZA7
+contig_1	cds	15185	15724	+	GCF_964263245_00012		L-threonylcarbamoyladenylate synthase	SO:0001217, UniRef:UniRef50_A0A0H3XLL3
+contig_1	cds	15822	15959	+	GCF_964263245_00013		hypothetical protein	
+contig_1	cds	15956	16906	-	GCF_964263245_00014		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	17290	18282	+	GCF_964263245_00015	ftsZ	Cell division protein FtsZ	SO:0001217, UniRef:UniRef50_A0A0H3XK14
+contig_1	cds	18303	21140	+	GCF_964263245_00016		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A3S0TMD7
+contig_1	cds	22098	22346	+	GCF_964263245_00017		hypothetical protein	
+contig_1	cds	22764	22961	+	GCF_964263245_00018		hypothetical protein	
+contig_1	cds	23413	24981	+	GCF_964263245_00019	xylG	Xylose import ATP-binding protein XylG	SO:0001217, UniRef:UniRef50_A0A2P6FG06
+contig_1	cds	24965	27130	+	GCF_964263245_00020		Ribose/galactose ABC transporter permease	SO:0001217, UniRef:UniRef50_W0GPI5
+contig_1	cds	27130	28044	+	GCF_964263245_00021		Sugar ABC transporter permease	SO:0001217, UniRef:UniRef50_W0GJV2
+contig_1	cds	28467	28901	-	GCF_964263245_00022		UPF0236 family transposase-like protein	SO:0001217, UniRef:UniRef50_UPI00247B09BF
+contig_1	cds	29053	29301	-	GCF_964263245_00023		hypothetical protein	
+contig_1	cds	29433	29669	-	GCF_964263245_00024		hypothetical protein	
+contig_1	cds	30035	30457	+	GCF_964263245_00025		hypothetical protein	
+contig_1	cds	30594	30854	+	GCF_964263245_00026		(pseudo) phage terminase large subunit	KEGG:K06909, SO:0001217, UniRef:UniRef50_UPI003364CE9C, UniRef:UniRef90_UPI003364CE9C
+contig_1	cds	32143	32475	+	GCF_964263245_00027		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0URV8, UniRef:UniRef90_A0A3S0URV8
+contig_1	cds	33539	33766	+	GCF_964263245_00028		hypothetical protein	
+contig_1	cds	33723	33953	+	GCF_964263245_00029		hypothetical protein	
+contig_1	cds	34400	34516	+	GCF_964263245_00030		hypothetical protein	
+contig_1	cds	34548	34718	+	GCF_964263245_00031		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9A5
+contig_1	cds	35017	35340	+	GCF_964263245_00032		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6F8J8, UniRef:UniRef50_UPI0010572FFB, UniRef:UniRef90_A0A2P6F9A8
+contig_1	cds	36768	37421	-	GCF_964263245_00033		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FCJ7
+contig_1	cds	38680	38934	-	GCF_964263245_00034		hypothetical protein	
+contig_1	cds	39699	39902	+	GCF_964263245_00035		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001F4C8262, UniRef:UniRef90_UPI0032B1C4D2
+contig_1	cds	39936	40373	+	GCF_964263245_00036		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A433EQB9, UniRef:UniRef90_A0A433EQB9
+contig_1	cds	40461	40745	+	GCF_964263245_00037		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0037DD4F22, UniRef:UniRef90_UPI0037DD4F22
+contig_1	cds	41439	41555	+	GCF_964263245_00038		hypothetical protein	
+contig_1	cds	42527	42838	+	GCF_964263245_00039		hypothetical protein	
+contig_1	cds	42923	43084	+	GCF_964263245_00040		hypothetical protein	
+contig_1	cds	43591	43728	+	GCF_964263245_00041		hypothetical protein	
+contig_1	cds	44445	44831	-	GCF_964263245_00042		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A432ZVR1, UniRef:UniRef90_UPI0030D50C0B
+contig_1	cds	45508	45723	-	GCF_964263245_00043		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A0K2JGV2, UniRef:UniRef90_UPI0032B12FAF
+contig_1	cds	46578	46682	+	GCF_964263245_00044		hypothetical protein	
+contig_1	cds	46734	47045	-	GCF_964263245_00045		hypothetical protein	SO:0001217, UniRef:UniRef50_W6AVN7
+contig_1	cds	47504	47674	-	GCF_964263245_00046		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001F4CD781, UniRef:UniRef90_UPI001F4CD781
+contig_1	cds	47997	48338	-	GCF_964263245_00047		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A432ZUV9
+contig_1	cds	49858	50025	-	GCF_964263245_00048		hypothetical protein	
+contig_1	cds	50324	50509	-	GCF_964263245_00049		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313E637D, UniRef:UniRef90_UPI00313E637D
+contig_1	cds	52080	52289	-	GCF_964263245_00050		hypothetical protein	
+contig_1	cds	53236	53394	-	GCF_964263245_00051		hypothetical protein	
+contig_1	cds	54868	55467	-	GCF_964263245_00052	engB	putative GTP-binding protein EngB	SO:0001217, UniRef:UniRef50_Q6F1A9
+contig_1	cds	56214	56915	-	GCF_964263245_00053		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JHP6, UniRef:UniRef90_UPI0030CDADFD
+contig_1	cds	59786	59923	-	GCF_964263245_00054		hypothetical protein	
+contig_1	cds	61592	62542	+	GCF_964263245_00055		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	64629	65528	-	GCF_964263245_00056	rnhC	ribonuclease HIII	EC:3.1.26.4, GO:0004523, GO:0005737, GO:0006401, KEGG:K03471, SO:0001217, UniRef:UniRef50_R4UJE7, UniRef:UniRef90_UPI0030CBD9DB
+contig_1	cds	65627	65968	+	GCF_964263245_00057		4'-phosphopantetheinyl transferase superfamily protein	SO:0001217, UniRef:UniRef50_A0A0K2JG49, UniRef:UniRef90_UPI0030CC9B1B
+contig_1	cds	66587	66967	+	GCF_964263245_00058		DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6F8H9
+contig_1	cds	67047	67661	+	GCF_964263245_00059		(pseudo) Adhesin P123	SO:0001217, UniRef:UniRef50_A0AAJ4EJC9, UniRef:UniRef90_UPI0037DD8050
+contig_1	cds	68533	68709	+	GCF_964263245_00060		helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_UPI00313A9851, UniRef:UniRef90_UPI0030CC18A7
+contig_1	cds	69122	69484	+	GCF_964263245_00061		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_A0A1C6DEY3, UniRef:UniRef90_UPI0035C8F2AA
+contig_1	cds	70216	70443	+	GCF_964263245_00062		hypothetical protein	
+contig_1	cds	70424	70672	+	GCF_964263245_00063		Adhesin P123	SO:0001217, UniRef:UniRef50_A0A345DQG7
+contig_1	cds	71078	71464	+	GCF_964263245_00064		hypothetical protein	
+contig_1	cds	71474	71758	+	GCF_964263245_00065		(pseudo) Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DLG6, UniRef:UniRef90_A0A345DLG6
+contig_1	cds	72168	72413	+	GCF_964263245_00066		(pseudo) PBSX family phage terminase large subunit	SO:0001217, UniRef:UniRef50_A0A3S0RSG9, UniRef:UniRef90_A0A3S0RSG9
+contig_1	cds	72813	74117	+	GCF_964263245_00067	obgE	GTPase ObgE	GO:0003924, SO:0001217, UniRef:UniRef50_Q6MTG9, UniRef:UniRef90_UPI0030D5BF13
+contig_1	cds	74120	74869	+	GCF_964263245_00068		NAD(+) synthase	SO:0001217, UniRef:UniRef50_A0A345Z390, UniRef:UniRef90_UPI0030D29BAD
+contig_1	cds	76425	76787	-	GCF_964263245_00069		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_A0A1C6DEY3, UniRef:UniRef90_UPI0035C8F2AA
+contig_1	cds	76985	77134	-	GCF_964263245_00070		hypothetical protein	
+contig_1	cds	77106	77375	-	GCF_964263245_00071		helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_UPI0030D5314C, UniRef:UniRef90_UPI0030D5314C
+contig_1	cds	77659	77829	+	GCF_964263245_00072		(pseudo) site-specific DNA-methyltransferase	SO:0001217, UniRef:UniRef50_A0A2S8NRW0, UniRef:UniRef90_UPI00313E1723
+contig_1	cds	79671	79817	+	GCF_964263245_00073		hypothetical protein	
+contig_1	cds	79902	80102	+	GCF_964263245_00074		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A0K2JGF7, UniRef:UniRef90_UPI0030CF1AAC
+contig_1	cds	80102	80359	+	GCF_964263245_00075		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001F4C8452
+contig_1	cds	80411	80665	+	GCF_964263245_00076		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9B7
+contig_1	cds	80787	80951	+	GCF_964263245_00077		hypothetical protein	
+contig_1	cds	81326	81541	+	GCF_964263245_00078		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00209E1B4F, UniRef:UniRef90_UPI00209E1B4F
+contig_1	cds	83073	83369	+	GCF_964263245_00079		Succinate dehydrogenase	SO:0001217, UniRef:UniRef50_A0A3S0YNA2
+contig_1	cds	84641	84970	-	GCF_964263245_00080		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313415DA
+contig_1	cds	86738	86977	+	GCF_964263245_00081		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JHV7
+contig_1	cds	87520	87789	+	GCF_964263245_00082		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	87982	88101	+	GCF_964263245_00083		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FGE5, UniRef:UniRef90_UPI0030D1B4AB
+contig_1	cds	89702	89920	+	GCF_964263245_00084		(pseudo) Adhesin	SO:0001217, UniRef:UniRef50_A0A0K2JFR2, UniRef:UniRef50_A0A2S8NRM6, UniRef:UniRef90_UPI0030CD3FD8
+contig_1	cds	90627	91412	-	GCF_964263245_00085		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A1J0U0K3
+contig_1	cds	92361	92666	-	GCF_964263245_00086		hypothetical protein	
+contig_1	cds	93520	93648	-	GCF_964263245_00087		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A345DLE9, UniRef:UniRef90_UPI0030D61F9C
+contig_1	cds	94238	94363	-	GCF_964263245_00088		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8, UniRef:UniRef90_UPI003364F991
+contig_1	cds	95545	95907	+	GCF_964263245_00089		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FF28
+contig_1	cds	97063	97290	-	GCF_964263245_00090		(pseudo) Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DLG6, UniRef:UniRef90_UPI00313E2A98
+contig_1	cds	97260	97466	-	GCF_964263245_00091		hypothetical protein	
+contig_1	cds	98193	98447	+	GCF_964263245_00092		hypothetical protein	
+contig_1	cds	99948	102548	-	GCF_964263245_00093		Spermidine/putrescine ABC transporter permease	SO:0001217, UniRef:UniRef50_R4U2X1
+contig_1	cds	102532	103308	-	GCF_964263245_00094		Spermidine/putrescine ABC transporter permease	SO:0001217, UniRef:UniRef50_R4UKD1
+contig_1	cds	103514	104566	-	GCF_964263245_00095	potA	spermidine/putrescine ABC transporter ATP-binding protein	EC:7.6.2.11, GO:0005524, GO:0015594, GO:0016887, GO:0043190, GO:1902047, SO:0001217, UniRef:UniRef50_Q6F0V4, UniRef:UniRef90_Q14Q07
+contig_1	cds	104591	105124	-	GCF_964263245_00096		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1J0TZG5
+contig_1	cds	105234	106055	-	GCF_964263245_00097		HAD family hydrolase	SO:0001217, UniRef:UniRef50_W0GK36
+contig_1	cds	106100	107251	-	GCF_964263245_00098	metK	methionine adenosyltransferase	EC:2.5.1.6, GO:0004478, GO:0005524, GO:0006556, KEGG:K00789, SO:0001217, UniRef:UniRef50_P72871, UniRef:UniRef90_A0A0K2JIK6
+contig_1	cds	107520	108458	-	GCF_964263245_00099		Serine aminopeptidase S33 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0K2JIK3
+contig_1	cds	108475	109275	-	GCF_964263245_00100		TIGR00282 family metallophosphoesterase	EC:3.1.4.16, KEGG:K09769, SO:0001217, UniRef:UniRef50_E7GAE4, UniRef:UniRef90_UPI0030CEA45E
+contig_1	cds	109617	110594	-	GCF_964263245_00101	ftsY	Signal recognition particle receptor FtsY	SO:0001217, UniRef:UniRef50_A0A432ZXB1
+contig_1	cds	112376	112543	-	GCF_964263245_00102		hypothetical protein	
+contig_1	cds	112928	113359	-	GCF_964263245_00103	smpB	SsrA-binding protein SmpB	GO:0003723, KEGG:K03664, SO:0001217, UniRef:UniRef50_A0AAI9T359, UniRef:UniRef90_UPI0030D2DB41
+contig_1	cds	113378	115495	-	GCF_964263245_00104	rnr	ribonuclease R	EC:3.1.13.1, GO:0003723, GO:0004518, KEGG:K12573, SO:0001217, UniRef:UniRef50_A0A2P6FFQ0, UniRef:UniRef90_UPI0030CB1B41
+contig_1	cds	115574	115870	-	GCF_964263245_00105	secG	Protein-export membrane protein SecG	SO:0001217, UniRef:UniRef50_A0A654IJR5
+contig_1	cds	116045	116434	-	GCF_964263245_00106		hypothetical protein	PFAM:PF08282.18
+contig_1	cds	117417	117707	-	GCF_964263245_00107		hypothetical protein	PFAM:PF08282.18
+contig_1	cds	118384	118608	+	GCF_964263245_00108		Acyl carrier protein	SO:0001217, UniRef:UniRef50_A0A1J0U1U9
+contig_1	cds	118623	119108	+	GCF_964263245_00109		Fur family transcriptional regulator	SO:0001217, UniRef:UniRef50_W0GS11
+contig_1	tRNA	119180	119255	+	GCF_964263245_00110		tRNA-Xxx	
+contig_1	tRNA	119352	119427	+	GCF_964263245_00111		tRNA-Xxx	
+contig_1	tRNA	119525	119599	+	GCF_964263245_00112	trnW	tRNA-Trp(cca)	SO:0000271
+contig_1	tRNA	119610	119702	+	GCF_964263245_00113	trnS	tRNA-Ser(cga)	SO:0000269
+contig_1	cds	119756	120613	-	GCF_964263245_00114	degV	Fatty acid-binding protein DegV	SO:0001217, UniRef:UniRef50_W0GQQ3
+contig_1	cds	120629	121471	-	GCF_964263245_00115	degV	DegV family protein	SO:0001217, UniRef:UniRef50_W0GMM1
+contig_1	cds	121799	122029	+	GCF_964263245_00116		hypothetical protein	
+contig_1	cds	122097	122375	+	GCF_964263245_00117		hypothetical protein	
+contig_1	cds	122701	122907	+	GCF_964263245_00118		hypothetical protein	
+contig_1	cds	123335	124357	+	GCF_964263245_00119		nicotinate phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A1J9YIG3
+contig_1	cds	124599	124790	+	GCF_964263245_00120		hypothetical protein	
+contig_1	cds	125404	125541	+	GCF_964263245_00121		hypothetical protein	
+contig_1	cds	125964	126299	-	GCF_964263245_00122		hypothetical protein	
+contig_1	cds	128832	129164	+	GCF_964263245_00123		hypothetical protein	
+contig_1	cds	129440	129613	+	GCF_964263245_00124		hypothetical protein	
+contig_1	cds	130348	131610	+	GCF_964263245_00125	tyrS	tyrosine--tRNA ligase	EC:6.1.1.1, GO:0000166, GO:0004831, GO:0005524, GO:0006437, KEGG:K01866, SO:0001217, UniRef:UniRef50_Q6F0M8, UniRef:UniRef90_UPI0030CC3DAB
+contig_1	cds	131749	131850	+	GCF_964263245_00126		hypothetical protein	
+contig_1	cds	132247	132486	+	GCF_964263245_00127		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JHV7
+contig_1	cds	133760	134218	+	GCF_964263245_00128		hypothetical protein	
+contig_1	cds	135783	136733	-	GCF_964263245_00129		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	137230	137382	+	GCF_964263245_00130		hypothetical protein	
+contig_1	cds	138515	138853	-	GCF_964263245_00131	rnmV	(pseudo) ribonuclease M5	EC:3.1.26.8, GO:0006364, GO:0043822, KEGG:K05985, SO:0001217, UniRef:UniRef50_R4UKC9, UniRef:UniRef90_UPI0030D305F3
+contig_1	cds	138982	139116	+	GCF_964263245_00132		hypothetical protein	
+contig_1	cds	139098	139865	+	GCF_964263245_00133	mreB	(pseudo) Cell shape-determining protein MreB	SO:0001217, UniRef:UniRef50_S5LXM4, UniRef:UniRef90_A0A432ZXA7
+contig_1	cds	139847	140032	+	GCF_964263245_00134		hypothetical protein	
+contig_1	cds	140207	140389	-	GCF_964263245_00135		(pseudo) Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A432ZW41, UniRef:UniRef50_UPI0030CCED94, UniRef:UniRef90_A0A2P6FG90
+contig_1	cds	141270	142571	+	GCF_964263245_00136		DUF2130 domain-containing protein	SO:0001217, UniRef:UniRef50_W6AB79
+contig_1	cds	142525	142713	+	GCF_964263245_00137		hypothetical protein	
+contig_1	cds	144313	144726	-	GCF_964263245_00138		(pseudo) DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI002481DC89, UniRef:UniRef90_UPI0030CF8DDA
+contig_1	cds	145645	146571	-	GCF_964263245_00139		Transmembrane protein	SO:0001217, UniRef:UniRef50_R4UJG5
+contig_1	cds	146865	147191	+	GCF_964263245_00140		hypothetical protein	PFAM:PF02882.25
+contig_1	cds	147233	147571	-	GCF_964263245_00141	rbfA	30S ribosome-binding factor RbfA	GO:0006364, KEGG:K02834, SO:0001217, UniRef:UniRef50_R4UJB2, UniRef:UniRef90_UPI0030D4FA9C
+contig_1	cds	148156	148395	+	GCF_964263245_00142		hypothetical protein	
+contig_1	cds	148657	149739	-	GCF_964263245_00143		AB hydrolase-1 domain-containing protein	SO:0001217, UniRef:UniRef50_R4U1J5
+contig_1	cds	149744	150139	-	GCF_964263245_00144		Cytidine deaminase	SO:0001217, UniRef:UniRef50_S5M099
+contig_1	cds	150292	150501	-	GCF_964263245_00145		hypothetical protein	
+contig_1	cds	150520	150996	-	GCF_964263245_00146	ybeY	Endoribonuclease YbeY	SO:0001217, UniRef:UniRef50_Q14NW7
+contig_1	cds	151078	151287	+	GCF_964263245_00147		hypothetical protein	
+contig_1	cds	151440	151835	+	GCF_964263245_00148		Cytidine deaminase	SO:0001217, UniRef:UniRef50_S5M099
+contig_1	cds	152632	153045	-	GCF_964263245_00149		hypothetical protein	
+contig_1	cds	154960	157362	-	GCF_964263245_00150		Phenylalanine--tRNA ligase beta subunit	SO:0001217, UniRef:UniRef50_A0A2P6FCA7
+contig_1	cds	157375	158412	-	GCF_964263245_00151	pheS	phenylalanine--tRNA ligase subunit alpha	EC:6.1.1.20, GO:0000166, GO:0004826, GO:0005524, GO:0005737, GO:0006432, KEGG:K01889, SO:0001217, UniRef:UniRef50_Q6F165, UniRef:UniRef90_UPI0030CE6F25
+contig_1	cds	159079	159312	-	GCF_964263245_00152		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI002412D4E5, UniRef:UniRef90_UPI002412D4E5
+contig_1	cds	160137	160280	-	GCF_964263245_00153		hypothetical protein	
+contig_1	cds	160679	163891	-	GCF_964263245_00154		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A0K2JGJ3
+contig_1	cds	165221	165514	-	GCF_964263245_00155		hypothetical protein	
+contig_1	cds	165576	166271	-	GCF_964263245_00156		YgjP-like metallopeptidase domain-containing protein	SO:0001217, UniRef:UniRef50_W0GLV5
+contig_1	cds	166304	167641	-	GCF_964263245_00157		MFS transporter	SO:0001217, UniRef:UniRef50_A0A1J0U185
+contig_1	cds	169042	169992	+	GCF_964263245_00158		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	170396	170770	+	GCF_964263245_00159		hypothetical protein	
+contig_1	cds	171393	173195	-	GCF_964263245_00160	lepA	translation elongation factor 4	EC:3.6.5.n1, GO:0003924, GO:0005525, SO:0001217, UniRef:UniRef50_A0A812TL07, UniRef:UniRef90_A0A0K2JGZ3
+contig_1	cds	177880	178077	+	GCF_964263245_00161		hypothetical protein	
+contig_1	cds	178130	178393	+	GCF_964263245_00162		hypothetical protein	
+contig_1	cds	178339	178599	+	GCF_964263245_00163		hypothetical protein	
+contig_1	cds	179358	180122	+	GCF_964263245_00164		type III pantothenate kinase	EC:2.7.1.33, KEGG:K03525, SO:0001217, UniRef:UniRef50_R4U6H7, UniRef:UniRef90_UPI0030D2E99D
+contig_1	cds	180307	180540	+	GCF_964263245_00165		Transposase of IS30 family protein	SO:0001217, UniRef:UniRef50_A0A345DSH9
+contig_1	cds	180920	181045	-	GCF_964263245_00166		Plectrovirus spv1-c74 orf 14 protein	SO:0001217, UniRef:UniRef50_Q14LW1
+contig_1	cds	181120	181347	+	GCF_964263245_00167		hypothetical protein	SO:0001217, UniRef:UniRef50_Q14PR2
+contig_1	cds	181403	181552	+	GCF_964263245_00168	rpmG	50S ribosomal protein L33	GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_Q2FYU6, UniRef:UniRef90_A0A3S0REG2
+contig_1	cds	181562	181999	+	GCF_964263245_00169	secE	Preprotein translocase subunit SecE	SO:0001217, UniRef:UniRef50_R4UHD0
+contig_1	cds	182033	182689	+	GCF_964263245_00170	nusG	Transcription termination/antitermination protein NusG	SO:0001217, UniRef:UniRef50_A0A1J0TZM3
+contig_1	cds	182717	183322	+	GCF_964263245_00171		Putative 3-methyladenine DNA glycosylase	SO:0001217, UniRef:UniRef50_Q14PQ8
+contig_1	cds	183998	184444	-	GCF_964263245_00172		hypothetical protein	
+contig_1	cds	184559	185257	+	GCF_964263245_00173	rsmG	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	EC:2.1.1.170, GO:0008168, GO:0031167, GO:0046118, KEGG:K03501, SO:0001217, UniRef:UniRef50_R4U313, UniRef:UniRef90_UPI0030CB71EC
+contig_1	cds	185316	186092	+	GCF_964263245_00174	parA	Chromosome partitioning protein ParA	KEGG:K03496, SO:0001217, UniRef:UniRef50_A0A2P6FB54, UniRef:UniRef90_A0A0K2JEU8
+contig_1	cds	186076	186972	+	GCF_964263245_00175		ParB/RepB/Spo0J family partition protein	KEGG:K03497, SO:0001217, UniRef:UniRef50_W0GKH7, UniRef:UniRef90_UPI0030CFFDB0
+contig_1	cds	186995	188101	+	GCF_964263245_00176	ychF	redox-regulated ATPase YchF	GO:0005524, GO:0005525, GO:0016887, SO:0001217, UniRef:UniRef50_A0A1S6YJ16, UniRef:UniRef90_UPI0030CDF4C1
+contig_1	cds	188599	190047	+	GCF_964263245_00177	gltX	glutamate--tRNA ligase	EC:6.1.1.17, EC:6.1.1.24, GO:0000166, GO:0004818, GO:0005524, GO:0006424, KEGG:K09698, SO:0001217, UniRef:UniRef50_Q97NG1, UniRef:UniRef90_UPI0030D482F0
+contig_1	cds	190172	191284	+	GCF_964263245_00178		HD domain-containing protein	SO:0001217, UniRef:UniRef50_W0GNN8, UniRef:UniRef90_UPI0030D07FAE
+contig_1	cds	191303	191839	+	GCF_964263245_00179		RNAP delta factor	SO:0001217, UniRef:UniRef50_A0AAI9X0I1
+contig_1	cds	191934	193529	+	GCF_964263245_00180		CTP synthase	EC:6.3.4.2, GO:0003883, GO:0006221, GO:0006241, KEGG:K01937, SO:0001217, UniRef:UniRef50_Q58574, UniRef:UniRef90_Q14PP6
+contig_1	cds	193598	194899	+	GCF_964263245_00181		adenylosuccinate synthase	EC:6.3.4.4, GO:0004019, GO:0005525, GO:0006164, KEGG:K01939, SO:0001217, UniRef:UniRef50_P52150, UniRef:UniRef90_A0A0K2JFA6
+contig_1	cds	194899	196191	+	GCF_964263245_00182	purB	adenylosuccinate lyase	EC:4.3.2.2, GO:0004018, GO:0009152, KEGG:K01756, SO:0001217, UniRef:UniRef50_P52201, UniRef:UniRef90_UPI0030D190A5
+contig_1	cds	196206	196775	+	GCF_964263245_00183		Peptidyl-tRNA hydrolase	SO:0001217, UniRef:UniRef50_R4U5C5
+contig_1	cds	196776	197666	+	GCF_964263245_00184	rsmI	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	EC:2.1.1.198, GO:0000451, GO:0008649, GO:0008757, KEGG:K07056, SO:0001217, UniRef:UniRef50_A0A0K2JEV2, UniRef:UniRef90_UPI0030CB3403
+contig_1	cds	198579	198944	-	GCF_964263245_00185		Transposase of is30 family n-terminal truncated protein	SO:0001217, UniRef:UniRef50_Q14KY9
+contig_1	cds	199336	199569	-	GCF_964263245_00186		Helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_A0A432ZV77, UniRef:UniRef90_UPI0030D00D85
+contig_1	cds	199958	200209	+	GCF_964263245_00187		hypothetical protein	
+contig_1	cds	200881	201831	+	GCF_964263245_00188		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	201941	202153	+	GCF_964263245_00189		(pseudo) DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI0030D2D128, UniRef:UniRef50_UPI00313D07F3, UniRef:UniRef90_UPI00209C9D45, UniRef:UniRef90_UPI00209FB6DD
+contig_1	cds	203070	203672	+	GCF_964263245_00190		FMN-dependent NADH:quinone oxidoreductase	SO:0001217, UniRef:UniRef50_Q98QP9
+contig_1	cds	203814	204086	-	GCF_964263245_00191		hypothetical protein	
+contig_1	cds	204328	205278	-	GCF_964263245_00192		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	206021	206707	+	GCF_964263245_00193		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0K2JFY0
+contig_1	cds	206780	207004	+	GCF_964263245_00194		hypothetical protein	
+contig_1	cds	209953	210240	+	GCF_964263245_00195		HU family DNA-binding protein	SO:0001217, UniRef:UniRef50_Q14MP3, UniRef:UniRef90_UPI0030CCFF24
+contig_1	cds	210257	210817	+	GCF_964263245_00196	dnaD	DnaD family protein	SO:0001217, UniRef:UniRef50_A0A0H3XKQ5, UniRef:UniRef90_UPI0030CD090C
+contig_1	cds	211373	211699	+	GCF_964263245_00197		DivIVA domain-containing protein	SO:0001217, UniRef:UniRef50_W0GM17, UniRef:UniRef90_UPI0030D0BF32
+contig_1	ncRNA	211747	212115	+	GCF_964263245_00198	RNaseP_bact_b	Bacterial RNase P class B	RFAM:RF00011, SO:0000386
+contig_1	cds	212569	213069	+	GCF_964263245_00199		(pseudo) Transmembrane protein	SO:0001217, UniRef:UniRef50_R4UJM3, UniRef:UniRef90_UPI0030CF8E14
+contig_1	cds	213155	215062	+	GCF_964263245_00200		Putative abc transporter permease and atp-binding component transmembrane protein	SO:0001217, UniRef:UniRef50_W6AMW2, UniRef:UniRef90_Q14MP8
+contig_1	cds	216203	216316	-	GCF_964263245_00201		hypothetical protein	
+contig_1	cds	218706	219656	+	GCF_964263245_00202		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	220098	220403	-	GCF_964263245_00203	rpmE	50S ribosomal protein L31	GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_W6AKI7, UniRef:UniRef90_Q14QE6
+contig_1	cds	220621	220818	-	GCF_964263245_00204		hypothetical protein	
+contig_1	cds	221871	222161	+	GCF_964263245_00205		DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_A0AAJ4TWV0
+contig_1	cds	222499	222600	-	GCF_964263245_00206		hypothetical protein	
+contig_1	cds	222600	222857	-	GCF_964263245_00207		hypothetical protein	PFAM:PF07992.20
+contig_1	cds	223681	224622	-	GCF_964263245_00208		Hypothetical cmp binding factor protein	EC:3.1.-.-, KEGG:K03698, SO:0001217, UniRef:UniRef50_W0GM65, UniRef:UniRef90_Q14PE2
+contig_1	cds	226625	226843	+	GCF_964263245_00209		hypothetical protein	
+contig_1	cds	226810	227025	+	GCF_964263245_00210		hypothetical protein	
+contig_1	cds	227815	231723	+	GCF_964263245_00211	rpoB	DNA-directed RNA polymerase subunit beta	EC:2.7.7.6, GO:0000428, GO:0001054, GO:0001055, GO:0001056, GO:0001057, GO:0001058, GO:0001066, GO:0003677, GO:0003899, GO:0006351, GO:0032549, KEGG:K03043, SO:0001217, UniRef:UniRef50_Q6F0L7, UniRef:UniRef90_P47767
+contig_1	cds	231746	235498	+	GCF_964263245_00212	rpoC	DNA-directed RNA polymerase subunit beta'	EC:2.7.7.6, GO:0003677, GO:0003899, GO:0006351, KEGG:K03046, SO:0001217, UniRef:UniRef50_B7C9U1, UniRef:UniRef90_UPI0030CDFEA7
+contig_1	cds	235632	236054	+	GCF_964263245_00213	rpsL	30S ribosomal protein S12	GO:0003735, GO:0006412, GO:0015935, KEGG:K02950, SO:0001217, UniRef:UniRef50_P0A0H0, UniRef:UniRef90_A0AAI9T3V5
+contig_1	cds	236078	236545	+	GCF_964263245_00214	rpsG	30S ribosomal protein S7	GO:0003735, GO:0006412, GO:0015935, KEGG:K02992, SO:0001217, UniRef:UniRef50_P21469, UniRef:UniRef90_R4U2S8
+contig_1	cds	236567	238645	+	GCF_964263245_00215	fusA	elongation factor G	GO:0003746, GO:0005525, GO:0006414, KEGG:K02355, SO:0001217, UniRef:UniRef50_Q2NJ19, UniRef:UniRef90_UPI0030CF5A20
+contig_1	cds	238763	239953	+	GCF_964263245_00216	tuf	elongation factor Tu	GO:0003746, GO:0005525, GO:0006414, SO:0001217, UniRef:UniRef50_O66429, UniRef:UniRef90_A0A0K2JIQ7
+contig_1	cds	240922	242010	-	GCF_964263245_00217		Mbov_0401 family ICE element transposase-like protein	SO:0001217, UniRef:UniRef50_A0A0K2JH80, UniRef:UniRef90_UPI00313C6C98
+contig_1	cds	242025	242345	-	GCF_964263245_00218		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI002412ADD6, UniRef:UniRef90_UPI00313E8B76
+contig_1	cds	242725	244791	-	GCF_964263245_00219		VirD4-like conjugal transfer protein, CD1115 family	EC:7.4.2.8, KEGG:K03205, SO:0001217, UniRef:UniRef50_A0A0K2JJ10, UniRef:UniRef90_UPI00313EF561
+contig_1	cds	244796	245977	-	GCF_964263245_00220		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JJB4
+contig_1	cds	246109	246498	-	GCF_964263245_00221		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JJC2
+contig_1	cds	246531	249194	-	GCF_964263245_00222		Mbov_0397 family ICE element conjugal transfer ATPase	KEGG:K12063, SO:0001217, UniRef:UniRef50_A0A0K2JIW3, UniRef:UniRef90_A0A0K2JIW3
+contig_1	cds	249367	249474	-	GCF_964263245_00223		hypothetical protein	
+contig_1	cds	249688	249960	+	GCF_964263245_00224		hypothetical protein	
+contig_1	cds	249957	250169	-	GCF_964263245_00225		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313B39A4
+contig_1	cds	250403	252487	-	GCF_964263245_00226		(pseudo) Mbov_0399 family ICE element protein	SO:0001217, UniRef:UniRef50_A0A345DQN1, UniRef:UniRef50_A0AAJ4EKL6, UniRef:UniRef90_A0A345DQN1, UniRef:UniRef90_UPI00313B37DB
+contig_1	cds	252546	253817	-	GCF_964263245_00227		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DQN0
+contig_1	cds	253939	254229	+	GCF_964263245_00228		hypothetical protein	
+contig_1	cds	254565	254720	-	GCF_964263245_00229		hypothetical protein	
+contig_1	cds	254963	255190	-	GCF_964263245_00230		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JJB8
+contig_1	cds	255193	256173	-	GCF_964263245_00231		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JJU4, UniRef:UniRef90_UPI0030D3536A
+contig_1	cds	256265	260749	-	GCF_964263245_00232		ankyrin repeat domain-containing protein	SO:0001217, UniRef:UniRef50_UPI00313E09D2
+contig_1	cds	260752	261291	-	GCF_964263245_00233		hypothetical protein	SO:0001217, UniRef:UniRef50_A0AAJ4EKR9
+contig_1	cds	261330	261467	-	GCF_964263245_00234		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FCG3
+contig_1	cds	261530	263188	-	GCF_964263245_00235		Mbov_0396 family ICE element transmembrane protein	SO:0001217, UniRef:UniRef50_A0A2S8NUN9, UniRef:UniRef90_A0AAJ4EIY4
+contig_1	cds	263221	263511	-	GCF_964263245_00236		Mbov_0395 family pilin-like conjugal transfer protein	SO:0001217, UniRef:UniRef50_A0A0K2JJU1, UniRef:UniRef90_UPI0030CF1988
+contig_1	cds	263641	263832	-	GCF_964263245_00237		Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0AAJ4EIU0
+contig_1	cds	263835	265094	-	GCF_964263245_00238		DNA (cytosine-5-)-methyltransferase	EC:2.1.1.37, KEGG:K00558, SO:0001217, UniRef:UniRef50_A0A0K2JIY9, UniRef:UniRef90_UPI00313B924E
+contig_1	cds	265667	266089	+	GCF_964263245_00239		hypothetical protein	
+contig_1	cds	266099	266341	-	GCF_964263245_00240		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI000F8EE71D, UniRef:UniRef50_UPI00313BECD2, UniRef:UniRef90_UPI00313BECD2
+contig_1	cds	266548	266892	-	GCF_964263245_00241		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A345DQM2
+contig_1	cds	266876	267343	-	GCF_964263245_00242		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JIU8, UniRef:UniRef90_A0AAJ4EHZ9
+contig_1	cds	267407	267607	-	GCF_964263245_00243		Zinc ribbon domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2S8NUU5, UniRef:UniRef90_UPI0030D41265
+contig_1	cds	267784	267945	-	GCF_964263245_00244		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FCK8, UniRef:UniRef90_UPI002412BAD7
+contig_1	cds	267936	268247	-	GCF_964263245_00245		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DMN1
+contig_1	cds	268364	268480	-	GCF_964263245_00246		hypothetical protein	
+contig_1	cds	268559	268711	-	GCF_964263245_00247		Spiroplasmavirus-related protein	RefSeq:WP_215825551.1, SO:0001217, UniParc:UPI001C04DF79, UniRef:UniRef100_UPI00313D71F5, UniRef:UniRef50_A0A0K2JJT1, UniRef:UniRef90_UPI00313D71F5
+contig_1	cds	269020	269322	-	GCF_964263245_00248	repL	replication/maintenance protein RepL	SO:0001217, UniRef:UniRef50_A0A0K2JH96, UniRef:UniRef90_UPI00313C4E05
+contig_1	tRNA	271509	271584	+	GCF_964263245_00249	trnH	tRNA-His(gtg)	SO:0000262
+contig_1	cds	272135	272272	+	GCF_964263245_00250		hypothetical protein	
+contig_1	cds	272502	272654	+	GCF_964263245_00251		hypothetical protein	
+contig_1	cds	274970	275068	+	GCF_964263245_00252		hypothetical protein	
+contig_1	cds	275474	278485	-	GCF_964263245_00253		2-oxoacid dehydrogenase acyltransferase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_W6AUV1
+contig_1	cds	280272	280454	-	GCF_964263245_00254		hypothetical protein	
+contig_1	cds	281233	281499	+	GCF_964263245_00255		hypothetical protein	
+contig_1	cds	281747	281887	-	GCF_964263245_00256		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F925
+contig_1	cds	282945	283895	+	GCF_964263245_00257		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	284649	284867	-	GCF_964263245_00258		(pseudo) DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI0030D2D128, UniRef:UniRef90_UPI00313AF355
+contig_1	cds	285583	288408	-	GCF_964263245_00259		Putative cation transporting P-type atpase protein	SO:0001217, UniRef:UniRef50_Q6MTV6, UniRef:UniRef90_Q14N79
+contig_1	cds	288910	289047	-	GCF_964263245_00260		hypothetical protein	
+contig_1	cds	290534	290626	-	GCF_964263245_00261		hypothetical protein	
+contig_1	cds	290572	290835	-	GCF_964263245_00262		hypothetical protein	
+contig_1	cds	292037	292855	-	GCF_964263245_00263		Transmembrane protein	SO:0001217, UniRef:UniRef50_R4UJM3
+contig_1	ncRNA	293004	293373	-	GCF_964263245_00264	RNaseP_bact_b	Bacterial RNase P class B	RFAM:RF00011, SO:0000386
+contig_1	cds	293460	293570	-	GCF_964263245_00265		hypothetical protein	
+contig_1	cds	293513	293764	-	GCF_964263245_00266		hypothetical protein	
+contig_1	cds	295527	295979	-	GCF_964263245_00267		Transposase of is30 family protein	SO:0001217, UniRef:UniRef50_A0A345DMR5
+contig_1	cds	296375	296509	-	GCF_964263245_00268		hypothetical protein	
+contig_1	cds	297999	298151	+	GCF_964263245_00269		hypothetical protein	
+contig_1	cds	298988	299326	+	GCF_964263245_00270		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0URV8, UniRef:UniRef90_A0A3S0URV8
+contig_1	cds	299550	299708	+	GCF_964263245_00271		hypothetical protein	
+contig_1	cds	301253	301567	+	GCF_964263245_00272		p123	SO:0001217, UniRef:UniRef50_A0A0K2JIZ6
+contig_1	cds	301746	302000	+	GCF_964263245_00273		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6F8J8, UniRef:UniRef90_A0A2P6F8J8
+contig_1	cds	303340	303531	-	GCF_964263245_00274		hypothetical protein	
+contig_1	cds	303546	304067	-	GCF_964263245_00275		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FEX0
+contig_1	cds	304179	304451	-	GCF_964263245_00276		hypothetical protein	
+contig_1	cds	304652	304951	-	GCF_964263245_00277		hypothetical protein	
+contig_1	cds	306056	306211	+	GCF_964263245_00278		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F8M6
+contig_1	cds	306667	307083	-	GCF_964263245_00279		hypothetical protein	
+contig_1	cds	307032	307208	-	GCF_964263245_00280		hypothetical protein	
+contig_1	cds	307462	307578	-	GCF_964263245_00281		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030D54338, UniRef:UniRef90_UPI0030D54338
+contig_1	cds	308258	308533	+	GCF_964263245_00282		hypothetical protein	
+contig_1	cds	310544	310858	+	GCF_964263245_00283		helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_UPI0030D26DCA, UniRef:UniRef90_UPI0030D26DCA
+contig_1	cds	311132	311494	+	GCF_964263245_00284		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_A0A1C6DEY3, UniRef:UniRef90_UPI0035C8F2AA
+contig_1	cds	312756	312857	-	GCF_964263245_00285		hypothetical protein	
+contig_1	cds	313109	313654	-	GCF_964263245_00286		hypothetical protein	
+contig_1	cds	316209	316610	-	GCF_964263245_00287	rpsI	30S ribosomal protein S9	GO:0003735, GO:0005840, GO:0006412, KEGG:K02996, SO:0001217, UniRef:UniRef50_A0A0L0UJF1, UniRef:UniRef90_R4UK88
+contig_1	cds	316622	317062	-	GCF_964263245_00288		Large ribosomal subunit protein uL13	SO:0001217, UniRef:UniRef50_Q14KZ8
+contig_1	cds	317174	318415	-	GCF_964263245_00289		serine hydroxymethyltransferase	EC:2.1.2.1, KEGG:K00600, SO:0001217, UniRef:UniRef50_P47634, UniRef:UniRef90_UPI0030CF04F1
+contig_1	cds	318505	319461	-	GCF_964263245_00290		ECF transporter S component	SO:0001217, UniRef:UniRef50_W0GQY3, UniRef:UniRef90_A0A0K2JEL5
+contig_1	cds	319535	320197	-	GCF_964263245_00291		uracil-DNA glycosylase	EC:3.2.2.27, GO:0004844, GO:0006284, KEGG:K03648, SO:0001217, UniRef:UniRef50_W0GS89, UniRef:UniRef90_UPI0030CC43CE
+contig_1	cds	320329	320589	+	GCF_964263245_00292		hypothetical protein	
+contig_1	cds	320907	321548	-	GCF_964263245_00293		tRNA (guanine-N(7)-)-methyltransferase	SO:0001217, UniRef:UniRef50_Q14KZ3
+contig_1	cds	321532	321735	-	GCF_964263245_00294		hypothetical protein	
+contig_1	cds	324208	324906	+	GCF_964263245_00295		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI00313B1C06, UniRef:UniRef90_UPI00313B1C06
+contig_1	cds	325290	325463	-	GCF_964263245_00296		(pseudo) transposase	SO:0001217, UniRef:UniRef50_J8DD51, UniRef:UniRef90_UPI0030D26C5A
+contig_1	tRNA	326983	327049	-	GCF_964263245_00297		(pseudo) tRNA-Xxx	
+contig_1	cds	327990	328088	-	GCF_964263245_00298		hypothetical protein	
+contig_1	cds	328476	328904	-	GCF_964263245_00299		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DLG4
+contig_1	cds	330410	330673	-	GCF_964263245_00300		hypothetical protein	
+contig_1	cds	331235	331516	-	GCF_964263245_00301		hypothetical protein	
+contig_1	cds	331608	331988	-	GCF_964263245_00302		hypothetical protein	
+contig_1	cds	332559	332882	-	GCF_964263245_00303		hypothetical protein	
+contig_1	cds	333225	333647	-	GCF_964263245_00304	ruvX	Holliday junction resolvase RuvX	EC:3.1.21.10, GO:0006364, SO:0001217, UniRef:UniRef50_Q14MG2, UniRef:UniRef90_UPI0030D56042
+contig_1	cds	333640	336405	-	GCF_964263245_00305	alaS	alanine--tRNA ligase	EC:6.1.1.7, GO:0000166, GO:0004813, GO:0005737, GO:0006419, SO:0001217, UniRef:UniRef50_Q6F0K3, UniRef:UniRef90_UPI0030D2CC87
+contig_1	cds	336501	337730	-	GCF_964263245_00306		Motility-associated protein Scm1	SO:0001217, UniRef:UniRef50_W0GKY2
+contig_1	cds	337815	340064	-	GCF_964263245_00307	spoT	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	EC:3.1.7.2, GO:0005886, GO:0008893, GO:0015970, SO:0001217, UniRef:UniRef50_O34098, UniRef:UniRef90_O34098
+contig_1	cds	340672	343860	-	GCF_964263245_00308		Protein export membrane protein SecD/SecF C-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_W0GL69
+contig_1	cds	344007	344219	-	GCF_964263245_00309		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001EF84A3F
+contig_1	cds	344471	344752	-	GCF_964263245_00310		hypothetical protein	
+contig_1	cds	344811	344936	-	GCF_964263245_00311		hypothetical protein	
+contig_1	cds	345181	345399	-	GCF_964263245_00312		hypothetical protein	
+contig_1	cds	345341	346987	-	GCF_964263245_00313		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030CE4CF3
+contig_1	cds	347183	347734	-	GCF_964263245_00314		DJ-1 family glyoxalase III	SO:0001217, UniRef:UniRef50_W0GL58, UniRef:UniRef90_Q14ME4
+contig_1	cds	347797	348060	+	GCF_964263245_00315		hypothetical protein	
+contig_1	cds	349464	349715	-	GCF_964263245_00316		hypothetical protein	
+contig_1	cds	349693	349917	-	GCF_964263245_00317		hypothetical protein	
+contig_1	cds	350403	351044	-	GCF_964263245_00318		hypothetical protein	PFAM:PF13538.12, PFAM:PF18335.7
+contig_1	cds	351383	351592	-	GCF_964263245_00319		hypothetical protein	PFAM:PF13245.12
+contig_1	cds	351655	352455	-	GCF_964263245_00320		hypothetical protein	PFAM:PF14490.11, PFAM:PF23139.1
+contig_1	cds	352471	353592	-	GCF_964263245_00321	mnmA	tRNA 2-thiouridine(34) synthase MnmA	EC:2.8.1.13, GO:0008033, GO:0016740, GO:0016783, KEGG:K00566, SO:0001217, UniRef:UniRef50_Q600M2, UniRef:UniRef90_UPI0030D3E0DE
+contig_1	cds	353718	355496	-	GCF_964263245_00322		ABC transporter permease	SO:0001217, UniRef:UniRef50_UPI0030D5CACC
+contig_1	cds	355809	356867	-	GCF_964263245_00323	mreB	Cell shape-determining protein MreB	SO:0001217, UniRef:UniRef50_A0A0H3XJK5, UniRef:UniRef90_A0A2P6FG80
+contig_1	cds	357544	357729	-	GCF_964263245_00324		hypothetical protein	
+contig_1	cds	358034	358210	-	GCF_964263245_00325		hypothetical protein	
+contig_1	cds	358313	358609	-	GCF_964263245_00326		hypothetical protein	
+contig_1	cds	359773	359988	+	GCF_964263245_00327		hypothetical protein	
+contig_1	cds	360590	361213	+	GCF_964263245_00328		Deoxynucleoside kinase	SO:0001217, UniRef:UniRef50_Q14LP1
+contig_1	cds	361224	361502	+	GCF_964263245_00329		hypothetical protein	PFAM:PF00456.26
+contig_1	cds	361965	362084	+	GCF_964263245_00330		hypothetical protein	
+contig_1	cds	362110	362256	+	GCF_964263245_00331		hypothetical protein	
+contig_1	cds	363938	365467	+	GCF_964263245_00332		Ribonuclease Y	SO:0001217, UniRef:UniRef50_A0A2P6FF58
+contig_1	cds	365552	366910	+	GCF_964263245_00333	ffh	signal recognition particle protein	EC:3.6.5.4, GO:0003924, GO:0005048, GO:0005525, GO:0009306, GO:0048501, KEGG:K03106, SO:0001217, UniRef:UniRef50_Q01442, UniRef:UniRef90_A0A2P6FFF6
+contig_1	cds	368490	368771	+	GCF_964263245_00334		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JER1, UniRef:UniRef90_A0A0K2JER1
+contig_1	cds	368737	369345	+	GCF_964263245_00335		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DLG6, UniRef:UniRef90_A0A345DLG6
+contig_1	cds	369497	369976	+	GCF_964263245_00336		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0037DD4F22, UniRef:UniRef90_UPI0037DD4F22
+contig_1	cds	370461	371018	+	GCF_964263245_00337		hypothetical protein	
+contig_1	cds	371320	371508	+	GCF_964263245_00338		hypothetical protein	
+contig_1	cds	372694	373224	+	GCF_964263245_00339		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FEX0
+contig_1	cds	373233	373445	-	GCF_964263245_00340		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0SFB6
+contig_1	cds	374149	374700	-	GCF_964263245_00341		hypothetical protein	
+contig_1	cds	375687	375866	-	GCF_964263245_00342		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0R728, UniRef:UniRef90_UPI001F4CEC2B
+contig_1	cds	375917	376243	-	GCF_964263245_00343		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A345DRJ1, UniRef:UniRef90_A0A345DRJ1
+contig_1	cds	376563	376736	-	GCF_964263245_00344		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030D54338
+contig_1	cds	377438	377620	-	GCF_964263245_00345		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGG6, UniRef:UniRef90_A0A345DLT9
+contig_1	cds	377807	377947	+	GCF_964263245_00346		hypothetical protein	
+contig_1	cds	380278	381003	+	GCF_964263245_00347	pyrH	UMP kinase	EC:2.7.4.22, GO:0005737, GO:0006221, GO:0015949, GO:0033862, KEGG:K09903, SO:0001217, UniRef:UniRef50_R4U3F1, UniRef:UniRef90_A0A0K2JHL5
+contig_1	cds	381004	381552	+	GCF_964263245_00348	frr	ribosome recycling factor	GO:0006412, GO:0008135, SO:0001217, UniRef:UniRef50_Q03WX8, UniRef:UniRef90_Q14P69
+contig_1	cds	383765	384049	+	GCF_964263245_00349		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	384059	384226	+	GCF_964263245_00350		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JHY1
+contig_1	cds	384533	384679	+	GCF_964263245_00351		hypothetical protein	SO:0001217, UniRef:UniRef50_Q14MU4
+contig_1	cds	386393	386809	+	GCF_964263245_00352		hypothetical protein	
+contig_1	cds	387539	388096	+	GCF_964263245_00353		Elongation factor P	SO:0001217, UniRef:UniRef50_Q98Q55
+contig_1	cds	388130	388435	+	GCF_964263245_00354		MMB_0454 family protein	SO:0001217, UniRef:UniRef50_A0A1J0U0K4, UniRef:UniRef90_UPI0030D3EEAD
+contig_1	cds	390115	390282	-	GCF_964263245_00355		hypothetical protein	
+contig_1	cds	390953	391168	-	GCF_964263245_00356		hypothetical protein	PFAM:PF22613.1
+contig_1	cds	392355	392555	-	GCF_964263245_00357		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030D2137E
+contig_1	cds	392836	393573	+	GCF_964263245_00358	tpiA	triose-phosphate isomerase	EC:5.3.1.1, GO:0004807, GO:0006096, KEGG:K01803, SO:0001217, UniRef:UniRef50_P50918, UniRef:UniRef90_UPI0030D318F5
+contig_1	cds	394271	394426	+	GCF_964263245_00359		hypothetical protein	
+contig_1	cds	394776	395027	+	GCF_964263245_00360		hypothetical protein	
+contig_1	cds	396316	396639	+	GCF_964263245_00361		hypothetical protein	SO:0001217, UniRef:UniRef50_R4U599
+contig_1	cds	396876	399713	+	GCF_964263245_00362	uvrA	excinuclease ABC subunit UvrA	EC:3.1.25.-, GO:0003677, GO:0005524, GO:0006289, GO:0016887, KEGG:K03701, SO:0001217, UniRef:UniRef50_P47660, UniRef:UniRef90_A0A0K2JEQ9
+contig_1	cds	399723	400847	+	GCF_964263245_00363		bifunctional folylpolyglutamate synthase/dihydrofolate synthase	SO:0001217, UniRef:UniRef50_R4UHZ0, UniRef:UniRef90_UPI0030D3709D
+contig_1	cds	400851	401546	+	GCF_964263245_00364		Folate family ECF transporter S component	SO:0001217, UniRef:UniRef50_W0GM94
+contig_1	cds	401711	402958	+	GCF_964263245_00365	dnaD	DnaD domain protein	KEGG:K03346, SO:0001217, UniRef:UniRef50_R4U300, UniRef:UniRef90_UPI0030D0927A
+contig_1	cds	402986	403885	+	GCF_964263245_00366		ATP-binding protein	SO:0001217, UniRef:UniRef50_W0GQL3, UniRef:UniRef90_UPI0030D37B4C
+contig_1	cds	405163	405375	-	GCF_964263245_00367		hypothetical protein	
+contig_1	cds	405593	405886	-	GCF_964263245_00368		hypothetical protein	
+contig_1	cds	405868	406077	-	GCF_964263245_00369		hypothetical protein	
+contig_1	cds	406466	406993	-	GCF_964263245_00370	rlmB	(pseudo) 23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	GO:0006396, GO:0008173, SO:0001217, UniRef:UniRef50_Q14PR4, UniRef:UniRef90_UPI0030CAA663
+contig_1	cds	407063	407323	-	GCF_964263245_00371		hypothetical protein	SO:0001217, UniRef:UniRef50_A0AAX3T164
+contig_1	cds	409445	410782	-	GCF_964263245_00372	cysS	cysteine--tRNA ligase	EC:6.1.1.16, GO:0004817, GO:0005524, GO:0005737, GO:0006423, KEGG:K01883, SO:0001217, UniRef:UniRef50_R4U5A8, UniRef:UniRef90_UPI0030CF264A
+contig_1	cds	410794	412671	-	GCF_964263245_00373	mnmG	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	GO:0002098, GO:0008033, KEGG:K03495, SO:0001217, UniRef:UniRef50_R4UHC5, UniRef:UniRef90_A0A1J0TZK8
+contig_1	cds	412695	414278	-	GCF_964263245_00374		Methionine--tRNA ligase	SO:0001217, UniRef:UniRef50_R4UF36
+contig_1	cds	414687	414890	-	GCF_964263245_00375		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JFQ2
+contig_1	cds	415079	416077	-	GCF_964263245_00376	gap	type I glyceraldehyde-3-phosphate dehydrogenase	GO:0006006, GO:0016620, GO:0050661, GO:0051287, SO:0001217, UniRef:UniRef50_S5MF41, UniRef:UniRef90_Q14PS1
+contig_1	cds	416542	416721	-	GCF_964263245_00377		hypothetical protein	
+contig_1	cds	417636	417776	+	GCF_964263245_00378		hypothetical protein	
+contig_1	cds	418677	418895	+	GCF_964263245_00379		hypothetical protein	
+contig_1	cds	419291	419473	+	GCF_964263245_00380		hypothetical protein	
+contig_1	cds	421166	421633	-	GCF_964263245_00381		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A3S0SLD9
+contig_1	cds	421667	422218	-	GCF_964263245_00382		hypothetical protein	
+contig_1	cds	423828	424094	-	GCF_964263245_00383		Small ribosomal subunit protein uS15	SO:0001217, UniRef:UniRef50_B1I392
+contig_1	cds	424192	425079	-	GCF_964263245_00384		Riboflavin biosynthesis protein	SO:0001217, UniRef:UniRef50_A0A1J0U112
+contig_1	cds	425121	425990	-	GCF_964263245_00385	truB	tRNA pseudouridine(55) synthase TruB	EC:5.4.99.25, GO:0001522, GO:0003723, GO:0009451, GO:0009982, KEGG:K03177, SO:0001217, UniRef:UniRef50_Q2SSF2, UniRef:UniRef90_UPI0030CE8B1C
+contig_1	cds	428346	428540	-	GCF_964263245_00386		Helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_A0A432ZV77
+contig_1	cds	428615	428722	+	GCF_964263245_00387		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0037DCA7AB, UniRef:UniRef90_UPI0037DCA7AB
+contig_1	cds	429935	430114	-	GCF_964263245_00388		hypothetical protein	
+contig_1	cds	430277	431998	-	GCF_964263245_00389		Transmembrane protein	SO:0001217, UniRef:UniRef50_R4UKY1
+contig_1	cds	432052	432312	-	GCF_964263245_00390		Lipopolysaccharide assembly protein A domain-containing protein	SO:0001217, UniRef:UniRef50_R4UID0
+contig_1	cds	432381	433745	-	GCF_964263245_00391		BMP family ABC transporter substrate-binding protein	KEGG:K07335, SO:0001217, UniRef:UniRef50_W0GK32, UniRef:UniRef90_UPI0030CD04EB
+contig_1	cds	433791	435314	-	GCF_964263245_00392		Transmembrane protein	SO:0001217, UniRef:UniRef50_R4UDC8
+contig_1	cds	435362	437035	-	GCF_964263245_00393	argS	arginine--tRNA ligase	EC:6.1.1.19, GO:0004814, GO:0005524, GO:0005737, GO:0006420, KEGG:K01887, SO:0001217, UniRef:UniRef50_A0A2K8SFF8, UniRef:UniRef90_UPI0030CB63A0
+contig_1	cds	437855	438073	-	GCF_964263245_00394		hypothetical protein	
+contig_1	cds	438958	439146	-	GCF_964263245_00395		hypothetical protein	
+contig_1	cds	439178	439648	-	GCF_964263245_00396		hypothetical protein	PFAM:PF01029.23
+contig_1	cds	439670	440131	-	GCF_964263245_00397	gmk	guanylate kinase	EC:2.7.4.8, GO:0004385, GO:0006163, SO:0001217, UniRef:UniRef50_A0A9D5NAG9, UniRef:UniRef90_UPI0030D3808A
+contig_1	cds	440249	440812	-	GCF_964263245_00398	rsmD	RsmD family RNA methyltransferase	EC:2.1.1.171, KEGG:K08316, SO:0001217, UniRef:UniRef50_A0A2P6FBQ4, UniRef:UniRef90_UPI0030D3FC16
+contig_1	cds	440941	441522	+	GCF_964263245_00399	def	peptide deformylase	EC:3.5.1.88, GO:0036211, GO:0042586, KEGG:K01462, SO:0001217, UniRef:UniRef50_Q6MU23, UniRef:UniRef90_UPI0030CD4E1E
+contig_1	cds	441703	443466	+	GCF_964263245_00400	rnjA	ribonuclease J1	SO:0001217, UniRef:UniRef50_A0A2P6FBM6, UniRef:UniRef90_A0A2P6FBM6
+contig_1	cds	443405	443587	-	GCF_964263245_00401		hypothetical protein	
+contig_1	cds	443790	444152	+	GCF_964263245_00402		hypothetical protein	
+contig_1	cds	444265	444483	+	GCF_964263245_00403		hypothetical protein	
+contig_1	cds	445007	445249	+	GCF_964263245_00404		hypothetical protein	
+contig_1	cds	445286	445432	+	GCF_964263245_00405		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001F4C900F, UniRef:UniRef90_UPI001F4C900F
+contig_1	cds	447551	450037	-	GCF_964263245_00406	parC	DNA topoisomerase IV subunit A	EC:5.6.2.2, GO:0003677, GO:0003918, GO:0005524, GO:0005694, GO:0006265, SO:0001217, UniRef:UniRef50_R4U401, UniRef:UniRef90_UPI0030CDB0AE
+contig_1	cds	450359	450505	-	GCF_964263245_00407		hypothetical protein	
+contig_1	cds	451020	452957	-	GCF_964263245_00408	parE	DNA topoisomerase IV subunit B	EC:5.6.2.2, GO:0003677, GO:0003918, GO:0005524, GO:0005694, GO:0006265, SO:0001217, UniRef:UniRef50_A0A2K9LU95, UniRef:UniRef90_Q14N87
+contig_1	cds	453095	453883	+	GCF_964263245_00409		Glycerol-3-phosphate acyltransferase	SO:0001217, UniRef:UniRef50_R4UE34
+contig_1	cds	454137	455087	+	GCF_964263245_00410		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	455355	455756	+	GCF_964263245_00411	rpsF	30S ribosomal protein S6	GO:0000314, GO:0003735, GO:0006412, GO:0022627, KEGG:K02990, SO:0001217, UniRef:UniRef50_R4UHJ3, UniRef:UniRef90_UPI0030CDE1CF
+contig_1	cds	455820	456272	+	GCF_964263245_00412		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A0H3XHB7
+contig_1	cds	456291	456515	+	GCF_964263245_00413	rpsR	30S ribosomal protein S18	COG:COG0238, COG:J, GO:0000314, GO:0003735, GO:0006412, GO:0022627, KEGG:K02963, SO:0001217, UniRef:UniRef50_P66457, UniRef:UniRef90_R4U2N0
+contig_1	cds	457277	458026	+	GCF_964263245_00414		Glycerol uptake facilitator protein	SO:0001217, UniRef:UniRef50_R4UM96
+contig_1	cds	458186	459136	-	GCF_964263245_00415		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	459978	460076	+	GCF_964263245_00416		hypothetical protein	
+contig_1	cds	461569	462945	-	GCF_964263245_00417	eno	phosphopyruvate hydratase	EC:4.2.1.11, GO:0000015, GO:0000287, GO:0004634, GO:0006096, SO:0001217, UniRef:UniRef50_P75189, UniRef:UniRef90_A0A0K2JFZ6
+contig_1	cds	463128	464150	+	GCF_964263245_00418	trpS	tryptophan--tRNA ligase	EC:6.1.1.2, GO:0000166, GO:0004830, GO:0005524, GO:0006436, SO:0001217, UniRef:UniRef50_Q98PH7, UniRef:UniRef90_UPI0030D1700D
+contig_1	cds	464150	464389	+	GCF_964263245_00419		hypothetical protein	
+contig_1	cds	464522	464794	+	GCF_964263245_00420		hypothetical protein	
+contig_1	cds	464794	464895	+	GCF_964263245_00421		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A2P6FD37, UniRef:UniRef90_A0A3S0SU48
+contig_1	cds	467249	467632	-	GCF_964263245_00422		hypothetical protein	
+contig_1	cds	467663	467824	-	GCF_964263245_00423		hypothetical protein	
+contig_1	cds	468105	468785	-	GCF_964263245_00424		(pseudo) Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DRC2, UniRef:UniRef50_UPI0037DD4F22, UniRef:UniRef90_A0A345DLU2
+contig_1	cds	468922	469902	-	GCF_964263245_00425		hypothetical protein	PFAM:PF04466.19, SO:0001217, UniRef:UniRef50_A0A0K2JFR5, UniRef:UniRef90_A0A3S0TS04
+contig_1	cds	471448	472782	+	GCF_964263245_00426	cshA	DEAD-box ATP-dependent RNA helicase CshA	SO:0001217, UniRef:UniRef50_A0A2P6FDE4
+contig_1	cds	476425	476601	-	GCF_964263245_00427		hypothetical protein	
+contig_1	cds	476855	477079	-	GCF_964263245_00428		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JJU1
+contig_1	cds	478413	478559	-	GCF_964263245_00429		DNA (cytosine-5-)-methyltransferase	SO:0001217, UniRef:UniRef50_A0AAJ4EIX3
+contig_1	cds	480421	480555	-	GCF_964263245_00430		hypothetical protein	
+contig_1	cds	482644	482877	+	GCF_964263245_00431		Transposase of IS30 family protein	SO:0001217, UniRef:UniRef50_A0A345DSH9
+contig_1	cds	482911	483411	-	GCF_964263245_00432		tRNA-specific adenosine deaminase	SO:0001217, UniRef:UniRef50_A0A2P6FCC1
+contig_1	cds	483399	484778	-	GCF_964263245_00433	gluP	Rhomboid protease GluP	SO:0001217, UniRef:UniRef50_A0A1J0U178
+contig_1	cds	484785	485705	-	GCF_964263245_00434	rluA	RluA family pseudouridine synthase	EC:5.4.99.23, KEGG:K06180, SO:0001217, UniRef:UniRef50_Q14NK8, UniRef:UniRef90_UPI0030CD6B38
+contig_1	cds	485707	486285	-	GCF_964263245_00435	lspA	signal peptidase II	EC:3.4.23.36, GO:0004190, GO:0005886, GO:0006508, GO:0009306, KEGG:K03101, SO:0001217, UniRef:UniRef50_A0A0K2JG32, UniRef:UniRef90_UPI0030D60728
+contig_1	cds	486319	489045	-	GCF_964263245_00436	ileS	isoleucine--tRNA ligase	EC:6.1.1.5, GO:0000166, GO:0004822, GO:0005524, GO:0006428, SO:0001217, UniRef:UniRef50_Q14NL0, UniRef:UniRef90_UPI0030CBE008
+contig_1	cds	490919	491197	-	GCF_964263245_00437		S4 domain-containing protein	SO:0001217, UniRef:UniRef50_UPI0032B236BF
+contig_1	cds	491671	492099	-	GCF_964263245_00438	sepF	Cell division protein SepF	SO:0001217, UniRef:UniRef50_A0AAI9T316
+contig_1	cds	492102	493346	-	GCF_964263245_00439	ftsZ	Cell division protein FtsZ	SO:0001217, UniRef:UniRef50_Q6F172
+contig_1	cds	493471	494739	-	GCF_964263245_00440	ftsA	cell division protein FtsA	SO:0001217, UniRef:UniRef50_Q14NL5, UniRef:UniRef90_UPI0030CDE293
+contig_1	cds	494776	495717	-	GCF_964263245_00441	rsmH	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	EC:2.1.1.199, GO:0016434, KEGG:K03438, SO:0001217, UniRef:UniRef50_Q6F170, UniRef:UniRef90_UPI0030CCF23A
+contig_1	cds	495721	496152	-	GCF_964263245_00442	mraZ	Transcriptional regulator MraZ	SO:0001217, UniRef:UniRef50_Q6XZ05
+contig_1	cds	496357	496533	-	GCF_964263245_00443		Large ribosomal subunit protein bL32	SO:0001217, UniRef:UniRef50_W8GFE4
+contig_1	cds	496533	496703	-	GCF_964263245_00444		hypothetical protein	
+contig_1	cds	497416	497625	-	GCF_964263245_00445		hypothetical protein	
+contig_1	cds	498284	499243	-	GCF_964263245_00446		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A0H3XKG6
+contig_1	cds	499256	503353	-	GCF_964263245_00447		ABC transporter permease	SO:0001217, UniRef:UniRef50_W0GNW3, UniRef:UniRef90_UPI0030D229C1
+contig_1	cds	503396	504118	-	GCF_964263245_00448		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A1J0U0H2
+contig_1	cds	504295	504600	-	GCF_964263245_00449		hypothetical protein	
+contig_1	cds	505515	505772	+	GCF_964263245_00450		hypothetical protein	
+contig_1	cds	505846	506112	+	GCF_964263245_00451		hypothetical protein	
+contig_1	cds	506792	507943	+	GCF_964263245_00452		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A1J0U1J6, UniRef:UniRef90_UPI0030D08524
+contig_1	cds	508438	508749	-	GCF_964263245_00453		hypothetical protein	
+contig_1	cds	510284	510694	+	GCF_964263245_00454		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9M4
+contig_1	cds	512436	512654	+	GCF_964263245_00455		hypothetical protein	
+contig_1	cds	514464	514649	-	GCF_964263245_00456		hypothetical protein	
+contig_1	cds	514591	515013	-	GCF_964263245_00457		hypothetical protein	
+contig_1	cds	515668	515808	-	GCF_964263245_00458		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A345DPK6, UniRef:UniRef90_Q14MX4
+contig_1	cds	516020	517000	-	GCF_964263245_00459		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JEQ4
+contig_1	cds	517476	518033	+	GCF_964263245_00460		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DLG6, UniRef:UniRef90_A0A3S0TRM3
+contig_1	cds	518070	518846	+	GCF_964263245_00461		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DRC2, UniRef:UniRef90_A0A345DLU2
+contig_1	cds	519214	519465	+	GCF_964263245_00462		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030D10A97
+contig_1	cds	519752	520522	+	GCF_964263245_00463		hypothetical protein	
+contig_1	cds	520525	520707	+	GCF_964263245_00464		lipoprotein	SO:0001217, UniRef:UniRef50_UPI001F4CADF6
+contig_1	cds	521139	521735	-	GCF_964263245_00465		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3S0TTK7, UniRef:UniRef50_UPI0030D47502, UniRef:UniRef90_A0A2P6FEF3
+contig_1	cds	521879	522070	-	GCF_964263245_00466		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FAV5
+contig_1	cds	522018	523097	-	GCF_964263245_00467		(pseudo) Phage portal protein	SO:0001217, UniRef:UniRef50_A0A2P6FEB3, UniRef:UniRef50_A0A432ZUK1, UniRef:UniRef90_A0A2P6FEB3, UniRef:UniRef90_UPI0037DC0830
+contig_1	cds	523391	523624	-	GCF_964263245_00468		Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A432ZW41
+contig_1	cds	523640	523948	-	GCF_964263245_00469		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0018DCB7BC, UniRef:UniRef90_UPI0018DCB7BC
+contig_1	cds	524200	524496	-	GCF_964263245_00470		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001F4CD781
+contig_1	cds	524662	524805	-	GCF_964263245_00471		hypothetical protein	
+contig_1	cds	524942	525034	-	GCF_964263245_00472		hypothetical protein	
+contig_1	cds	525374	526429	-	GCF_964263245_00473		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0K2JFQ5
+contig_1	cds	526702	527286	-	GCF_964263245_00474		(pseudo) DNA-binding response regulator	SO:0001217, UniRef:UniRef50_A0A2P6FA26, UniRef:UniRef50_A0A433ETQ0, UniRef:UniRef90_A0A2P6FA26, UniRef:UniRef90_UPI0030CA70B8
+contig_1	cds	527231	527635	-	GCF_964263245_00475		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0R6X2, UniRef:UniRef90_A0A3S0R6X2
+contig_1	cds	527653	528108	-	GCF_964263245_00476		Phage protein	SO:0001217, UniRef:UniRef50_A0A3S0T7H9
+contig_1	cds	528121	528519	-	GCF_964263245_00477		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_W0GQI2, UniRef:UniRef90_A0A0K2JJP0
+contig_1	cds	528519	528848	-	GCF_964263245_00478		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A0K2JIR3
+contig_1	cds	529087	529401	-	GCF_964263245_00479		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGG4, UniRef:UniRef90_UPI001F4D19D7
+contig_1	cds	529356	529640	-	GCF_964263245_00480		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	529627	529767	-	GCF_964263245_00481		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FDJ3, UniRef:UniRef90_A0A2P6FDJ3
+contig_1	cds	530606	531130	-	GCF_964263245_00482		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A433ET46
+contig_1	cds	531133	532443	-	GCF_964263245_00483		hypothetical protein	
+contig_1	cds	535316	535471	-	GCF_964263245_00484		hypothetical protein	
+contig_1	cds	536204	537076	+	GCF_964263245_00485		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A0K2JFR5, UniRef:UniRef90_A0A433EQN2
+contig_1	cds	537042	537557	+	GCF_964263245_00486		hypothetical protein	
+contig_1	cds	538636	538797	-	GCF_964263245_00487		(pseudo) Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0AAJ4JYD9, UniRef:UniRef90_A0AAJ4JYD9
+contig_1	cds	539126	539230	-	GCF_964263245_00488		hypothetical protein	
+contig_1	cds	539451	539690	-	GCF_964263245_00489		hypothetical protein	
+contig_1	cds	540163	540684	-	GCF_964263245_00490		hypothetical protein	
+contig_1	cds	540803	540928	-	GCF_964263245_00491		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0AAJ4EJN1, UniRef:UniRef90_A0AAJ4EJN1
+contig_1	cds	541744	541896	-	GCF_964263245_00492		(pseudo) Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A432ZW41, UniRef:UniRef50_UPI0030CCED94, UniRef:UniRef90_UPI0030D62286
+contig_1	cds	542032	542982	-	GCF_964263245_00493		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	543063	543323	-	GCF_964263245_00494		hypothetical protein	
+contig_1	cds	543407	543544	-	GCF_964263245_00495		hypothetical protein	
+contig_1	cds	543566	544006	-	GCF_964263245_00496		Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0AAJ4EI96, UniRef:UniRef90_UPI000D65DD80
+contig_1	cds	545182	545292	-	GCF_964263245_00497		Plectrovirus spv1-c74 orf 14 protein	SO:0001217, UniRef:UniRef50_Q14LW1
+contig_1	cds	545447	545728	-	GCF_964263245_00498		hypothetical protein	
+contig_1	cds	546945	547103	-	GCF_964263245_00499		hypothetical protein	
+contig_1	cds	547424	547513	-	GCF_964263245_00500		hypothetical protein	
+contig_1	cds	547986	551027	-	GCF_964263245_00501		DNA polymerase III subunit alpha	EC:2.7.7.7, KEGG:K02337, SO:0001217, UniRef:UniRef50_R4UMC4, UniRef:UniRef90_UPI0030D57F90
+contig_1	cds	551205	551306	-	GCF_964263245_00502		hypothetical protein	
+contig_1	cds	551380	552603	-	GCF_964263245_00503	thiI	tRNA uracil 4-sulfurtransferase ThiI	EC:2.8.1.4, KEGG:K03151, SO:0001217, UniRef:UniRef50_W0GRQ9, UniRef:UniRef90_UPI0030CEE235
+contig_1	cds	552607	554337	-	GCF_964263245_00504		Septation ring formation regulator	SO:0001217, UniRef:UniRef50_R4UEN5
+contig_1	cds	554494	554706	+	GCF_964263245_00505		hypothetical protein	
+contig_1	cds	554646	555260	+	GCF_964263245_00506	rpsD	30S ribosomal protein S4	GO:0003735, GO:0006412, GO:0015935, GO:0019843, KEGG:K02986, SO:0001217, UniRef:UniRef50_Q9PPZ2, UniRef:UniRef90_A0A0K2JFX2
+contig_1	tRNA	557466	557550	-	GCF_964263245_00507	trnL	tRNA-Leu(tag)	SO:0000264
+contig_1	tRNA	557669	557748	-	GCF_964263245_00508	trnT	(pseudo) tRNA-Thr(tgt)	SO:0000270
+contig_1	tRNA	557766	557841	-	GCF_964263245_00509	trnV	tRNA-Val(tac)	SO:0000273
+contig_1	tRNA	557846	557921	-	GCF_964263245_00510	trnE	tRNA-Glu(ttc)	SO:0000259
+contig_1	tRNA	557952	558027	-	GCF_964263245_00511	trnN	tRNA-Asn(gtt)	SO:0000257
+contig_1	cds	559043	559207	+	GCF_964263245_00512		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JIA9
+contig_1	cds	559311	559580	+	GCF_964263245_00513		helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_UPI0030D5314C, UniRef:UniRef90_UPI0030D5314C
+contig_1	cds	559552	559701	+	GCF_964263245_00514		hypothetical protein	
+contig_1	cds	559899	560261	+	GCF_964263245_00515		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_A0A1C6DEY3, UniRef:UniRef90_UPI0035C8F2AA
+contig_1	cds	560262	560597	+	GCF_964263245_00516		(pseudo) DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI001F4C6A15, UniRef:UniRef90_UPI001F4C6A15
+contig_1	cds	561470	562837	-	GCF_964263245_00517	asnS	asparagine--tRNA ligase	EC:6.1.1.22, GO:0004816, GO:0005524, GO:0006421, KEGG:K01893, SO:0001217, UniRef:UniRef50_Q6F0Y5, UniRef:UniRef90_UPI0030CF6E3D
+contig_1	cds	562857	563567	-	GCF_964263245_00518		Uridine phosphorylase	SO:0001217, UniRef:UniRef50_S5MIP4
+contig_1	cds	563650	563883	-	GCF_964263245_00519		hypothetical protein	
+contig_1	cds	566938	567246	+	GCF_964263245_00520		hypothetical protein	
+contig_1	cds	568003	568962	-	GCF_964263245_00521		tRNA N6-adenosine threonylcarbamoyltransferase	SO:0001217, UniRef:UniRef50_A6LKP0
+contig_1	cds	569100	569363	-	GCF_964263245_00522		Phosphocarrier protein HPr	SO:0001217, UniRef:UniRef50_A0A2P6FBG2
+contig_1	cds	570390	572579	-	GCF_964263245_00523		UvrD-helicase domain-containing protein	SO:0001217, UniRef:UniRef50_R4UKP5, UniRef:UniRef90_UPI0030CCB514
+contig_1	cds	572627	573325	-	GCF_964263245_00524		RDD domain-containing protein	SO:0001217, UniRef:UniRef50_W0GNW7
+contig_1	cds	573392	574363	-	GCF_964263245_00525		Glycosyltransferase 2-like domain-containing protein	SO:0001217, UniRef:UniRef50_W0GKQ3
+contig_1	cds	575218	575457	+	GCF_964263245_00526		hypothetical protein	
+contig_1	cds	575820	576563	-	GCF_964263245_00527	map	type I methionyl aminopeptidase	EC:3.4.11.18, GO:0006508, GO:0070006, KEGG:K01265, SO:0001217, UniRef:UniRef50_Q59509, UniRef:UniRef90_UPI0030CB4346
+contig_1	cds	576638	576997	-	GCF_964263245_00528	rplQ	50S ribosomal protein L17	COG:COG0203, COG:J, GO:0003735, GO:0005840, GO:0006412, KEGG:K02879, SO:0001217, UniRef:UniRef50_P20277, UniRef:UniRef90_W0GKH1
+contig_1	cds	577013	577966	-	GCF_964263245_00529		DNA-directed RNA polymerase subunit alpha	EC:2.7.7.6, GO:0003677, GO:0003899, GO:0006351, GO:0046983, SO:0001217, UniRef:UniRef50_Q6F1W7, UniRef:UniRef90_A0A0K2JFI4
+contig_1	cds	577982	578371	-	GCF_964263245_00530	rpsK	30S ribosomal protein S11	COG:COG0100, COG:J, GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_C1CXD6, UniRef:UniRef90_R4UI59
+contig_1	cds	578391	578756	-	GCF_964263245_00531	rpsM	30S ribosomal protein S13	COG:COG0099, COG:J, GO:0003723, GO:0003735, GO:0005840, GO:0006412, KEGG:K02952, SO:0001217, UniRef:UniRef50_Q50297, UniRef:UniRef90_R4UD45
+contig_1	cds	578775	578888	-	GCF_964263245_00532		Large ribosomal subunit protein bL36	SO:0001217, UniRef:UniRef50_P20278
+contig_1	cds	578947	579165	-	GCF_964263245_00533	infA	translation initiation factor IF-1	COG:COG0361, COG:J, GO:0003743, GO:0005829, GO:0006413, GO:0019843, GO:0043022, KEGG:K02518, SO:0001217, UniRef:UniRef50_P0A3K4, UniRef:UniRef90_P61694
+contig_1	cds	579190	579828	-	GCF_964263245_00534		Adenylate kinase	SO:0001217, UniRef:UniRef50_A0A0K2JFG4
+contig_1	cds	579847	581274	-	GCF_964263245_00535	secY	preprotein translocase subunit SecY	GO:0015031, GO:0016020, GO:0043952, SO:0001217, UniRef:UniRef50_P10250, UniRef:UniRef90_A0A0K2JFH9
+contig_1	cds	581274	581711	-	GCF_964263245_00536	rplO	50S ribosomal protein L15	GO:0003735, GO:0006412, GO:0015934, GO:0019843, GO:0022625, KEGG:K02876, SO:0001217, UniRef:UniRef50_Q5M2D2, UniRef:UniRef90_Q6XYX0
+contig_1	cds	581724	582347	-	GCF_964263245_00537		Small ribosomal subunit protein uS5	SO:0001217, UniRef:UniRef50_P10128
+contig_1	cds	582368	582733	-	GCF_964263245_00538	rplR	50S ribosomal protein L18	GO:0003735, GO:0005840, GO:0006412, GO:0008097, GO:0022625, SO:0001217, UniRef:UniRef50_Q6XYX2, UniRef:UniRef90_Q6XYX2
+contig_1	cds	582755	583294	-	GCF_964263245_00539		Large ribosomal subunit protein uL6	SO:0001217, UniRef:UniRef50_B8DNB1
+contig_1	cds	583318	583707	-	GCF_964263245_00540	rpsH	30S ribosomal protein S8	GO:0003735, GO:0005737, GO:0005840, GO:0006412, GO:0019843, GO:1990904, SO:0001217, UniRef:UniRef50_P12879, UniRef:UniRef90_Q6XYX4
+contig_1	cds	583727	583912	-	GCF_964263245_00541		type Z 30S ribosomal protein S14	GO:0003735, GO:0005840, GO:0006412, KEGG:K02954, SO:0001217, UniRef:UniRef50_Q9PQP7, UniRef:UniRef90_UPI0030CD401A
+contig_1	cds	583928	584470	-	GCF_964263245_00542	rplE	50S ribosomal protein L5	GO:0000049, GO:0003735, GO:0005840, GO:0006412, GO:0019843, GO:1990904, KEGG:K02931, SO:0001217, UniRef:UniRef50_Q5SHQ0, UniRef:UniRef90_Q6XYX6
+contig_1	cds	584493	584813	-	GCF_964263245_00543		Large ribosomal subunit protein uL24	SO:0001217, UniRef:UniRef50_O31166
+contig_1	cds	584825	585193	-	GCF_964263245_00544	rplN	50S ribosomal protein L14	COG:COG0093, COG:J, GO:0003735, GO:0006412, GO:0015934, GO:0022625, GO:0070180, KEGG:K02874, SO:0001217, UniRef:UniRef50_A5FMZ0, UniRef:UniRef90_O31165
+contig_1	cds	585214	585471	-	GCF_964263245_00545	rpsQ	30S ribosomal protein S17	GO:0003735, GO:0005840, GO:0006412, GO:0019843, GO:0022627, SO:0001217, UniRef:UniRef50_O31164, UniRef:UniRef90_O31164
+contig_1	cds	585458	586483	-	GCF_964263245_00546		Large ribosomal subunit protein uL29	SO:0001217, UniRef:UniRef50_O31163
+contig_1	cds	586485	586898	-	GCF_964263245_00547	rplP	50S ribosomal protein L16	COG:COG0197, COG:J, GO:0000049, GO:0003735, GO:0006412, GO:0019843, GO:0022625, KEGG:K02878, SO:0001217, UniRef:UniRef50_P02415, UniRef:UniRef90_O31162
+contig_1	cds	586898	587656	-	GCF_964263245_00548	rpsC	30S ribosomal protein S3	GO:0003729, GO:0003735, GO:0006412, GO:0019843, GO:0022627, KEGG:K02982, SO:0001217, UniRef:UniRef50_O31161, UniRef:UniRef90_O31161
+contig_1	cds	587663	588016	-	GCF_964263245_00549	rplV	50S ribosomal protein L22	COG:COG0091, COG:J, GO:0003735, GO:0006412, GO:0015934, KEGG:K02890, SO:0001217, UniRef:UniRef50_P10139, UniRef:UniRef90_R4UKL7
+contig_1	cds	588045	588320	-	GCF_964263245_00550	rpsS	30S ribosomal protein S19	GO:0000028, GO:0003735, GO:0005737, GO:0006412, GO:0015935, GO:0019843, SO:0001217, UniRef:UniRef50_Q5SHP2, UniRef:UniRef90_Q6XYY2
+contig_1	cds	588407	589243	-	GCF_964263245_00551	rplB	50S ribosomal protein L2	GO:0002181, GO:0003723, GO:0003735, GO:0006412, GO:0015934, GO:0016740, GO:0019843, KEGG:K02886, SO:0001217, UniRef:UniRef50_Q85FI1, UniRef:UniRef90_P60404
+contig_1	cds	589301	589588	-	GCF_964263245_00552	rplW	50S ribosomal protein L23	GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_Q6F1Z2, UniRef:UniRef90_A0A0K2JF01
+contig_1	cds	589588	590214	-	GCF_964263245_00553		Large ribosomal subunit protein uL4	SO:0001217, UniRef:UniRef50_P61065
+contig_1	cds	590241	591017	-	GCF_964263245_00554	rplC	50S ribosomal protein L3	GO:0003735, GO:0005840, GO:0006412, KEGG:K02906, SO:0001217, UniRef:UniRef50_Q6F1Z4, UniRef:UniRef90_UPI0030CF08B3
+contig_1	cds	591082	591390	-	GCF_964263245_00555	rpsJ	30S ribosomal protein S10	COG:COG0051, COG:J, GO:0003723, GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_Q6F7R1, UniRef:UniRef90_R4UI36
+contig_1	cds	591711	591848	-	GCF_964263245_00556		hypothetical protein	
+contig_1	cds	593329	593751	-	GCF_964263245_00557	coaD	pantetheine-phosphate adenylyltransferase	EC:2.7.7.3, GO:0004595, GO:0015937, KEGG:K00954, SO:0001217, UniRef:UniRef50_W0GKD2, UniRef:UniRef90_UPI0030D1FF7A
+contig_1	cds	593971	595641	+	GCF_964263245_00558		Ribonuclease J 2	SO:0001217, UniRef:UniRef50_A0A2P6FB95, UniRef:UniRef90_A0A2P6FB95
+contig_1	cds	595743	598730	+	GCF_964263245_00559		DNA translocase	SO:0001217, UniRef:UniRef50_R4U0I9
+contig_1	cds	598908	599774	+	GCF_964263245_00560	ecfA1	energy-coupling factor transporter ATPase	EC:7.-.-.-, GO:0005524, GO:0006810, GO:0009898, GO:0016887, GO:0042626, GO:0043190, SO:0001217, UniRef:UniRef50_Q6XYZ4, UniRef:UniRef90_Q6XYZ4
+contig_1	cds	599762	600685	+	GCF_964263245_00561	ecfA2	energy-coupling factor transporter ATPase	EC:3.6.3.-, GO:0005524, GO:0006810, GO:0009898, GO:0016887, GO:0042626, GO:0043190, SO:0001217, UniRef:UniRef50_Q6MSQ2, UniRef:UniRef90_Q6XYZ3
+contig_1	cds	600690	601655	+	GCF_964263245_00562		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A654ILX6
+contig_1	cds	601655	602404	+	GCF_964263245_00563		tRNA pseudouridine synthase A	SO:0001217, UniRef:UniRef50_P60353, UniRef:UniRef90_UPI0030CB46C3
+contig_1	cds	602420	602659	-	GCF_964263245_00564		hypothetical protein	
+contig_1	cds	603553	603696	+	GCF_964263245_00565		hypothetical protein	
+contig_1	cds	604004	604270	+	GCF_964263245_00566		DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_A0AAJ4TWV0
+contig_1	cds	604557	605597	-	GCF_964263245_00567		Ribose-phosphate pyrophosphokinase	SO:0001217, UniRef:UniRef50_A0A3S0RDM6
+contig_1	cds	605991	606422	-	GCF_964263245_00568	rpiB	ribose 5-phosphate isomerase B	EC:5.3.1.6, GO:0004751, GO:0009052, KEGG:K01808, SO:0001217, UniRef:UniRef50_Q14PX8, UniRef:UniRef90_UPI0030D20243
+contig_1	cds	606489	606776	-	GCF_964263245_00569		DUF370 domain-containing protein	SO:0001217, UniRef:UniRef50_Q14PX9
+contig_1	cds	606921	607172	+	GCF_964263245_00570	rpsT	30S ribosomal protein S20	GO:0003723, GO:0003735, GO:0005840, GO:0006412, KEGG:K02968, SO:0001217, UniRef:UniRef50_A0A0H3XLS9, UniRef:UniRef90_UPI0030D08DF2
+contig_1	cds	607260	608750	-	GCF_964263245_00571		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0H3XJ03
+contig_1	cds	608784	609749	-	GCF_964263245_00572	holA	DNA polymerase III subunit delta	EC:2.7.7.7, GO:0003677, GO:0003887, GO:0006260, SO:0001217, UniRef:UniRef50_Q14PY2, UniRef:UniRef90_UPI0030CAD728
+contig_1	cds	610312	610830	-	GCF_964263245_00573		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FEX0
+contig_1	cds	611567	611848	-	GCF_964263245_00574		hypothetical protein	
+contig_1	cds	611820	611912	-	GCF_964263245_00575		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030CBB6A1, UniRef:UniRef90_UPI003134200C
+contig_1	cds	613083	613352	-	GCF_964263245_00576		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	614495	615751	-	GCF_964263245_00577	hisS	histidine--tRNA ligase	EC:6.1.1.21, GO:0004821, GO:0005524, GO:0005737, GO:0006427, KEGG:K01892, SO:0001217, UniRef:UniRef50_A0A0K2JGE2, UniRef:UniRef90_UPI0030CB28C4
+contig_1	cds	616559	616930	-	GCF_964263245_00578		hypothetical protein	
+contig_1	cds	617314	617535	-	GCF_964263245_00579	yajD	(pseudo) Putative HNH nuclease YajD	SO:0001217, UniRef:UniRef50_A0A432ZY51, UniRef:UniRef90_A0A432ZY51
+contig_1	cds	617739	617864	-	GCF_964263245_00580		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0YQW0, UniRef:UniRef90_A0A3S0YQW0
+contig_1	cds	617901	618092	-	GCF_964263245_00581		hypothetical protein	
+contig_1	cds	618114	618425	-	GCF_964263245_00582	recT	(pseudo) Recombinase RecT	KEGG:K07455, SO:0001217, UniRef:UniRef50_A0A3S0T879, UniRef:UniRef90_A0A3S0T879
+contig_1	cds	618538	618699	-	GCF_964263245_00583		(pseudo) Dna2/Cas4 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A432ZXQ4, UniRef:UniRef90_A0A432ZXQ4
+contig_1	cds	619553	619783	-	GCF_964263245_00584	flgN	(pseudo) Flagellar protein FlgN	SO:0001217, UniRef:UniRef50_A0A3S0RDG9, UniRef:UniRef90_A0A3S0RDG9
+contig_1	cds	619938	620507	-	GCF_964263245_00585		Transposase is30 family n-terminal truncated protein	SO:0001217, UniRef:UniRef50_Q14QM4
+contig_1	cds	621646	621816	-	GCF_964263245_00586		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGG6
+contig_1	cds	621797	622249	-	GCF_964263245_00587		Tc1-like transposase DDE domain-containing protein	SO:0001217, UniRef:UniRef50_W0GKL4
+contig_1	cds	622310	622552	-	GCF_964263245_00588		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	623107	623346	-	GCF_964263245_00589		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JHV7
+contig_1	cds	623557	623748	+	GCF_964263245_00590		(pseudo) Hypothetical transmembrane protein	SO:0001217, UniRef:UniRef50_Q14Q80, UniRef:UniRef90_UPI0030D2AD40
+contig_1	cds	624511	624681	-	GCF_964263245_00591		hypothetical protein	SO:0001217, UniRef:UniRef50_A0AAJ4EKH8
+contig_1	cds	625094	626596	+	GCF_964263245_00592		Lysine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A1G8EXS1
+contig_1	cds	627290	627553	+	GCF_964263245_00593		p123	SO:0001217, UniRef:UniRef50_A0A0K2JIZ6
+contig_1	cds	628036	628323	+	GCF_964263245_00594		hypothetical protein	
+contig_1	cds	629757	630518	+	GCF_964263245_00595		Adhesin P123	SO:0001217, UniRef:UniRef50_A0A345DSI1
+contig_1	cds	631669	635910	-	GCF_964263245_00596		ABC3 transporter permease C-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_W0GSG8
+contig_1	cds	635940	638261	-	GCF_964263245_00597		lipoprotein	SO:0001217, UniRef:UniRef50_A0A1J0U216, UniRef:UniRef90_UPI0030D555D4
+contig_1	cds	638333	639190	-	GCF_964263245_00598		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0AAI9T3L3
+contig_1	cds	639292	639657	-	GCF_964263245_00599		Large ribosomal subunit protein bL12	SO:0001217, UniRef:UniRef50_Q6F0L4
+contig_1	cds	639713	640204	-	GCF_964263245_00600		Large ribosomal subunit protein uL10	SO:0001217, UniRef:UniRef50_R4UMU9
+contig_1	ncRNA-region	640221	640382	-			Ribosomal protein L10 leader	RFAM:RF00557, SO:0000140
+contig_1	cds	640783	641034	-	GCF_964263245_00601		(pseudo) IS3 family transposase	SO:0001217, UniRef:UniRef50_UPI0020A0E2F4, UniRef:UniRef50_UPI00313D07F3, UniRef:UniRef90_UPI00209FB6DD, UniRef:UniRef90_UPI0030CFE891
+contig_1	cds	641091	641234	-	GCF_964263245_00602		hypothetical protein	
+contig_1	cds	642424	642714	-	GCF_964263245_00603		hypothetical protein	
+contig_1	cds	643293	643463	-	GCF_964263245_00604		hypothetical protein	
+contig_1	cds	644218	647706	-	GCF_964263245_00605		ABC3 transporter permease C-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_W0GR00
+contig_1	cds	648931	649122	-	GCF_964263245_00606		hypothetical protein	
+contig_1	cds	650551	650649	-	GCF_964263245_00607		hypothetical protein	
+contig_1	cds	650771	651664	-	GCF_964263245_00608		Fructose-bisphosphate aldolase	SO:0001217, UniRef:UniRef50_P75089
+contig_1	cds	652002	652835	-	GCF_964263245_00609	mutM	DNA-formamidopyrimidine glycosylase	EC:3.2.2.23, EC:4.2.99.18, GO:0005737, GO:0006281, GO:0008534, GO:0046872, KEGG:K10563, SO:0001217, UniRef:UniRef50_A0A9E1HIZ5, UniRef:UniRef90_UPI0030D5EC4E
+contig_1	cds	653136	653465	-	GCF_964263245_00610		hypothetical protein	
+contig_1	cds	653843	654046	-	GCF_964263245_00611		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030D42CB4
+contig_1	cds	655793	655933	-	GCF_964263245_00612		hypothetical protein	
+contig_1	cds	656369	656668	-	GCF_964263245_00613		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	657568	659676	+	GCF_964263245_00614		polyribonucleotide nucleotidyltransferase	EC:2.7.7.8, GO:0003723, GO:0004654, GO:0006396, GO:0006402, KEGG:K00962, SO:0001217, UniRef:UniRef50_Q14LB9, UniRef:UniRef90_UPI0030CAC201
+contig_1	cds	659755	660759	+	GCF_964263245_00615	plsX	phosphate acyltransferase PlsX	EC:2.3.1.274, GO:0008610, GO:0043811, KEGG:K03621, SO:0001217, UniRef:UniRef50_W0GPT5, UniRef:UniRef90_UPI0030D21188
+contig_1	cds	660767	661513	+	GCF_964263245_00616	rnc	ribonuclease III	EC:3.1.26.3, GO:0003723, GO:0004525, GO:0006364, GO:0006396, SO:0001217, UniRef:UniRef50_Q53844, UniRef:UniRef90_UPI0030CF1046
+contig_1	cds	661640	661921	+	GCF_964263245_00617		hypothetical protein	
+contig_1	cds	662522	662641	+	GCF_964263245_00618		hypothetical protein	
+contig_1	cds	662671	662829	-	GCF_964263245_00619		hypothetical protein	
+contig_1	cds	663770	663952	-	GCF_964263245_00620		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030D41956
+contig_1	cds	664799	664921	+	GCF_964263245_00621		hypothetical protein	
+contig_1	cds	664947	665105	-	GCF_964263245_00622		putative plectrovirus spv1-r8a2b orf1 n-terminal truncated transmembrane protein	SO:0001217, UniRef:UniRef50_Q14QI9
+contig_1	cds	667896	668876	+	GCF_964263245_00623		hypothetical protein	
+contig_1	cds	669816	671468	+	GCF_964263245_00624		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0K2JGC8
+contig_1	cds	671800	672750	+	GCF_964263245_00625		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	674101	674490	+	GCF_964263245_00626		hypothetical protein	
+contig_1	cds	674643	674792	+	GCF_964263245_00627		Large ribosomal subunit protein bL33B	SO:0001217, UniRef:UniRef50_Q6F184
+contig_1	cds	675926	676294	-	GCF_964263245_00628		Integrase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_A0A4Q0V2J3
+contig_1	cds	676515	676691	-	GCF_964263245_00629		hypothetical protein	
+contig_1	cds	676828	676917	-	GCF_964263245_00630		hypothetical protein	
+contig_1	cds	677485	677697	+	GCF_964263245_00631		hypothetical protein	
+contig_1	cds	678285	679031	-	GCF_964263245_00632		Nif3-like dinuclear metal center hexameric protein	SO:0001217, UniRef:UniRef50_W0GQ52
+contig_1	cds	679031	679693	-	GCF_964263245_00633		class I SAM-dependent methyltransferase	EC:2.1.1.217, KEGG:K06967, SO:0001217, UniRef:UniRef50_A0A2P6FFC2, UniRef:UniRef90_UPI0030CE3A11
+contig_1	cds	679706	681043	-	GCF_964263245_00634		sigma-70 family RNA polymerase sigma factor	SO:0001217, UniRef:UniRef50_A0A2K8P4Z7, UniRef:UniRef90_UPI0030CBD3DE
+contig_1	cds	681049	682932	-	GCF_964263245_00635		DNA primase	EC:2.7.7.101, KEGG:K02316, SO:0001217, UniRef:UniRef50_A0A345DMX0, UniRef:UniRef90_UPI0030CD1BD3
+contig_1	cds	682951	684318	-	GCF_964263245_00636		glycine--tRNA ligase	EC:6.1.1.14, GO:0000166, GO:0004820, GO:0005524, GO:0006426, KEGG:K01880, SO:0001217, UniRef:UniRef50_Q899G6, UniRef:UniRef90_UPI0030D2ABA3
+contig_1	cds	684965	685087	-	GCF_964263245_00637		hypothetical protein	
+contig_1	cds	685122	686015	-	GCF_964263245_00638	era	GTPase Era	GO:0003723, GO:0005525, SO:0001217, UniRef:UniRef50_A0AAI9T2C9, UniRef:UniRef90_A0AAI9T2C9
+contig_1	cds	686072	690436	-	GCF_964263245_00639		PolC-type DNA polymerase III	EC:2.7.7.7, GO:0003677, GO:0003887, GO:0006260, GO:0008408, KEGG:K03763, SO:0001217, UniRef:UniRef50_A0A0H3XMX2, UniRef:UniRef90_UPI0030CD0D4D
+contig_1	cds	690461	691813	-	GCF_964263245_00640		Zinc metalloprotease	SO:0001217, UniRef:UniRef50_A0A1J0U051
+contig_1	cds	693693	693932	-	GCF_964263245_00641		hypothetical protein	
+contig_1	cds	694575	694955	-	GCF_964263245_00642	nusB	transcription antitermination factor NusB	SO:0001217, UniRef:UniRef50_W0GPE5, UniRef:UniRef90_UPI0030CE3A69
+contig_1	cds	695735	696022	-	GCF_964263245_00643		hypothetical protein	
+contig_1	cds	698131	698253	+	GCF_964263245_00644		hypothetical protein	
+contig_1	cds	698312	699082	-	GCF_964263245_00645		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JF46, UniRef:UniRef50_UPI0037DD4F22, UniRef:UniRef90_A0A0K2JF46, UniRef:UniRef90_UPI0037DD4F22
+contig_1	cds	700089	700265	-	GCF_964263245_00646		hypothetical protein	
+contig_1	cds	700623	700763	-	GCF_964263245_00647		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F925
+contig_1	cds	701291	701485	+	GCF_964263245_00648		hypothetical protein	
+contig_1	cds	701616	701828	+	GCF_964263245_00649		p58	SO:0001217, UniRef:UniRef50_A0A0K2JHB5, UniRef:UniRef90_A0A2P6F9U4
+contig_1	cds	703224	703625	+	GCF_964263245_00650		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0URV8, UniRef:UniRef90_A0A3S0URV8
+contig_1	cds	703738	703896	+	GCF_964263245_00651		hypothetical protein	
+contig_1	cds	704551	704685	+	GCF_964263245_00652		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0013157E24, UniRef:UniRef50_UPI0013A07FCE, UniRef:UniRef90_UPI0032B174A2
+contig_1	cds	704924	705154	+	GCF_964263245_00653		p123	SO:0001217, UniRef:UniRef50_A0A0K2JEU9
+contig_1	cds	705193	705333	+	GCF_964263245_00654		hypothetical protein	
+contig_1	cds	706244	706453	-	GCF_964263245_00655		hypothetical protein	
+contig_1	cds	707670	708020	-	GCF_964263245_00656		(pseudo) Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DLG6, UniRef:UniRef50_UPI001F4C89E0, UniRef:UniRef90_UPI00313E2A98
+contig_1	cds	709455	709646	-	GCF_964263245_00657		hypothetical protein	
+contig_1	cds	710297	710398	+	GCF_964263245_00658		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FC40
+contig_1	cds	710745	710972	-	GCF_964263245_00659		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DRG7
+contig_1	cds	711129	711242	-	GCF_964263245_00660		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0AAI9T2T8, UniRef:UniRef90_A0AAI9T2T8
+contig_1	cds	711372	711488	-	GCF_964263245_00661		(pseudo) Capsid protein	SO:0001217, UniRef:UniRef50_A0A2P6FBQ7, UniRef:UniRef90_A0A2P6FB75
+contig_1	cds	712534	713007	-	GCF_964263245_00662		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313BCA16, UniRef:UniRef90_UPI00313BCA16
+contig_1	cds	713404	713799	-	GCF_964263245_00663		hypothetical protein	
+contig_1	cds	714300	714488	-	GCF_964263245_00664		(pseudo) Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A2P6FD37, UniRef:UniRef90_UPI001F4CDBF5
+contig_1	cds	714505	714600	-	GCF_964263245_00665		hypothetical protein	
+contig_1	cds	715416	715616	-	GCF_964263245_00666		hypothetical protein	
+contig_1	cds	715620	716720	-	GCF_964263245_00667		Phosphatidate cytidylyltransferase	SO:0001217, UniRef:UniRef50_R4UIE2
+contig_1	cds	719172	719483	-	GCF_964263245_00668		hypothetical protein	
+contig_1	cds	719506	721680	-	GCF_964263245_00669		Oligopeptide ABC transporter substrate-binding protein	SO:0001217, UniRef:UniRef50_R4U3L8
+contig_1	cds	721683	723914	-	GCF_964263245_00670		Oligopeptide ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_R4UL70
+contig_1	cds	723916	725619	-	GCF_964263245_00671		Oligopeptide ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_S5M0F7
+contig_1	cds	725659	726639	-	GCF_964263245_00672		Oligopeptide ABC transporter permease	SO:0001217, UniRef:UniRef50_W6AHE8
+contig_1	cds	726656	727900	-	GCF_964263245_00673		Oligopeptide ABC transporter permease	SO:0001217, UniRef:UniRef50_R4U5X4
+contig_1	cds	728127	728597	+	GCF_964263245_00674		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0K2JH28
+contig_1	cds	730661	730810	-	GCF_964263245_00675		hypothetical protein	
+contig_1	cds	730828	732066	-	GCF_964263245_00676		Phosphoglycerate kinase	SO:0001217, UniRef:UniRef50_Q7WTU1
+contig_1	cds	732123	733076	-	GCF_964263245_00677		FAD-dependent oxidoreductase	EC:1.8.1.9, KEGG:K00384, SO:0001217, UniRef:UniRef50_R4UHX8, UniRef:UniRef90_UPI0030CC9833
+contig_1	cds	733060	733380	-	GCF_964263245_00678		hypothetical protein	
+contig_1	cds	734315	735238	-	GCF_964263245_00679	hprK	HPr(Ser) kinase/phosphatase	EC:2.7.11.-, EC:2.7.4.-, GO:0000155, GO:0000160, GO:0005524, GO:0006109, KEGG:K06023, SO:0001217, UniRef:UniRef50_Q14PU3, UniRef:UniRef90_Q14PU3
+contig_1	cds	735279	737243	-	GCF_964263245_00680	uvrB	excinuclease ABC subunit UvrB	EC:3.1.25.-, GO:0003677, GO:0005515, GO:0005524, GO:0006289, GO:0009380, GO:0016787, GO:0016887, KEGG:K03702, SO:0001217, UniRef:UniRef50_A0A842UGY2, UniRef:UniRef90_A0A2P6FFK5
+contig_1	cds	737963	738085	+	GCF_964263245_00681		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313D07F3, UniRef:UniRef90_UPI00209FB6DD
+contig_1	cds	738903	740018	+	GCF_964263245_00682		Small ribosomal subunit protein uS2	SO:0001217, UniRef:UniRef50_P19679
+contig_1	cds	740088	740978	+	GCF_964263245_00683	tsf	translation elongation factor Ts	GO:0003746, GO:0006414, SO:0001217, UniRef:UniRef50_Q6F0Q5, UniRef:UniRef90_UPI0030D0D250
+contig_1	cds	741009	741632	+	GCF_964263245_00684		Uncharacterized protein in tsf 3'region	SO:0001217, UniRef:UniRef50_P20633
+contig_1	cds	741872	742609	+	GCF_964263245_00685		Spiralin	SO:0001217, UniRef:UniRef50_P21625
+contig_1	cds	742783	743763	+	GCF_964263245_00686	pfkA	6-phosphofructokinase	EC:2.7.1.11, GO:0005524, GO:0006002, GO:0006096, SO:0001217, UniRef:UniRef50_P20275, UniRef:UniRef90_UPI0030D2E7C9
+contig_1	cds	743820	745256	+	GCF_964263245_00687	pyk	pyruvate kinase	EC:2.7.1.40, GO:0000287, GO:0004743, GO:0006096, GO:0030955, KEGG:K00873, SO:0001217, UniRef:UniRef50_S5M1G4, UniRef:UniRef90_A0A1J0U144
+contig_1	cds	745513	747405	+	GCF_964263245_00688	thrS	threonine--tRNA ligase	EC:6.1.1.3, GO:0004829, GO:0005524, GO:0005737, GO:0006435, KEGG:K01868, SO:0001217, UniRef:UniRef50_V5RHB4, UniRef:UniRef90_UPI0030D18C93
+contig_1	cds	749472	749810	+	GCF_964263245_00689		Asp23/Gls24 family envelope stress response protein	SO:0001217, UniRef:UniRef50_R4UEP0, UniRef:UniRef90_A0A0K2JFV4
+contig_1	cds	749898	751541	+	GCF_964263245_00690	dhaL	DhaL domain-containing protein	SO:0001217, UniRef:UniRef50_A0A654INU3
+contig_1	tRNA	751626	751701	+	GCF_964263245_00691	trnC	tRNA-Cys(gca)	SO:0000258
+contig_1	tRNA	751742	751818	+	GCF_964263245_00692	trnR	tRNA-Arg(acg)	SO:0001036
+contig_1	tRNA	751841	751917	+	GCF_964263245_00693	trnP	tRNA-Pro(tgg)	SO:0000268
+contig_1	tRNA	752108	752185	+	GCF_964263245_00694	trnM	tRNA-Met(cat)	SO:0000266
+contig_1	tRNA	752187	752263	+	GCF_964263245_00695	trnI	tRNA-Ile2(cat)	SO:0000263
+contig_1	tRNA	752295	752387	+	GCF_964263245_00696	trnS	tRNA-Ser(tga)	SO:0000269
+contig_1	tRNA	752438	752512	+	GCF_964263245_00697	trnfM	tRNA-fMet(cat)	SO:0000266
+contig_1	tRNA	752516	752591	+	GCF_964263245_00698	trnD	tRNA-Asp(gtc)	SO:0000256
+contig_1	tRNA	752597	752672	+	GCF_964263245_00699	trnF	tRNA-Phe(gaa)	SO:0000267
+contig_1	cds	752959	753168	-	GCF_964263245_00700		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00328DE0A2, UniRef:UniRef90_UPI00328DE0A2
+contig_1	cds	753573	753887	+	GCF_964263245_00701		hypothetical protein	
+contig_1	cds	753900	753998	+	GCF_964263245_00702		hypothetical protein	
+contig_1	cds	754502	754750	+	GCF_964263245_00703		(pseudo) DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI0030D2D128, UniRef:UniRef90_UPI00209C9D45
+contig_1	cds	756547	756828	+	GCF_964263245_00704		hypothetical protein	
+contig_1	cds	757160	757285	+	GCF_964263245_00705		hypothetical protein	
+contig_1	cds	757306	758088	+	GCF_964263245_00706		RNA methyltransferase	SO:0001217, UniRef:UniRef50_W0GRH9, UniRef:UniRef90_UPI0030CA9DF9
+contig_1	cds	758191	758526	+	GCF_964263245_00707		hypothetical protein	
+contig_1	cds	759740	760003	+	GCF_964263245_00708		Transposase of IS30 family protein	SO:0001217, UniRef:UniRef50_A0A345DSH9
+contig_1	cds	760711	760959	-	GCF_964263245_00709	thiT	(pseudo) energy-coupled thiamine transporter ThiT	KEGG:K16789, SO:0001217, UniRef:UniRef50_UPI001F36A418, UniRef:UniRef90_UPI001F36A418
+contig_1	cds	762661	763758	+	GCF_964263245_00710		nicotinate-nucleotide adenylyltransferase	EC:2.7.7.18, SO:0001217, UniRef:UniRef50_W0GQN0, UniRef:UniRef90_UPI0030D14F97
+contig_1	cds	765172	765369	+	GCF_964263245_00711		hypothetical protein	
+contig_1	cds	767408	769354	+	GCF_964263245_00712	tkt	transketolase	EC:2.2.1.1, GO:0004802, KEGG:K00615, SO:0001217, UniRef:UniRef50_W6AAN0, UniRef:UniRef90_A0A2S8NQB4
+contig_1	cds	769619	769867	+	GCF_964263245_00713		hypothetical protein	
+contig_1	cds	771450	771683	+	GCF_964263245_00714		hypothetical protein	
+contig_1	cds	771674	772162	+	GCF_964263245_00715		hypothetical protein	PFAM:PF00367.25
+contig_1	cds	772348	773394	+	GCF_964263245_00716	rlmN	putative dual-specificity RNA methyltransferase RlmN	SO:0001217, UniRef:UniRef50_Q8R9T4
+contig_1	cds	773397	774158	+	GCF_964263245_00717		Protein phosphatase	SO:0001217, UniRef:UniRef50_A0A0L1IJC0
+contig_1	cds	774257	775270	+	GCF_964263245_00718		protein kinase domain-containing protein	SO:0001217, UniRef:UniRef50_W0GM50, UniRef:UniRef90_UPI0030CF1F6D
+contig_1	cds	775277	776146	+	GCF_964263245_00719	rsgA	ribosome small subunit-dependent GTPase A	EC:3.1.3.100, EC:3.6.1.-, GO:0003924, GO:0005525, GO:0006412, GO:0043022, KEGG:K06949, SO:0001217, UniRef:UniRef50_R4UEP6, UniRef:UniRef90_UPI0030CB19DA
+contig_1	cds	776159	776842	+	GCF_964263245_00720		Ribulose-phosphate 3-epimerase	SO:0001217, UniRef:UniRef50_A0A2S8NQS2
+contig_1	cds	776829	777437	+	GCF_964263245_00721		Thiamine diphosphokinase	SO:0001217, UniRef:UniRef50_A0A0K2JFF4
+contig_1	tRNA	777472	777556	-	GCF_964263245_00722	trnL	tRNA-Leu(caa)	SO:0000264
+contig_1	cds	777663	777860	-	GCF_964263245_00723	rpmB	50S ribosomal protein L28	COG:COG0227, COG:J, GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_Q81WI0, UniRef:UniRef90_R4UMD4
+contig_1	cds	779950	781488	+	GCF_964263245_00724		Fibril protein	SO:0001217, UniRef:UniRef50_P27711
+contig_1	cds	781600	782886	+	GCF_964263245_00725	yitT	YitT family protein	SO:0001217, UniRef:UniRef50_P27712, UniRef:UniRef90_UPI0030D60FC2
+contig_1	cds	784001	784927	+	GCF_964263245_00726		deoxyribonuclease IV	EC:3.1.21.2, GO:0003677, GO:0006281, GO:0008270, SO:0001217, UniRef:UniRef50_W0GR60, UniRef:UniRef90_UPI0030CD3609
+contig_1	cds	784931	785404	+	GCF_964263245_00727		dual specificity protein phosphatase	SO:0001217, UniRef:UniRef50_W6A993, UniRef:UniRef90_UPI0030D291AE
+contig_1	cds	785434	785583	-	GCF_964263245_00728		hypothetical protein	
+contig_1	cds	787543	788943	+	GCF_964263245_00729		ABC transporter substrate-binding protein PnrA-like domain-containing protein	SO:0001217, UniRef:UniRef50_W0GK32
+contig_1	cds	790192	790296	+	GCF_964263245_00730		hypothetical protein	
+contig_1	cds	790634	790762	+	GCF_964263245_00731		hypothetical protein	
+contig_1	cds	791098	791391	+	GCF_964263245_00732		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9T8, UniRef:UniRef50_UPI0037DD9348, UniRef:UniRef90_UPI00209E9EB6, UniRef:UniRef90_UPI0037DD9348
+contig_1	cds	792999	793100	-	GCF_964263245_00733		hypothetical protein	
+contig_1	cds	793365	793595	-	GCF_964263245_00734		(pseudo) Succinate dehydrogenase	SO:0001217, UniRef:UniRef50_A0A3S0YNA2, UniRef:UniRef90_A0A433ET16
+contig_1	cds	794427	794846	-	GCF_964263245_00735		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F8S6, UniRef:UniRef50_UPI00133179EF, UniRef:UniRef90_UPI00133179EF, UniRef:UniRef90_UPI00209D07C5
+contig_1	cds	795141	795416	-	GCF_964263245_00736		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00209E1B4F, UniRef:UniRef90_UPI00209E1B4F
+contig_1	cds	795559	795780	-	GCF_964263245_00737		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A432ZUV8, UniRef:UniRef50_A0A432ZV76, UniRef:UniRef90_A0A3S0T5M1
+contig_1	cds	795996	796928	-	GCF_964263245_00738		Capsid protein	SO:0001217, UniRef:UniRef50_W0GQV0
+contig_1	cds	797361	797531	-	GCF_964263245_00739		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F8F6, UniRef:UniRef50_A0A2P6F9N7, UniRef:UniRef90_A0A2P6F8F6
+contig_1	cds	797834	797992	+	GCF_964263245_00740		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001F4D084E
+contig_1	cds	798596	798778	+	GCF_964263245_00741		hypothetical protein	
+contig_1	cds	798845	799054	+	GCF_964263245_00742		hypothetical protein	
+contig_1	cds	799035	799229	+	GCF_964263245_00743		hypothetical protein	
+contig_1	cds	799350	799463	+	GCF_964263245_00744		hypothetical protein	
+contig_1	cds	800518	800826	-	GCF_964263245_00745		hypothetical protein	
+contig_1	cds	801355	801609	-	GCF_964263245_00746		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6F8J8, UniRef:UniRef90_A0A2P6F8J8
+contig_1	cds	801788	802066	-	GCF_964263245_00747		p123	SO:0001217, UniRef:UniRef50_A0A0K2JIZ6
+contig_1	cds	802845	802979	-	GCF_964263245_00748		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0013157E24, UniRef:UniRef50_UPI0013A07FCE, UniRef:UniRef90_UPI0032B174A2
+contig_1	cds	803963	804361	-	GCF_964263245_00749		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0URV8, UniRef:UniRef90_A0A3S0URV8
+contig_1	cds	804779	804883	-	GCF_964263245_00750		(pseudo) Terminase-like family	SO:0001217, UniRef:UniRef50_A0A2P6F9K3, UniRef:UniRef90_A0A2P6F9K3
+contig_1	cds	805407	805826	+	GCF_964263245_00751		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030CF4DCE, UniRef:UniRef90_UPI0035C8FF53
+contig_1	cds	805823	806038	-	GCF_964263245_00752		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313E9685, UniRef:UniRef90_UPI00313E9685
+contig_1	cds	806114	806356	+	GCF_964263245_00753		transposase	SO:0001217, UniRef:UniRef50_UPI0035C8E137, UniRef:UniRef90_UPI0035C8E137
+contig_1	cds	806663	806857	-	GCF_964263245_00754		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9M4, UniRef:UniRef90_A0A2P6F9M4
+contig_1	cds	806917	807171	-	GCF_964263245_00755		(pseudo) phage terminase large subunit	KEGG:K06909, SO:0001217, UniRef:UniRef50_A0A2P6F8H6, UniRef:UniRef90_UPI0032B2951B
+contig_1	cds	807998	808138	+	GCF_964263245_00756		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F925
+contig_1	cds	808368	808466	+	GCF_964263245_00757		hypothetical protein	
+contig_1	cds	808533	808766	-	GCF_964263245_00758		hypothetical protein	
+contig_1	cds	810324	810602	-	GCF_964263245_00759		(pseudo) Plectrovirus spv1-c74 orf 2 n-terminal truncated protein	SO:0001217, UniRef:UniRef50_Q14QP3, UniRef:UniRef90_Q14L86
+contig_1	cds	812232	812348	-	GCF_964263245_00760		hypothetical protein	
+contig_1	cds	812558	812728	-	GCF_964263245_00761		hypothetical protein	
+contig_1	cds	812803	813081	+	GCF_964263245_00762		hypothetical protein	
+contig_1	cds	812994	813383	-	GCF_964263245_00763		hypothetical protein	
+contig_1	cds	813798	814055	+	GCF_964263245_00764		hypothetical protein	
+contig_1	cds	814262	816154	+	GCF_964263245_00765		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A0K2JGU5
+contig_1	cds	816185	817201	+	GCF_964263245_00766		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_W0GLI1, UniRef:UniRef90_A0A3S0RSE5
+contig_1	cds	817591	818838	+	GCF_964263245_00767		hypothetical protein	PFAM:PF03962.21, PFAM:PF07494.17, PFAM:PF08706.16
+contig_1	cds	819392	819613	-	GCF_964263245_00768		hypothetical protein	
+contig_1	cds	819615	819893	-	GCF_964263245_00769		hypothetical protein	
+contig_1	cds	819966	820136	+	GCF_964263245_00770		hypothetical protein	
+contig_1	cds	820341	820457	+	GCF_964263245_00771		hypothetical protein	
+contig_1	cds	823920	824153	+	GCF_964263245_00772		hypothetical protein	
+contig_1	cds	824220	824318	-	GCF_964263245_00773		hypothetical protein	
+contig_1	cds	824548	824688	-	GCF_964263245_00774		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F925
+contig_1	cds	825831	826025	+	GCF_964263245_00775		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9M4, UniRef:UniRef90_A0A2P6F9M4
+contig_1	cds	826721	826825	+	GCF_964263245_00776		(pseudo) Terminase-like family	SO:0001217, UniRef:UniRef50_A0A2P6F9K3, UniRef:UniRef90_A0A2P6F9K3
+contig_1	cds	827243	827641	+	GCF_964263245_00777		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0URV8, UniRef:UniRef90_A0A3S0URV8
+contig_1	cds	828632	828859	+	GCF_964263245_00778		hypothetical protein	
+contig_1	cds	828999	829949	-	GCF_964263245_00779		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	830271	830402	-	GCF_964263245_00780		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9C4, UniRef:UniRef90_A0A2P6F9C4
+contig_1	cds	831013	831297	-	GCF_964263245_00781		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	831855	832094	-	GCF_964263245_00782		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JHV7
+contig_1	cds	832523	832732	+	GCF_964263245_00783		hypothetical protein	
+contig_1	cds	832675	832905	+	GCF_964263245_00784		hypothetical protein	
+contig_1	cds	833068	833292	+	GCF_964263245_00785		hypothetical protein	
+contig_1	cds	833704	834144	-	GCF_964263245_00786		DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI00313B1441
+contig_1	cds	836260	836496	-	GCF_964263245_00787		hypothetical protein	
+contig_1	cds	838589	838774	-	GCF_964263245_00788		hypothetical protein	PFAM:PF00161.24
+contig_1	cds	839957	840145	+	GCF_964263245_00789		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JIA9
+contig_1	cds	840652	840900	-	GCF_964263245_00790		hypothetical protein	
+contig_1	cds	841912	843336	-	GCF_964263245_00791		Proline--tRNA ligase	SO:0001217, UniRef:UniRef50_Q2SSG0
+contig_1	cds	843344	844027	-	GCF_964263245_00792		Acetyltransferase	SO:0001217, UniRef:UniRef50_W0GS94
+contig_1	cds	844089	845627	-	GCF_964263245_00793		Cardiolipin synthase	SO:0001217, UniRef:UniRef50_R4UK23
+contig_1	tRNA	845742	845832	-	GCF_964263245_00794	trnS	tRNA-Ser(gct)	SO:0000269
+contig_1	cds	849212	851821	+	GCF_964263245_00795	polA	DNA polymerase I	EC:2.7.7.7, GO:0003676, GO:0003677, GO:0003887, GO:0006261, GO:0008408, SO:0001217, UniRef:UniRef50_A0A1J0U234, UniRef:UniRef90_UPI0030D0B7C9
+contig_1	cds	853461	853634	-	GCF_964263245_00796		hypothetical protein	
+contig_1	cds	853936	854079	-	GCF_964263245_00797		hypothetical protein	
+contig_1	cds	854899	855321	+	GCF_964263245_00798		(pseudo) DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI002481DC89, UniRef:UniRef90_UPI0030CF8DDA
+contig_1	cds	855737	856600	-	GCF_964263245_00799		Hydrolase	EC:3.1.3.104, KEGG:K21064, SO:0001217, UniRef:UniRef50_A0A654ILH6, UniRef:UniRef90_A0A0K2JI50
+contig_1	cds	856791	858932	+	GCF_964263245_00800	clpB	ATP-dependent protease ATP-binding subunit ClpB	SO:0001217, UniRef:UniRef50_Q88VX7, UniRef:UniRef90_A0A0K2JI51
+contig_1	cds	859053	860111	+	GCF_964263245_00801	hrcA	heat-inducible transcriptional repressor HrcA	GO:0003677, GO:0006355, KEGG:K03705, SO:0001217, UniRef:UniRef50_W6AA46, UniRef:UniRef90_A0A0K2JIK4
+contig_1	cds	860092	860724	+	GCF_964263245_00802	grpE	Protein GrpE	SO:0001217, UniRef:UniRef50_W0GNJ2
+contig_1	cds	860754	862538	+	GCF_964263245_00803	dnaK	molecular chaperone DnaK	GO:0005524, GO:0006457, GO:0016887, SO:0001217, UniRef:UniRef50_A5I640, UniRef:UniRef90_A0A0K2JJ66
+contig_1	cds	862608	863738	+	GCF_964263245_00804	dnaJ	Chaperone protein DnaJ	SO:0001217, UniRef:UniRef50_A0A2P6FAR0
+contig_1	cds	864659	864865	+	GCF_964263245_00805		hypothetical protein	
+contig_1	cds	865623	866579	+	GCF_964263245_00806		L-lactate dehydrogenase	SO:0001217, UniRef:UniRef50_P62054
+contig_1	cds	867681	867959	-	GCF_964263245_00807		hypothetical protein	
+contig_1	cds	868464	868601	-	GCF_964263245_00808		hypothetical protein	
+contig_1	cds	868947	870728	-	GCF_964263245_00809		UvrABC system protein C	SO:0001217, UniRef:UniRef50_W6ALT1
+contig_1	cds	872116	872475	-	GCF_964263245_00810	rplT	50S ribosomal protein L20	GO:0000315, GO:0003735, GO:0006412, GO:0022625, SO:0001217, UniRef:UniRef50_Q6NDR6, UniRef:UniRef90_A0A0K2JH63
+contig_1	cds	872504	872698	-	GCF_964263245_00811	rpmI	50S ribosomal protein L35	COG:COG0291, COG:J, GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_P75447, UniRef:UniRef90_R4UJC9
+contig_1	cds	872735	873271	-	GCF_964263245_00812	infC	translation initiation factor IF-3	GO:0003743, GO:0006413, SO:0001217, UniRef:UniRef50_Q6F1S8, UniRef:UniRef90_A0A3S0T7E7
+contig_1	cds	875236	875421	-	GCF_964263245_00813		hypothetical protein	
+contig_1	cds	877142	878080	+	GCF_964263245_00814		Hypothetical rna pseudouridylate synthase c protein	SO:0001217, UniRef:UniRef50_Q14NQ9
+contig_1	cds	878106	879971	+	GCF_964263245_00815		transporter	SO:0001217, UniRef:UniRef50_A0A1J0U1A4, UniRef:UniRef90_UPI0030CDD242
+contig_1	cds	881117	881578	+	GCF_964263245_00816	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	SO:0001217, UniRef:UniRef50_Q14NQ6
+contig_1	cds	881580	882152	+	GCF_964263245_00817	tsaB	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	EC:2.3.1.234, GO:0002949, SO:0001217, UniRef:UniRef50_W0GM62, UniRef:UniRef90_UPI0030CF39F2
+contig_1	cds	883111	883410	+	GCF_964263245_00818		hypothetical protein	
+contig_1	cds	883519	884127	+	GCF_964263245_00819		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0K2JGP2
+contig_1	cds	884192	886174	+	GCF_964263245_00820		DUF2779 domain-containing protein	SO:0001217, UniRef:UniRef50_R4UM46, UniRef:UniRef90_UPI0030CC983A
+contig_1	cds	886184	887143	+	GCF_964263245_00821		Methionyl-tRNA formyltransferase	SO:0001217, UniRef:UniRef50_A0A2P6FE50
+contig_1	cds	887082	887252	+	GCF_964263245_00822		hypothetical protein	
+contig_1	cds	887252	887485	+	GCF_964263245_00823		hypothetical protein	
+contig_1	cds	887981	889465	+	GCF_964263245_00824		Amino acid permease	SO:0001217, UniRef:UniRef50_R4UAD8
+contig_1	cds	891486	894218	+	GCF_964263245_00825	mgtA	magnesium-translocating P-type ATPase	EC:7.2.2.14, GO:0015444, GO:0015693, GO:0016020, KEGG:K01531, SO:0001217, UniRef:UniRef50_R4U4S7, UniRef:UniRef90_Q14L95
+contig_1	cds	894286	894897	-	GCF_964263245_00826		(pseudo) Cytosol aminopeptidase	SO:0001217, UniRef:UniRef50_A0A1B3SM84, UniRef:UniRef90_A0A2P6FAN7
+contig_1	cds	895001	895639	-	GCF_964263245_00827		(pseudo) Putative leucyl aminopeptidase transmembrane protein	SO:0001217, UniRef:UniRef50_A0A1B3SM84, UniRef:UniRef90_Q14L96
+contig_1	cds	895800	897596	+	GCF_964263245_00828	pepF	oligoendopeptidase F	EC:3.4.24.-, GO:0004222, GO:0006508, KEGG:K08602, SO:0001217, UniRef:UniRef50_A0A397FTW7, UniRef:UniRef90_UPI0030D51451
+contig_1	cds	899441	900397	-	GCF_964263245_00829		CAAX amino terminal protease	SO:0001217, UniRef:UniRef50_W0GM66
+contig_1	cds	900401	900577	-	GCF_964263245_00830		hypothetical protein	
+contig_1	cds	900956	901126	+	GCF_964263245_00831		(pseudo) IS3 family transposase	SO:0001217, UniRef:UniRef50_UPI00313B6F07, UniRef:UniRef90_UPI00313B6F07
+contig_1	cds	901381	901632	+	GCF_964263245_00832		Integrase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3S0RS81
+contig_1	cds	901760	903337	-	GCF_964263245_00833	gpmI	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	EC:5.4.2.12, GO:0006096, GO:0046537, KEGG:K15633, SO:0001217, UniRef:UniRef50_Q6MSF0, UniRef:UniRef90_UPI0030CFB9C1
+contig_1	cds	904728	904898	-	GCF_964263245_00834		hypothetical protein	
+contig_1	cds	904898	905101	-	GCF_964263245_00835		hypothetical protein	
+contig_1	cds	905317	906345	-	GCF_964263245_00836		NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	SO:0001217, UniRef:UniRef50_W6A9K4, UniRef:UniRef90_UPI0030D21806
+contig_1	cds	906360	907676	-	GCF_964263245_00837	der	ribosome biogenesis GTPase Der	EC:3.6.5.-, GO:0003924, GO:0005525, GO:0005737, GO:0042254, GO:0043022, KEGG:K03977, SO:0001217, UniRef:UniRef50_P75309, UniRef:UniRef90_A0AAI9T2R5
+contig_1	cds	907677	908345	-	GCF_964263245_00838	cmk	(d)CMP kinase	EC:2.7.4.25, GO:0004127, GO:0005524, GO:0015949, SO:0001217, UniRef:UniRef50_W0GKV8, UniRef:UniRef90_UPI0030D10AD5
+contig_1	cds	908362	909063	-	GCF_964263245_00839		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0K2JGS1
+contig_1	cds	909441	909950	-	GCF_964263245_00840		dUTP diphosphatase	SO:0001217, UniRef:UniRef50_W6AL82
+contig_1	cds	911085	911219	-	GCF_964263245_00841		hypothetical protein	
+contig_1	cds	911522	911620	-	GCF_964263245_00842		hypothetical protein	
+contig_1	cds	913337	913960	+	GCF_964263245_00843	upp	uracil phosphoribosyltransferase	EC:2.4.2.9, GO:0004845, GO:0009116, SO:0001217, UniRef:UniRef50_Q8RG35, UniRef:UniRef90_A0A0K2JIN1
+contig_1	cds	913947	914384	+	GCF_964263245_00844		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0H3XIY0, UniRef:UniRef90_A0A0K2JIN0
+contig_1	cds	914374	915192	+	GCF_964263245_00845		F0F1 ATP synthase subunit A	SO:0001217, UniRef:UniRef50_W0GNC0
+contig_1	cds	915245	915577	+	GCF_964263245_00846	atpE	ATP synthase F0 subunit C	EC:7.1.2.2, GO:0015078, GO:0015986, GO:0045263, SO:0001217, UniRef:UniRef50_A0A0H3XKR6, UniRef:UniRef90_UPI00209FA8E0
+contig_1	cds	915616	916146	+	GCF_964263245_00847		ATP synthase subunit b	SO:0001217, UniRef:UniRef50_A0A2P6FFQ9
+contig_1	cds	916153	916698	+	GCF_964263245_00848		F0F1 ATP synthase subunit delta	EC:7.1.2.2, SO:0001217, UniRef:UniRef50_Q14Q27, UniRef:UniRef90_Q14Q27
+contig_1	cds	916715	918286	+	GCF_964263245_00849	atpA	F0F1 ATP synthase subunit alpha	EC:7.1.2.2, GO:0015986, GO:0045261, GO:0046933, SO:0001217, UniRef:UniRef50_P06283, UniRef:UniRef90_A0A2P6FFS1
+contig_1	cds	918302	919156	+	GCF_964263245_00850	atpG	ATP synthase F1 subunit gamma	EC:7.1.2.2, GO:0015986, GO:0045261, GO:0046933, KEGG:K02115, SO:0001217, UniRef:UniRef50_Q6F203, UniRef:UniRef90_UPI0030CF0334
+contig_1	cds	919178	920575	+	GCF_964263245_00851	atpD	F0F1 ATP synthase subunit beta	EC:7.1.2.2, GO:0015986, GO:0045261, GO:0046933, SO:0001217, UniRef:UniRef50_P0A300, UniRef:UniRef90_W0GPL5
+contig_1	cds	920577	920840	+	GCF_964263245_00852		ATP synthase F1 complex delta/epsilon subunit N-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_W0GJY9
+contig_1	cds	921278	921562	+	GCF_964263245_00853		hypothetical protein	
+contig_1	cds	921875	922087	-	GCF_964263245_00854		hypothetical protein	
+contig_1	cds	923301	923606	-	GCF_964263245_00855		hypothetical protein	
+contig_1	cds	923608	924456	-	GCF_964263245_00856	rsmA	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA	EC:2.1.1.182, GO:0000179, GO:0006364, SO:0001217, UniRef:UniRef50_W0GSI6, UniRef:UniRef90_UPI0030CF7414
+contig_1	cds	925415	925711	-	GCF_964263245_00857		hypothetical protein	
+contig_1	cds	927558	928442	-	GCF_964263245_00858		hypothetical protein	
+contig_1	cds	928390	929112	-	GCF_964263245_00859		DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A432ZVB4, UniRef:UniRef90_A0A432ZVB4
+contig_1	cds	929420	930157	-	GCF_964263245_00860		Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0AAJ4EJM0
+contig_1	cds	930161	931552	-	GCF_964263245_00861		Adhesin P54	SO:0001217, UniRef:UniRef50_A0A2P6FF31, UniRef:UniRef90_A0A2P6FA19
+contig_1	cds	931545	931850	-	GCF_964263245_00862		Adhesin P12	SO:0001217, UniRef:UniRef50_A0A2P6F9F7, UniRef:UniRef90_A0A3S0YNT3
+contig_1	cds	931823	932638	-	GCF_964263245_00863		PBSX family phage terminase large subunit	KEGG:K06909, SO:0001217, UniRef:UniRef50_A0A432ZUI0, UniRef:UniRef90_A0A3S0SKV3
+contig_1	cds	932694	932828	+	GCF_964263245_00864		hypothetical protein	
+contig_1	cds	933097	933678	+	GCF_964263245_00865		(pseudo) IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_P15894, UniRef:UniRef90_UPI0030CC8A43
+contig_1	cds	933744	933986	-	GCF_964263245_00866		hypothetical protein	
+contig_1	cds	934905	935162	+	GCF_964263245_00867		hypothetical protein	
+contig_1	cds	936695	936919	+	GCF_964263245_00868		hypothetical protein	
+contig_1	cds	941612	943312	-	GCF_964263245_00869		lipoprotein	SO:0001217, UniRef:UniRef50_W0GMT0, UniRef:UniRef90_UPI0030CA7F2C
+contig_1	cds	943312	945576	-	GCF_964263245_00870		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FAG4
+contig_1	cds	947357	948586	+	GCF_964263245_00871		aminotransferase class V-fold PLP-dependent enzyme	SO:0001217, UniRef:UniRef50_A0A0H3XLA8, UniRef:UniRef90_UPI0030CD1EE4
+contig_1	cds	948587	949033	+	GCF_964263245_00872	nifU	NIF system FeS cluster assembly NifU N-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_W6APH5
+contig_1	cds	949778	950032	+	GCF_964263245_00873		hypothetical protein	PFAM:PF01458.23
+contig_1	cds	950693	951031	+	GCF_964263245_00874		hypothetical protein	
+contig_1	cds	951270	951677	+	GCF_964263245_00875		Hypothetical transmembrane protein	SO:0001217, UniRef:UniRef50_Q14L14
+contig_1	cds	953947	954381	+	GCF_964263245_00876		Large ribosomal subunit protein uL11	SO:0001217, UniRef:UniRef50_P47327
+contig_1	cds	954381	955070	+	GCF_964263245_00877	rplA	50S ribosomal protein L1	GO:0003723, GO:0003735, GO:0006412, GO:0015934, SO:0001217, UniRef:UniRef50_Q6F0K8, UniRef:UniRef90_A0A2P6FGB4
+contig_1	cds	955668	955787	-	GCF_964263245_00878		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FGE5, UniRef:UniRef90_UPI0030D1B4AB
+contig_1	cds	958191	959141	+	GCF_964263245_00879		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	960331	960582	+	GCF_964263245_00880		hypothetical protein	
+contig_1	cds	962538	962780	+	GCF_964263245_00881		(pseudo) transposase	SO:0001217, UniRef:UniRef50_UPI00313B6F07, UniRef:UniRef90_UPI00313B9026
+contig_1	cds	962794	963012	+	GCF_964263245_00882		(pseudo) DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI0030D2D128, UniRef:UniRef90_UPI00209C9D45
+contig_1	cds	963382	965787	+	GCF_964263245_00883		Adhesion related protein, transmembrane	SO:0001217, UniRef:UniRef50_A0A345DSM2
+contig_1	cds	967089	967343	-	GCF_964263245_00884		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	968018	968137	-	GCF_964263245_00885		hypothetical protein	
+contig_1	cds	968856	968978	-	GCF_964263245_00886		hypothetical protein	
+contig_1	cds	968956	969537	-	GCF_964263245_00887		nucleoside 2-deoxyribosyltransferase	SO:0001217, UniRef:UniRef50_V5RHB0, UniRef:UniRef90_UPI0030D5B631
+contig_1	cds	970725	970895	-	GCF_964263245_00888		hypothetical protein	
+contig_1	cds	973362	973586	-	GCF_964263245_00889		hypothetical protein	
+contig_1	cds	973928	974827	+	GCF_964263245_00890		Fructose-bisphosphate aldolase	SO:0001217, UniRef:UniRef50_P75089
+contig_1	cds	977941	978264	+	GCF_964263245_00891		hypothetical protein	
+contig_1	cds	978438	978779	+	GCF_964263245_00892		hypothetical protein	
+contig_1	cds	978841	979011	+	GCF_964263245_00893		Uridine kinase	SO:0001217, UniRef:UniRef50_A0A2S5RE99
+contig_1	cds	979575	980045	+	GCF_964263245_00894	greA	transcription elongation factor GreA	GO:0003677, GO:0032784, GO:0070063, SO:0001217, UniRef:UniRef50_Q6F215, UniRef:UniRef90_Q14M79
+contig_1	cds	980597	980755	+	GCF_964263245_00895		hypothetical protein	
+contig_1	cds	981084	981671	+	GCF_964263245_00896	hpt	hypoxanthine phosphoribosyltransferase	EC:2.4.2.8, GO:0006166, KEGG:K00760, SO:0001217, UniRef:UniRef50_A0A0H3XI58, UniRef:UniRef90_UPI0030D0C411
+contig_1	cds	981739	981915	+	GCF_964263245_00897		hypothetical protein	
+contig_1	cds	982712	982945	+	GCF_964263245_00898		hypothetical protein	
+contig_1	cds	984169	984420	+	GCF_964263245_00899		hypothetical protein	
+contig_1	cds	984839	985414	+	GCF_964263245_00900		Dephospho-CoA kinase	SO:0001217, UniRef:UniRef50_A0A0K2JGI9
+contig_1	cds	985414	986133	+	GCF_964263245_00901		Ribosomal RNA small subunit methyltransferase E	SO:0001217, UniRef:UniRef50_R4UJN2
+contig_1	cds	986145	986720	+	GCF_964263245_00902		Transmembrane protein	SO:0001217, UniRef:UniRef50_R4UEJ4, UniRef:UniRef90_UPI0030D27EDE
+contig_1	cds	987480	987752	+	GCF_964263245_00903		hypothetical protein	
+contig_1	cds	988002	988304	+	GCF_964263245_00904		hypothetical protein	
+contig_1	cds	988870	989076	+	GCF_964263245_00905		hypothetical protein	
+contig_1	cds	989079	989435	+	GCF_964263245_00906		hypothetical protein	
+contig_1	cds	990084	990266	+	GCF_964263245_00907		hypothetical protein	
+contig_1	cds	990535	990825	-	GCF_964263245_00908		hypothetical protein	
+contig_1	cds	991126	991431	-	GCF_964263245_00909		hypothetical protein	
+contig_1	cds	993421	993888	-	GCF_964263245_00910		hypothetical protein	
+contig_1	cds	994198	995148	+	GCF_964263245_00911		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	995429	996235	-	GCF_964263245_00912		NAD(+)/NADH kinase	EC:2.7.1.23, KEGG:K00858, SO:0001217, UniRef:UniRef50_W0GNK7, UniRef:UniRef90_UPI0030CE25FA
+contig_1	cds	998408	998911	+	GCF_964263245_00913		hypothetical protein	
+contig_1	cds	998859	999359	+	GCF_964263245_00914		hypothetical protein	
+contig_1	cds	1000077	1000352	-	GCF_964263245_00915		hypothetical protein	
+contig_1	cds	1004990	1005133	+	GCF_964263245_00916		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0013155011, UniRef:UniRef90_UPI0013155011
+contig_1	cds	1006667	1006951	+	GCF_964263245_00917		hypothetical protein	
+contig_1	cds	1007714	1007896	+	GCF_964263245_00918		(pseudo) terminase large subunit domain-containing protein	SO:0001217, UniRef:UniRef50_UPI0030D3CA11, UniRef:UniRef90_UPI0030D3CA11
+contig_1	cds	1008180	1008407	+	GCF_964263245_00919		hypothetical protein	
+contig_1	cds	1010172	1010417	+	GCF_964263245_00920		hypothetical protein	
+contig_1	cds	1011159	1011473	+	GCF_964263245_00921		hypothetical protein	
+contig_1	cds	1011836	1012786	+	GCF_964263245_00922		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1013544	1013738	-	GCF_964263245_00923		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9M4, UniRef:UniRef90_A0A2P6F9M4
+contig_1	cds	1013738	1014067	-	GCF_964263245_00924		(pseudo) phage terminase large subunit	KEGG:K06909, SO:0001217, UniRef:UniRef50_A0A2P6F8H6, UniRef:UniRef90_UPI0032B2951B
+contig_1	cds	1014898	1015044	+	GCF_964263245_00925		hypothetical protein	
+contig_1	cds	1015194	1015460	-	GCF_964263245_00926		hypothetical protein	
+contig_1	cds	1015509	1015766	+	GCF_964263245_00927		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_Q14L73, UniRef:UniRef90_A0A0K2JI86
+contig_1	cds	1016027	1016311	+	GCF_964263245_00928		hypothetical protein	
+contig_1	cds	1016919	1018199	-	GCF_964263245_00929	yidC	Membrane protein insertase YidC	KEGG:K03217, SO:0001217, UniRef:UniRef50_W6ANY7, UniRef:UniRef90_A0A3S0RTB4
+contig_1	cds	1018213	1018530	-	GCF_964263245_00930	rnpA	ribonuclease P protein component	EC:3.1.26.5, GO:0000049, GO:0004526, GO:0008033, SO:0001217, UniRef:UniRef50_R4UKE7, UniRef:UniRef90_UPI0030D264FF
+contig_1	cds	1018569	1018703	-	GCF_964263245_00931		Large ribosomal subunit protein bL34	SO:0001217, UniRef:UniRef50_P80340
+contig_1	cds	1019406	1019621	-	GCF_964263245_00932		hypothetical protein	
+contig_1	cds	1019637	1019789	-	GCF_964263245_00933		hypothetical protein	
+contig_1	cds	1020460	1020630	-	GCF_964263245_00934		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00209CFF77, UniRef:UniRef50_UPI00313D07F3, UniRef:UniRef90_UPI00209FB6DD
+contig_1	cds	1021281	1021571	-	GCF_964263245_00935		DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_A0AAJ4TWV0
+contig_1	cds	1021876	1022181	-	GCF_964263245_00936		hypothetical protein	
+contig_1	cds	1022742	1024094	+	GCF_964263245_00937	dnaA	chromosomal replication initiator protein DnaA	GO:0003677, GO:0003688, GO:0005524, GO:0005737, GO:0005886, GO:0006270, GO:0006275, GO:0016887, KEGG:K02313, SO:0001217, UniRef:UniRef50_P34028, UniRef:UniRef90_P34028
+contig_1	cds	1024263	1025381	+	GCF_964263245_00938		Beta sliding clamp	SO:0001217, UniRef:UniRef50_P34029
+contig_1	cds	1025564	1027486	+	GCF_964263245_00939	gyrB	DNA topoisomerase (ATP-hydrolyzing) subunit B	EC:5.6.2.2, GO:0003677, GO:0003918, GO:0005524, GO:0005694, GO:0005737, GO:0006261, GO:0006265, GO:0034335, GO:0046872, KEGG:K02470, SO:0001217, UniRef:UniRef50_P22447, UniRef:UniRef90_P34031
+contig_1	cds	1027503	1029965	+	GCF_964263245_00940	gyrA	DNA gyrase subunit A	EC:5.6.2.2, GO:0003677, GO:0003916, GO:0003918, GO:0005524, GO:0006259, GO:0006265, KEGG:K02469, SO:0001217, UniRef:UniRef50_P05653, UniRef:UniRef90_P34030
+contig_1	cds	1029969	1031240	+	GCF_964263245_00941	serS	serine--tRNA ligase	EC:6.1.1.11, GO:0000166, GO:0004828, GO:0005524, GO:0006434, KEGG:K01875, SO:0001217, UniRef:UniRef50_A5VHP5, UniRef:UniRef90_UPI0030D3D206
+contig_1	ncRNA	1031308	1031402	+	GCF_964263245_00942	Bacteria_small_SRP	Bacterial small signal recognition particle RNA	RFAM:RF00169, SO:0000655
+contig_1	cds	1031417	1031860	+	GCF_964263245_00943		tRNA(adenine(34)) deaminase	SO:0001217, UniRef:UniRef50_R4U2K4, UniRef:UniRef90_A0A0K2JET8
+contig_1	cds	1031929	1033983	+	GCF_964263245_00944		DNA polymerase III subunit gamma/tau	SO:0001217, UniRef:UniRef50_A0A1J0TZ61
+contig_1	cds	1034604	1035248	+	GCF_964263245_00945		Thymidylate kinase	SO:0001217, UniRef:UniRef50_Q6MUI5
+contig_1	cds	1035241	1036077	+	GCF_964263245_00946		DNA polymerase III subunit delta'	SO:0001217, UniRef:UniRef50_Q14QH2, UniRef:UniRef90_UPI0030CE5E02
+contig_1	cds	1036831	1038138	+	GCF_964263245_00947	tilS	tRNA lysidine(34) synthetase TilS	EC:6.3.4.19, KEGG:K04075, SO:0001217, UniRef:UniRef50_UPI0030D3C086, UniRef:UniRef90_UPI0030D3C086
+contig_1	cds	1038212	1040224	+	GCF_964263245_00948	ftsH	ATP-dependent zinc metalloprotease FtsH	GO:0004222, GO:0006508, GO:0016020, GO:0016887, GO:0051301, SO:0001217, UniRef:UniRef50_Q6F0E5, UniRef:UniRef90_A0A0K2JER8
+contig_1	cds	1040396	1040605	+	GCF_964263245_00949		hypothetical protein	
+contig_1	cds	1041318	1042259	+	GCF_964263245_00950		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_R4UCJ8
+contig_1	cds	1042610	1042771	+	GCF_964263245_00951		hypothetical protein	PFAM:PF01207.24
+contig_1	cds	1042772	1042900	+	GCF_964263245_00952		hypothetical protein	
+contig_1	cds	1043746	1043835	-	GCF_964263245_00953		hypothetical protein	
+contig_1	cds	1045511	1045702	-	GCF_964263245_00954		hypothetical protein	
+contig_1	cds	1046208	1046447	+	GCF_964263245_00955		hypothetical protein	
+contig_1	cds	1046603	1046788	+	GCF_964263245_00956		hypothetical protein	
+contig_1	cds	1046754	1046960	+	GCF_964263245_00957		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0TU96, UniRef:UniRef90_A0A3S0TU96
+contig_1	cds	1047005	1047178	+	GCF_964263245_00958		hypothetical protein	
+contig_1	cds	1048273	1049685	+	GCF_964263245_00959	nusA	Transcription termination/antitermination protein NusA	SO:0001217, UniRef:UniRef50_R4U700
+contig_1	cds	1049705	1049980	+	GCF_964263245_00960	ylxR	YlxR domain-containing protein	SO:0001217, UniRef:UniRef50_W0GM60
+contig_1	cds	1049983	1050288	+	GCF_964263245_00961	ylxQ	Putative ribosomal protein YlxQ	SO:0001217, UniRef:UniRef50_A0A2P6FF13
+contig_1	cds	1050312	1052168	+	GCF_964263245_00962	infB	translation initiation factor IF-2	GO:0003743, GO:0003924, GO:0005525, GO:0005737, GO:0006413, SO:0001217, UniRef:UniRef50_Q6F1H1, UniRef:UniRef90_A0A345DRE2
+contig_1	cds	1052989	1055052	+	GCF_964263245_00963		fructose-specific PTS transporter subunit EIIC	SO:0001217, UniRef:UniRef50_A0A0H3XKT3, UniRef:UniRef90_UPI0030CF5F77
+contig_1	cds	1055122	1056057	+	GCF_964263245_00964	pfkB	1-phosphofructokinase	EC:2.7.1.56, GO:0008662, SO:0001217, UniRef:UniRef50_A0A0K2JGE0, UniRef:UniRef90_UPI0030D084CC
+contig_1	cds	1059810	1059983	+	GCF_964263245_00965		hypothetical protein	
+contig_1	cds	1060720	1061136	+	GCF_964263245_00966		HIT family protein	SO:0001217, UniRef:UniRef50_W6AN59, UniRef:UniRef90_UPI0030D619CB
+contig_1	cds	1061526	1061792	-	GCF_964263245_00967		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313DDF71
+contig_1	cds	1062379	1062546	+	GCF_964263245_00968		hypothetical protein	PFAM:PF08282.18
+contig_1	cds	1062744	1063061	+	GCF_964263245_00969		Thioredoxin	SO:0001217, UniRef:UniRef50_V5RHE3
+contig_1	cds	1063109	1063258	+	GCF_964263245_00970		hypothetical protein	
+contig_1	cds	1063771	1063935	-	GCF_964263245_00971		hypothetical protein	
+contig_1	cds	1064164	1064475	-	GCF_964263245_00972		hypothetical protein	PFAM:PF00023.36, PFAM:PF12796.13, PFAM:PF13606.12, PFAM:PF13637.12, PFAM:PF13857.12
+contig_1	cds	1064745	1064966	-	GCF_964263245_00973		hypothetical protein	
+contig_1	cds	1066248	1067630	+	GCF_964263245_00974		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JHZ9
+contig_1	cds	1068451	1068597	+	GCF_964263245_00975		hypothetical protein	
+contig_1	cds	1068776	1068985	+	GCF_964263245_00976		hypothetical protein	
+contig_1	cds	1069172	1069459	+	GCF_964263245_00977		hypothetical protein	
+contig_1	cds	1071537	1072217	+	GCF_964263245_00978		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0H3XLU8
+contig_1	cds	1072607	1073170	+	GCF_964263245_00979		Inorganic pyrophosphatase	SO:0001217, UniRef:UniRef50_Q6F0S1, UniRef:UniRef90_A0A1J0U094
+contig_1	cds	1073212	1073823	-	GCF_964263245_00980		AAA family ATPase	SO:0001217, UniRef:UniRef50_Q14P17, UniRef:UniRef90_Q14P17
+contig_1	cds	1073864	1074583	-	GCF_964263245_00981		pseudouridine synthase	EC:5.4.99.22, KEGG:K06178, SO:0001217, UniRef:UniRef50_Q14P18, UniRef:UniRef90_UPI0030CDE1A1
+contig_1	cds	1074584	1075132	-	GCF_964263245_00982	scpB	SMC-Scp complex subunit ScpB	GO:0005515, GO:0007059, KEGG:K06024, SO:0001217, UniRef:UniRef50_W0GP73, UniRef:UniRef90_UPI0030CC7E2C
+contig_1	cds	1075140	1075901	-	GCF_964263245_00983		Segregation and condensation protein A	SO:0001217, UniRef:UniRef50_R4UIH5
+contig_1	cds	1076218	1076418	+	GCF_964263245_00984		hypothetical protein	
+contig_1	cds	1076789	1076932	-	GCF_964263245_00985		(pseudo) Integrase	SO:0001217, UniRef:UniRef50_A0A345DQ90, UniRef:UniRef90_A0A345DQ90
+contig_1	cds	1077439	1078389	+	GCF_964263245_00986		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1078386	1078508	-	GCF_964263245_00987		hypothetical protein	
+contig_1	cds	1078653	1078841	+	GCF_964263245_00988		hypothetical protein	
+contig_1	cds	1079286	1079498	-	GCF_964263245_00989		hypothetical protein	
+contig_1	cds	1079697	1079933	-	GCF_964263245_00990		Capsid protein	SO:0001217, UniRef:UniRef50_A0A2P6FBQ7, UniRef:UniRef90_A0A2P6FB75
+contig_1	cds	1080204	1080464	-	GCF_964263245_00991		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JIV6
+contig_1	cds	1081101	1081469	-	GCF_964263245_00992		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DRH1
+contig_1	cds	1081473	1081739	-	GCF_964263245_00993		DUF2649 domain-containing protein	SO:0001217, UniRef:UniRef50_A8RHJ3
+contig_1	cds	1082120	1082515	-	GCF_964263245_00994		hypothetical protein	
+contig_1	cds	1082810	1082926	-	GCF_964263245_00995		hypothetical protein	
+contig_1	cds	1083550	1084560	+	GCF_964263245_00996	mreB	Cell shape-determining protein MreB	SO:0001217, UniRef:UniRef50_S5LXM4, UniRef:UniRef90_A0A0H3XI00
+contig_1	cds	1084929	1085231	-	GCF_964263245_00997		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0032B1D2F7
+contig_1	cds	1085507	1085629	-	GCF_964263245_00998		hypothetical protein	
+contig_1	cds	1085931	1087175	+	GCF_964263245_00999		replication-associated recombination protein A	KEGG:K07478, SO:0001217, UniRef:UniRef50_W0GLR2, UniRef:UniRef90_UPI0030CF88AA
+contig_1	cds	1087583	1087966	-	GCF_964263245_01000		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0ULF2, UniRef:UniRef50_UPI001F4CA157, UniRef:UniRef90_Q14MX6
+contig_1	cds	1088036	1088986	-	GCF_964263245_01001		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1089495	1089758	+	GCF_964263245_01002		hypothetical protein	
+contig_1	cds	1090377	1092797	-	GCF_964263245_01003	leuS	leucine--tRNA ligase	EC:6.1.1.4, GO:0000166, GO:0004823, GO:0005524, GO:0006429, KEGG:K01869, SO:0001217, UniRef:UniRef50_Q6MSR0, UniRef:UniRef90_UPI0030D58694
+contig_1	cds	1094672	1094983	-	GCF_964263245_01004		hypothetical protein	
+contig_1	cds	1095156	1096019	+	GCF_964263245_01005		formate/nitrite transporter family protein	SO:0001217, UniRef:UniRef50_R4ULR2, UniRef:UniRef90_UPI0030D33816
+contig_1	cds	1100086	1101189	-	GCF_964263245_01006		putative xaa-pro dipeptidase m24b protein	SO:0001217, UniRef:UniRef50_Q14LZ1
+contig_1	cds	1103083	1103757	-	GCF_964263245_01007		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JHE5, UniRef:UniRef90_UPI0030D508F6
+contig_1	cds	1103764	1103985	-	GCF_964263245_01008	xseB	exodeoxyribonuclease VII small subunit	EC:3.1.11.6, GO:0006308, GO:0008855, GO:0009318, SO:0001217, UniRef:UniRef50_R4UJ66, UniRef:UniRef90_UPI0030CB798E
+contig_1	cds	1104089	1104364	-	GCF_964263245_01009		hypothetical protein	
+contig_1	cds	1104430	1104735	-	GCF_964263245_01010		hypothetical protein	
+contig_1	cds	1104804	1104902	+	GCF_964263245_01011		hypothetical protein	
+contig_1	cds	1106137	1106340	-	GCF_964263245_01012		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A433ERA1
+contig_1	cds	1108044	1108994	+	GCF_964263245_01013		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1111173	1111346	+	GCF_964263245_01014		hypothetical protein	
+contig_1	cds	1111722	1111919	+	GCF_964263245_01015		hypothetical protein	
+contig_1	cds	1112620	1112784	+	GCF_964263245_01016	rpsU	30S ribosomal protein S21	GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_W6AWZ0, UniRef:UniRef90_R4U5V4
+contig_1	cds	1112809	1113771	-	GCF_964263245_01017		GMP reductase	SO:0001217, UniRef:UniRef50_Q81JJ9
+contig_1	cds	1113928	1114869	+	GCF_964263245_01018		Transmembrane protein	SO:0001217, UniRef:UniRef50_R4UDK4
+contig_1	tRNA	1115123	1115198	+	GCF_964263245_01019	trnT	tRNA-Thr(tgt)	SO:0000270
+contig_1	tRNA	1115206	1115289	+	GCF_964263245_01020	trnY	tRNA-Tyr(gta)	SO:0000272
+contig_1	tRNA	1115306	1115380	+	GCF_964263245_01021	trnQ	tRNA-Gln(ttg)	SO:0000261
+contig_1	tRNA	1115385	1115460	+	GCF_964263245_01022	trnK	tRNA-Lys(ttt)	SO:0000265
+contig_1	tRNA	1115479	1115566	+	GCF_964263245_01023	trnL	tRNA-Leu(taa)	SO:0000264
+contig_1	tRNA	1115659	1115732	+	GCF_964263245_01024	trnG	tRNA-Gly(tcc)	SO:0000260
+contig_1	cds	1115801	1116349	+	GCF_964263245_01025		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A1J0U0E0
+contig_1	cds	1116379	1117161	-	GCF_964263245_01026		Putative choline kinase	SO:0001217, UniRef:UniRef50_R4UFN4
+contig_1	cds	1117242	1117346	+	GCF_964263245_01027		hypothetical protein	
+contig_1	cds	1117558	1118082	+	GCF_964263245_01028		Putative tRNA (cytidine(34)-2'-O)-methyltransferase	SO:0001217, UniRef:UniRef50_R4U5W3
+contig_1	cds	1119938	1120156	+	GCF_964263245_01029		(pseudo) DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_UPI0030D2D128, UniRef:UniRef90_UPI00209C9D45
+contig_1	cds	1120719	1120853	-	GCF_964263245_01030		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313BACB7, UniRef:UniRef90_UPI00313BACB7
+contig_1	rRNA	1123069	1124593	+	GCF_964263245_01031	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_1	rRNA	1124879	1127798	+	GCF_964263245_01032	rrl	23S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01980, RFAM:RF02541, SO:0001001
+contig_1	rRNA	1127870	1127976	+	GCF_964263245_01033	rrf	5S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01985, RFAM:RF00001, SO:0000652
+contig_1	cds	1128302	1128460	+	GCF_964263245_01034		(pseudo) DNA (cytosine-5-)-methyltransferase	SO:0001217, UniRef:UniRef50_A0AAJ4EIX3, UniRef:UniRef90_A0AAJ4EIX3
+contig_1	cds	1129776	1130009	+	GCF_964263245_01035		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313DDF71
+contig_1	cds	1131387	1132337	+	GCF_964263245_01036		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1133000	1133230	-	GCF_964263245_01037		hypothetical protein	
+contig_1	cds	1134853	1135317	+	GCF_964263245_01038		hypothetical protein	
+contig_1	cds	1135302	1135613	+	GCF_964263245_01039		ribosomal-processing cysteine protease Prp	KEGG:K07584, SO:0001217, UniRef:UniRef50_R4UL21, UniRef:UniRef90_UPI0030CB1357
+contig_1	cds	1135616	1135894	+	GCF_964263245_01040	rpmA	50S ribosomal protein L27	GO:0000315, GO:0003735, GO:0006412, GO:0022625, SO:0001217, UniRef:UniRef50_P60493, UniRef:UniRef90_R4U3H4
+contig_1	cds	1136742	1137101	+	GCF_964263245_01041		hypothetical protein	
+contig_1	cds	1137616	1140279	+	GCF_964263245_01042		valine--tRNA ligase	EC:6.1.1.9, GO:0000166, GO:0004812, GO:0004832, GO:0005524, GO:0006438, KEGG:K01873, SO:0001217, UniRef:UniRef50_Q6F1B1, UniRef:UniRef90_UPI0030D2A242
+contig_1	cds	1141057	1141179	+	GCF_964263245_01043		hypothetical protein	
+contig_1	cds	1141685	1143103	+	GCF_964263245_01044		NADP-dependent glyceraldehyde-3-phosphate dehydrogenase	SO:0001217, UniRef:UniRef50_Q9KAQ0
+contig_1	cds	1144210	1144347	-	GCF_964263245_01045		hypothetical protein	
+contig_1	cds	1144832	1145719	+	GCF_964263245_01046	ylqF	ribosome biogenesis GTPase YlqF	GO:0003924, GO:0005525, GO:0005737, GO:0042254, SO:0001217, UniRef:UniRef50_R4U5J0, UniRef:UniRef90_UPI0030CC9253
+contig_1	cds	1145778	1145951	+	GCF_964263245_01047		hypothetical protein	
+contig_1	cds	1145967	1146098	+	GCF_964263245_01048		hypothetical protein	
+contig_1	cds	1146608	1147045	+	GCF_964263245_01049		hypothetical protein	
+contig_1	cds	1147015	1147173	+	GCF_964263245_01050		hypothetical protein	
+contig_1	cds	1148425	1148841	+	GCF_964263245_01051		hypothetical protein	PFAM:PF00958.27
+contig_1	cds	1151689	1152624	-	GCF_964263245_01052	whiA	DNA-binding protein WhiA	GO:0003677, GO:0043937, SO:0001217, UniRef:UniRef50_R4U594, UniRef:UniRef90_UPI0030CD4B8A
+contig_1	cds	1152687	1155080	-	GCF_964263245_01053	secA	preprotein translocase subunit SecA	EC:7.4.2.8, GO:0005524, GO:0006605, GO:0006886, GO:0017038, KEGG:K03070, SO:0001217, UniRef:UniRef50_R4U2Y6, UniRef:UniRef90_UPI0030CD2258
+contig_1	cds	1156360	1156497	-	GCF_964263245_01054		hypothetical protein	
+contig_1	cds	1156982	1157869	+	GCF_964263245_01055	ylqF	ribosome biogenesis GTPase YlqF	GO:0003924, GO:0005525, GO:0005737, GO:0042254, SO:0001217, UniRef:UniRef50_R4U5J0, UniRef:UniRef90_UPI0030CC9253
+contig_1	cds	1157928	1158101	+	GCF_964263245_01056		hypothetical protein	
+contig_1	cds	1158117	1158248	+	GCF_964263245_01057		hypothetical protein	
+contig_1	cds	1158758	1159195	+	GCF_964263245_01058		hypothetical protein	
+contig_1	cds	1159165	1159323	+	GCF_964263245_01059		hypothetical protein	
+contig_1	cds	1160577	1161173	+	GCF_964263245_01060		hypothetical protein	PFAM:PF00958.27
+contig_1	cds	1161238	1161543	+	GCF_964263245_01061		hypothetical protein	
+contig_1	cds	1162341	1164221	+	GCF_964263245_01062		Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase	SO:0001217, UniRef:UniRef50_R4U3E6
+contig_1	cds	1164179	1164391	-	GCF_964263245_01063		hypothetical protein	
+contig_1	cds	1165715	1166140	+	GCF_964263245_01064		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JER1
+contig_1	cds	1166103	1166294	+	GCF_964263245_01065		hypothetical protein	
+contig_1	cds	1166264	1166434	+	GCF_964263245_01066		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0013157C01, UniRef:UniRef50_UPI001F4C89E0, UniRef:UniRef90_UPI0032B2FA40
+contig_1	cds	1166605	1166778	+	GCF_964263245_01067		hypothetical protein	
+contig_1	cds	1166866	1167150	+	GCF_964263245_01068		hypothetical protein	
+contig_1	cds	1167113	1167361	+	GCF_964263245_01069		(pseudo) Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DLG4, UniRef:UniRef90_A0A345DLG4
+contig_1	cds	1167807	1168070	-	GCF_964263245_01070		hypothetical protein	
+contig_1	cds	1168476	1168895	-	GCF_964263245_01071		hypothetical protein	PFAM:PF02305.22
+contig_1	cds	1169044	1169994	+	GCF_964263245_01072		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1170141	1170476	-	GCF_964263245_01073		hypothetical protein	PFAM:PF02305.22
+contig_1	cds	1170458	1170667	-	GCF_964263245_01074		hypothetical protein	PFAM:PF02305.22
+contig_1	cds	1171354	1171554	-	GCF_964263245_01075		hypothetical protein	
+contig_1	cds	1171870	1171992	-	GCF_964263245_01076		hypothetical protein	
+contig_1	cds	1172256	1172519	-	GCF_964263245_01077		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0035C8BF57, UniRef:UniRef90_UPI0035C8BF57
+contig_1	cds	1172537	1172743	-	GCF_964263245_01078		hypothetical protein	
+contig_1	cds	1173444	1174925	+	GCF_964263245_01079		hypothetical protein	
+contig_1	cds	1174949	1175455	+	GCF_964263245_01080		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FEX0
+contig_1	cds	1175928	1176098	+	GCF_964263245_01081		(pseudo) IS3 family transposase	SO:0001217, UniRef:UniRef50_UPI00313B6F07, UniRef:UniRef90_UPI00313B6F07
+contig_1	cds	1177573	1178121	-	GCF_964263245_01082		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A432ZUW9, UniRef:UniRef50_UPI0030D47502, UniRef:UniRef90_A0A432ZUW9
+contig_1	cds	1178170	1178436	-	GCF_964263245_01083		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FAV5
+contig_1	cds	1178379	1178627	-	GCF_964263245_01084		hypothetical protein	
+contig_1	cds	1179656	1179907	-	GCF_964263245_01085		Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A432ZW41
+contig_1	cds	1179888	1180184	-	GCF_964263245_01086		hypothetical protein	
+contig_1	cds	1180692	1180856	-	GCF_964263245_01087		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FEH3, UniRef:UniRef90_A0A2P6FEH3
+contig_1	cds	1181886	1182383	-	GCF_964263245_01088		hypothetical protein	
+contig_1	cds	1182504	1182797	-	GCF_964263245_01089		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001F4C691D
+contig_1	cds	1183022	1183366	-	GCF_964263245_01090		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FA26, UniRef:UniRef50_A0A345DRJ1, UniRef:UniRef90_A0A2P6FA26
+contig_1	cds	1183327	1183662	-	GCF_964263245_01091		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313EA20D, UniRef:UniRef90_UPI00313EA20D
+contig_1	cds	1184727	1184846	+	GCF_964263245_01092		hypothetical protein	
+contig_1	cds	1185024	1186373	+	GCF_964263245_01093		Uracil permease	KEGG:K02824, SO:0001217, UniRef:UniRef50_A0A0K1W122, UniRef:UniRef90_A0A345DNC8
+contig_1	cds	1186510	1189476	+	GCF_964263245_01094		Chromosome partition protein Smc	SO:0001217, UniRef:UniRef50_A0A2P6FBH7
+contig_1	cds	1189572	1190888	+	GCF_964263245_01095		PBP domain-containing protein	SO:0001217, UniRef:UniRef50_W6AP34
+contig_1	cds	1190891	1193005	+	GCF_964263245_01096	pstA	phosphate ABC transporter permease PstA	GO:0005886, GO:0006817, GO:0015415, GO:0055052, SO:0001217, UniRef:UniRef50_A0A0H3XLX6, UniRef:UniRef90_UPI0030CC92DF
+contig_1	cds	1192983	1193792	+	GCF_964263245_01097	pstB	phosphate ABC transporter ATP-binding protein PstB	EC:7.3.2.1, GO:0005524, GO:0005886, GO:0006817, GO:0009898, GO:0015415, GO:0016887, GO:0035435, GO:0055052, SO:0001217, UniRef:UniRef50_Q6D2D5, UniRef:UniRef90_Q6XYT0
+contig_1	cds	1193816	1194475	+	GCF_964263245_01098	phoU	phosphate signaling complex protein PhoU	GO:0006817, GO:0030643, GO:0045936, SO:0001217, UniRef:UniRef50_A0A0K2JF66, UniRef:UniRef90_A0A0K2JF66
+contig_1	cds	1194607	1196283	+	GCF_964263245_01099		phospho-sugar mutase	SO:0001217, UniRef:UniRef50_Q14PE4, UniRef:UniRef90_UPI0030D1D9F6
+contig_1	cds	1196724	1196876	-	GCF_964263245_01100		hypothetical protein	
+contig_1	cds	1198052	1198222	-	GCF_964263245_01101		hypothetical protein	
+contig_1	cds	1198438	1199763	-	GCF_964263245_01102	uvrC	(pseudo) excinuclease ABC subunit UvrC	GO:0006289, GO:0009380, GO:0009381, KEGG:K03703, SO:0001217, UniRef:UniRef50_W6ALT1, UniRef:UniRef90_UPI0030D5C1AA
+contig_1	cds	1200351	1200671	-	GCF_964263245_01103		IS3 family transposase	SO:0001217, UniRef:UniRef50_UPI00313B6F07
+contig_1	cds	1201624	1201827	+	GCF_964263245_01104		Transposase	SO:0001217, UniRef:UniRef50_A0A2P6FDJ1
+contig_1	cds	1203332	1203517	+	GCF_964263245_01105		hypothetical protein	
+contig_1	cds	1204552	1206294	+	GCF_964263245_01106	aspS	aspartate--tRNA ligase	EC:6.1.1.12, GO:0000166, GO:0004812, GO:0005524, GO:0006418, GO:0016874, SO:0001217, UniRef:UniRef50_A0A4Q6FAU1, UniRef:UniRef90_UPI0030CBD24C
+contig_1	cds	1206484	1206699	+	GCF_964263245_01107	yneF	YneF family protein	COG:COG3763, COG:S, KEGG:K09976, SO:0001217, UniRef:UniRef50_Q6KHJ9, UniRef:UniRef90_R4UIV5
+contig_1	cds	1207230	1207382	-	GCF_964263245_01108		hypothetical protein	
+contig_1	cds	1207490	1207768	+	GCF_964263245_01109		hypothetical protein	
+contig_1	cds	1207778	1208374	+	GCF_964263245_01110	secC	(pseudo) Zinc chelation protein SecC	SO:0001217, UniRef:UniRef50_W0GR46, UniRef:UniRef90_UPI0030D16DDD
+contig_1	cds	1208390	1208737	+	GCF_964263245_01111		hypothetical protein	
+contig_1	cds	1208745	1208873	+	GCF_964263245_01112		hypothetical protein	
+contig_1	cds	1209388	1209999	+	GCF_964263245_01113		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0K2JGW2
+contig_1	cds	1210007	1210534	+	GCF_964263245_01114		DUF5673 domain-containing protein	SO:0001217, UniRef:UniRef50_W0GPM5
+contig_1	cds	1212054	1212251	+	GCF_964263245_01115		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0030D54338
+contig_1	cds	1212424	1212768	+	GCF_964263245_01116		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FA26, UniRef:UniRef50_A0A345DRJ1, UniRef:UniRef90_A0A2P6FA26
+contig_1	cds	1213140	1213286	+	GCF_964263245_01117		hypothetical protein	
+contig_1	cds	1214803	1214946	+	GCF_964263245_01118		hypothetical protein	SO:0001217, UniRef:UniRef50_W6AKF7
+contig_1	cds	1214958	1215737	+	GCF_964263245_01119		DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3S0R658
+contig_1	cds	1215753	1216022	+	GCF_964263245_01120		Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A432ZW41, UniRef:UniRef90_A0A2P6FG90
+contig_1	cds	1217161	1217385	+	GCF_964263245_01121		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FEI7, UniRef:UniRef50_UPI0030D4AE27, UniRef:UniRef90_A0A2P6FEI7
+contig_1	cds	1218303	1218557	+	GCF_964263245_01122		(pseudo) phage terminase large subunit	KEGG:K06909, SO:0001217, UniRef:UniRef50_A0A2P6F8H6, UniRef:UniRef90_UPI0032B2951B
+contig_1	cds	1218617	1218811	+	GCF_964263245_01123		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9M4, UniRef:UniRef90_A0A2P6F9M4
+contig_1	cds	1218986	1219096	+	GCF_964263245_01124		(pseudo) p58	SO:0001217, UniRef:UniRef50_A0A3S0UL75, UniRef:UniRef90_A0A0K2JEU4
+contig_1	cds	1219917	1220798	+	GCF_964263245_01125		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JFB2
+contig_1	cds	1221173	1221463	-	GCF_964263245_01126		DDE-type integrase/transposase/recombinase	SO:0001217, UniRef:UniRef50_A0AAJ4TWV0
+contig_1	cds	1222495	1223166	+	GCF_964263245_01127		Riboflavin transporter	SO:0001217, UniRef:UniRef50_R4UIH9
+contig_1	tRNA	1223265	1223341	+	GCF_964263245_01128	trnR	tRNA-Arg(tct)	SO:0001036
+contig_1	cds	1223470	1224228	+	GCF_964263245_01129		DUF3196 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0K2JIZ7
+contig_1	cds	1224347	1225666	+	GCF_964263245_01130	tig	trigger factor	EC:5.2.1.8, GO:0003755, GO:0005854, GO:0015031, GO:0051082, GO:0051083, SO:0001217, UniRef:UniRef50_R4U3J2, UniRef:UniRef90_UPI0030D0873D
+contig_1	cds	1225935	1228253	+	GCF_964263245_01131	lon	endopeptidase La	EC:3.4.21.53, GO:0004252, GO:0005524, GO:0006508, GO:0016887, SO:0001217, UniRef:UniRef50_Q6MTF4, UniRef:UniRef90_A0A0K2JIC4
+contig_1	cds	1228927	1229316	+	GCF_964263245_01132		hypothetical protein	
+contig_1	cds	1229490	1229843	+	GCF_964263245_01133		hypothetical protein	
+contig_1	cds	1229998	1230213	-	GCF_964263245_01134		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGS7, UniRef:UniRef50_A0AAJ4JZ56, UniRef:UniRef90_UPI0030CD96B0
+contig_1	cds	1230940	1231176	-	GCF_964263245_01135		hypothetical protein	
+contig_1	cds	1231829	1232194	+	GCF_964263245_01136		hypothetical protein	
+contig_1	cds	1235229	1235507	-	GCF_964263245_01137		(pseudo) type IV secretory system conjugative DNA transfer family protein	SO:0001217, UniRef:UniRef50_A0A3S0SZA1, UniRef:UniRef90_UPI002412B186
+contig_1	cds	1236582	1236791	-	GCF_964263245_01138		hypothetical protein	
+contig_1	cds	1236796	1236957	-	GCF_964263245_01139		hypothetical protein	SO:0001217, UniRef:UniRef50_A0AAJ4JXK4, UniRef:UniRef90_A0AAJ4JXK4
+contig_1	cds	1237152	1237475	-	GCF_964263245_01140		hypothetical protein	
+contig_1	cds	1238081	1238245	-	GCF_964263245_01141		hypothetical protein	
+contig_1	cds	1238378	1238611	-	GCF_964263245_01142		hypothetical protein	
+contig_1	cds	1238889	1239032	-	GCF_964263245_01143		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0013155011, UniRef:UniRef90_UPI0013155011
+contig_1	cds	1239756	1239992	-	GCF_964263245_01144		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FCK8
+contig_1	cds	1241599	1241763	+	GCF_964263245_01145		helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_UPI00313A9851, UniRef:UniRef90_UPI0030CC18A7
+contig_1	cds	1242189	1242551	+	GCF_964263245_01146		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_A0A1C6DEY3, UniRef:UniRef90_UPI0035C8F2AA
+contig_1	cds	1242888	1243061	+	GCF_964263245_01147		hypothetical protein	
+contig_1	cds	1243220	1244320	+	GCF_964263245_01148	yqeH	GTP-binding protein YqeH	SO:0001217, UniRef:UniRef50_R4UIN0
+contig_1	cds	1244581	1244736	+	GCF_964263245_01149		hypothetical protein	
+contig_1	cds	1245007	1245102	+	GCF_964263245_01150		hypothetical protein	
+contig_1	cds	1245304	1246254	-	GCF_964263245_01151		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1247616	1247771	+	GCF_964263245_01152		hypothetical protein	
+contig_1	cds	1248336	1248557	+	GCF_964263245_01153		hypothetical protein	
+contig_1	cds	1248573	1248770	+	GCF_964263245_01154		hypothetical protein	
+contig_1	cds	1249405	1249587	+	GCF_964263245_01155		(pseudo) terminase large subunit domain-containing protein	SO:0001217, UniRef:UniRef50_UPI0030D3CA11, UniRef:UniRef90_UPI0030D3CA11
+contig_1	cds	1250201	1250410	+	GCF_964263245_01156		hypothetical protein	
+contig_1	cds	1250638	1250955	+	GCF_964263245_01157		phage portal protein	SO:0001217, UniRef:UniRef50_UPI0013A0944A
+contig_1	cds	1251887	1252105	+	GCF_964263245_01158		hypothetical protein	
+contig_1	cds	1252535	1252669	+	GCF_964263245_01159		hypothetical protein	
+contig_1	cds	1252779	1253213	-	GCF_964263245_01160		Lipoprotein	SO:0001217, UniRef:UniRef50_W0GKW6
+contig_1	cds	1253780	1253932	-	GCF_964263245_01161		hypothetical protein	
+contig_1	cds	1254053	1254310	-	GCF_964263245_01162		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9B7
+contig_1	cds	1254496	1254921	-	GCF_964263245_01163		hypothetical protein	
+contig_1	cds	1254903	1255049	-	GCF_964263245_01164		hypothetical protein	
+contig_1	cds	1257376	1257501	-	GCF_964263245_01165		hypothetical protein	
+contig_1	cds	1259529	1259846	-	GCF_964263245_01166		phage portal protein	SO:0001217, UniRef:UniRef50_UPI0013A0944A
+contig_1	cds	1260008	1260286	-	GCF_964263245_01167	terL	terminase TerL endonuclease subunit	SO:0001217, UniRef:UniRef50_UPI0032B26739
+contig_1	cds	1260901	1261083	-	GCF_964263245_01168		(pseudo) terminase large subunit domain-containing protein	SO:0001217, UniRef:UniRef50_UPI0030D3CA11, UniRef:UniRef90_UPI0030D3CA11
+contig_1	cds	1261718	1261915	-	GCF_964263245_01169		hypothetical protein	
+contig_1	cds	1261931	1262152	-	GCF_964263245_01170		hypothetical protein	
+contig_1	cds	1262717	1262872	-	GCF_964263245_01171		hypothetical protein	
+contig_1	cds	1264234	1265184	+	GCF_964263245_01172		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1265452	1265607	-	GCF_964263245_01173		hypothetical protein	
+contig_1	cds	1266334	1266579	-	GCF_964263245_01174		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0T9B2
+contig_1	cds	1267425	1267574	+	GCF_964263245_01175		(pseudo) Hypothetical transmembrane protein	SO:0001217, UniRef:UniRef50_Q14Q80, UniRef:UniRef90_UPI0030D2AD40
+contig_1	cds	1270000	1270809	+	GCF_964263245_01176		RNA-binding S4 domain-containing protein	SO:0001217, UniRef:UniRef50_W0GQM0
+contig_1	cds	1270860	1271369	+	GCF_964263245_01177		Redoxin domain-containing protein	SO:0001217, UniRef:UniRef50_W0GKY7
+contig_1	cds	1271741	1271893	+	GCF_964263245_01178		hypothetical protein	
+contig_1	cds	1272268	1272489	-	GCF_964263245_01179		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FEI7, UniRef:UniRef50_UPI0030D4AE27, UniRef:UniRef90_A0A2P6FEI7
+contig_1	cds	1272532	1272948	-	GCF_964263245_01180		Transposase IS204/IS1001/IS1096/IS1165 DDE domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2S8NSN2
+contig_1	cds	1273163	1273315	-	GCF_964263245_01181		hypothetical protein	
+contig_1	cds	1273619	1274569	-	GCF_964263245_01182		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1274838	1275701	+	GCF_964263245_01183		bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase	SO:0001217, UniRef:UniRef50_Q14NV1, UniRef:UniRef90_UPI0030D22FD1
+contig_1	cds	1276254	1276508	+	GCF_964263245_01184		hypothetical protein	
+contig_1	cds	1276566	1276787	+	GCF_964263245_01185		hypothetical protein	
+contig_1	cds	1277836	1278102	+	GCF_964263245_01186		hypothetical protein	
+contig_1	cds	1278396	1278500	-	GCF_964263245_01187		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F8K4, UniRef:UniRef50_A0A2P6F920, UniRef:UniRef90_A0A2P6F8K4
+contig_1	cds	1279223	1279558	-	GCF_964263245_01188		hypothetical protein	
+contig_1	cds	1280724	1280855	+	GCF_964263245_01189		hypothetical protein	
+contig_1	cds	1281001	1282350	+	GCF_964263245_01190	mnmE	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	GO:0003924, GO:0005525, GO:0006400, SO:0001217, UniRef:UniRef50_R4U7H3, UniRef:UniRef90_UPI0030CBFC0E
+contig_1	cds	1282359	1283129	+	GCF_964263245_01191		putative deoxyribonuclease protein	SO:0001217, UniRef:UniRef50_Q14QJ7
+contig_1	cds	1283210	1284268	-	GCF_964263245_01192	mreB	Cell shape-determining protein MreB	COG:COG1077, COG:DZ, SO:0001217, UniRef:UniRef50_S5LXM4, UniRef:UniRef90_Q8VQG1
+contig_1	cds	1284324	1285367	-	GCF_964263245_01193	mreB	Cell shape-determining protein MreB	COG:COG1077, COG:DZ, SO:0001217, UniRef:UniRef50_S5LXM4, UniRef:UniRef90_A0A0K2JEW4
+contig_1	cds	1287938	1288147	-	GCF_964263245_01194		hypothetical protein	
+contig_1	cds	1288353	1289579	-	GCF_964263245_01195		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A345DNP3
+contig_1	cds	1289649	1291034	-	GCF_964263245_01196	dnaB	replicative DNA helicase	EC:5.6.2.3, GO:0003677, GO:0003678, GO:0005524, GO:0006260, KEGG:K02314, SO:0001217, UniRef:UniRef50_R4UKK7, UniRef:UniRef90_A0A0K2JFF0
+contig_1	cds	1291038	1291487	-	GCF_964263245_01197		Large ribosomal subunit protein bL9	SO:0001217, UniRef:UniRef50_A0A345DNP5
+contig_1	cds	1292778	1292999	+	GCF_964263245_01198		hypothetical protein	
+contig_1	cds	1293489	1293692	-	GCF_964263245_01199		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FEH3, UniRef:UniRef90_A0A2P6FEH3
+contig_1	cds	1295588	1295755	-	GCF_964263245_01200		hypothetical protein	
+contig_1	cds	1296026	1296238	-	GCF_964263245_01201		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313E637D, UniRef:UniRef90_UPI00313E637D
+contig_1	cds	1296216	1296638	-	GCF_964263245_01202		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0R6X2
+contig_1	cds	1296648	1297079	-	GCF_964263245_01203		Phage protein	SO:0001217, UniRef:UniRef50_A0A3S0T7H9
+contig_1	cds	1297307	1297489	-	GCF_964263245_01204		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGG6
+contig_1	cds	1298449	1298670	-	GCF_964263245_01205		hypothetical protein	
+contig_1	cds	1300379	1301437	+	GCF_964263245_01206		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JEZ4
+contig_1	tRNA	1301554	1301630	+	GCF_964263245_01207	trnI	tRNA-Ile(gat)	SO:0000263
+contig_1	tRNA	1301648	1301723	+	GCF_964263245_01208	trnA	tRNA-Ala(tgc)	SO:0000254
+contig_1	cds	1301839	1302162	+	GCF_964263245_01209		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI003283789B
+contig_1	cds	1302178	1302345	+	GCF_964263245_01210		hypothetical protein	
+contig_1	cds	1304389	1304580	-	GCF_964263245_01211		(pseudo) transposase	SO:0001217, UniRef:UniRef50_J8DD51, UniRef:UniRef90_UPI0030D26C5A
+contig_1	cds	1304769	1304939	-	GCF_964263245_01212		hypothetical protein	
+contig_1	cds	1305204	1305515	-	GCF_964263245_01213		Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A432ZW41, UniRef:UniRef90_A0A2P6FG90
+contig_1	cds	1305531	1305857	-	GCF_964263245_01214		hypothetical protein	
+contig_1	cds	1305870	1306001	-	GCF_964263245_01215		hypothetical protein	
+contig_1	cds	1306296	1306463	-	GCF_964263245_01216		(pseudo) Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0AAJ4EI96, UniRef:UniRef90_UPI0032B2D543
+contig_1	cds	1306476	1306991	-	GCF_964263245_01217		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DMC7
+contig_1	cds	1307119	1307349	-	GCF_964263245_01218		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0ZUP5, UniRef:UniRef90_UPI0030D62900
+contig_1	cds	1307555	1307905	+	GCF_964263245_01219		hypothetical protein	
+contig_1	cds	1308313	1308600	-	GCF_964263245_01220		hypothetical protein	
+contig_1	cds	1308560	1308817	-	GCF_964263245_01221		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A345DRJ1, UniRef:UniRef90_A0A345DRJ1
+contig_1	cds	1308798	1309010	-	GCF_964263245_01222		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00313E637D, UniRef:UniRef90_UPI00313E637D
+contig_1	cds	1308988	1309410	-	GCF_964263245_01223		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0R6X2
+contig_1	cds	1309642	1309848	-	GCF_964263245_01224		(pseudo) Phage protein	SO:0001217, UniRef:UniRef50_A0A3S0T7H9, UniRef:UniRef50_UPI0030CD8D6B, UniRef:UniRef90_A0A3S0TLD8
+contig_1	cds	1310766	1310909	-	GCF_964263245_01225		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F976
+contig_1	cds	1311215	1311373	+	GCF_964263245_01226		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI001F4D084E
+contig_1	cds	1311491	1311682	+	GCF_964263245_01227		hypothetical protein	
+contig_1	cds	1311963	1312346	+	GCF_964263245_01228		hypothetical protein	
+contig_1	cds	1312466	1312579	+	GCF_964263245_01229		hypothetical protein	
+contig_1	cds	1313538	1313744	-	GCF_964263245_01230		hypothetical protein	
+contig_1	cds	1314276	1314530	-	GCF_964263245_01231		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6F8J8, UniRef:UniRef90_A0A2P6F8J8
+contig_1	cds	1314709	1314879	-	GCF_964263245_01232		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9A5
+contig_1	cds	1315072	1315335	-	GCF_964263245_01233		hypothetical protein	
+contig_1	cds	1315304	1315462	-	GCF_964263245_01234		hypothetical protein	
+contig_1	cds	1315777	1315911	-	GCF_964263245_01235		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0013157E24, UniRef:UniRef50_UPI0013A07FCE, UniRef:UniRef90_UPI0032B174A2
+contig_1	cds	1316893	1317414	-	GCF_964263245_01236		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F9S6
+contig_1	cds	1318133	1318270	-	GCF_964263245_01237		hypothetical protein	
+contig_1	cds	1318701	1319045	-	GCF_964263245_01238		(pseudo) phage terminase large subunit	KEGG:K06909, SO:0001217, UniRef:UniRef50_A0A2P6F8H6, UniRef:UniRef90_UPI0032B2951B
+contig_1	cds	1319142	1319486	-	GCF_964263245_01239		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F8H5
+contig_1	cds	1319837	1319977	+	GCF_964263245_01240		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F925
+contig_1	cds	1320207	1320389	+	GCF_964263245_01241		Transposase	SO:0001217, UniRef:UniRef50_A0A2P6FDJ1
+contig_1	cds	1320951	1321151	+	GCF_964263245_01242		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FEI7, UniRef:UniRef90_A0A2P6FEI7
+contig_1	cds	1321731	1322057	+	GCF_964263245_01243		rhodanese-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0K2JI46, UniRef:UniRef90_UPI0030D4DD09
+contig_1	cds	1322303	1322536	-	GCF_964263245_01244		Transposase of IS30 family protein	SO:0001217, UniRef:UniRef50_A0A345DSH9
+contig_1	cds	1322639	1323283	-	GCF_964263245_01245		Transposase of is30 family n-terminal and c-terminal truncated protein	SO:0001217, UniRef:UniRef50_Q14L79
+contig_1	cds	1323350	1323523	+	GCF_964263245_01246		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JH17, UniRef:UniRef90_A0A3S0R669
+contig_1	cds	1323489	1324127	+	GCF_964263245_01247		(pseudo) Adhesin P123	SO:0001217, UniRef:UniRef50_A0A345DSI1, UniRef:UniRef90_A0AAJ4EJ18
+contig_1	cds	1324312	1325088	+	GCF_964263245_01248		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DRC2, UniRef:UniRef90_A0A345DLU2
+contig_1	cds	1325550	1325780	+	GCF_964263245_01249		hypothetical protein	
+contig_1	cds	1326824	1327342	+	GCF_964263245_01250		hypothetical protein	
+contig_1	cds	1327693	1328196	+	GCF_964263245_01251		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FEX0
+contig_1	cds	1328841	1329590	-	GCF_964263245_01252		hypothetical protein	
+contig_1	cds	1329687	1330673	-	GCF_964263245_01253		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A0K2JFQ5
+contig_1	cds	1330707	1331069	-	GCF_964263245_01254		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0R728, UniRef:UniRef90_A0A3S0R728
+contig_1	cds	1331116	1331562	-	GCF_964263245_01255		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A432ZV20, UniRef:UniRef90_UPI0030CEC291
+contig_1	cds	1331590	1331931	-	GCF_964263245_01256		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI0032B21665, UniRef:UniRef90_UPI0032B21665
+contig_1	cds	1331949	1332407	-	GCF_964263245_01257		DUF16 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3S0T7H9, UniRef:UniRef90_A0A2S8NRZ9
+contig_1	cds	1332419	1332817	-	GCF_964263245_01258		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_W0GQI2, UniRef:UniRef90_A0A0K2JJP0
+contig_1	cds	1332798	1333289	-	GCF_964263245_01259		Tc1-like transposase DDE domain-containing protein	SO:0001217, UniRef:UniRef50_W0GKL4
+contig_1	cds	1333244	1333528	-	GCF_964263245_01260		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8, UniRef:UniRef90_A0A2P6FFS2
+contig_1	cds	1334488	1335438	+	GCF_964263245_01261		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1335594	1335695	+	GCF_964263245_01262		hypothetical protein	
+contig_1	cds	1336430	1336747	+	GCF_964263245_01263		hypothetical protein	
+contig_1	cds	1336970	1337152	+	GCF_964263245_01264		hypothetical protein	
+contig_1	cds	1337862	1338335	-	GCF_964263245_01265		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A345DMI7
+contig_1	cds	1338632	1339582	+	GCF_964263245_01266		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1340190	1340309	-	GCF_964263245_01267		hypothetical protein	
+contig_1	cds	1340502	1340771	-	GCF_964263245_01268		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8
+contig_1	cds	1342532	1343515	-	GCF_964263245_01269		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_P15894, UniRef:UniRef90_UPI0030CC8A43
+contig_1	cds	1343809	1344207	+	GCF_964263245_01270		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGV9, UniRef:UniRef90_A0A3S0SLQ9
+contig_1	cds	1344200	1344571	+	GCF_964263245_01271		(pseudo) Phage terminase large subunit	KEGG:K06909, SO:0001217, UniRef:UniRef50_A0A3S0SY53, UniRef:UniRef50_A0A3S0TXU0, UniRef:UniRef90_A0A2P6FA17, UniRef:UniRef90_UPI001F4D2B37
+contig_1	cds	1344800	1345660	+	GCF_964263245_01272		PBSX family phage terminase large subunit	KEGG:K06909, SO:0001217, UniRef:UniRef50_A0A432ZUI0, UniRef:UniRef90_A0A3S0SKV3
+contig_1	cds	1345633	1345938	+	GCF_964263245_01273		Adhesin P12	SO:0001217, UniRef:UniRef50_A0A2P6F9F7, UniRef:UniRef90_A0A2P6F9F7
+contig_1	cds	1345931	1346752	+	GCF_964263245_01274		Adhesin P54	SO:0001217, UniRef:UniRef50_A0A2P6F9E0, UniRef:UniRef90_A0A2P6F9E0
+contig_1	cds	1346986	1347324	+	GCF_964263245_01275		Adhesin P54	SO:0001217, UniRef:UniRef50_A0A345DRW7, UniRef:UniRef90_A0A345DRW7
+contig_1	cds	1347352	1350555	+	GCF_964263245_01276		Adhesin P123	SO:0001217, UniRef:UniRef50_W0GR15
+contig_1	cds	1350577	1351134	-	GCF_964263245_01277		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A2P6FEX0
+contig_1	cds	1351177	1351590	-	GCF_964263245_01278		hypothetical protein	
+contig_1	cds	1351905	1352366	+	GCF_964263245_01279		P18	SO:0001217, UniRef:UniRef50_A0A2P6FFS4, UniRef:UniRef90_A0A2P6FFS4
+contig_1	cds	1352509	1353057	+	GCF_964263245_01280		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A432ZV93, UniRef:UniRef50_A0A432ZVD5, UniRef:UniRef90_A0A2P6F8T9, UniRef:UniRef90_UPI0030D2A8B1
+contig_1	cds	1353073	1353795	+	GCF_964263245_01281		PASTA domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3S0YN48
+contig_1	cds	1353802	1354719	+	GCF_964263245_01282		Spiroplasma plectrovirus-related protein	SO:0001217, UniRef:UniRef50_A0A345DQG0, UniRef:UniRef90_UPI0030CC2682
+contig_1	cds	1354709	1355731	+	GCF_964263245_01283		DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6F9G9
+contig_1	cds	1355747	1356397	+	GCF_964263245_01284		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A2P6FFU6, UniRef:UniRef90_A0A2P6FFU6
+contig_1	cds	1356533	1356826	+	GCF_964263245_01285	ytxH	YtxH domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6FA36
+contig_1	cds	1356852	1357031	-	GCF_964263245_01286		hypothetical protein	RefSeq:WP_338954394.1, SO:0001217, UniParc:UPI0030D02444, UniRef:UniRef100_UPI0030D02444, UniRef:UniRef50_A0A2P6FFW2, UniRef:UniRef90_UPI0030D2A146
+contig_1	cds	1357036	1357509	-	GCF_964263245_01287		Spiroplasma plectrovirus-related protein	RefSeq:WP_338955207.1, SO:0001217, UniParc:UPI0030CCC472, UniRef:UniRef100_UPI0030CCC472, UniRef:UniRef50_A0A345DLT5, UniRef:UniRef90_UPI0030CFFDF2
+contig_1	cds	1357494	1358360	-	GCF_964263245_01288	recT	recombinase RecT	KEGG:K07455, SO:0001217, UniRef:UniRef50_A0A0K2JFY0, UniRef:UniRef90_UPI0037DCEEC9
+contig_1	cds	1358363	1359154	-	GCF_964263245_01289		Phage protein	RefSeq:WP_338954774.1, SO:0001217, UniParc:UPI0030D0F22D, UniRef:UniRef100_UPI0030D0F22D, UniRef:UniRef50_A0AAI9T4X2, UniRef:UniRef90_UPI0030CEC3D5
+contig_1	cds	1359374	1359586	-	GCF_964263245_01290		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6FGE5, UniRef:UniRef90_UPI0030D1B4AB
+contig_1	cds	1359600	1359731	-	GCF_964263245_01291		Plectrovirus-related protein	SO:0001217, UniRef:UniRef50_Q14MU8
+contig_1	cds	1359731	1360015	-	GCF_964263245_01292		Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JGU8, UniRef:UniRef90_UPI0030D050A8
+contig_1	cds	1361962	1362132	+	GCF_964263245_01293		hypothetical protein	
+contig_1	cds	1362572	1362817	+	GCF_964263245_01294		(pseudo) dihydrofolate reductase	EC:1.5.1.3, KEGG:K00287, SO:0001217, UniRef:UniRef50_R4U3I3, UniRef:UniRef90_UPI0030D1C201
+contig_1	cds	1362825	1363616	+	GCF_964263245_01295		1-acyl-sn-glycerol-3-phosphate acyltransferase	SO:0001217, UniRef:UniRef50_R4U5T7
+contig_1	cds	1365011	1365220	-	GCF_964263245_01296		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0TU96, UniRef:UniRef90_A0A3S0TU96
+contig_1	cds	1365410	1365604	-	GCF_964263245_01297		hypothetical protein	
+contig_1	cds	1366891	1368486	-	GCF_964263245_01298		Multidrug transporter	SO:0001217, UniRef:UniRef50_W0GQ25
+contig_1	cds	1368615	1369595	-	GCF_964263245_01299		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_R4U3G9
+contig_1	cds	1369598	1371559	-	GCF_964263245_01300		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0AAI9T2V7
+contig_1	cds	1371695	1372981	-	GCF_964263245_01301		Helicase	SO:0001217, UniRef:UniRef50_W0GRD0
+contig_1	cds	1373787	1374737	+	GCF_964263245_01302		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1375316	1376119	-	GCF_964263245_01303		SDR family NAD(P)-dependent oxidoreductase	SO:0001217, UniRef:UniRef50_A0A2P6FD95, UniRef:UniRef90_UPI0030D36E54
+contig_1	cds	1376124	1376813	-	GCF_964263245_01304	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	EC:2.7.8.5, GO:0008444, GO:0008654, GO:0016020, KEGG:K00995, SO:0001217, UniRef:UniRef50_A0A1B3SLF3, UniRef:UniRef90_UPI0030D24CB8
+contig_1	cds	1377766	1377939	-	GCF_964263245_01305		hypothetical protein	
+contig_1	cds	1380157	1380459	+	GCF_964263245_01306		hypothetical protein	
+contig_1	cds	1380748	1380957	+	GCF_964263245_01307		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A3S0TU96, UniRef:UniRef90_A0A3S0TU96
+contig_1	cds	1382236	1382586	-	GCF_964263245_01308		hypothetical protein	
+contig_1	cds	1383018	1383272	-	GCF_964263245_01309		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6F8J8, UniRef:UniRef90_A0A2P6F8J8
+contig_1	cds	1384037	1384441	-	GCF_964263245_01310		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2P6F8H9, UniRef:UniRef90_UPI0020A1EEA3
+contig_1	cds	1384806	1384985	-	GCF_964263245_01311		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F8E1, UniRef:UniRef50_A0A2P6F9R9, UniRef:UniRef90_A0A2P6F8E1, UniRef:UniRef90_UPI00313F030A
+contig_1	cds	1386728	1386970	+	GCF_964263245_01312		hypothetical protein	
+contig_1	cds	1386892	1387293	-	GCF_964263245_01313		Transposase of is30 family c-terminal truncated protein	SO:0001217, UniRef:UniRef50_Q14KZ0
+contig_1	cds	1387760	1388122	+	GCF_964263245_01314		(pseudo) Adhesin P123	SO:0001217, UniRef:UniRef50_A0A345DSI1, UniRef:UniRef50_UPI001F4C89E0, UniRef:UniRef90_A0AAJ4EJ18
+contig_1	cds	1388331	1388642	+	GCF_964263245_01315		(pseudo) DUF3688 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3S0SJS9, UniRef:UniRef50_A0AAJ4JYQ5, UniRef:UniRef90_UPI0032B1E0EF
+contig_1	cds	1388866	1389816	-	GCF_964263245_01316		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI0030D2B8B1, UniRef:UniRef90_UPI00313E6C49
+contig_1	cds	1390556	1390756	+	GCF_964263245_01317		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_A0A0K2JES3, UniRef:UniRef90_A0A0K2JES3
+contig_1	cds	1390791	1391174	+	GCF_964263245_01318		hypothetical protein	
+contig_1	cds	1391680	1393266	-	GCF_964263245_01319	trkG	potassium transporter TrkG	SO:0001217, UniRef:UniRef50_W0GS18, UniRef:UniRef90_UPI0030CF062C
+contig_1	cds	1393369	1394070	+	GCF_964263245_01320	ktrA	Potassium uptake protein KtrA	SO:0001217, UniRef:UniRef50_W0GMF4, UniRef:UniRef90_A0A0K2JID1
+contig_1	cds	1395137	1395235	-	GCF_964263245_01321		hypothetical protein	
+contig_1	cds	1395363	1396805	-	GCF_964263245_01322		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	SO:0001217, UniRef:UniRef50_P61345
+contig_1	cds	1396798	1398273	-	GCF_964263245_01323		amidase family protein	SO:0001217, UniRef:UniRef50_Q14L39, UniRef:UniRef90_UPI0030D18201
+contig_1	cds	1398275	1398568	-	GCF_964263245_01324		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	SO:0001217, UniRef:UniRef50_A0A0H3XNA0
+contig_1	cds	1398570	1400573	-	GCF_964263245_01325	ligA	NAD-dependent DNA ligase LigA	EC:6.5.1.2, GO:0003677, GO:0003911, GO:0006260, GO:0006281, SO:0001217, UniRef:UniRef50_Q14L37, UniRef:UniRef90_UPI0030D40CF3
+contig_1	cds	1402169	1403902	-	GCF_964263245_01326		phosphoenolpyruvate--protein phosphotransferase	SO:0001217, UniRef:UniRef50_P45617, UniRef:UniRef90_UPI0030D33E46
+contig_1	cds	1404163	1404861	+	GCF_964263245_01327		IS30 family transposase	GO:0004803, SO:0001217, UniRef:UniRef50_UPI00313B1C06, UniRef:UniRef90_UPI00313B1C06
+contig_1	cds	1404898	1405113	+	GCF_964263245_01328		transposase	SO:0001217, UniRef:UniRef50_UPI0035C8E137, UniRef:UniRef90_UPI0035C8E137
+contig_1	cds	1406136	1406402	+	GCF_964263245_01329		hypothetical protein	
+contig_1	cds	1406922	1407233	+	GCF_964263245_01330		30S ribosomal protein S16	SO:0001217, UniRef:UniRef50_UPI00313B4A0C
+contig_1	cds	1408107	1408838	+	GCF_964263245_01331		tRNA (guanine-N(1)-)-methyltransferase	SO:0001217, UniRef:UniRef50_Q6XYU1
+contig_1	cds	1408870	1409226	+	GCF_964263245_01332	rplS	50S ribosomal protein L19	GO:0000311, GO:0003735, GO:0006412, GO:0022625, KEGG:K02884, SO:0001217, UniRef:UniRef50_Q044E2, UniRef:UniRef90_UPI0030D1784A
+contig_1	cds	1409601	1409759	-	GCF_964263245_01333		(pseudo) Spiroplasmavirus-related protein	SO:0001217, UniRef:UniRef50_Q14L73, UniRef:UniRef90_A0A0K2JI86
+contig_1	cds	1410331	1410432	-	GCF_964263245_01334		hypothetical protein	
+contig_1	cds	1410660	1410950	-	GCF_964263245_01335		hypothetical protein	
+contig_1	cds	1411240	1411383	-	GCF_964263245_01336		hypothetical protein	
+contig_1	cds	1411764	1412021	-	GCF_964263245_01337		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F8J9, UniRef:UniRef90_UPI0030D07132
+contig_1	cds	1412806	1413192	-	GCF_964263245_01338		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A2P6F8S6, UniRef:UniRef50_UPI00133179EF, UniRef:UniRef90_UPI00133179EF, UniRef:UniRef90_UPI00209D07C5
+contig_1	cds	1413544	1413759	-	GCF_964263245_01339		hypothetical protein	SO:0001217, UniRef:UniRef50_UPI00209E1B4F, UniRef:UniRef90_UPI00209E1B4F
+contig_1	cds	1414527	1414799	-	GCF_964263245_01340		(pseudo) hypothetical protein	SO:0001217, UniRef:UniRef50_A0A0K2JFZ9, UniRef:UniRef50_A0A2P6F9B7, UniRef:UniRef90_A0A0K2JFZ9
+contig_1	cds	1414985	1415530	-	GCF_964263245_01341		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A432ZVD5

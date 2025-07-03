@@ -1,0 +1,5 @@
+query	qlen	totqcov	uniq_doms	tot_doms	missing_doms	repeated_doms	max_repeated_doms	arch_size	arch	arch_types
+13.422	121	0.876	1	1	1	0	0	2	PF00416@CL0303:3-108,m:109-121	1
+13.430	90	0.878	1	1	1	0	0	2	m:1-8,PF01016:9-87	1
+13.436	91	0.967	1	1	0	0	0	1	PF00673:2-89	2
+13.88	191	0.869	2	2	1	0	1	3	m:1-21,PF03144@CL0575:22-91,PF03143:95-190	22

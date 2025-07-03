@@ -1,0 +1,16 @@
+Reading sequence file alignments/group_365.fas
+Allocating space for 157 taxa and 1374 sites
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 25.5%
+Found 806 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Using a window size of 200 with k as 117
+
+Calculating analytical mean and variance
+
+       p-Value(s)
+       ----------
+
+PHI (Normal):        9.99e-01
+

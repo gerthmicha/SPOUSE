@@ -1,0 +1,135 @@
+Reading sequence file alignments/group_400.fas
+Found 156 sequences of length 397
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 43.8%
+Found 165 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 84.6%100.0%
+
+Using a window size of  10 with k as 4
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        6.36e-01
+
+Reading sequence file alignments/group_400.fas
+Found 156 sequences of length 397
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 43.8%
+Found 165 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 84.6%100.0%
+
+Using a window size of  20 with k as 8
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        6.90e-01
+
+Reading sequence file alignments/group_400.fas
+Found 156 sequences of length 397
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 43.8%
+Found 165 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 84.6%100.0%
+
+Using a window size of  30 with k as 12
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        5.02e-01
+
+Reading sequence file alignments/group_400.fas
+Found 156 sequences of length 397
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 43.8%
+Found 165 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 84.6%100.0%
+
+Using a window size of  40 with k as 17
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.76e-01
+
+Reading sequence file alignments/group_400.fas
+Found 156 sequences of length 397
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 43.8%
+Found 165 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 84.6%100.0%
+
+Using a window size of  50 with k as 21
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        3.62e-02
+
+Reading sequence file alignments/group_400.fas
+Found 156 sequences of length 397
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 43.8%
+Found 165 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 84.6%100.0%
+
+Using a window size of 100 with k as 42
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.57e-02
+
+Reading sequence file alignments/group_400.fas
+Found 156 sequences of length 397
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 43.8%
+Found 165 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 84.6%100.0%
+
+Using a window size of 200 with k as 83
+Too few informative sites to use normal approximation.
+Try doing a permutation test or increasing alignment length
+Can also try decreasing windowsize.
+
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        --
+

@@ -1,0 +1,8 @@
+Module:	sonicparanoid.ortho_merger
+Pairs of species:	12720
+Graph-based ortholog tables directory:	/media/orange/spiroplasma_genomes/orthologs/orthologs_db
+Arch-based ortholog tables directory:	/media/orange/spiroplasma_genomes/orthologs/arch_orthology/arch_orthologs
+Species in master arch dictionary:	160
+Main output dir:	/media/orange/spiroplasma_genomes/orthologs/merged_tables
+Minimum coverage for arch orthologs:	0.75
+Threads:	32

@@ -1,0 +1,35 @@
+Date:	Tue Jul  1 08:58:12 2025
+SonicParanoid 2.0.8
+Run ID:	sp2-run-2025-07-01_08:58:10
+Input directory:	/media/orange/spiroplasma_genomes/proteomes
+Main output directory:	/media/orange/spiroplasma_genomes/orthologs
+Run directory:	/media/orange/spiroplasma_genomes/orthologs/runs/sp2-run-2025-07-01_08:58:10
+Input proteomes:	160
+Run mode:	default
+Alignment tool:	diamond
+Diamond sensitivity:	very-sensitive
+Threads:	32
+Minimum bitscore:	40
+Max length difference for in-paralogs:	0.75
+Ortholog tables-merging threshold:	0.75
+MCL inflation:	1.5
+Sequence DB directory:	/media/orange/spiroplasma_genomes/orthologs/seqs_dbs/
+Alignment directory:	/media/orange/spiroplasma_genomes/orthologs/alignments/
+Pairwise tables DB directory:	/media/orange/spiroplasma_genomes/orthologs/orthologs_db
+Directory with pairwise orthologs:	/media/orange/spiroplasma_genomes/orthologs/runs/sp2-run-2025-07-01_08:58:10/species_to_species_orthologs/
+Directory with ortholog groups:	/media/orange/spiroplasma_genomes/orthologs/runs/sp2-run-2025-07-01_08:58:10/ortholog_groups/
+Memory per threads (Gigabytes):	3.93
+Minimum memory per threads (Gigabytes):	1.0
+Perform only graph-based orthology:	False
+Update run:	True
+Create query database indexes:	False
+Complete alignments:	False
+Overwrite pair-wise ortholog tables:	True
+Complete overwrite:	False
+Skip creation of ortholog groups:	False
+Compress alignments:	True
+Compression level:	5
+SonicParanoid installation:	/media/orange/spiroplasma_genomes/.snakemake/conda/f718b61d0a5c382baf2213e379feb8fc_/lib/python3.12/site-packages/sonicparanoid
+Installation type:	conda
+Python version:	3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:38:13) [GCC 12.3.0]
+Python executables:	/media/orange/spiroplasma_genomes/.snakemake/conda/f718b61d0a5c382baf2213e379feb8fc_/bin/python

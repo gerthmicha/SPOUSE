@@ -1,0 +1,18 @@
+Module:	sonicparanoid.profile_search
+Run directory:	/media/orange/spiroplasma_genomes/orthologs/runs/sp2-run-2025-07-01_09:23:38
+Profile searches to be performed:	160
+PFamA profile DB:	/media/orange/spiroplasma_genomes/.snakemake/conda/f718b61d0a5c382baf2213e379feb8fc_/lib/python3.12/site-packages/sonicparanoid/pfam_files/profile_db/pfama.mmseqs
+Sequence DB directory:	/media/orange/spiroplasma_genomes/orthologs/seqs_dbs/
+Profile searches output dir:	/media/orange/spiroplasma_genomes/orthologs/arch_orthology/profile_search
+Architectures dir:	/media/orange/spiroplasma_genomes/orthologs/arch_orthology/architectures
+KMER value for Profile search:	5
+MMseqs sensitivity:	7.00
+Minimum bitscore:	30
+Shortest uncovered interregions (aa):	5
+Minimum target coverage (%):	0.75
+Missing bin size:	1
+Minimum query coverage for extracted archs (%):	0.70
+Skip arch extraction:	False
+Compress output:	False
+Compression level:	5
+Threads:	32

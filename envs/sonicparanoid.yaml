@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - sonicparanoid =2.0.8         
+  - mmseqs2 =13.45111
+  - diamond =2.1.9
+  - blast =2.15.0
+  - mcl =14.137
+

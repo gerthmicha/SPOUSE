@@ -1,0 +1,1123 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	2378	2539	+	GCA_022712555_00001		hypothetical protein	
+contig_2	cds	885	1151	+	GCA_022712555_00002	tnp	IS3 family ISKpn53 transposase ORF A	IS:ISKpn53, SO:0001217, UniParc:UPI0001CC7A3D, UniRef:UniRef100_D4GKR3, UniRef:UniRef50_A0A9P0UYV7, UniRef:UniRef90_A0A9P0UYV7
+contig_2	ncRNA	1150	1292	-	GCA_022712555_00003	isrN	isrN Hfq binding RNA	RFAM:RF01396, SO:0000655
+contig_2	cds	1448	1996	+	GCA_022712555_00004		IS3 family transposase	SO:0001217, UniRef:UniRef50_A0A6V7BNU7, UniRef:UniRef90_A0A659PXY3
+contig_2	cds	2007	2642	-	GCA_022712555_00005		hypothetical protein	PFAM:PF07081.18
+contig_2	cds	3176	3421	+	GCA_022712555_00006		hypothetical protein	
+contig_2	cds	3370	4089	+	GCA_022712555_00007		Methylated adenine and cytosine restriction protein	SO:0001217, UniRef:UniRef50_A0A376MRC7
+contig_2	cds	4052	4387	-	GCA_022712555_00008		hypothetical protein	
+contig_3	cds	1438	1767	+	GCA_022712555_00009		hypothetical protein	
+contig_3	cds	1777	1944	+	GCA_022712555_00010		hypothetical protein	
+contig_3	cds	1999	2118	+	GCA_022712555_00011		hypothetical protein	
+contig_3	cds	2115	3125	-	GCA_022712555_00012		hypothetical protein	PFAM:PF00096.32, PFAM:PF02892.21, PFAM:PF13894.12, PFAM:PF13912.12
+contig_4	cds	110	778	-	GCA_022712555_00013		hypothetical protein	PFAM:PF00753.33
+contig_4	cds	756	1388	-	GCA_022712555_00014		hypothetical protein	PFAM:PF00782.25
+contig_4	cds	1461	2378	-	GCA_022712555_00015		putative endonuclease 4	SO:0001217, UniRef:UniRef50_S5MEG0
+contig_4	cds	2410	3321	-	GCA_022712555_00016		hypothetical protein	PFAM:PF01687.23
+contig_4	cds	3375	3629	-	GCA_022712555_00017		hypothetical protein	
+contig_4	cds	3689	5476	-	GCA_022712555_00018		PTS EIIB type-1 domain-containing protein	SO:0001217, UniRef:UniRef50_W0GMK5
+contig_4	cds	5492	6172	-	GCA_022712555_00019		Putative N-acetylmannosamine-6-phosphate 2-epimerase	SO:0001217, UniRef:UniRef50_Q6MT55
+contig_5	cds	38	1522	-	GCA_022712555_00020		hypothetical protein	
+contig_5	cds	1606	3111	-	GCA_022712555_00021		hypothetical protein	
+contig_6	cds	137	910	+	GCA_022712555_00022		hypothetical protein	
+contig_6	cds	919	1833	+	GCA_022712555_00023		Pseudouridine synthase	SO:0001217, UniRef:UniRef50_S5LWZ5
+contig_6	cds	1843	3186	+	GCA_022712555_00024		hypothetical protein	
+contig_6	cds	3186	3674	+	GCA_022712555_00025		Deoxycytidylate deaminase	SO:0001217, UniRef:UniRef50_S5M2K0
+contig_6	cds	3742	4365	+	GCA_022712555_00026		hypothetical protein	PFAM:PF00075.30, PFAM:PF01693.22, PFAM:PF13456.12
+contig_7	cds	131	1120	-	GCA_022712555_00027		hypothetical protein	
+contig_7	cds	1140	2375	-	GCA_022712555_00028	yqeH	GTP-binding protein YqeH	SO:0001217, UniRef:UniRef50_W6A9R2
+contig_7	cds	2362	2913	-	GCA_022712555_00029		HAD family hydrolase	SO:0001217, UniRef:UniRef50_W0GLC5
+contig_8	cds	6	575	+	GCA_022712555_00030		hypothetical protein	
+contig_8	cds	597	2012	+	GCA_022712555_00031		hypothetical protein	
+contig_8	cds	2060	2935	+	GCA_022712555_00032		putative membrane transporter protein	SO:0001217, UniRef:UniRef50_A0A0H3XHM2
+contig_8	cds	2947	3255	+	GCA_022712555_00033		hypothetical protein	PFAM:PF00581.25
+contig_8	cds	3365	3994	+	GCA_022712555_00034		Uridine kinase	SO:0001217, UniRef:UniRef50_W0GLL4
+contig_8	ncRNA-region	4072	4251	+			Cobalamin riboswitch aptamer	RFAM:RF00174, SO:0000035
+contig_8	cds	4371	5390	+	GCA_022712555_00035		Ribonucleoside-diphosphate reductase subunit beta	SO:0001217, UniRef:UniRef50_P75461
+contig_8	cds	5392	5850	+	GCA_022712555_00036	nrdI	Protein NrdI	SO:0001217, UniRef:UniRef50_P47472
+contig_9	cds	23	337	+	GCA_022712555_00037		PTS system lactose-specific EIIA component	SO:0001217, UniRef:UniRef50_A0A0H3XLK0
+contig_9	cds	352	1137	+	GCA_022712555_00038		hypothetical protein	
+contig_9	cds	1160	1594	+	GCA_022712555_00039		hypothetical protein	
+contig_9	cds	1596	2099	+	GCA_022712555_00040		Ribose 5-phosphate isomerase B	SO:0001217, UniRef:UniRef50_A0A968GD63
+contig_9	tmRNA	2181	2589	+	GCA_022712555_00041	ssrA	transfer-messenger RNA, SsrA	SO:0000584
+contig_9	cds	2632	4617	+	GCA_022712555_00042		hypothetical protein	PFAM:PF00563.25
+contig_9	cds	4637	6097	+	GCA_022712555_00043	mgtE	Magnesium transporter MgtE	SO:0001217, UniRef:UniRef50_A0A0K1P4V8
+contig_9	cds	6112	6807	+	GCA_022712555_00044		tRNA (guanine-N(7)-)-methyltransferase	SO:0001217, UniRef:UniRef50_Q6MU75
+contig_10	cds	691	1266	+	GCA_022712555_00045		hypothetical protein	
+contig_10	cds	1504	2496	-	GCA_022712555_00046		hypothetical protein	PFAM:PF00630.25, PFAM:PF04151.21, PFAM:PF07495.19, PFAM:PF23616.1
+contig_11	cds	349	1113	+	GCA_022712555_00047		hypothetical protein	
+contig_11	cds	1122	2186	+	GCA_022712555_00048		hypothetical protein	
+contig_12	cds	22	912	-	GCA_022712555_00049		hypothetical protein	PFAM:PF21692.3, PFAM:PF21896.2
+contig_12	cds	879	2492	-	GCA_022712555_00050		hypothetical protein	PFAM:PF09141.16, PFAM:PF21692.3, PFAM:PF21865.2, PFAM:PF21896.2
+contig_13	cds	49	261	-	GCA_022712555_00051		hypothetical protein	
+contig_13	cds	255	2192	-	GCA_022712555_00052		hypothetical protein	
+contig_14	cds	38	1657	+	GCA_022712555_00053		hypothetical protein	
+contig_14	cds	1735	3423	+	GCA_022712555_00054		hypothetical protein	
+contig_14	cds	3531	4883	+	GCA_022712555_00055		Enolase	SO:0001217, UniRef:UniRef50_O32513
+contig_15	cds	21	2378	+	GCA_022712555_00056		hypothetical protein	
+contig_15	cds	2440	3201	+	GCA_022712555_00057		Protein phosphatase	SO:0001217, UniRef:UniRef50_A0A0L1IJC0
+contig_15	cds	3254	4315	+	GCA_022712555_00058		hypothetical protein	PFAM:PF00069.31, PFAM:PF07714.23
+contig_15	cds	4315	5199	+	GCA_022712555_00059	rsgA	Small ribosomal subunit biogenesis GTPase RsgA	SO:0001217, UniRef:UniRef50_S5M0K4
+contig_15	cds	5199	5870	+	GCA_022712555_00060		Ribulose-phosphate 3-epimerase	SO:0001217, UniRef:UniRef50_W6AB22
+contig_15	cds	5860	6474	+	GCA_022712555_00061		hypothetical protein	PFAM:PF04263.21, PFAM:PF04265.19
+contig_15	tRNA	6519	6603	-	GCA_022712555_00062	trnL	tRNA-Leu(caa)	SO:0000264
+contig_15	cds	6624	6824	-	GCA_022712555_00063		Large ribosomal subunit protein bL28	SO:0001217, UniRef:UniRef50_Q6MTC5
+contig_15	cds	6954	7274	+	GCA_022712555_00064		hypothetical protein	
+contig_15	cds	7363	9018	+	GCA_022712555_00065	dhaL	DhaL domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2K8SES8
+contig_15	cds	9138	9332	+	GCA_022712555_00066		Metallothionein	SO:0001217, UniRef:UniRef50_S5MF21
+contig_15	cds	9380	10372	+	GCA_022712555_00067		Phosphate acyltransferase	SO:0001217, UniRef:UniRef50_Q6F1N6
+contig_15	cds	10372	11094	+	GCA_022712555_00068		hypothetical protein	PFAM:PF00035.32
+contig_16	cds	659	829	+	GCA_022712555_00069		hypothetical protein	
+contig_16	cds	1308	1574	-	GCA_022712555_00070		hypothetical protein	
+contig_16	cds	1574	1996	-	GCA_022712555_00071		hypothetical protein	
+contig_16	cds	2177	3136	-	GCA_022712555_00072		L-lactate dehydrogenase	SO:0001217, UniRef:UniRef50_A0A858AR74
+contig_16	cds	3267	3974	-	GCA_022712555_00073		hypothetical protein	
+contig_17	cds	1341	1835	-	GCA_022712555_00074		hypothetical protein	
+contig_17	cds	2332	2676	+	GCA_022712555_00075		hypothetical protein	
+contig_18	cds	17	577	+	GCA_022712555_00076		hypothetical protein	
+contig_18	cds	884	1627	+	GCA_022712555_00077		hypothetical protein	
+contig_18	cds	1640	1987	+	GCA_022712555_00078		DUF1858 domain-containing protein	SO:0001217, UniRef:UniRef50_W6A792
+contig_19	cds	230	466	+	GCA_022712555_00079		hypothetical protein	
+contig_19	cds	545	1459	+	GCA_022712555_00080		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A747PN11
+contig_19	cds	2194	2445	+	GCA_022712555_00081	recX	Regulatory protein RecX	SO:0001217, UniRef:UniRef50_A0A8E7KD65
+contig_19	cds	2448	3476	+	GCA_022712555_00082		Terminase small subunit	SO:0001217, UniRef:UniRef50_D4E7F4
+contig_19	cds	3478	4812	+	GCA_022712555_00083		Phage terminase large subunit N-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_V9VR13
+contig_19	cds	4812	6335	+	GCA_022712555_00084		DUF1073 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3CMK1
+contig_19	cds	6388	7074	+	GCA_022712555_00085		Phage head morphogenesis protein	SO:0001217, UniRef:UniRef50_A0A379S3A7
+contig_19	cds	7038	8219	+	GCA_022712555_00086		Phage protein	SO:0001217, UniRef:UniRef50_A0A0J1LV05
+contig_19	cds	8223	8702	+	GCA_022712555_00087		DUF2190 domain-containing protein	SO:0001217, UniRef:UniRef50_W0HHC0
+contig_19	cds	8706	9740	+	GCA_022712555_00088		DUF2184 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3GPA4
+contig_19	cds	9743	10093	+	GCA_022712555_00089		Phage protein	SO:0001217, UniRef:UniRef50_A0A0J1PL24
+contig_19	cds	10098	10553	+	GCA_022712555_00090		DUF4054 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A447PEL6
+contig_19	cds	10553	11176	+	GCA_022712555_00091		HK97 gp10 family phage protein	SO:0001217, UniRef:UniRef50_A0A2U3F5D2
+contig_19	cds	11158	11538	+	GCA_022712555_00092		hypothetical protein	
+contig_19	cds	11529	12047	+	GCA_022712555_00093		Phage protein	SO:0001217, UniRef:UniRef50_W0HKV9
+contig_19	cds	12047	13525	+	GCA_022712555_00094		DUF3383 domain-containing protein	SO:0001217, UniRef:UniRef50_D4E7E1
+contig_19	cds	13527	13973	+	GCA_022712555_00095		Phage protein	SO:0001217, UniRef:UniRef50_W0HHB6
+contig_19	cds	13973	14377	+	GCA_022712555_00096		Phage protein	SO:0001217, UniRef:UniRef50_A0A0J1LV17
+contig_19	cds	14586	16463	+	GCA_022712555_00097		peptidoglycan lytic exotransglycosylase	SO:0001217, UniRef:UniRef50_A0A3S4EHP2
+contig_19	cds	16463	17206	+	GCA_022712555_00098		Phage protein	SO:0001217, UniRef:UniRef50_W0HLS6
+contig_19	cds	17206	17532	+	GCA_022712555_00099		Cyanophage baseplate Pam3 plug gp18 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0H3CMI9
+contig_19	cds	17508	18404	+	GCA_022712555_00100		Phage protein	SO:0001217, UniRef:UniRef50_A0A0F7LK59
+contig_19	cds	18358	18969	+	GCA_022712555_00101		hypothetical protein	
+contig_19	cds	18971	19552	+	GCA_022712555_00102		hypothetical protein	
+contig_20	cds	110	943	+	GCA_022712555_00103		hypothetical protein	PFAM:PF00098.28, PFAM:PF13696.11
+contig_20	cds	1051	3792	+	GCA_022712555_00104		hypothetical protein	PFAM:PF00078.32, PFAM:PF03372.29, PFAM:PF14529.12
+contig_21	cds	82	2820	-	GCA_022712555_00105		hypothetical protein	
+contig_22	cds	600	1082	-	GCA_022712555_00106		hypothetical protein	
+contig_22	cds	1332	1952	+	GCA_022712555_00107		hypothetical protein	
+contig_22	cds	1762	2493	-	GCA_022712555_00108		hypothetical protein	
+contig_23	cds	89	3832	+	GCA_022712555_00109		hypothetical protein	PFAM:PF00078.32
+contig_24	cds	2854	3447	-	GCA_022712555_00110		hypothetical protein	
+contig_25	cds	27	497	+	GCA_022712555_00111		PTS EIIB type-4 domain-containing protein	SO:0001217, UniRef:UniRef50_R3TM56
+contig_25	cds	514	1302	+	GCA_022712555_00112		PTS system mannose/fructose/sorbose-specific IIC component	SO:0001217, UniRef:UniRef50_S1QUE0
+contig_25	cds	1316	2131	+	GCA_022712555_00113		PTS system mannose/fructose/sorbose family transporter subunit IID	SO:0001217, UniRef:UniRef50_A0A1L8TZH3
+contig_25	cds	2188	3153	+	GCA_022712555_00114		Fructosamine deglycase	SO:0001217, UniRef:UniRef50_E0NHG2
+contig_26	cds	110	1699	-	GCA_022712555_00115		2,3-bisphosphoglycerate-independent phosphoglycerate mutase	SO:0001217, UniRef:UniRef50_Q6MSF0
+contig_26	cds	1701	2525	-	GCA_022712555_00116		hypothetical protein	PFAM:PF00702.32, PFAM:PF08282.18
+contig_26	cds	2518	2907	-	GCA_022712555_00117		hypothetical protein	PFAM:PF00121.24
+contig_27	cds	160	702	+	GCA_022712555_00118		hypothetical protein	
+contig_27	cds	2117	2329	-	GCA_022712555_00119		hypothetical protein	
+contig_27	cds	2452	3099	-	GCA_022712555_00120		hypothetical protein	
+contig_28	cds	62	625	+	GCA_022712555_00121		hypothetical protein	PFAM:PF00266.25
+contig_28	cds	635	1054	+	GCA_022712555_00122		hypothetical protein	
+contig_28	cds	1119	1463	+	GCA_022712555_00123		S1 motif domain-containing protein	SO:0001217, UniRef:UniRef50_A0A5B9Y595
+contig_28	cds	1509	2798	+	GCA_022712555_00124		Glucose-6-phosphate isomerase	SO:0001217, UniRef:UniRef50_A0A6I6CB73
+contig_28	cds	2871	3374	+	GCA_022712555_00125		hypothetical protein	PFAM:PF08761.16
+contig_28	cds	3386	4501	+	GCA_022712555_00126		hypothetical protein	
+contig_28	cds	4494	5249	+	GCA_022712555_00127		hypothetical protein	PFAM:PF22435.1
+contig_28	cds	5311	6540	+	GCA_022712555_00128		hypothetical protein	
+contig_29	tRNA	44	117	+	GCA_022712555_00129	trnG	tRNA-Gly(tcc)	SO:0000260
+contig_29	cds	177	830	+	GCA_022712555_00130		hypothetical protein	
+contig_29	cds	991	2271	+	GCA_022712555_00131		hypothetical protein	PFAM:PF00005.33
+contig_30	cds	38	1756	-	GCA_022712555_00132		hypothetical protein	
+contig_30	cds	1849	2901	-	GCA_022712555_00133		hypothetical protein	
+contig_30	cds	2915	3193	-	GCA_022712555_00134		hypothetical protein	
+contig_31	cds	869	1705	-	GCA_022712555_00135		hypothetical protein	
+contig_31	cds	1921	2160	+	GCA_022712555_00136		hypothetical protein	
+contig_32	cds	120	2723	+	GCA_022712555_00137		hypothetical protein	PFAM:PF00078.32
+contig_33	cds	546	707	-	GCA_022712555_00138		hypothetical protein	
+contig_33	cds	793	1821	-	GCA_022712555_00139		hypothetical protein	PFAM:PF00078.32
+contig_33	cds	2266	2373	-	GCA_022712555_00140		hypothetical protein	
+contig_33	cds	2342	2533	-	GCA_022712555_00141		hypothetical protein	
+contig_34	cds	13	1752	+	GCA_022712555_00142		hypothetical protein	
+contig_34	cds	1916	4618	+	GCA_022712555_00143		PTS system fructose-specific IIA component	SO:0001217, UniRef:UniRef50_R4U3N7
+contig_34	cds	4729	5280	+	GCA_022712555_00144		hypothetical protein	
+contig_35	cds	83	3307	-	GCA_022712555_00145		hypothetical protein	PFAM:PF13604.12, PFAM:PF14214.11, PFAM:PF21530.3
+contig_35	cds	3389	3877	-	GCA_022712555_00146		hypothetical protein	
+contig_37	cds	540	1016	+	GCA_022712555_00147		hypothetical protein	PFAM:PF00412.28
+contig_37	cds	1429	1833	-	GCA_022712555_00148		hypothetical protein	
+contig_37	cds	1894	2610	-	GCA_022712555_00149		hypothetical protein	
+contig_38	cds	92	1846	+	GCA_022712555_00150		hypothetical protein	
+contig_38	cds	1856	3064	+	GCA_022712555_00151		putative tRNA sulfurtransferase	SO:0001217, UniRef:UniRef50_Q6F0N1
+contig_39	cds	222	2108	-	GCA_022712555_00152		hypothetical protein	PFAM:PF13843.12
+contig_40	cds	28	297	-	GCA_022712555_00153		hypothetical protein	
+contig_40	cds	427	879	-	GCA_022712555_00154		hypothetical protein	
+contig_40	cds	988	1686	+	GCA_022712555_00155		Peptidase S24/S26A/S26B/S26C domain-containing protein	SO:0001217, UniRef:UniRef50_A0A198GIH2
+contig_40	cds	1690	1998	-	GCA_022712555_00156		hypothetical protein	
+contig_40	cds	2138	2635	-	GCA_022712555_00157		Inner membrane protein	SO:0001217, UniRef:UniRef50_A0A1B7HQC4
+contig_40	cds	2649	2861	-	GCA_022712555_00158		hypothetical protein	
+contig_40	cds	3034	3213	+	GCA_022712555_00159		hypothetical protein	
+contig_40	cds	3203	3427	+	GCA_022712555_00160		hypothetical protein	
+contig_40	cds	3388	3756	+	GCA_022712555_00161		hypothetical protein	SO:0001217, UniRef:UniRef50_A0AAP0ZDL8
+contig_40	cds	3731	5308	+	GCA_022712555_00162		hypothetical protein	
+contig_40	ncRNA	4660	4712	+	GCA_022712555_00163	c4-a1b1	a1, b1 targets of C4 antisense RNA	RFAM:RF03163, SO:0000644
+contig_40	ncRNA	4673	4747	+	GCA_022712555_00164	isrK	isrK Hfq binding RNA	RFAM:RF01394, SO:0000655
+contig_40	ncRNA	4774	4861	+	GCA_022712555_00165	C4	C4 antisense RNA	RFAM:RF01695, SO:0000644
+contig_40	cds	5259	5987	+	GCA_022712555_00166		Phage antirepressor protein	SO:0001217, UniRef:UniRef50_A0A6B9FX57
+contig_40	cds	5987	6214	+	GCA_022712555_00167		Phage protein	SO:0001217, UniRef:UniRef50_A0AAP5XYN3
+contig_40	cds	6202	6720	+	GCA_022712555_00168		hypothetical protein	
+contig_40	cds	6736	7023	+	GCA_022712555_00169		hypothetical protein	
+contig_40	cds	7378	7695	+	GCA_022712555_00170		hypothetical protein	
+contig_41	cds	44	631	-	GCA_022712555_00171		Hypoxanthine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A858AQ32
+contig_41	cds	641	1210	-	GCA_022712555_00172		Hypoxanthine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_S5MIX0
+contig_41	cds	1243	1665	-	GCA_022712555_00173	ruvX	Holliday junction resolvase RuvX	SO:0001217, UniRef:UniRef50_UPI00313D23B3
+contig_41	cds	1665	2552	-	GCA_022712555_00174		hypothetical protein	
+contig_41	cds	2619	3077	-	GCA_022712555_00175		FtsX-like permease family protein	SO:0001217, UniRef:UniRef50_UPI0004009C31
+contig_42	cds	644	3487	-	GCA_022712555_00176		UvrABC system protein A	SO:0001217, UniRef:UniRef50_V5RGW4
+contig_42	cds	3491	5104	-	GCA_022712555_00177		UvrABC system protein B	SO:0001217, UniRef:UniRef50_Q6MS38
+contig_43	cds	121	429	+	GCA_022712555_00178		Small ribosomal subunit protein uS10	SO:0001217, UniRef:UniRef50_Q2S3R5
+contig_43	cds	484	1191	+	GCA_022712555_00179		Large ribosomal subunit protein uL3	SO:0001217, UniRef:UniRef50_Q6F1Z4
+contig_43	cds	1207	1830	+	GCA_022712555_00180		Large ribosomal subunit protein uL4	SO:0001217, UniRef:UniRef50_P61065
+contig_43	cds	1830	2114	+	GCA_022712555_00181		Large ribosomal subunit protein uL23	SO:0001217, UniRef:UniRef50_Q6F1Z2
+contig_43	cds	2183	3022	+	GCA_022712555_00182		Large ribosomal subunit protein uL2	SO:0001217, UniRef:UniRef50_O66434
+contig_43	cds	3040	3303	+	GCA_022712555_00183		hypothetical protein	PFAM:PF00203.26
+contig_43	cds	3329	3664	+	GCA_022712555_00184	rplV	50S ribosomal protein L22	GO:0003735, GO:0006412, GO:0015934, KEGG:K02890, SO:0001217, UniRef:UniRef50_P10139, UniRef:UniRef90_W6A840
+contig_43	cds	3686	4384	+	GCA_022712555_00185		Small ribosomal subunit protein uS3	SO:0001217, UniRef:UniRef50_O31161
+contig_43	cds	4387	4800	+	GCA_022712555_00186	rplP	50S ribosomal protein L16	GO:0003735, GO:0006412, GO:0019843, KEGG:K02878, SO:0001217, UniRef:UniRef50_P02415, UniRef:UniRef90_V5RKW8
+contig_43	cds	4800	5792	+	GCA_022712555_00187		hypothetical protein	
+contig_43	cds	5795	6052	+	GCA_022712555_00188		Small ribosomal subunit protein uS17	SO:0001217, UniRef:UniRef50_V5RJM2
+contig_43	cds	6071	6439	+	GCA_022712555_00189	rplN	50S ribosomal protein L14	GO:0003735, GO:0006412, GO:0015934, KEGG:K02874, SO:0001217, UniRef:UniRef50_Q5SHP8, UniRef:UniRef90_S5LXD4
+contig_43	cds	6453	6767	+	GCA_022712555_00190		Large ribosomal subunit protein uL24	SO:0001217, UniRef:UniRef50_O31166
+contig_43	cds	6781	7338	+	GCA_022712555_00191		hypothetical protein	PFAM:PF00281.24, PFAM:PF00673.26
+contig_43	cds	7351	7536	+	GCA_022712555_00192		Small ribosomal subunit protein uS14B	SO:0001217, UniRef:UniRef50_Q6A6N9
+contig_43	cds	7556	7945	+	GCA_022712555_00193		Small ribosomal subunit protein uS8	SO:0001217, UniRef:UniRef50_Q72CG6
+contig_43	cds	7959	8501	+	GCA_022712555_00194		Large ribosomal subunit protein uL6	SO:0001217, UniRef:UniRef50_Q4A5D6
+contig_43	cds	8523	8873	+	GCA_022712555_00195		Large ribosomal subunit protein uL18	SO:0001217, UniRef:UniRef50_B0C1E8
+contig_43	cds	8893	9567	+	GCA_022712555_00196		Small ribosomal subunit protein uS5	SO:0001217, UniRef:UniRef50_S5M319
+contig_44	cds	747	1556	-	GCA_022712555_00197		hypothetical protein	PFAM:PF00078.32
+contig_45	cds	153	893	-	GCA_022712555_00198		hypothetical protein	
+contig_45	cds	954	1694	-	GCA_022712555_00199		hypothetical protein	
+contig_45	cds	1953	2507	-	GCA_022712555_00200		hypothetical protein	
+contig_45	cds	2550	2813	-	GCA_022712555_00201		Phosphocarrier protein HPr	SO:0001217, UniRef:UniRef50_A0A1H9FWZ8
+contig_46	cds	595	1959	-	GCA_022712555_00202		Leucyl aminopeptidase	SO:0001217, UniRef:UniRef50_R4UJY4
+contig_46	cds	1995	2600	-	GCA_022712555_00203		hypothetical protein	PFAM:PF01541.30
+contig_46	cds	2688	3875	-	GCA_022712555_00204		Elongation factor Tu	SO:0001217, UniRef:UniRef50_Q74JU6
+contig_46	cds	3975	5276	-	GCA_022712555_00205		hypothetical protein	PFAM:PF13304.12
+contig_47	cds	7	984	+	GCA_022712555_00206	recF	DNA replication/repair protein RecF	GO:0003697, GO:0005524, GO:0006260, GO:0006281, GO:0006310, GO:0009432, SO:0001217, UniRef:UniRef50_Q9CE70, UniRef:UniRef90_R2SL54
+contig_47	cds	936	2864	+	GCA_022712555_00207	gyrB	DNA topoisomerase (ATP-hydrolyzing) subunit B	COG:COG0187, COG:L, EC:5.6.2.2, GO:0003677, GO:0003918, GO:0005524, GO:0005694, GO:0005737, GO:0006261, GO:0006265, GO:0034335, GO:0046872, KEGG:K02470, SO:0001217, UniRef:UniRef50_Q839Z1, UniRef:UniRef90_Q839Z1
+contig_48	cds	433	2268	+	GCA_022712555_00208		hypothetical protein	PFAM:PF12017.13, PFAM:PF21787.3, PFAM:PF21788.2
+contig_48	cds	2256	3020	+	GCA_022712555_00209		hypothetical protein	
+contig_48	cds	3449	3997	-	GCA_022712555_00210		hypothetical protein	
+contig_49	cds	26	733	+	GCA_022712555_00211		Ribosomal RNA small subunit methyltransferase G	SO:0001217, UniRef:UniRef50_A0A0M3SJK2
+contig_49	cds	768	1538	+	GCA_022712555_00212	parA	ParA family protein	SO:0001217, UniRef:UniRef50_A0A2P6FB54
+contig_49	cds	1528	2415	+	GCA_022712555_00213		Site-specific DNA-binding protein	SO:0001217, UniRef:UniRef50_W6A895
+contig_49	cds	2419	3516	+	GCA_022712555_00214	ychF	Ribosome-binding ATPase YchF	SO:0001217, UniRef:UniRef50_B8I747
+contig_50	cds	15	902	+	GCA_022712555_00215		hypothetical protein	PFAM:PF14529.12
+contig_50	cds	923	1435	+	GCA_022712555_00216		hypothetical protein	
+contig_51	cds	2424	2660	-	GCA_022712555_00217		hypothetical protein	
+contig_52	cds	1525	2643	-	GCA_022712555_00218		hypothetical protein	
+contig_53	cds	545	1258	-	GCA_022712555_00219		Uridylate kinase	SO:0001217, UniRef:UniRef50_Q6F0Q9
+contig_53	cds	1348	2136	-	GCA_022712555_00220	ydfG	NADP-dependent 3-hydroxy acid dehydrogenase YdfG	SO:0001217, UniRef:UniRef50_A0A2P6FD95
+contig_53	cds	2123	2797	-	GCA_022712555_00221		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	SO:0001217, UniRef:UniRef50_A0A1B3SLF3
+contig_53	cds	2894	3658	-	GCA_022712555_00222		hypothetical protein	
+contig_53	cds	3663	4544	-	GCA_022712555_00223		Elongation factor Ts	SO:0001217, UniRef:UniRef50_Q6F0Q5
+contig_53	cds	4566	5381	-	GCA_022712555_00224		Small ribosomal subunit protein uS2	SO:0001217, UniRef:UniRef50_Q6F0Q4
+contig_53	cds	5641	5835	-	GCA_022712555_00225		hypothetical protein	
+contig_53	cds	5896	6177	-	GCA_022712555_00226		hypothetical protein	
+contig_53	cds	6360	6488	-	GCA_022712555_00227		hypothetical protein	
+contig_53	cds	6503	6982	-	GCA_022712555_00228		hypothetical protein	
+contig_53	cds	7139	8491	-	GCA_022712555_00229	pepV	Dipeptidase PepV	SO:0001217, UniRef:UniRef50_W6A6J8
+contig_53	cds	8514	9599	-	GCA_022712555_00230		hypothetical protein	
+contig_53	cds	9602	10480	-	GCA_022712555_00231		hypothetical protein	PFAM:PF00226.36
+contig_53	cds	10556	10849	-	GCA_022712555_00232	rpmA	50S ribosomal protein L27	GO:0000315, GO:0003735, GO:0006412, GO:0022625, KEGG:K02899, SO:0001217, UniRef:UniRef50_Q8EPP8, UniRef:UniRef90_W6A6W9
+contig_53	cds	10851	11156	-	GCA_022712555_00233		Ribosomal processing cysteine protease Prp	SO:0001217, UniRef:UniRef50_A0A0L1IHX8
+contig_53	cds	11159	11629	-	GCA_022712555_00234		hypothetical protein	
+contig_53	ncRNA-region	11637	11714	-			Ribosomal protein L21 leader	RFAM:RF00559, SO:0000140
+contig_54	cds	105	1148	-	GCA_022712555_00235	mreB	Cell shape-determining protein MreB	SO:0001217, UniRef:UniRef50_S5M123, UniRef:UniRef90_A0A1B3SMF0
+contig_54	cds	1243	1788	+	GCA_022712555_00236		Ribonuclease M5	SO:0001217, UniRef:UniRef50_P43041
+contig_55	cds	78	380	+	GCA_022712555_00237		hypothetical protein	
+contig_55	cds	724	1197	+	GCA_022712555_00238		hypothetical protein	
+contig_55	cds	1164	1331	+	GCA_022712555_00239		hypothetical protein	
+contig_55	cds	1279	1920	+	GCA_022712555_00240		hypothetical protein	
+contig_55	cds	2878	4443	+	GCA_022712555_00241		hypothetical protein	
+contig_56	cds	295	2316	-	GCA_022712555_00242		PTS system lactose-specific EIICB component	SO:0001217, UniRef:UniRef50_A0A2K8NUU0
+contig_56	cds	2461	3306	-	GCA_022712555_00243		hypothetical protein	
+contig_56	cds	3318	3764	-	GCA_022712555_00244		hypothetical protein	PFAM:PF00455.28
+contig_57	cds	378	956	-	GCA_022712555_00245		hypothetical protein	
+contig_57	cds	1577	2284	-	GCA_022712555_00246		hypothetical protein	
+contig_57	cds	2608	2838	+	GCA_022712555_00247		hypothetical protein	
+contig_58	cds	354	704	-	GCA_022712555_00248		hypothetical protein	PFAM:PF00169.35
+contig_58	cds	1591	3102	-	GCA_022712555_00249		hypothetical protein	
+contig_59	cds	338	1039	+	GCA_022712555_00250	deoR	DeoR family transcriptional regulator, fructose operon transcriptional repressor	SO:0001217, UniRef:UniRef50_A0A345Z438
+contig_59	cds	1041	1979	+	GCA_022712555_00251		1-phosphofructokinase	SO:0001217, UniRef:UniRef50_A0A2K9CDL4
+contig_60	cds	1763	2320	-	GCA_022712555_00252		hypothetical protein	
+contig_61	cds	1097	1297	-	GCA_022712555_00253		hypothetical protein	
+contig_61	cds	1829	2362	+	GCA_022712555_00254		hypothetical protein	
+contig_63	cds	1423	1983	-	GCA_022712555_00255		hypothetical protein	
+contig_64	cds	448	1011	-	GCA_022712555_00256		hypothetical protein	
+contig_64	cds	2136	2381	+	GCA_022712555_00257		hypothetical protein	
+contig_64	cds	2425	2865	-	GCA_022712555_00258		hypothetical protein	PFAM:PF03456.24
+contig_65	cds	843	2180	+	GCA_022712555_00259		hypothetical protein	
+contig_65	cds	2209	3750	+	GCA_022712555_00260	xylG	Xylose import ATP-binding protein XylG	SO:0001217, UniRef:UniRef50_A0A2P6FG06
+contig_65	cds	3750	5849	+	GCA_022712555_00261		hypothetical protein	
+contig_65	cds	5836	6747	+	GCA_022712555_00262		General nucleoside transport system permease protein	SO:0001217, UniRef:UniRef50_A0A858AS66
+contig_65	cds	6818	7522	+	GCA_022712555_00263		Uridine phosphorylase	SO:0001217, UniRef:UniRef50_S5MIP4
+contig_65	cds	7522	8484	+	GCA_022712555_00264		tRNA N6-adenosine threonylcarbamoyltransferase	SO:0001217, UniRef:UniRef50_Q2SR45
+contig_65	cds	8569	9351	+	GCA_022712555_00265		HTH rpiR-type domain-containing protein	SO:0001217, UniRef:UniRef50_Q6F0Y2
+contig_65	cds	9473	10390	+	GCA_022712555_00266		Phosphohexomutase	SO:0001217, UniRef:UniRef50_A0A2K8NQZ6
+contig_65	cds	10375	11499	+	GCA_022712555_00267		hypothetical protein	PFAM:PF00326.27, PFAM:PF00561.26, PFAM:PF12146.15, PFAM:PF12697.13
+contig_65	cds	11583	12416	+	GCA_022712555_00268		hypothetical protein	PFAM:PF00702.32, PFAM:PF08282.18
+contig_66	cds	52	1650	+	GCA_022712555_00269		hypothetical protein	PFAM:PF00324.27
+contig_66	cds	1652	2794	+	GCA_022712555_00270		S-adenosylmethionine synthase	SO:0001217, UniRef:UniRef50_Q6F1M6
+contig_66	cds	2794	3462	+	GCA_022712555_00271		Copper homeostasis cutC-like protein	SO:0001217, UniRef:UniRef50_S5MF10
+contig_66	cds	3495	4835	+	GCA_022712555_00272		Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO	SO:0001217, UniRef:UniRef50_S5M2Q6
+contig_66	cds	5148	5921	-	GCA_022712555_00273		hypothetical protein	
+contig_67	cds	101	868	+	GCA_022712555_00274		Segregation and condensation protein A	SO:0001217, UniRef:UniRef50_S5MDZ0
+contig_67	cds	855	1412	+	GCA_022712555_00275		Segregation and condensation protein B	SO:0001217, UniRef:UniRef50_S5LVT0
+contig_67	cds	1405	2145	+	GCA_022712555_00276		Ribosomal large subunit pseudouridine synthase B	SO:0001217, UniRef:UniRef50_Q6MTL6
+contig_67	cds	2161	2778	+	GCA_022712555_00277		Deoxyadenosine/deoxycytidine kinase	SO:0001217, UniRef:UniRef50_A0AAQ3DQ37
+contig_67	cds	2815	3531	+	GCA_022712555_00278		putative transcriptional regulatory protein SCULI_v1c03080	SO:0001217, UniRef:UniRef50_W6AG15
+contig_67	cds	3606	4385	+	GCA_022712555_00279		hypothetical protein	
+contig_67	cds	4411	4968	-	GCA_022712555_00280		Inorganic pyrophosphatase	SO:0001217, UniRef:UniRef50_Q6F0S1
+contig_67	cds	5055	5738	+	GCA_022712555_00281		hypothetical protein	
+contig_67	cds	5752	6549	+	GCA_022712555_00282		hypothetical protein	
+contig_67	cds	6591	7994	+	GCA_022712555_00283		hypothetical protein	
+contig_67	cds	8070	8747	+	GCA_022712555_00284		hypothetical protein	
+contig_67	cds	8756	9412	+	GCA_022712555_00285		Cytidylate kinase	SO:0001217, UniRef:UniRef50_S5M1L7
+contig_68	cds	121	867	-	GCA_022712555_00286		hypothetical protein	
+contig_68	cds	869	1174	-	GCA_022712555_00287		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A4P7AJ30
+contig_68	cds	1283	2965	-	GCA_022712555_00288		Phosphoglucomutase or phosphomannomutase	SO:0001217, UniRef:UniRef50_Q6MSE6
+contig_68	cds	2967	3590	-	GCA_022712555_00289		Ribonuclease HII	SO:0001217, UniRef:UniRef50_Q6MTH8
+contig_68	cds	3584	4543	-	GCA_022712555_00290		Ribosome biogenesis GTPase A	SO:0001217, UniRef:UniRef50_S5LZF5
+contig_68	cds	4601	5065	-	GCA_022712555_00291		Ribosomal RNA large subunit methyltransferase H	SO:0001217, UniRef:UniRef50_A0A2K8NXG0
+contig_69	cds	1200	2636	-	GCA_022712555_00292		hypothetical protein	PFAM:PF00665.32, PFAM:PF17921.7
+contig_70	cds	131	724	+	GCA_022712555_00293		hypothetical protein	PFAM:PF12947.13, PFAM:PF21164.2
+contig_70	cds	1638	2546	+	GCA_022712555_00294		hypothetical protein	PFAM:PF12947.13, PFAM:PF21164.2
+contig_70	cds	2672	3346	+	GCA_022712555_00295		hypothetical protein	PFAM:PF12947.13, PFAM:PF21164.2
+contig_70	cds	4143	4709	-	GCA_022712555_00296		hypothetical protein	
+contig_70	cds	5456	5665	-	GCA_022712555_00297		hypothetical protein	
+contig_70	cds	7121	7870	-	GCA_022712555_00298		hypothetical protein	
+contig_70	cds	7909	8883	+	GCA_022712555_00299		hypothetical protein	PFAM:PF12947.13, PFAM:PF21164.2
+contig_71	cds	106	471	-	GCA_022712555_00300	rplL	50S ribosomal protein L7/L12	GO:0003735, GO:0005840, GO:0006412, SO:0001217, UniRef:UniRef50_Q6F0L4, UniRef:UniRef90_A0A1Y0KYY7
+contig_71	cds	539	1036	-	GCA_022712555_00301		Large ribosomal subunit protein uL10	SO:0001217, UniRef:UniRef50_Q6F0L3
+contig_71	ncRNA-region	1046	1201	-			Ribosomal protein L10 leader	RFAM:RF00557, SO:0000140
+contig_71	cds	1240	2028	-	GCA_022712555_00302		HAD-superfamily hydrolase	SO:0001217, UniRef:UniRef50_S5MDE6
+contig_71	cds	2105	2791	-	GCA_022712555_00303		Large ribosomal subunit protein uL1	SO:0001217, UniRef:UniRef50_Q6F0K8
+contig_71	cds	2794	3222	-	GCA_022712555_00304	rplK	50S ribosomal protein L11	GO:0003735, GO:0005840, GO:0006412, KEGG:K02867, SO:0001217, UniRef:UniRef50_P47327, UniRef:UniRef90_A0A5B9Y3I5
+contig_71	cds	3371	3874	-	GCA_022712555_00305		Peptidyl-prolyl cis-trans isomerase	SO:0001217, UniRef:UniRef50_A0A0M4JRT2
+contig_71	cds	3888	4493	-	GCA_022712555_00306	nusG	Transcription termination/antitermination protein NusG	SO:0001217, UniRef:UniRef50_A0A2K8NS67
+contig_71	cds	4505	4942	-	GCA_022712555_00307		hypothetical protein	
+contig_71	cds	4948	5106	-	GCA_022712555_00308		Large ribosomal subunit protein bL33A	SO:0001217, UniRef:UniRef50_Q2FYU6
+contig_71	cds	5199	5867	-	GCA_022712555_00309		hypothetical protein	
+contig_71	cds	5881	6582	-	GCA_022712555_00310		23S rRNA (Guanosine2251-2'-O)-methyltransferase	SO:0001217, UniRef:UniRef50_A0A1B3SJ79
+contig_71	cds	6601	7932	-	GCA_022712555_00311		Cysteine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q6F230
+contig_72	cds	1000	1698	-	GCA_022712555_00312		hypothetical protein	PFAM:PF08325.16
+contig_72	cds	1698	2636	-	GCA_022712555_00313		hypothetical protein	
+contig_72	cds	2638	3444	-	GCA_022712555_00314		hypothetical protein	
+contig_72	cds	3480	5282	-	GCA_022712555_00315		hypothetical protein	PFAM:PF00009.33, PFAM:PF00679.30, PFAM:PF03144.31, PFAM:PF10662.15
+contig_74	cds	98	1780	+	GCA_022712555_00316		hypothetical protein	
+contig_74	cds	1875	2768	+	GCA_022712555_00317		Fructose-bisphosphate aldolase	SO:0001217, UniRef:UniRef50_P75089
+contig_75	cds	1010	1189	-	GCA_022712555_00318		hypothetical protein	
+contig_75	cds	2733	2915	+	GCA_022712555_00319		hypothetical protein	
+contig_76	cds	530	1075	-	GCA_022712555_00320		hypothetical protein	
+contig_76	cds	1066	1998	-	GCA_022712555_00321		hypothetical protein	
+contig_76	cds	1988	2584	-	GCA_022712555_00322		hypothetical protein	
+contig_76	cds	2711	3466	-	GCA_022712555_00323		hypothetical protein	
+contig_76	cds	3484	3777	-	GCA_022712555_00324		hypothetical protein	
+contig_76	cds	3913	4341	-	GCA_022712555_00325		hypothetical protein	
+contig_77	cds	315	677	+	GCA_022712555_00326		hypothetical protein	
+contig_77	cds	1116	1385	+	GCA_022712555_00327		hypothetical protein	
+contig_77	cds	2062	2370	+	GCA_022712555_00328		hypothetical protein	
+contig_77	cds	2677	2877	+	GCA_022712555_00329		hypothetical protein	
+contig_78	cds	1763	3154	-	GCA_022712555_00330		hypothetical protein	PFAM:PF03372.29, PFAM:PF14529.12
+contig_78	cds	3547	3834	-	GCA_022712555_00331		hypothetical protein	
+contig_79	cds	70	2442	+	GCA_022712555_00332		hypothetical protein	
+contig_80	cds	861	2354	+	GCA_022712555_00333		hypothetical protein	
+contig_81	cds	75	554	+	GCA_022712555_00334		hypothetical protein	
+contig_81	cds	523	1509	+	GCA_022712555_00335		hypothetical protein	
+contig_81	cds	1499	1900	+	GCA_022712555_00336		hypothetical protein	
+contig_81	cds	1890	2309	+	GCA_022712555_00337		hypothetical protein	
+contig_81	cds	2453	2752	+	GCA_022712555_00338		hypothetical protein	
+contig_81	cds	2728	3048	+	GCA_022712555_00339		hypothetical protein	
+contig_82	cds	194	736	+	GCA_022712555_00340		hypothetical protein	
+contig_82	cds	726	893	+	GCA_022712555_00341		hypothetical protein	
+contig_82	cds	1177	2091	+	GCA_022712555_00342		hypothetical protein	
+contig_82	cds	2555	2890	+	GCA_022712555_00343		hypothetical protein	
+contig_83	cds	68	409	-	GCA_022712555_00344	pgmB	(pseudo) beta-phosphoglucomutase	EC:5.4.2.6, GO:0000287, GO:0005975, GO:0008801, SO:0001217, UniRef:UniRef50_Q82ZA8, UniRef:UniRef90_A0A200J0P1
+contig_83	cds	434	772	-	GCA_022712555_00345		HAD hydrolase-like protein	SO:0001217, UniRef:UniRef50_UPI00249517AD
+contig_83	cds	792	3494	-	GCA_022712555_00346		Glycosyl hydrolase	SO:0001217, UniRef:UniRef50_C9A8W2
+contig_83	cds	3694	4407	+	GCA_022712555_00347		Trehalose operon repressor	SO:0001217, UniRef:UniRef50_A0A0B8RFR3
+contig_83	cds	4462	4896	+	GCA_022712555_00348		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_R2QGS2
+contig_84	cds	561	791	+	GCA_022712555_00349		hypothetical protein	
+contig_84	cds	971	1615	-	GCA_022712555_00350		Uracil-DNA glycosylase	SO:0001217, UniRef:UniRef50_Q6F1M3
+contig_84	cds	1619	2155	-	GCA_022712555_00351		hypothetical protein	
+contig_84	cds	2209	2667	-	GCA_022712555_00352		hypothetical protein	
+contig_84	cds	2727	3788	-	GCA_022712555_00353		hypothetical protein	
+contig_84	cds	3819	5168	-	GCA_022712555_00354		Replicative DNA helicase	SO:0001217, UniRef:UniRef50_S5LVB6
+contig_84	cds	5168	5590	-	GCA_022712555_00355		Large ribosomal subunit protein bL9	SO:0001217, UniRef:UniRef50_S5MDD5
+contig_85	cds	680	2809	-	GCA_022712555_00356		Phosphate ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A345Z409
+contig_85	cds	2814	3890	-	GCA_022712555_00357		hypothetical protein	
+contig_85	cds	3911	6469	-	GCA_022712555_00358		Chromosome partition protein Smc	SO:0001217, UniRef:UniRef50_S5MK79
+contig_86	cds	156	3212	+	GCA_022712555_00359		hypothetical protein	PFAM:PF00078.32, PFAM:PF00665.32, PFAM:PF17917.7, PFAM:PF17919.7, PFAM:PF17921.7, PFAM:PF24626.1
+contig_87	cds	141	578	-	GCA_022712555_00360		hypothetical protein	
+contig_87	cds	1531	1989	-	GCA_022712555_00361		hypothetical protein	
+contig_88	cds	107	661	+	GCA_022712555_00362		hypothetical protein	PFAM:PF00076.28
+contig_88	cds	624	1094	+	GCA_022712555_00363		hypothetical protein	PFAM:PF00076.28
+contig_88	cds	1601	2686	+	GCA_022712555_00364		hypothetical protein	PFAM:PF00076.28, PFAM:PF00658.24
+contig_89	cds	283	681	-	GCA_022712555_00365		hypothetical protein	
+contig_89	cds	705	1187	-	GCA_022712555_00366		hypothetical protein	
+contig_89	cds	1636	2169	-	GCA_022712555_00367		hypothetical protein	
+contig_91	cds	38	691	+	GCA_022712555_00368		hypothetical protein	
+contig_91	cds	699	1685	-	GCA_022712555_00369		Spermidine/putrescine ABC transporter permease component	SO:0001217, UniRef:UniRef50_Q6MU18
+contig_91	cds	1687	2745	-	GCA_022712555_00370	potA	Spermidine/putrescine import ATP-binding protein PotA	SO:0001217, UniRef:UniRef50_Q6F0V4
+contig_92	cds	89	826	+	GCA_022712555_00371		hypothetical protein	
+contig_92	cds	2364	2768	+	GCA_022712555_00372		hypothetical protein	
+contig_93	cds	1260	1778	+	GCA_022712555_00373		hypothetical protein	
+contig_93	cds	1751	2263	+	GCA_022712555_00374		hypothetical protein	
+contig_94	cds	18	725	+	GCA_022712555_00375		hypothetical protein	
+contig_95	cds	114	2639	-	GCA_022712555_00376		hypothetical protein	
+contig_95	cds	2665	3381	-	GCA_022712555_00377		hypothetical protein	
+contig_96	cds	105	1523	-	GCA_022712555_00378		Proline--tRNA ligase	SO:0001217, UniRef:UniRef50_Q2SSG0
+contig_96	cds	1535	2107	-	GCA_022712555_00379		Acetyltransferase	SO:0001217, UniRef:UniRef50_V5RH80
+contig_96	tRNA	2184	2274	-	GCA_022712555_00380	trnS	tRNA-Ser(gct)	SO:0000269
+contig_96	cds	2316	2885	-	GCA_022712555_00381		hypothetical protein	
+contig_96	cds	2885	3289	-	GCA_022712555_00382	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	SO:0001217, UniRef:UniRef50_A0A222EQB1
+contig_96	cds	3339	6551	-	GCA_022712555_00383		hypothetical protein	PFAM:PF02687.27
+contig_97	cds	8	787	+	GCA_022712555_00384		Anthranilate synthase component 1	SO:0001217, UniRef:UniRef50_F3UQR0
+contig_97	cds	730	1407	+	GCA_022712555_00385		Aminodeoxychorismate/anthranilate synthase component 2	SO:0001217, UniRef:UniRef50_A0A2Z5C0G7
+contig_97	cds	1382	2320	+	GCA_022712555_00386		Anthranilate phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_Q81TM1
+contig_98	cds	13	735	+	GCA_022712555_00387		hypothetical protein	PFAM:PF00047.31, PFAM:PF07679.22, PFAM:PF13895.12, PFAM:PF13927.12
+contig_98	cds	2475	2708	+	GCA_022712555_00388		hypothetical protein	
+contig_98	cds	3438	4586	+	GCA_022712555_00389		hypothetical protein	PFAM:PF00041.27, PFAM:PF13882.11, PFAM:PF16656.11
+contig_99	cds	51	878	-	GCA_022712555_00390		hypothetical protein	PFAM:PF00078.32
+contig_99	cds	888	1088	-	GCA_022712555_00391		hypothetical protein	
+contig_99	cds	1692	2210	-	GCA_022712555_00392		hypothetical protein	PFAM:PF17917.7
+contig_99	cds	2265	3683	-	GCA_022712555_00393		hypothetical protein	PFAM:PF00078.32
+contig_99	cds	3668	4345	-	GCA_022712555_00394		hypothetical protein	
+contig_100	cds	283	789	-	GCA_022712555_00395		hypothetical protein	
+contig_100	cds	779	994	-	GCA_022712555_00396		hypothetical protein	
+contig_100	cds	1048	1278	-	GCA_022712555_00397		hypothetical protein	
+contig_100	cds	1300	2010	-	GCA_022712555_00398		hypothetical protein	
+contig_100	cds	2045	2857	-	GCA_022712555_00399		hypothetical protein	PFAM:PF00149.33
+contig_100	cds	2884	3807	-	GCA_022712555_00400		hypothetical protein	
+contig_100	cds	4076	4291	-	GCA_022712555_00401		hypothetical protein	PFAM:PF24596.1
+contig_100	cds	4666	5811	-	GCA_022712555_00402		hypothetical protein	
+contig_100	cds	5879	6487	-	GCA_022712555_00403		hypothetical protein	
+contig_100	cds	6846	7187	-	GCA_022712555_00404		hypothetical protein	
+contig_100	cds	7450	7644	-	GCA_022712555_00405		hypothetical protein	
+contig_100	cds	8101	8373	-	GCA_022712555_00406		hypothetical protein	
+contig_100	cds	8670	9464	-	GCA_022712555_00407		hypothetical protein	
+contig_100	cds	9755	10432	-	GCA_022712555_00408		hypothetical protein	
+contig_100	cds	10687	11031	-	GCA_022712555_00409		hypothetical protein	
+contig_100	cds	11248	11904	-	GCA_022712555_00410		hypothetical protein	
+contig_101	cds	9	566	-	GCA_022712555_00411		hypothetical protein	
+contig_101	cds	697	2313	-	GCA_022712555_00412		hypothetical protein	PFAM:PF00144.29
+contig_101	cds	2516	3181	-	GCA_022712555_00413		hypothetical protein	
+contig_101	cds	3376	5103	-	GCA_022712555_00414		Phosphoenolpyruvate-protein phosphotransferase	SO:0001217, UniRef:UniRef50_W6A961
+contig_101	cds	5235	6269	-	GCA_022712555_00415	rmuC	DNA recombination protein RmuC	SO:0001217, UniRef:UniRef50_UPI0030D1527A
+contig_102	cds	58	1068	-	GCA_022712555_00416		hypothetical protein	
+contig_102	cds	1385	2704	-	GCA_022712555_00417		Pyrimidine-nucleoside phosphorylase	SO:0001217, UniRef:UniRef50_A0A0L1IHI6
+contig_102	cds	2721	3554	-	GCA_022712555_00418		1-acyl-sn-glycerol-3-phosphate acyltransferase	SO:0001217, UniRef:UniRef50_S5MK17
+contig_102	cds	3557	4027	-	GCA_022712555_00419		hypothetical protein	PFAM:PF00186.24
+contig_103	cds	93	1622	-	GCA_022712555_00420		hypothetical protein	PFAM:PF00013.35, PFAM:PF08668.18, PFAM:PF12072.13
+contig_103	cds	1710	4463	-	GCA_022712555_00421		Cation-transporting ATPase	SO:0001217, UniRef:UniRef50_W6A9A1
+contig_103	cds	4552	5604	-	GCA_022712555_00422	recA	Protein RecA	SO:0001217, UniRef:UniRef50_P16971
+contig_103	cds	5641	6099	-	GCA_022712555_00423		hypothetical protein	
+contig_103	ncRNA	6129	6467	-	GCA_022712555_00424	RNaseP_bact_b	Bacterial RNase P class B	RFAM:RF00011, SO:0000386
+contig_103	cds	6500	6826	-	GCA_022712555_00425		hypothetical protein	
+contig_103	cds	6937	7407	+	GCA_022712555_00426		hypothetical protein	
+contig_103	cds	7560	7763	+	GCA_022712555_00427		hypothetical protein	
+contig_103	cds	7744	8229	+	GCA_022712555_00428		hypothetical protein	PFAM:PF03838.20
+contig_104	cds	1235	1522	-	GCA_022712555_00429	secG	Protein-export membrane protein SecG	SO:0001217, UniRef:UniRef50_A0A654IJR5
+contig_104	cds	1607	2002	+	GCA_022712555_00430		hypothetical protein	PFAM:PF00581.25
+contig_104	cds	2038	2256	-	GCA_022712555_00431		HTH cro/C1-type domain-containing protein	SO:0001217, UniRef:UniRef50_W6A9B5
+contig_104	cds	2261	2758	-	GCA_022712555_00432		hypothetical protein	PFAM:PF02650.20, PFAM:PF14527.11
+contig_105	cds	556	765	+	GCA_022712555_00433		hypothetical protein	
+contig_105	cds	1060	1593	+	GCA_022712555_00434		hypothetical protein	
+contig_106	cds	476	1678	-	GCA_022712555_00435	ecfA1	Energy-coupling factor transporter ATP-binding protein EcfA1	SO:0001217, UniRef:UniRef50_Q6MSQ1
+contig_106	cds	1841	2086	-	GCA_022712555_00436		hypothetical protein	
+contig_106	cds	2152	2511	-	GCA_022712555_00437		Large ribosomal subunit protein bL17	SO:0001217, UniRef:UniRef50_Q6YQZ4
+contig_106	cds	2525	3487	-	GCA_022712555_00438		DNA-directed RNA polymerase subunit alpha	SO:0001217, UniRef:UniRef50_Q6F1W7
+contig_106	cds	3492	3878	-	GCA_022712555_00439	rpsK	30S ribosomal protein S11	GO:0003735, GO:0005840, GO:0006412, KEGG:K02948, SO:0001217, UniRef:UniRef50_O51454, UniRef:UniRef90_A0A291IR32
+contig_106	cds	3895	4260	-	GCA_022712555_00440		Small ribosomal subunit protein uS13	SO:0001217, UniRef:UniRef50_Q8DML1
+contig_106	cds	4328	4441	-	GCA_022712555_00441	rpmJ	50S ribosomal protein L36	COG:COG0257, COG:J, GO:0003735, GO:0005840, GO:0006412, KEGG:K02919, RefSeq:WP_020834730.1, SO:0001217, UniParc:UPI00035A3222, UniRef:UniRef100_V5RLL7, UniRef:UniRef50_Q85FI9, UniRef:UniRef90_V5RLL7
+contig_106	cds	4467	4685	-	GCA_022712555_00442		Translation initiation factor IF-1	SO:0001217, UniRef:UniRef50_Q8A498
+contig_106	cds	4701	5456	-	GCA_022712555_00443		Methionine aminopeptidase	SO:0001217, UniRef:UniRef50_Q59509
+contig_106	cds	5456	6094	-	GCA_022712555_00444		Adenylate kinase	SO:0001217, UniRef:UniRef50_Q6F1X3
+contig_106	cds	6112	7545	-	GCA_022712555_00445	secY	Protein translocase subunit SecY	SO:0001217, UniRef:UniRef50_P10250
+contig_107	cds	11	370	+	GCA_022712555_00446		Transmembrane protein	SO:0001217, UniRef:UniRef50_S5M0Q5
+contig_107	cds	384	902	+	GCA_022712555_00447	ytxH	YtxH domain-containing protein	SO:0001217, UniRef:UniRef50_A0A6I6CA29
+contig_107	cds	906	2150	+	GCA_022712555_00448		Tyrosine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q6F0M8
+contig_107	cds	2191	2988	-	GCA_022712555_00449		DUF3800 domain-containing protein	SO:0001217, UniRef:UniRef50_S5M2W4
+contig_108	cds	93	848	+	GCA_022712555_00450		hypothetical protein	
+contig_108	cds	899	3349	+	GCA_022712555_00451		hypothetical protein	PFAM:PF00078.32, PFAM:PF14529.12
+contig_109	cds	24	1106	+	GCA_022712555_00452		hypothetical protein	PFAM:PF03989.18
+contig_109	cds	1109	2371	+	GCA_022712555_00453		Serine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q6F2A0
+contig_109	ncRNA	2490	2577	+	GCA_022712555_00454	Bacteria_small_SRP	Bacterial small signal recognition particle RNA	RFAM:RF00169, SO:0000655
+contig_110	cds	250	465	+	GCA_022712555_00455		hypothetical protein	
+contig_110	cds	1066	1458	-	GCA_022712555_00456		hypothetical protein	
+contig_111	cds	571	1716	-	GCA_022712555_00457		hypothetical protein	
+contig_111	cds	2065	3060	-	GCA_022712555_00458		hypothetical protein	PFAM:PF00078.32
+contig_111	cds	2999	3748	-	GCA_022712555_00459		hypothetical protein	PFAM:PF14529.12
+contig_112	cds	130	837	-	GCA_022712555_00460		hypothetical protein	
+contig_112	cds	901	1353	+	GCA_022712555_00461		Phosphopantetheine adenylyltransferase	SO:0001217, UniRef:UniRef50_Q6MTX3
+contig_112	cds	1460	4264	+	GCA_022712555_00462		hypothetical protein	PFAM:PF00198.28
+contig_112	cds	4363	4731	+	GCA_022712555_00463		Transposase	SO:0001217, UniRef:UniRef50_S5LX35
+contig_112	cds	4743	4961	+	GCA_022712555_00464		hypothetical protein	PFAM:PF00403.32
+contig_113	cds	16	582	-	GCA_022712555_00465		hypothetical protein	
+contig_113	cds	663	1187	-	GCA_022712555_00466		Putative tRNA (cytidine(34)-2'-O)-methyltransferase	SO:0001217, UniRef:UniRef50_R4U5W3
+contig_113	cds	1189	1446	-	GCA_022712555_00467		hypothetical protein	
+contig_113	cds	1446	2048	-	GCA_022712555_00468		hypothetical protein	PFAM:PF01725.21
+contig_113	cds	2069	2524	-	GCA_022712555_00469		hypothetical protein	
+contig_114	cds	44	319	-	GCA_022712555_00470		hypothetical protein	
+contig_114	cds	503	811	+	GCA_022712555_00471		Holin	SO:0001217, UniRef:UniRef50_A0A1B7IQL1
+contig_114	cds	801	1304	+	GCA_022712555_00472		hypothetical protein	
+contig_114	cds	1347	2471	+	GCA_022712555_00473		hypothetical protein	PFAM:PF00182.24, PFAM:PF10544.15
+contig_115	cds	194	2077	-	GCA_022712555_00474		hypothetical protein	
+contig_115	cds	2835	3863	+	GCA_022712555_00475		hypothetical protein	
+contig_115	cds	4183	4302	+	GCA_022712555_00476		hypothetical protein	
+contig_116	cds	68	640	+	GCA_022712555_00477		hypothetical protein	
+contig_116	cds	784	2931	+	GCA_022712555_00478	clpB	ATP-dependent Clp protease, ATPase subunit ClpB	SO:0001217, UniRef:UniRef50_V5RI22
+contig_116	cds	2991	4022	+	GCA_022712555_00479	hrcA	Heat-inducible transcription repressor HrcA	SO:0001217, UniRef:UniRef50_S5MJ63
+contig_116	cds	4025	4660	+	GCA_022712555_00480	grpE	Protein GrpE	SO:0001217, UniRef:UniRef50_A0A4P7AH97
+contig_116	cds	5247	6335	-	GCA_022712555_00481		hypothetical protein	
+contig_117	cds	620	1126	-	GCA_022712555_00482		hypothetical protein	
+contig_117	cds	1173	1670	-	GCA_022712555_00483		hypothetical protein	
+contig_117	cds	2427	2738	+	GCA_022712555_00484		hypothetical protein	
+contig_118	cds	85	2058	-	GCA_022712555_00485		hypothetical protein	
+contig_119	tRNA	1158	1233	-	GCA_022712555_00486	trnF	tRNA-Phe(gaa)	SO:0000267
+contig_119	tRNA	1237	1313	-	GCA_022712555_00487	trnD	tRNA-Asp(gtc)	SO:0000256
+contig_119	tRNA	1319	1394	-	GCA_022712555_00488	trnfM	tRNA-fMet(cat)	SO:0000266
+contig_119	tRNA	1405	1497	-	GCA_022712555_00489	trnS	tRNA-Ser(tga)	SO:0000269
+contig_119	tRNA	1547	1623	-	GCA_022712555_00490	trnI	tRNA-Ile2(cat)	SO:0000263
+contig_119	tRNA	1631	1707	-	GCA_022712555_00491	trnM	tRNA-Met(cat)	SO:0000266
+contig_119	tRNA	1714	1789	-	GCA_022712555_00492	trnA	tRNA-Ala(tgc)	SO:0000254
+contig_119	tRNA	1801	1877	-	GCA_022712555_00493	trnP	tRNA-Pro(tgg)	SO:0000268
+contig_119	tRNA	1933	2009	-	GCA_022712555_00494	trnR	tRNA-Arg(acg)	SO:0001036
+contig_119	cds	2168	3823	-	GCA_022712555_00495		Arginine--tRNA ligase	SO:0001217, UniRef:UniRef50_S5MKP7
+contig_120	cds	33	833	-	GCA_022712555_00496		hypothetical protein	
+contig_120	cds	833	3205	-	GCA_022712555_00497		hypothetical protein	PFAM:PF00496.27
+contig_120	cds	3189	4100	-	GCA_022712555_00498		hypothetical protein	PFAM:PF00005.33
+contig_121	cds	69	803	+	GCA_022712555_00499		hypothetical protein	PFAM:PF08282.18
+contig_121	cds	807	2171	+	GCA_022712555_00500		Asparagine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q6F0Y5
+contig_121	cds	2314	4536	+	GCA_022712555_00501		hypothetical protein	
+contig_121	cds	4592	5551	+	GCA_022712555_00502		hypothetical protein	PFAM:PF00535.33
+contig_121	cds	5551	6243	+	GCA_022712555_00503		hypothetical protein	PFAM:PF06271.18
+contig_121	cds	6230	8398	+	GCA_022712555_00504		hypothetical protein	PFAM:PF00580.27, PFAM:PF13087.12, PFAM:PF13245.12, PFAM:PF13361.12, PFAM:PF13538.12
+contig_122	cds	13	840	-	GCA_022712555_00505	yfdQ	Uncharacterized protein YfdQ	SO:0001217, UniRef:UniRef50_P76513
+contig_122	cds	873	1244	-	GCA_022712555_00506	yfdP	Uncharacterized protein YfdP	SO:0001217, UniRef:UniRef50_P76512
+contig_122	cds	1661	2011	+	GCA_022712555_00507		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A2U8IAC9
+contig_122	cds	2073	2654	-	GCA_022712555_00508		hypothetical protein	PFAM:PF01381.28, PFAM:PF07022.19
+contig_123	cds	226	609	-	GCA_022712555_00509		hypothetical protein	
+contig_123	cds	912	2042	-	GCA_022712555_00510		hypothetical protein	PFAM:PF17917.7, PFAM:PF17919.7, PFAM:PF17921.7
+contig_125	cds	398	2596	+	GCA_022712555_00511		hypothetical protein	PFAM:PF01607.29
+contig_126	cds	1289	2053	+	GCA_022712555_00512		hypothetical protein	
+contig_127	cds	112	477	+	GCA_022712555_00513		hypothetical protein	
+contig_127	cds	461	1438	+	GCA_022712555_00514		Thioredoxin reductase	SO:0001217, UniRef:UniRef50_V5RGW9
+contig_127	cds	1542	2816	+	GCA_022712555_00515		hypothetical protein	
+contig_128	cds	9	1997	+	GCA_022712555_00516		hypothetical protein	PFAM:PF00753.33
+contig_128	cds	2499	2741	-	GCA_022712555_00517		Small ribosomal subunit protein bS20	SO:0001217, UniRef:UniRef50_Q6AEB3
+contig_129	cds	45	1763	+	GCA_022712555_00518	clpC	ATP-dependent Clp protease ATP-binding subunit ClpC	SO:0001217, UniRef:UniRef50_A0A2P6FAF5
+contig_129	cds	1773	2624	-	GCA_022712555_00519	folD	Bifunctional protein FolD	SO:0001217, UniRef:UniRef50_S5LZ59
+contig_129	cds	2653	4227	+	GCA_022712555_00520		Formate--tetrahydrofolate ligase	SO:0001217, UniRef:UniRef50_W6AFP6
+contig_129	cds	4238	4480	+	GCA_022712555_00521		hypothetical protein	
+contig_130	cds	340	1221	-	GCA_022712555_00522		hypothetical protein	PFAM:PF01391.23, PFAM:PF01413.25
+contig_130	cds	1326	1916	-	GCA_022712555_00523		hypothetical protein	PFAM:PF01391.23
+contig_130	cds	1894	3879	-	GCA_022712555_00524		hypothetical protein	PFAM:PF01391.23
+contig_130	cds	3989	4318	-	GCA_022712555_00525		hypothetical protein	
+contig_130	cds	4335	4760	-	GCA_022712555_00526		hypothetical protein	PFAM:PF01391.23
+contig_130	cds	4867	5172	-	GCA_022712555_00527		hypothetical protein	PFAM:PF01391.23
+contig_130	cds	5233	5472	-	GCA_022712555_00528		hypothetical protein	PFAM:PF01391.23
+contig_131	cds	188	3397	-	GCA_022712555_00529		hypothetical protein	
+contig_132	cds	962	1426	+	GCA_022712555_00530		hypothetical protein	
+contig_132	cds	1712	1891	+	GCA_022712555_00531		hypothetical protein	
+contig_132	cds	2252	2554	+	GCA_022712555_00532		hypothetical protein	
+contig_132	cds	2551	3411	-	GCA_022712555_00533		hypothetical protein	
+contig_132	cds	3828	4595	+	GCA_022712555_00534		hypothetical protein	
+contig_133	cds	191	490	-	GCA_022712555_00535		hypothetical protein	
+contig_133	cds	492	1181	-	GCA_022712555_00536		hypothetical protein	
+contig_133	cds	1184	1900	-	GCA_022712555_00537		hypothetical protein	
+contig_133	cds	2014	2853	+	GCA_022712555_00538		Glycerol-3-phosphate acyltransferase	SO:0001217, UniRef:UniRef50_S5LWH0
+contig_133	cds	2907	3590	-	GCA_022712555_00539		hypothetical protein	
+contig_134	cds	109	1155	-	GCA_022712555_00540		hypothetical protein	
+contig_134	cds	1293	2924	+	GCA_022712555_00541		hypothetical protein	
+contig_135	cds	122	670	+	GCA_022712555_00542		hypothetical protein	
+contig_135	cds	936	4142	-	GCA_022712555_00543		hypothetical protein	PFAM:PF00079.25
+contig_136	cds	3	503	-	GCA_022712555_00544		nicotinamidase	SO:0001217, UniRef:UniRef50_S5M1Q2
+contig_136	cds	514	4998	-	GCA_022712555_00545		DNA polymerase III PolC-type	SO:0001217, UniRef:UniRef50_A0A0K1P6M7
+contig_137	cds	377	496	-	GCA_022712555_00546		hypothetical protein	
+contig_137	cds	1100	2122	+	GCA_022712555_00547		hypothetical protein	PFAM:PF06247.17, PFAM:PF12947.13, PFAM:PF21164.2
+contig_137	cds	2807	3169	-	GCA_022712555_00548		hypothetical protein	
+contig_137	cds	4268	4621	-	GCA_022712555_00549		hypothetical protein	
+contig_137	cds	5310	5771	+	GCA_022712555_00550		hypothetical protein	PFAM:PF12947.13, PFAM:PF21164.2
+contig_137	cds	6493	7137	-	GCA_022712555_00551		hypothetical protein	
+contig_137	cds	7248	8204	-	GCA_022712555_00552		hypothetical protein	
+contig_137	cds	8645	10372	+	GCA_022712555_00553		hypothetical protein	PFAM:PF12947.13, PFAM:PF21164.2
+contig_137	cds	10369	10995	-	GCA_022712555_00554		hypothetical protein	
+contig_137	cds	11176	11301	-	GCA_022712555_00555		hypothetical protein	
+contig_137	cds	11346	12401	+	GCA_022712555_00556		hypothetical protein	PFAM:PF06247.17, PFAM:PF12947.13, PFAM:PF21164.2
+contig_137	cds	13395	14333	-	GCA_022712555_00557		hypothetical protein	
+contig_138	cds	29	2692	+	GCA_022712555_00558		hypothetical protein	PFAM:PF00078.32, PFAM:PF00665.32, PFAM:PF09337.16, PFAM:PF13683.12, PFAM:PF17917.7, PFAM:PF17919.7, PFAM:PF17921.7
+contig_140	cds	668	2359	-	GCA_022712555_00559		hypothetical protein	PFAM:PF00665.32, PFAM:PF13976.11
+contig_140	cds	2389	2919	-	GCA_022712555_00560		hypothetical protein	PFAM:PF00098.28
+contig_141	cds	188	619	+	GCA_022712555_00561		hypothetical protein	
+contig_141	cds	1930	2520	-	GCA_022712555_00562		hypothetical protein	
+contig_142	cds	605	4753	-	GCA_022712555_00563		hypothetical protein	PFAM:PF00078.32, PFAM:PF00098.28, PFAM:PF00665.32, PFAM:PF13650.11, PFAM:PF13975.11, PFAM:PF17917.7, PFAM:PF17919.7, PFAM:PF17921.7
+contig_143	cds	259	570	-	GCA_022712555_00564		hypothetical protein	
+contig_143	cds	572	1414	-	GCA_022712555_00565		hypothetical protein	PFAM:PF03372.29, PFAM:PF14529.12
+contig_143	cds	1977	3119	-	GCA_022712555_00566		hypothetical protein	
+contig_144	cds	306	686	-	GCA_022712555_00567		hypothetical protein	PFAM:PF03083.21, PFAM:PF04193.19
+contig_144	cds	676	1047	-	GCA_022712555_00568		hypothetical protein	PFAM:PF04193.19
+contig_144	cds	1119	3392	-	GCA_022712555_00569		hypothetical protein	
+contig_144	cds	3437	4168	-	GCA_022712555_00570		hypothetical protein	
+contig_145	cds	119	958	+	GCA_022712555_00571		hypothetical protein	PFAM:PF17676.7
+contig_145	cds	1050	1565	+	GCA_022712555_00572		hypothetical protein	
+contig_145	cds	1605	2453	-	GCA_022712555_00573		hypothetical protein	
+contig_145	cds	2531	3436	+	GCA_022712555_00574		hypothetical protein	
+contig_146	cds	593	778	+	GCA_022712555_00575		hypothetical protein	
+contig_146	cds	1064	1372	+	GCA_022712555_00576		hypothetical protein	
+contig_146	cds	1766	2227	-	GCA_022712555_00577		hypothetical protein	
+contig_146	cds	2425	2694	+	GCA_022712555_00578		hypothetical protein	
+contig_147	cds	253	468	+	GCA_022712555_00579		hypothetical protein	
+contig_147	cds	911	2986	-	GCA_022712555_00580		hypothetical protein	PFAM:PF00078.32
+contig_148	cds	431	3883	-	GCA_022712555_00581		hypothetical protein	PFAM:PF00023.36, PFAM:PF12796.13, PFAM:PF13606.12, PFAM:PF13637.12, PFAM:PF13857.12, PFAM:PF23745.1, PFAM:PF24521.2
+contig_149	cds	44	865	+	GCA_022712555_00582	ecfA2	Energy-coupling factor transporter ATP-binding protein EcfA2	SO:0001217, UniRef:UniRef50_Q6MSQ2
+contig_149	cds	875	1786	+	GCA_022712555_00583		ABC transporter permease	SO:0001217, UniRef:UniRef50_A0A654ILX6
+contig_149	cds	1786	2529	+	GCA_022712555_00584		hypothetical protein	PFAM:PF01416.25
+contig_150	cds	44	2065	+	GCA_022712555_00585		PTS sugar transporter subunit IIA	SO:0001217, UniRef:UniRef50_A0A249SPC3
+contig_150	cds	2163	2369	+	GCA_022712555_00586		hypothetical protein	SO:0001217, UniRef:UniRef50_V5RJW4
+contig_150	cds	2369	3124	+	GCA_022712555_00587		hypothetical protein	
+contig_150	cds	3126	4268	+	GCA_022712555_00588		Amidohydrolase-related domain-containing protein	SO:0001217, UniRef:UniRef50_W0GS70
+contig_150	cds	4268	4930	+	GCA_022712555_00589		hypothetical protein	
+contig_150	cds	4930	5889	+	GCA_022712555_00590		hypothetical protein	PFAM:PF01408.29, PFAM:PF22725.1
+contig_150	cds	5967	6629	+	GCA_022712555_00591		Deoxyribose-phosphate aldolase	SO:0001217, UniRef:UniRef50_Q8DU34
+contig_150	cds	6796	7056	-	GCA_022712555_00592		hypothetical protein	
+contig_151	cds	48	221	+	GCA_022712555_00593		hypothetical protein	
+contig_151	cds	1660	2385	-	GCA_022712555_00594		hypothetical protein	
+contig_151	cds	2518	3342	-	GCA_022712555_00595		hypothetical protein	
+contig_151	cds	3363	4199	+	GCA_022712555_00596		hypothetical protein	
+contig_152	cds	184	2493	-	GCA_022712555_00597		hypothetical protein	PFAM:PF21787.3, PFAM:PF21788.2
+contig_153	cds	431	916	-	GCA_022712555_00598		hypothetical protein	
+contig_153	cds	941	1600	-	GCA_022712555_00599		hypothetical protein	
+contig_153	cds	1635	4880	-	GCA_022712555_00600		hypothetical protein	
+contig_154	cds	103	948	+	GCA_022712555_00601		hypothetical protein	PFAM:PF08282.18
+contig_154	cds	948	2054	+	GCA_022712555_00602		putative nicotinate-nucleotide adenylyltransferase	SO:0001217, UniRef:UniRef50_W6A7T8
+contig_154	cds	2047	2718	+	GCA_022712555_00603		hypothetical protein	PFAM:PF01048.26
+contig_154	cds	2729	3262	+	GCA_022712555_00604		hypothetical protein	
+contig_155	cds	917	1657	+	GCA_022712555_00605		hypothetical protein	
+contig_155	cds	1919	2152	+	GCA_022712555_00606		hypothetical protein	
+contig_155	cds	2175	2603	+	GCA_022712555_00607		hypothetical protein	
+contig_155	cds	2768	2923	-	GCA_022712555_00608		hypothetical protein	
+contig_156	cds	2407	4350	-	GCA_022712555_00609		MATE efflux family protein	SO:0001217, UniRef:UniRef50_A0A2K8NXP3
+contig_156	tRNA	4427	4503	-	GCA_022712555_00610	trnI	tRNA-Ile(gat)	SO:0000263
+contig_157	cds	56	1078	+	GCA_022712555_00611		hypothetical protein	
+contig_157	cds	1087	1977	+	GCA_022712555_00612		Uncharacterized RNA pseudouridine synthase MCAP_0714	SO:0001217, UniRef:UniRef50_P45614
+contig_157	cds	2012	3931	+	GCA_022712555_00613		hypothetical protein	
+contig_157	cds	3992	4591	-	GCA_022712555_00614		hypothetical protein	
+contig_157	cds	4743	6323	+	GCA_022712555_00615		hypothetical protein	
+contig_158	cds	113	1567	+	GCA_022712555_00616		hypothetical protein	
+contig_159	cds	562	2499	+	GCA_022712555_00617		hypothetical protein	
+contig_159	cds	2713	4608	+	GCA_022712555_00618		hypothetical protein	
+contig_159	cds	5084	7921	+	GCA_022712555_00619		hypothetical protein	
+contig_159	cds	8033	8290	-	GCA_022712555_00620		hypothetical protein	
+contig_160	cds	85	1518	+	GCA_022712555_00621		hypothetical protein	
+contig_160	cds	2761	3441	-	GCA_022712555_00622		hypothetical protein	
+contig_161	cds	65	421	+	GCA_022712555_00623		hypothetical protein	PFAM:PF19269.4
+contig_161	cds	431	1633	+	GCA_022712555_00624		HD superfamily phosphohydrolase	SO:0001217, UniRef:UniRef50_W6AAP4
+contig_161	cds	1663	2133	+	GCA_022712555_00625		RNAP delta factor	SO:0001217, UniRef:UniRef50_S5M0Z3
+contig_161	cds	2201	3799	+	GCA_022712555_00626		hypothetical protein	PFAM:PF00117.34, PFAM:PF06418.20, PFAM:PF07722.19
+contig_162	cds	173	2344	-	GCA_022712555_00627		hypothetical protein	PFAM:PF12031.14
+contig_163	cds	334	633	+	GCA_022712555_00628		hypothetical protein	
+contig_163	cds	1886	2377	+	GCA_022712555_00629		hypothetical protein	
+contig_163	cds	2402	3691	+	GCA_022712555_00630		hypothetical protein	
+contig_163	cds	3879	5468	+	GCA_022712555_00631		hypothetical protein	PFAM:PF00078.32
+contig_164	cds	81	1007	-	GCA_022712555_00632		hypothetical protein	
+contig_164	cds	1080	1715	+	GCA_022712555_00633		hypothetical protein	
+contig_164	cds	1808	2677	+	GCA_022712555_00634		hypothetical protein	
+contig_164	cds	2785	3045	+	GCA_022712555_00635		hypothetical protein	
+contig_165	cds	1244	2146	-	GCA_022712555_00636		Guanylate kinase	SO:0001217, UniRef:UniRef50_S5M2T5
+contig_165	cds	2151	2708	-	GCA_022712555_00637		DNA methylase	SO:0001217, UniRef:UniRef50_S6G3E4
+contig_165	cds	2797	3402	+	GCA_022712555_00638		Peptide deformylase	SO:0001217, UniRef:UniRef50_Q6MU23
+contig_166	cds	922	1158	-	GCA_022712555_00639		hypothetical protein	
+contig_166	cds	1209	2075	-	GCA_022712555_00640		hypothetical protein	
+contig_166	cds	2113	2535	-	GCA_022712555_00641		hypothetical protein	
+contig_167	cds	974	1867	-	GCA_022712555_00642		hypothetical protein	PFAM:PF00308.24, PFAM:PF01695.23
+contig_167	cds	1867	3108	-	GCA_022712555_00643		hypothetical protein	
+contig_167	cds	3261	4091	-	GCA_022712555_00644		hypothetical protein	PFAM:PF01149.29, PFAM:PF06827.20, PFAM:PF06831.19
+contig_167	cds	4100	4756	-	GCA_022712555_00645		hypothetical protein	
+contig_168	cds	4	2406	+	GCA_022712555_00646		hypothetical protein	PFAM:PF02687.27
+contig_168	cds	2494	2796	+	GCA_022712555_00647		Large ribosomal subunit protein bL31	SO:0001217, UniRef:UniRef50_W6AKI7
+contig_169	cds	265	891	+	GCA_022712555_00648		hypothetical protein	
+contig_169	cds	1504	2373	+	GCA_022712555_00649		hypothetical protein	
+contig_169	cds	2501	3115	-	GCA_022712555_00650		hypothetical protein	PFAM:PF01609.27, PFAM:PF13359.12
+contig_170	cds	385	642	-	GCA_022712555_00651		hypothetical protein	
+contig_170	cds	1174	1542	+	GCA_022712555_00652		Insertion element IS150 protein InsJ-like helix-turn-helix domain-containing protein	SO:0001217, UniRef:UniRef50_A0A345Z2J3
+contig_170	cds	1503	2402	+	GCA_022712555_00653		Integrase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_A0A345Z2I2
+contig_170	cds	2595	3248	-	GCA_022712555_00654		hypothetical protein	
+contig_170	cds	3567	5330	-	GCA_022712555_00655		Dicarboxylate/amino acid:cation symporter	SO:0001217, UniRef:UniRef50_A0A3S5Y088
+contig_170	cds	5332	6684	-	GCA_022712555_00656		NADH oxidase	SO:0001217, UniRef:UniRef50_V5RK46
+contig_170	cds	6812	7270	+	GCA_022712555_00657		hypothetical protein	
+contig_170	cds	7336	8250	-	GCA_022712555_00658		hypothetical protein	PFAM:PF00367.25
+contig_171	cds	41	331	-	GCA_022712555_00659		hypothetical protein	PFAM:PF03723.20
+contig_171	cds	367	1659	-	GCA_022712555_00660		hypothetical protein	PFAM:PF00372.24, PFAM:PF03723.20
+contig_171	cds	1762	2070	+	GCA_022712555_00661		hypothetical protein	
+contig_172	cds	550	3285	+	GCA_022712555_00662		hypothetical protein	
+contig_173	cds	31	3570	+	GCA_022712555_00663		hypothetical protein	PFAM:PF02687.27, PFAM:PF12704.14
+contig_174	cds	1155	1715	+	GCA_022712555_00664		hypothetical protein	
+contig_174	cds	1836	2048	+	GCA_022712555_00665		hypothetical protein	
+contig_174	cds	2745	3464	+	GCA_022712555_00666		hypothetical protein	
+contig_175	cds	311	826	-	GCA_022712555_00667		hypothetical protein	
+contig_175	cds	768	2615	-	GCA_022712555_00668		hypothetical protein	PFAM:PF00078.32
+contig_175	cds	2631	3122	-	GCA_022712555_00669		hypothetical protein	PFAM:PF14529.12
+contig_175	cds	3132	3368	-	GCA_022712555_00670		hypothetical protein	
+contig_175	cds	3361	4245	-	GCA_022712555_00671		hypothetical protein	
+contig_175	cds	4235	4432	-	GCA_022712555_00672		hypothetical protein	
+contig_175	cds	4468	4728	-	GCA_022712555_00673		hypothetical protein	
+contig_176	cds	171	728	+	GCA_022712555_00674		hypothetical protein	
+contig_177	cds	804	3221	-	GCA_022712555_00675		hypothetical protein	
+contig_178	cds	32	2002	+	GCA_022712555_00676		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_V5RI05
+contig_178	cds	2049	3359	+	GCA_022712555_00677		Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO 2	SO:0001217, UniRef:UniRef50_Q6F0T3
+contig_179	cds	309	1322	+	GCA_022712555_00678		hypothetical protein	
+contig_180	cds	302	619	+	GCA_022712555_00679		hypothetical protein	
+contig_180	ncRNA	552	604	+	GCA_022712555_00680	c4-a1b1	a1, b1 targets of C4 antisense RNA	RFAM:RF03163, SO:0000644
+contig_180	ncRNA	565	639	+	GCA_022712555_00681	isrK	isrK Hfq binding RNA	RFAM:RF01394, SO:0000655
+contig_180	ncRNA	661	744	+	GCA_022712555_00682	C4	C4 antisense RNA	RFAM:RF01695, SO:0000644
+contig_180	cds	795	1352	+	GCA_022712555_00683		KilA-N DNA-binding domain-containing protein	SO:0001217, UniRef:UniRef50_A0A8E0KTY7
+contig_180	cds	1432	1683	-	GCA_022712555_00684		hypothetical protein	
+contig_180	cds	1712	3337	-	GCA_022712555_00685		hypothetical protein	PFAM:PF12708.12
+contig_181	cds	836	1954	+	GCA_022712555_00686		hypothetical protein	PFAM:PF02214.28, PFAM:PF11601.13, PFAM:PF16017.11
+contig_181	cds	2108	2704	-	GCA_022712555_00687		hypothetical protein	
+contig_182	cds	162	1460	-	GCA_022712555_00688		hypothetical protein	PFAM:PF00078.32
+contig_182	cds	1400	2137	-	GCA_022712555_00689		hypothetical protein	PFAM:PF14529.12
+contig_183	cds	252	1124	-	GCA_022712555_00690		hypothetical protein	
+contig_183	cds	1239	2435	-	GCA_022712555_00691		Phosphoglycerate kinase	SO:0001217, UniRef:UniRef50_Q7WTU1
+contig_184	cds	50	781	+	GCA_022712555_00692		hypothetical protein	
+contig_184	cds	792	1088	-	GCA_022712555_00693		Rhodanese domain-containing protein	SO:0001217, UniRef:UniRef50_W6AKG4
+contig_184	cds	1217	2926	+	GCA_022712555_00694		Metallo-beta-lactamase domain-containing protein	SO:0001217, UniRef:UniRef50_E4PTS7
+contig_184	cds	2948	4954	+	GCA_022712555_00695		hypothetical protein	PFAM:PF00324.27
+contig_184	cds	5061	8015	+	GCA_022712555_00696		hypothetical protein	PFAM:PF01580.24, PFAM:PF09397.16, PFAM:PF17854.6
+contig_184	cds	8074	9837	+	GCA_022712555_00697		UvrABC system protein C	SO:0001217, UniRef:UniRef50_S5MAX4
+contig_185	cds	796	1335	+	GCA_022712555_00698		hypothetical protein	
+contig_186	cds	42	1016	+	GCA_022712555_00699		ATP-dependent 6-phosphofructokinase	SO:0001217, UniRef:UniRef50_P20275
+contig_186	cds	1041	2495	+	GCA_022712555_00700		Pyruvate kinase	SO:0001217, UniRef:UniRef50_S5M1G4
+contig_186	cds	2599	4140	+	GCA_022712555_00701		GMP synthase [glutamine-hydrolyzing]	SO:0001217, UniRef:UniRef50_Q72D86
+contig_186	cds	4509	5123	-	GCA_022712555_00702		hypothetical protein	
+contig_187	cds	30	1517	+	GCA_022712555_00703		hypothetical protein	PFAM:PF00041.27, PFAM:PF00047.31, PFAM:PF07495.19, PFAM:PF07679.22, PFAM:PF13895.12, PFAM:PF13927.12, PFAM:PF16656.11, PFAM:PF24943.1, PFAM:PF25059.1
+contig_187	cds	1788	2222	+	GCA_022712555_00704		hypothetical protein	PFAM:PF00047.31, PFAM:PF07679.22, PFAM:PF13895.12, PFAM:PF13927.12
+contig_187	cds	2264	2584	+	GCA_022712555_00705		hypothetical protein	PFAM:PF00041.27
+contig_187	cds	2566	2934	+	GCA_022712555_00706		hypothetical protein	PFAM:PF00041.27
+contig_187	cds	2949	3425	+	GCA_022712555_00707		hypothetical protein	PFAM:PF00047.31, PFAM:PF07679.22, PFAM:PF13927.12
+contig_187	cds	3477	4979	+	GCA_022712555_00708		hypothetical protein	PFAM:PF00041.27, PFAM:PF00047.31, PFAM:PF07679.22, PFAM:PF13927.12, PFAM:PF16656.11, PFAM:PF25059.1
+contig_187	cds	5003	5545	+	GCA_022712555_00709		hypothetical protein	PFAM:PF00041.27, PFAM:PF07679.22
+contig_188	cds	40	1074	+	GCA_022712555_00710		hypothetical protein	
+contig_188	cds	1108	1314	-	GCA_022712555_00711		DUF4190 domain-containing protein	SO:0001217, UniRef:UniRef50_W6AKL4
+contig_188	cds	1524	2552	+	GCA_022712555_00712	mreB	Cell shape-determining protein MreB	SO:0001217, UniRef:UniRef50_S5LXM4, UniRef:UniRef90_S5LYR6
+contig_188	cds	2601	3650	+	GCA_022712555_00713	mreB	Cell shape-determining protein MreB	SO:0001217, UniRef:UniRef50_S5LXM4
+contig_188	cds	3743	4423	+	GCA_022712555_00714		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_V5RK64
+contig_188	cds	4407	5168	+	GCA_022712555_00715		hypothetical protein	
+contig_188	cds	5257	6315	+	GCA_022712555_00716	mreB	Cell shape-determining protein MreB	SO:0001217, UniRef:UniRef50_S5LXM4
+contig_188	cds	6378	7187	-	GCA_022712555_00717		Mg-dependent DNase	SO:0001217, UniRef:UniRef50_A0A4P7AKZ0
+contig_188	cds	7225	8580	-	GCA_022712555_00718	mnmE	tRNA modification GTPase MnmE	SO:0001217, UniRef:UniRef50_Q6F2A3
+contig_188	cds	8589	9044	-	GCA_022712555_00719		hypothetical protein	
+contig_188	cds	9115	10311	-	GCA_022712555_00720	yidC	Inner membrane protein translocase component YidC	SO:0001217, UniRef:UniRef50_S5MKQ9
+contig_188	cds	10328	10660	-	GCA_022712555_00721		Ribonuclease P protein component	SO:0001217, UniRef:UniRef50_V5RLW2
+contig_188	cds	10665	10799	-	GCA_022712555_00722		Large ribosomal subunit protein bL34	SO:0001217, UniRef:UniRef50_P66248
+contig_189	cds	347	544	+	GCA_022712555_00723		hypothetical protein	
+contig_189	cds	777	1601	+	GCA_022712555_00724		hypothetical protein	
+contig_189	cds	1882	2406	+	GCA_022712555_00725		hypothetical protein	
+contig_189	cds	2477	2938	+	GCA_022712555_00726		hypothetical protein	
+contig_189	cds	3319	3420	+	GCA_022712555_00727		hypothetical protein	
+contig_190	cds	450	704	-	GCA_022712555_00728		hypothetical protein	
+contig_190	cds	2658	2852	-	GCA_022712555_00729		hypothetical protein	
+contig_191	cds	27	479	+	GCA_022712555_00730		hypothetical protein	
+contig_191	cds	658	3030	+	GCA_022712555_00731		Lon protease	SO:0001217, UniRef:UniRef50_Q6MTF4
+contig_192	cds	57	1688	+	GCA_022712555_00732		hypothetical protein	
+contig_192	cds	1688	2425	+	GCA_022712555_00733		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_192	cds	2602	6390	+	GCA_022712555_00734		DNA-directed RNA polymerase subunit beta	SO:0001217, UniRef:UniRef50_Q6F0L7
+contig_192	cds	6413	10162	+	GCA_022712555_00735		DNA-directed RNA polymerase subunit beta'	SO:0001217, UniRef:UniRef50_Q6F0L8
+contig_192	cds	10269	10715	+	GCA_022712555_00736		Hypothetical laca/rpib family transmembrane protein	SO:0001217, UniRef:UniRef50_Q14PX8
+contig_192	cds	10715	11338	+	GCA_022712555_00737		Uracil phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_Q8RG35
+contig_192	cds	11393	11950	+	GCA_022712555_00738		hypothetical protein	
+contig_193	cds	273	2321	+	GCA_022712555_00739		CRISPR-associated helicase Cas3'	SO:0001217, UniRef:UniRef50_UPI001D11C615
+contig_193	cds	2543	2734	+	GCA_022712555_00740		hypothetical protein	SO:0001217, UniRef:UniRef50_A0A506VE90, UniRef:UniRef90_A0A506VE90
+contig_193	cds	2820	3239	-	GCA_022712555_00741		HTH cro/C1-type domain-containing protein	KEGG:K18831, SO:0001217, UniRef:UniRef50_J7R4Q0, UniRef:UniRef90_D2TKH9
+contig_193	cds	3191	3547	-	GCA_022712555_00742		Cytoplasmic protein	EC:3.1.-.-, KEGG:K19166, SO:0001217, UniRef:UniRef50_Q6DA89, UniRef:UniRef90_A0A1W6B561
+contig_193	crispr	3706	5391	?			CRISPR array with 28 repeats of length 29, consensus sequence CGGTTTATCCCCGCTGGCGCGGGGAACAC and spacer length 32	SO:0001459
+contig_193	crispr-repeat	3706	3734	?			CRISPR repeat	
+contig_193	crispr-spacer	3735	3766	?			CRISPR spacer, sequence TTCAATTATTTGTTTTTCATTGCAACCGCATT	
+contig_193	crispr-repeat	3767	3795	?			CRISPR repeat	
+contig_193	crispr-spacer	3796	3827	?			CRISPR spacer, sequence TAATATCGTATTCATTCAGGGAGTTAGCAACG	
+contig_193	crispr-repeat	3828	3856	?			CRISPR repeat	
+contig_193	crispr-spacer	3857	3888	?			CRISPR spacer, sequence CGCCCGTCGTAACTCAGCAGCGTGACGTTACC	
+contig_193	crispr-repeat	3889	3917	?			CRISPR repeat	
+contig_193	crispr-spacer	3918	3949	?			CRISPR spacer, sequence CGAGTTTGATATTAAAAATGCCAGTGAGCGTG	
+contig_193	crispr-repeat	3950	3978	?			CRISPR repeat	
+contig_193	crispr-spacer	3979	4010	?			CRISPR spacer, sequence AATAATGATCGCATTTTTCCAGCCTCCAACGG	
+contig_193	crispr-repeat	4011	4039	?			CRISPR repeat	
+contig_193	crispr-spacer	4040	4071	?			CRISPR spacer, sequence GCCGCATGGCTCAGGCGCAAGGCGATGAACAG	
+contig_193	crispr-repeat	4072	4100	?			CRISPR repeat	
+contig_193	crispr-spacer	4101	4132	?			CRISPR spacer, sequence AAATACCCTGCAGGGAAATAGGCCCAGAGCTG	
+contig_193	crispr-repeat	4133	4161	?			CRISPR repeat	
+contig_193	crispr-spacer	4162	4193	?			CRISPR spacer, sequence CGGCGATCCAGCAAATAACCGGCGCCAGTCAG	
+contig_193	crispr-repeat	4194	4222	?			CRISPR repeat	
+contig_193	crispr-spacer	4223	4254	?			CRISPR spacer, sequence ATCAGAAATGTGCGTAACGTCATTCCAGCCTG	
+contig_193	crispr-repeat	4255	4283	?			CRISPR repeat	
+contig_193	crispr-spacer	4284	4315	?			CRISPR spacer, sequence TTCGCCATCTTCACCAACTTCAATTCCCATGG	
+contig_193	crispr-repeat	4316	4344	?			CRISPR repeat	
+contig_193	crispr-spacer	4345	4376	?			CRISPR spacer, sequence AATTGCGCCATATCGTTTGCACTTCATTATCA	
+contig_193	crispr-repeat	4377	4405	?			CRISPR repeat	
+contig_193	crispr-spacer	4406	4437	?			CRISPR spacer, sequence GCGCCGCCGCGACGGATAAGTTCGATAGCAGC	
+contig_193	crispr-repeat	4438	4466	?			CRISPR repeat	
+contig_193	crispr-spacer	4467	4498	?			CRISPR spacer, sequence TTCTGGCGGTCTTTCATCCGTTTGCGTTCTGC	
+contig_193	crispr-repeat	4499	4527	?			CRISPR repeat	
+contig_193	crispr-spacer	4528	4559	?			CRISPR spacer, sequence TTTCGATGAACCGGCGCAAGCTCAACATCGAC	
+contig_193	crispr-repeat	4560	4588	?			CRISPR repeat	
+contig_193	crispr-spacer	4589	4620	?			CRISPR spacer, sequence GTGATGTGTACTCCGTTGATGGGTTGGTGAAA	
+contig_193	crispr-repeat	4621	4649	?			CRISPR repeat	
+contig_193	crispr-spacer	4650	4681	?			CRISPR spacer, sequence AAGCAAATCATCGTTCAGTGGTTCCTCGATCC	
+contig_193	crispr-repeat	4682	4710	?			CRISPR repeat	
+contig_193	crispr-spacer	4711	4742	?			CRISPR spacer, sequence GGCGGGAAGTGGGCGCAGCGTGATGGCGTACA	
+contig_193	crispr-repeat	4743	4771	?			CRISPR repeat	
+contig_193	crispr-spacer	4772	4803	?			CRISPR spacer, sequence TCCGGGATCTTCTTTGGATCTCCCTCGGTTCT	
+contig_193	crispr-repeat	4804	4832	?			CRISPR repeat	
+contig_193	crispr-spacer	4833	4864	?			CRISPR spacer, sequence TCATATCATCGCCACCGTTATCCGTTTCAGCC	
+contig_193	crispr-repeat	4865	4893	?			CRISPR repeat	
+contig_193	crispr-spacer	4894	4926	?			CRISPR spacer, sequence ACTGCTGGAAGAGGGGATCGGTTTGTTGTTGTC	
+contig_193	crispr-repeat	4927	4955	?			CRISPR repeat	
+contig_193	crispr-spacer	4956	4987	?			CRISPR spacer, sequence ATAACCAAAGACTTCATTATCCTTCTCATTAC	
+contig_193	crispr-repeat	4988	5016	?			CRISPR repeat	
+contig_193	crispr-spacer	5017	5048	?			CRISPR spacer, sequence TCCCTGAATCTGACGATACATCATATTCTACT	
+contig_193	crispr-repeat	5049	5077	?			CRISPR repeat	
+contig_193	crispr-spacer	5078	5109	?			CRISPR spacer, sequence AATTTTTGACGGGAATCAAGCGCGCAATAATT	
+contig_193	crispr-repeat	5110	5138	?			CRISPR repeat	
+contig_193	crispr-spacer	5139	5170	?			CRISPR spacer, sequence TGACACCATAATGACAGCACCGGCAAGAAACC	
+contig_193	crispr-repeat	5171	5199	?			CRISPR repeat	
+contig_193	crispr-spacer	5200	5231	?			CRISPR spacer, sequence CTGTGTTTTTAATATCTATCCAGGCATTTACG	
+contig_193	crispr-repeat	5232	5260	?			CRISPR repeat	
+contig_193	crispr-spacer	5261	5292	?			CRISPR spacer, sequence AAGACGCTGGCGCGTCTGTTGTCGCCTCTTAA	
+contig_193	crispr-repeat	5293	5321	?			CRISPR repeat	
+contig_193	crispr-spacer	5322	5353	?			CRISPR spacer, sequence CTGTTTCGTTGCTACCATAGCACCTGTAGGCA	
+contig_193	crispr-repeat	5354	5382	?			CRISPR repeat	
+contig_193	crispr-spacer	5383	5391	?			CRISPR spacer, sequence TCTAAAATT	
+contig_194	cds	479	733	-	GCA_022712555_00743		hypothetical protein	
+contig_194	cds	1223	1486	-	GCA_022712555_00744		hypothetical protein	
+contig_194	cds	2217	2888	-	GCA_022712555_00745		hypothetical protein	
+contig_194	cds	2979	3197	+	GCA_022712555_00746		hypothetical protein	
+contig_195	cds	238	543	+	GCA_022712555_00747		hypothetical protein	
+contig_195	cds	667	1719	-	GCA_022712555_00748		Phenylalanine--tRNA ligase alpha subunit	SO:0001217, UniRef:UniRef50_Q6F165
+contig_195	cds	1719	2339	-	GCA_022712555_00749		hypothetical protein	
+contig_195	cds	2342	2767	-	GCA_022712555_00750		hypothetical protein	
+contig_196	cds	91	507	+	GCA_022712555_00751		hypothetical protein	
+contig_196	cds	556	2973	+	GCA_022712555_00752		hypothetical protein	
+contig_197	cds	1378	1704	-	GCA_022712555_00753		hypothetical protein	
+contig_197	cds	2014	2175	-	GCA_022712555_00754		hypothetical protein	
+contig_198	cds	25	2478	+	GCA_022712555_00755		GTP pyrophosphokinase	SO:0001217, UniRef:UniRef50_V5RJH8
+contig_199	cds	1593	2192	+	GCA_022712555_00756		hypothetical protein	
+contig_200	cds	1203	1733	+	GCA_022712555_00757		hypothetical protein	
+contig_200	cds	1679	2599	+	GCA_022712555_00758		hypothetical protein	
+contig_201	cds	113	1891	+	GCA_022712555_00759		Oligopeptidase F	SO:0001217, UniRef:UniRef50_A0A0K1P7L4
+contig_201	cds	1917	2312	+	GCA_022712555_00760		hypothetical protein	
+contig_201	cds	2359	2760	-	GCA_022712555_00761		hypothetical protein	
+contig_202	cds	2053	2901	-	GCA_022712555_00762		hypothetical protein	
+contig_202	cds	2840	3487	-	GCA_022712555_00763		hypothetical protein	
+contig_203	cds	463	624	-	GCA_022712555_00764		hypothetical protein	SO:0001217, UniRef:UniRef50_S5LV71
+contig_203	cds	695	2227	-	GCA_022712555_00765		ABC transporter domain-containing protein	SO:0001217, UniRef:UniRef50_W0GR78
+contig_203	cds	2512	3546	+	GCA_022712555_00766		Ribose-phosphate pyrophosphokinase	SO:0001217, UniRef:UniRef50_A0A2K8NTJ0
+contig_203	cds	3546	4106	+	GCA_022712555_00767		Peptidyl-tRNA hydrolase	SO:0001217, UniRef:UniRef50_S5M3A6
+contig_203	cds	4120	5415	+	GCA_022712555_00768		Adenylosuccinate synthetase	SO:0001217, UniRef:UniRef50_P52150
+contig_203	cds	5433	6722	+	GCA_022712555_00769		Adenylosuccinate lyase	SO:0001217, UniRef:UniRef50_P52201
+contig_203	cds	6723	7241	+	GCA_022712555_00770		Hypoxanthine-guanine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_A0A1B3SMB6
+contig_204	cds	407	1072	+	GCA_022712555_00771		hypothetical protein	
+contig_204	cds	2448	2786	+	GCA_022712555_00772		hypothetical protein	
+contig_205	cds	353	1339	-	GCA_022712555_00773		hypothetical protein	
+contig_205	cds	1360	2598	-	GCA_022712555_00774		hypothetical protein	
+contig_206	cds	47	550	+	GCA_022712555_00775		hypothetical protein	
+contig_206	cds	573	749	+	GCA_022712555_00776	rpmF	50S ribosomal protein L32	GO:0003735, GO:0006412, GO:0015934, SO:0001217, UniRef:UniRef50_Q6F168, UniRef:UniRef90_V5RJ68
+contig_206	cds	836	1285	-	GCA_022712555_00777		hypothetical protein	
+contig_206	cds	1498	1905	-	GCA_022712555_00778		hypothetical protein	
+contig_206	cds	2142	2582	+	GCA_022712555_00779	mraZ	Transcriptional regulator MraZ	SO:0001217, UniRef:UniRef50_W6AJV3
+contig_206	cds	2582	3529	+	GCA_022712555_00780		Ribosomal RNA small subunit methyltransferase H	SO:0001217, UniRef:UniRef50_Q6F170
+contig_206	cds	3516	4817	+	GCA_022712555_00781		hypothetical protein	
+contig_206	cds	4867	6159	+	GCA_022712555_00782	ftsZ	Cell division protein FtsZ	SO:0001217, UniRef:UniRef50_Q6F172
+contig_206	cds	6168	6518	+	GCA_022712555_00783	sepF	Cell division inhibitor SepF	SO:0001217, UniRef:UniRef50_A0A858ATJ1
+contig_206	cds	6569	7498	+	GCA_022712555_00784		hypothetical protein	PFAM:PF00561.26, PFAM:PF12146.15
+contig_206	cds	7500	7835	+	GCA_022712555_00785		hypothetical protein	
+contig_206	cds	8133	10844	+	GCA_022712555_00786		Isoleucine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q6F175
+contig_207	cds	3	479	+	GCA_022712555_00787		hypothetical protein	PFAM:PF00185.30
+contig_207	cds	500	1984	+	GCA_022712555_00788		Arginine/ornithine antiporter	SO:0001217, UniRef:UniRef50_A0A2K8NQG3
+contig_207	cds	1999	2925	+	GCA_022712555_00789		Carbamate kinase	SO:0001217, UniRef:UniRef50_D3R0J2
+contig_207	cds	3009	3884	-	GCA_022712555_00790		hypothetical protein	
+contig_207	cds	3877	4719	-	GCA_022712555_00791		hypothetical protein	
+contig_207	tRNA	4939	5014	+	GCA_022712555_00792	trnC	tRNA-Cys(gca)	SO:0000258
+contig_208	cds	12	3014	-	GCA_022712555_00793		hypothetical protein	PFAM:PF00078.32
+contig_209	cds	50	2737	+	GCA_022712555_00794		hypothetical protein	PFAM:PF07645.21, PFAM:PF12947.13
+contig_209	cds	3990	4253	+	GCA_022712555_00795		hypothetical protein	
+contig_209	cds	4675	5544	+	GCA_022712555_00796		hypothetical protein	PFAM:PF23416.1
+contig_209	cds	5787	7022	-	GCA_022712555_00797		hypothetical protein	
+contig_210	cds	32	490	+	GCA_022712555_00798		hypothetical protein	
+contig_210	tRNA	599	674	+	GCA_022712555_00799		tRNA-Xxx	
+contig_210	tRNA	716	791	+	GCA_022712555_00800	trnW	tRNA-Trp(cca)	SO:0000271
+contig_210	cds	848	1711	-	GCA_022712555_00801		hypothetical protein	
+contig_210	cds	1726	2556	-	GCA_022712555_00802	degV	DegV family protein	SO:0001217, UniRef:UniRef50_A0A1B3SJW1
+contig_210	cds	2648	3220	+	GCA_022712555_00803		hypothetical protein	PFAM:PF01588.26
+contig_210	cds	3220	4266	+	GCA_022712555_00804		nicotinate phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_S5LX89
+contig_211	cds	56	1336	+	GCA_022712555_00805		hypothetical protein	PFAM:PF04466.19
+contig_211	cds	1336	1551	+	GCA_022712555_00806		hypothetical protein	
+contig_211	cds	1520	2908	+	GCA_022712555_00807		hypothetical protein	
+contig_211	cds	2910	6170	+	GCA_022712555_00808		hypothetical protein	
+contig_211	cds	6209	6550	-	GCA_022712555_00809		hypothetical protein	
+contig_211	cds	6611	8032	+	GCA_022712555_00810		hypothetical protein	
+contig_211	cds	8268	8846	+	GCA_022712555_00811		hypothetical protein	
+contig_211	cds	9053	9517	+	GCA_022712555_00812		hypothetical protein	
+contig_211	cds	9536	11041	+	GCA_022712555_00813		hypothetical protein	
+contig_211	cds	11142	12122	+	GCA_022712555_00814		hypothetical protein	
+contig_211	cds	12119	12328	-	GCA_022712555_00815		hypothetical protein	
+contig_211	cds	12328	12528	-	GCA_022712555_00816		hypothetical protein	
+contig_211	cds	12530	12784	-	GCA_022712555_00817		hypothetical protein	
+contig_211	cds	12771	14036	-	GCA_022712555_00818		DNA cytosine methyltransferase	SO:0001217, UniRef:UniRef50_UPI001C1E4ACA
+contig_211	cds	14037	14369	-	GCA_022712555_00819		hypothetical protein	PFAM:PF13392.12
+contig_211	cds	14369	14599	-	GCA_022712555_00820		hypothetical protein	
+contig_211	cds	14583	14993	-	GCA_022712555_00821		hypothetical protein	PFAM:PF08774.17
+contig_211	cds	14993	15346	-	GCA_022712555_00822		hypothetical protein	
+contig_211	cds	15333	15641	-	GCA_022712555_00823		hypothetical protein	
+contig_211	cds	15838	16293	-	GCA_022712555_00824		hypothetical protein	
+contig_211	cds	16293	17105	-	GCA_022712555_00825		hypothetical protein	
+contig_211	cds	17105	17503	-	GCA_022712555_00826		hypothetical protein	
+contig_211	cds	17493	18104	-	GCA_022712555_00827		hypothetical protein	PFAM:PF12705.13
+contig_211	cds	18834	19097	+	GCA_022712555_00828		hypothetical protein	
+contig_212	cds	223	846	+	GCA_022712555_00829		hypothetical protein	
+contig_212	cds	1277	1684	+	GCA_022712555_00830		hypothetical protein	
+contig_212	cds	1851	2786	-	GCA_022712555_00831		hypothetical protein	
+contig_213	cds	339	2570	-	GCA_022712555_00832		hypothetical protein	PFAM:PF09458.16
+contig_213	cds	2640	3167	+	GCA_022712555_00833		Cobalamin adenosyltransferase	SO:0001217, UniRef:UniRef50_A0A2K8NVS9
+contig_213	cds	3212	4243	-	GCA_022712555_00834		hypothetical protein	
+contig_214	cds	298	753	+	GCA_022712555_00835		Large ribosomal subunit protein uL13	SO:0001217, UniRef:UniRef50_Q6F0X2
+contig_214	cds	753	1157	+	GCA_022712555_00836		Small ribosomal subunit protein uS9	SO:0001217, UniRef:UniRef50_Q98Q72
+contig_215	cds	187	609	-	GCA_022712555_00837		hypothetical protein	
+contig_215	cds	560	1825	-	GCA_022712555_00838		hypothetical protein	
+contig_215	tRNA	1901	1976	-	GCA_022712555_00839	trnH	tRNA-His(gtg)	SO:0000262
+contig_215	cds	2070	2726	-	GCA_022712555_00840		hypothetical protein	PFAM:PF00881.29
+contig_215	cds	2737	4581	-	GCA_022712555_00841		hypothetical protein	PFAM:PF00702.32, PFAM:PF08282.18
+contig_216	cds	30	725	+	GCA_022712555_00842		Porin	SO:0001217, UniRef:UniRef50_W0L881
+contig_216	cds	759	2078	+	GCA_022712555_00843	ugpB	sn-glycerol-3-phosphate-binding periplasmic protein UgpB	SO:0001217, UniRef:UniRef50_A0A3N5DQ29
+contig_216	cds	2093	2974	+	GCA_022712555_00844	ugpA	sn-glycerol-3-phosphate transport system permease protein UgpA	SO:0001217, UniRef:UniRef50_Q1MEK5
+contig_216	cds	2980	3810	+	GCA_022712555_00845	ugpE	sn-glycerol-3-phosphate transport system permease protein UgpE	SO:0001217, UniRef:UniRef50_A0A1L5NX21
+contig_216	cds	3819	4871	+	GCA_022712555_00846	ugpC	sn-glycerol-3-phosphate import ATP-binding protein UgpC	SO:0001217, UniRef:UniRef50_A0A2Z4YF75
+contig_216	cds	4890	5573	+	GCA_022712555_00847		hypothetical protein	PFAM:PF08975.16
+contig_217	cds	111	1244	+	GCA_022712555_00848	dnaJ	Chaperone protein DnaJ	SO:0001217, UniRef:UniRef50_S5ME51
+contig_217	cds	1354	2301	+	GCA_022712555_00849		hypothetical protein	
+contig_217	cds	2291	3439	+	GCA_022712555_00850	mnmA	tRNA-specific 2-thiouridylase MnmA	SO:0001217, UniRef:UniRef50_Q600M2
+contig_217	cds	3504	4133	+	GCA_022712555_00851		hypothetical protein	
+contig_217	cds	4179	6320	+	GCA_022712555_00852		hypothetical protein	PFAM:PF11074.14
+contig_217	cds	6310	7302	+	GCA_022712555_00853		Methionyl-tRNA formyltransferase	SO:0001217, UniRef:UniRef50_V5RIB1
+contig_217	cds	7343	7900	+	GCA_022712555_00854		Elongation factor P	SO:0001217, UniRef:UniRef50_Q6MTF7
+contig_217	cds	7916	8212	+	GCA_022712555_00855		hypothetical protein	
+contig_217	cds	8342	10189	+	GCA_022712555_00856		hypothetical protein	SO:0001217, UniRef:UniRef50_W6A6X8
+contig_217	cds	10266	11351	+	GCA_022712555_00857		hypothetical protein	
+contig_217	cds	11369	12745	+	GCA_022712555_00858		hypothetical protein	
+contig_217	cds	12764	13759	+	GCA_022712555_00859		hypothetical protein	
+contig_218	cds	1134	1544	+	GCA_022712555_00860		hypothetical protein	
+contig_218	cds	1727	1978	+	GCA_022712555_00861		hypothetical protein	
+contig_219	cds	710	970	+	GCA_022712555_00862		hypothetical protein	
+contig_219	cds	997	1359	-	GCA_022712555_00863		Crp/Fnr family transcriptional regulator	RefSeq:WP_369964535.1, SO:0001217, UniParc:UPI0035196EC1, UniRef:UniRef100_UPI0035196EC1, UniRef:UniRef50_A0A3A2WRZ8, UniRef:UniRef90_A0A640MHG7
+contig_219	cds	1341	1841	-	GCA_022712555_00864	ardA	Antirestriction protein ArdA	SO:0001217, UniRef:UniRef50_A0A640MIG1, UniRef:UniRef90_A0A640MIG1
+contig_219	cds	1854	3155	-	GCA_022712555_00865		Cro/Cl family transcriptional regulator	KEGG:K07467, RefSeq:WP_369964533.1, SO:0001217, UniParc:UPI0035120638, UniRef:UniRef100_UPI0035120638, UniRef:UniRef50_A0A1L8SZ85, UniRef:UniRef90_A0A640MMP2
+contig_220	cds	24	854	-	GCA_022712555_00866		hypothetical protein	PFAM:PF00702.32, PFAM:PF08282.18
+contig_220	cds	874	1176	-	GCA_022712555_00867		Thioredoxin	SO:0001217, UniRef:UniRef50_S5MAQ7
+contig_220	cds	1179	2021	-	GCA_022712555_00868		HAD superfamily hydrolase	SO:0001217, UniRef:UniRef50_W6A9N6
+contig_220	tRNA	2082	2166	-	GCA_022712555_00869	trnL	tRNA-Leu(tag)	SO:0000264
+contig_220	tRNA	2175	2250	-	GCA_022712555_00870	trnK	tRNA-Lys(ttt)	SO:0000265
+contig_220	cds	2321	2695	-	GCA_022712555_00871		hypothetical protein	
+contig_220	tRNA	2765	2841	-	GCA_022712555_00872	trnT	tRNA-Thr(tgt)	SO:0000270
+contig_220	tRNA	2851	2926	-	GCA_022712555_00873	trnV	tRNA-Val(tac)	SO:0000273
+contig_220	tRNA	2938	3013	-	GCA_022712555_00874	trnE	tRNA-Glu(ttc)	SO:0000259
+contig_220	tRNA	3019	3094	-	GCA_022712555_00875	trnN	tRNA-Asn(gtt)	SO:0000257
+contig_221	cds	173	406	-	GCA_022712555_00876		hypothetical protein	
+contig_221	cds	2546	2854	-	GCA_022712555_00877		hypothetical protein	
+contig_221	cds	4519	4665	-	GCA_022712555_00878		hypothetical protein	
+contig_222	cds	40	2511	-	GCA_022712555_00879		hypothetical protein	
+contig_223	cds	27	1601	+	GCA_022712555_00880		hypothetical protein	PFAM:PF00006.31, PFAM:PF00306.32, PFAM:PF02874.29
+contig_223	cds	1605	2471	+	GCA_022712555_00881		ATP synthase gamma chain	SO:0001217, UniRef:UniRef50_Q6F203
+contig_223	cds	2483	3895	+	GCA_022712555_00882		ATP synthase subunit beta	SO:0001217, UniRef:UniRef50_P0A300
+contig_223	cds	3903	4199	+	GCA_022712555_00883		hypothetical protein	PFAM:PF02823.21
+contig_223	cds	4294	4818	+	GCA_022712555_00884		hypothetical protein	
+contig_223	cds	4863	5825	-	GCA_022712555_00885		DNA polymerase I	SO:0001217, UniRef:UniRef50_S5M160
+contig_223	cds	5829	6401	-	GCA_022712555_00886		hypothetical protein	
+contig_223	cds	6529	9465	+	GCA_022712555_00887	secA	Protein translocase subunit SecA	SO:0001217, UniRef:UniRef50_Q6F260
+contig_224	cds	294	653	-	GCA_022712555_00888		hypothetical protein	PFAM:PF03479.20
+contig_224	cds	656	2344	-	GCA_022712555_00889		Two-component regulator system yiem receptor component protein	SO:0001217, UniRef:UniRef50_S5M1V3
+contig_224	cds	2360	3871	-	GCA_022712555_00890		MoxR-like ATPase	SO:0001217, UniRef:UniRef50_A0A345Z3D6
+contig_225	cds	69	1139	-	GCA_022712555_00891		ABC transporter ATP-binding protein	SO:0001217, UniRef:UniRef50_R4UCJ8
+contig_225	cds	1197	2066	-	GCA_022712555_00892		hypothetical protein	
+contig_225	cds	2142	4076	-	GCA_022712555_00893	ftsH	ATP-dependent zinc metalloprotease FtsH	SO:0001217, UniRef:UniRef50_Q6F0E5
+contig_225	cds	4115	5317	-	GCA_022712555_00894		hypothetical protein	
+contig_225	cds	5265	5987	-	GCA_022712555_00895		hypothetical protein	PFAM:PF05175.20
+contig_225	cds	5987	6790	-	GCA_022712555_00896		hypothetical protein	PFAM:PF13177.12
+contig_226	cds	1003	1227	+	GCA_022712555_00897		hypothetical protein	
+contig_226	cds	2664	3155	-	GCA_022712555_00898		hypothetical protein	PFAM:PF00078.32
+contig_227	cds	6	389	+	GCA_022712555_00899		TetR-like C-terminal domain-containing protein	SO:0001217, UniRef:UniRef50_UPI0024122027
+contig_227	cds	478	834	+	GCA_022712555_00900		DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A242K273
+contig_228	cds	20	349	+	GCA_022712555_00901		serine aminopeptidase domain-containing protein	SO:0001217, UniRef:UniRef50_UPI002D76F87F
+contig_228	cds	379	726	-	GCA_022712555_00902		Ribosome-binding factor A	SO:0001217, UniRef:UniRef50_W6A6Z5
+contig_228	cds	872	2632	-	GCA_022712555_00903		Translation initiation factor IF-2	SO:0001217, UniRef:UniRef50_Q6F1H1
+contig_229	cds	85	369	+	GCA_022712555_00904		hypothetical protein	PFAM:PF00478.31
+contig_229	cds	548	1132	+	GCA_022712555_00905		hypothetical protein	
+contig_229	cds	1188	1838	+	GCA_022712555_00906		hypothetical protein	
+contig_229	cds	1971	3407	+	GCA_022712555_00907		Pyruvate kinase	SO:0001217, UniRef:UniRef50_S5M1G4
+contig_229	cds	3505	5445	+	GCA_022712555_00908		Threonine--tRNA ligase	SO:0001217, UniRef:UniRef50_A0A2K8SCW3
+contig_229	cds	5459	7072	+	GCA_022712555_00909		hypothetical protein	
+contig_229	cds	7155	8681	+	GCA_022712555_00910		hypothetical protein	
+contig_229	cds	8830	9357	+	GCA_022712555_00911		Translation initiation factor IF-3	SO:0001217, UniRef:UniRef50_Q6F1S8
+contig_229	cds	9382	9576	+	GCA_022712555_00912		Large ribosomal subunit protein bL35	SO:0001217, UniRef:UniRef50_P75447
+contig_229	cds	9590	9949	+	GCA_022712555_00913		Large ribosomal subunit protein bL20	SO:0001217, UniRef:UniRef50_Q9RSW7
+contig_229	cds	10052	11035	+	GCA_022712555_00914		hypothetical protein	
+contig_229	cds	11047	11337	+	GCA_022712555_00915		hypothetical protein	
+contig_229	cds	11448	11555	+	GCA_022712555_00916		hypothetical protein	
+contig_229	cds	11612	11917	+	GCA_022712555_00917		hypothetical protein	PFAM:PF07716.20
+contig_230	cds	34	498	+	GCA_022712555_00918	ybeY	Endoribonuclease YbeY	SO:0001217, UniRef:UniRef50_S5M2I6
+contig_230	cds	503	910	+	GCA_022712555_00919		Diacylglycerol kinase	SO:0001217, UniRef:UniRef50_W0GLX7
+contig_230	cds	921	1325	+	GCA_022712555_00920		Cytidine deaminase	SO:0001217, UniRef:UniRef50_S5M099
+contig_230	cds	1414	2115	+	GCA_022712555_00921		Transmembrane protein	SO:0001217, UniRef:UniRef50_S5M2I1
+contig_230	cds	2125	3285	+	GCA_022712555_00922		hypothetical protein	
+contig_230	cds	3295	4197	+	GCA_022712555_00923		GTPase Era	SO:0001217, UniRef:UniRef50_Q6MTE6
+contig_230	cds	4213	4995	+	GCA_022712555_00924		hypothetical protein	PFAM:PF11967.14
+contig_230	cds	5074	6438	+	GCA_022712555_00925		Glycine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q6MTE4
+contig_231	cds	316	942	+	GCA_022712555_00926		hypothetical protein	PFAM:PF00041.27, PFAM:PF16656.11, PFAM:PF25059.1
+contig_231	cds	1052	3616	+	GCA_022712555_00927		hypothetical protein	PFAM:PF00041.27, PFAM:PF00047.31, PFAM:PF07495.19, PFAM:PF07679.22, PFAM:PF07686.23, PFAM:PF11465.14, PFAM:PF13895.12, PFAM:PF13927.12, PFAM:PF16656.11, PFAM:PF21605.3, PFAM:PF24489.1, PFAM:PF25059.1
+contig_231	cds	3635	4864	+	GCA_022712555_00928		hypothetical protein	PFAM:PF00041.27, PFAM:PF00047.31, PFAM:PF07679.22, PFAM:PF13895.12, PFAM:PF13927.12, PFAM:PF25059.1
+contig_231	cds	4809	6203	+	GCA_022712555_00929		hypothetical protein	PFAM:PF00041.27, PFAM:PF00069.31, PFAM:PF03109.22, PFAM:PF07679.22, PFAM:PF07714.23, PFAM:PF13927.12, PFAM:PF17667.7
+contig_231	cds	6452	6679	+	GCA_022712555_00930		hypothetical protein	
+contig_231	cds	7154	7711	-	GCA_022712555_00931		hypothetical protein	
+contig_232	cds	44	340	+	GCA_022712555_00932		hypothetical protein	
+contig_232	cds	369	890	-	GCA_022712555_00933		Phage protein	SO:0001217, UniRef:UniRef50_A0A1B3SK40
+contig_232	cds	991	1923	+	GCA_022712555_00934		tRNA pseudouridine synthase B	SO:0001217, UniRef:UniRef50_Q2SSF2
+contig_232	cds	1926	2483	+	GCA_022712555_00935		hypothetical protein	PFAM:PF01467.32
+contig_233	cds	35	1276	+	GCA_022712555_00936		AAA+ ATPase domain-containing protein	SO:0001217, UniRef:UniRef50_W0GLR2
+contig_233	cds	1303	2079	+	GCA_022712555_00937		YokE-like PH domain-containing protein	SO:0001217, UniRef:UniRef50_V5RJD0
+contig_233	cds	2231	2632	+	GCA_022712555_00938		hypothetical protein	
+contig_234	cds	3594	4004	-	GCA_022712555_00939		hypothetical protein	
+contig_234	cds	7262	7444	-	GCA_022712555_00940		hypothetical protein	
+contig_235	cds	171	1610	+	GCA_022712555_00941		hypothetical protein	
+contig_236	cds	28	423	+	GCA_022712555_00942		hypothetical protein	
+contig_236	cds	470	1354	+	GCA_022712555_00943		hypothetical protein	
+contig_236	cds	1371	2219	-	GCA_022712555_00944	kbaY	D-tagatose-1,6-bisphosphate aldolase subunit KbaY	SO:0001217, UniRef:UniRef50_A0AAQ3DPT8
+contig_237	cds	41	991	+	GCA_022712555_00945		hypothetical protein	PFAM:PF01368.27, PFAM:PF02272.25
+contig_237	cds	994	1587	+	GCA_022712555_00946		Thymidine kinase	SO:0001217, UniRef:UniRef50_Q6F0I2
+contig_237	cds	1598	2683	+	GCA_022712555_00947		Peptide chain release factor 1	SO:0001217, UniRef:UniRef50_B8E003
+contig_237	cds	2643	3503	+	GCA_022712555_00948		hypothetical protein	PFAM:PF05175.20
+contig_237	cds	3516	4943	+	GCA_022712555_00949		hypothetical protein	
+contig_237	cds	5019	5543	+	GCA_022712555_00950		L-threonylcarbamoyladenylate synthase	SO:0001217, UniRef:UniRef50_V5RJC0
+contig_237	cds	5851	6612	-	GCA_022712555_00951		hypothetical protein	
+contig_238	cds	777	1094	-	GCA_022712555_00952		hypothetical protein	
+contig_238	cds	1179	2015	-	GCA_022712555_00953		hypothetical protein	
+contig_238	cds	2580	2675	-	GCA_022712555_00954		hypothetical protein	
+contig_238	cds	2899	3183	+	GCA_022712555_00955		hypothetical protein	
+contig_238	cds	3205	4062	+	GCA_022712555_00956		hypothetical protein	PFAM:PF02373.28
+contig_239	cds	657	1253	-	GCA_022712555_00957		hypothetical protein	
+contig_239	cds	1511	2893	-	GCA_022712555_00958		hypothetical protein	
+contig_240	cds	1787	1972	+	GCA_022712555_00959		hypothetical protein	
+contig_240	cds	2850	3704	+	GCA_022712555_00960		hypothetical protein	
+contig_241	cds	25	1803	+	GCA_022712555_00961		Ribonuclease J	SO:0001217, UniRef:UniRef50_A0A2P6FBM6
+contig_241	cds	1883	2692	-	GCA_022712555_00962		hypothetical protein	
+contig_241	cds	2685	3605	-	GCA_022712555_00963		Antibiotic transport system ATP-binding protein	SO:0001217, UniRef:UniRef50_A0A0K2JIV7
+contig_241	cds	3677	4276	-	GCA_022712555_00964		hypothetical protein	
+contig_242	cds	1867	2253	-	GCA_022712555_00965		hypothetical protein	
+contig_242	cds	2749	3243	-	GCA_022712555_00966		hypothetical protein	
+contig_243	cds	38	352	+	GCA_022712555_00967		DUF1904 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A0M5KC24
+contig_243	cds	438	1943	+	GCA_022712555_00968		Lysine--tRNA ligase	SO:0001217, UniRef:UniRef50_Q97RS9
+contig_243	cds	1945	2946	+	GCA_022712555_00969		hypothetical protein	PFAM:PF03590.20
+contig_243	cds	3088	3693	+	GCA_022712555_00970		Small ribosomal subunit protein bS6	SO:0001217, UniRef:UniRef50_S5MIJ8
+contig_243	cds	3719	4147	+	GCA_022712555_00971		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A2K8NSF9
+contig_243	cds	4170	4397	+	GCA_022712555_00972		Small ribosomal subunit protein bS18	SO:0001217, UniRef:UniRef50_P66457
+contig_244	cds	263	733	+	GCA_022712555_00973		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_244	cds	726	2348	+	GCA_022712555_00974		hypothetical protein	
+contig_244	cds	2413	2607	+	GCA_022712555_00975		hypothetical protein	
+contig_244	cds	2635	3783	-	GCA_022712555_00976		hypothetical protein	
+contig_244	cds	3855	4622	+	GCA_022712555_00977		hypothetical protein	
+contig_244	cds	4661	5581	+	GCA_022712555_00978		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_244	cds	5583	6476	+	GCA_022712555_00979		hypothetical protein	
+contig_244	cds	6486	7580	+	GCA_022712555_00980		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_244	cds	7570	8484	+	GCA_022712555_00981		hypothetical protein	
+contig_245	cds	172	582	-	GCA_022712555_00982		hypothetical protein	
+contig_245	cds	931	1305	-	GCA_022712555_00983		hypothetical protein	
+contig_245	cds	1536	1844	-	GCA_022712555_00984		hypothetical protein	
+contig_245	cds	1801	2412	-	GCA_022712555_00985		hypothetical protein	
+contig_245	cds	2515	3585	-	GCA_022712555_00986		hypothetical protein	
+contig_246	cds	783	1199	-	GCA_022712555_00987		hypothetical protein	
+contig_246	cds	1614	1934	-	GCA_022712555_00988		hypothetical protein	
+contig_246	cds	1903	2385	-	GCA_022712555_00989		hypothetical protein	
+contig_247	cds	328	885	-	GCA_022712555_00990		hypothetical protein	
+contig_247	cds	989	2077	-	GCA_022712555_00991		hypothetical protein	PFAM:PF00078.32
+contig_247	cds	2093	2263	-	GCA_022712555_00992		hypothetical protein	
+contig_247	cds	2379	3440	-	GCA_022712555_00993		hypothetical protein	PFAM:PF14529.12
+contig_247	cds	3433	3813	-	GCA_022712555_00994		hypothetical protein	
+contig_247	cds	3813	4091	-	GCA_022712555_00995		hypothetical protein	
+contig_248	cds	392	607	+	GCA_022712555_00996		hypothetical protein	PFAM:PF00023.36, PFAM:PF12796.13, PFAM:PF13606.12, PFAM:PF13637.12, PFAM:PF13857.12
+contig_249	cds	133	441	+	GCA_022712555_00997		hypothetical protein	
+contig_249	cds	426	1148	+	GCA_022712555_00998		hypothetical protein	
+contig_249	cds	1141	2076	+	GCA_022712555_00999		HPr kinase/phosphorylase	SO:0001217, UniRef:UniRef50_S5M165
+contig_250	cds	774	1397	-	GCA_022712555_01000		hypothetical protein	
+contig_251	cds	996	1511	-	GCA_022712555_01001		Adenine phosphoribosyltransferase	SO:0001217, UniRef:UniRef50_Q6F1J0
+contig_251	cds	1523	4123	-	GCA_022712555_01002		hypothetical protein	PFAM:PF02355.23
+contig_252	cds	1573	2013	-	GCA_022712555_01003		hypothetical protein	
+contig_252	cds	1985	2191	-	GCA_022712555_01004		hypothetical protein	
+contig_252	cds	2211	2384	-	GCA_022712555_01005		hypothetical protein	
+contig_253	cds	914	1108	+	GCA_022712555_01006		hypothetical protein	
+contig_253	cds	1494	2474	-	GCA_022712555_01007		hypothetical protein	
+contig_253	cds	2494	4425	-	GCA_022712555_01008		DNA topoisomerase 4 subunit B	SO:0001217, UniRef:UniRef50_A0A3D2J1F6
+contig_253	cds	4660	6573	-	GCA_022712555_01009		Ribonucleoside-diphosphate reductase subunit alpha	SO:0001217, UniRef:UniRef50_P47473
+contig_254	cds	107	655	-	GCA_022712555_01010		hypothetical protein	
+contig_254	rRNA	4875	6420	+	GCA_022712555_01011	rrs	16S ribosomal RNA	GO:0003735, GO:0005840, KEGG:K01977, RFAM:RF00177, SO:0001000
+contig_254	cds	7119	7409	+	GCA_022712555_01012		hypothetical protein	
+contig_254	cds	7284	7847	-	GCA_022712555_01013		hypothetical protein	
+contig_254	cds	8235	8753	+	GCA_022712555_01014		hypothetical protein	
+contig_254	cds	8804	9079	+	GCA_022712555_01015		hypothetical protein	
+contig_254	cds	9421	9753	+	GCA_022712555_01016		hypothetical protein	
+contig_255	cds	27	536	+	GCA_022712555_01017		hypothetical protein	
+contig_255	cds	529	1422	+	GCA_022712555_01018		hypothetical protein	PFAM:PF14529.12
+contig_255	cds	1706	3148	+	GCA_022712555_01019		hypothetical protein	PFAM:PF00078.32
+contig_255	cds	3191	3982	+	GCA_022712555_01020		hypothetical protein	
+contig_256	cds	608	1036	+	GCA_022712555_01021		hypothetical protein	
+contig_256	cds	1837	2244	+	GCA_022712555_01022		hypothetical protein	
+contig_257	cds	1824	2246	+	GCA_022712555_01023		hypothetical protein	
+contig_258	cds	133	2106	+	GCA_022712555_01024		hypothetical protein	
+contig_258	cds	2320	3501	+	GCA_022712555_01025		Arginine deiminase	SO:0001217, UniRef:UniRef50_O51781
+contig_259	cds	151	3606	-	GCA_022712555_01026		hypothetical protein	
+contig_259	cds	3807	4010	-	GCA_022712555_01027		hypothetical protein	
+contig_260	cds	155	3172	-	GCA_022712555_01028		hypothetical protein	
+contig_261	cds	360	1232	-	GCA_022712555_01029	yitU	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU	SO:0001217, UniRef:UniRef50_A0A654ILH6
+contig_262	cds	46	354	+	GCA_022712555_01030		hypothetical protein	PFAM:PF02637.23
+contig_262	cds	393	1088	-	GCA_022712555_01031	ktrA	Potassium uptake protein KtrA	SO:0001217, UniRef:UniRef50_S5LYS9
+contig_262	cds	1173	2888	+	GCA_022712555_01032	ktrB	Potassium uptake protein KtrB	SO:0001217, UniRef:UniRef50_A0A1Y0L3D0
+contig_263	cds	13	342	+	GCA_022712555_01033		hypothetical protein	PFAM:PF13662.12
+contig_263	cds	282	1280	+	GCA_022712555_01034		hypothetical protein	
+contig_263	cds	1282	2739	+	GCA_022712555_01035		RNA polymerase sigma factor	SO:0001217, UniRef:UniRef50_A0A2K8P4Z7
+contig_264	cds	1943	2716	-	GCA_022712555_01036		hypothetical protein	PFAM:PF00005.33, PFAM:PF13304.12
+contig_264	cds	2840	3313	-	GCA_022712555_01037		hypothetical protein	
+contig_264	tRNA	3515	3596	-	GCA_022712555_01038	trnS	tRNA-Ser(cga)	SO:0000269
+contig_265	cds	24	452	-	GCA_022712555_01039		hypothetical protein	
+contig_265	cds	477	1187	-	GCA_022712555_01040		hypothetical protein	
+contig_265	cds	1974	2510	-	GCA_022712555_01041		hypothetical protein	
+contig_266	cds	803	1534	-	GCA_022712555_01042		Glucosamine/galactosamine-6-phosphate isomerase domain-containing protein	SO:0001217, UniRef:UniRef50_W7DAJ5
+contig_266	cds	1548	2714	-	GCA_022712555_01043		Permease IIC component	SO:0001217, UniRef:UniRef50_A0A2X3H8Q6
+contig_267	cds	550	2277	-	GCA_022712555_01044		Aspartate--tRNA ligase	SO:0001217, UniRef:UniRef50_Q6MTR3
+contig_267	cds	2287	3540	-	GCA_022712555_01045		Histidine--tRNA ligase	SO:0001217, UniRef:UniRef50_S5MEB5
+contig_268	cds	17	196	-	GCA_022712555_01046		hypothetical protein	
+contig_269	cds	255	962	+	GCA_022712555_01047		hypothetical protein	
+contig_269	cds	904	1788	+	GCA_022712555_01048		hypothetical protein	
+contig_269	cds	1877	2878	+	GCA_022712555_01049		hypothetical protein	
+contig_269	cds	3036	3644	+	GCA_022712555_01050		hypothetical protein	
+contig_269	cds	4204	6378	+	GCA_022712555_01051		hypothetical protein	
+contig_269	cds	6528	7289	+	GCA_022712555_01052		hypothetical protein	
+contig_270	cds	1688	5239	-	GCA_022712555_01053		hypothetical protein	
+contig_271	cds	1069	1578	+	GCA_022712555_01054		hypothetical protein	
+contig_271	cds	1884	2105	+	GCA_022712555_01055		hypothetical protein	
+contig_271	cds	2092	2433	+	GCA_022712555_01056		hypothetical protein	
+contig_272	cds	148	4047	-	GCA_022712555_01057		hypothetical protein	PFAM:PF00098.28, PFAM:PF00665.32, PFAM:PF07727.20, PFAM:PF13976.11, PFAM:PF22936.1

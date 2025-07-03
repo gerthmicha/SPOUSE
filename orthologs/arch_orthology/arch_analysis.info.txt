@@ -1,0 +1,13 @@
+Module:	sonicparanoid.domortho
+Main output dir:	/media/orange/spiroplasma_genomes/orthologs/arch_orthology
+Ortholog tables directory:	/media/orange/spiroplasma_genomes/orthologs/arch_orthology/arch_orthologs
+Matrix files directory:	/media/orange/spiroplasma_genomes/orthologs/arch_orthology/arch_mtx
+Pairs of species:	12720
+Species in master arch dictionary:	160
+Species with protein counts:	160
+Length difference threshold:	3.00
+Arch coverage difference threshold:	0.25
+Domain count difference threshold:	2.00
+Minimum cosine similarity:	0.50
+Store matrix files:	False
+Threads:	32

@@ -1,0 +1,133 @@
+Reading sequence file alignments/group_427.fas
+Found 156 sequences of length 693
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 30.6%
+Found 470 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 38.1% 67.1% 87.0% 97.8%100.0%
+
+Using a window size of  10 with k as 7
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        2.07e-01
+
+Reading sequence file alignments/group_427.fas
+Found 156 sequences of length 693
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 30.6%
+Found 470 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 38.1% 67.1% 87.0% 97.8%100.0%
+
+Using a window size of  20 with k as 14
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        8.36e-01
+
+Reading sequence file alignments/group_427.fas
+Found 156 sequences of length 693
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 30.6%
+Found 470 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 38.1% 67.1% 87.0% 97.8%100.0%
+
+Using a window size of  30 with k as 20
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        9.74e-01
+
+Reading sequence file alignments/group_427.fas
+Found 156 sequences of length 693
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 30.6%
+Found 470 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 38.1% 67.1% 87.0% 97.8%100.0%
+
+Using a window size of  40 with k as 27
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        8.79e-01
+
+Reading sequence file alignments/group_427.fas
+Found 156 sequences of length 693
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 30.6%
+Found 470 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 38.1% 67.1% 87.0% 97.8%100.0%
+
+Using a window size of  50 with k as 34
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        7.72e-01
+
+Reading sequence file alignments/group_427.fas
+Found 156 sequences of length 693
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 30.6%
+Found 470 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 38.1% 67.1% 87.0% 97.8%100.0%
+
+Using a window size of 100 with k as 68
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        5.06e-02
+
+Reading sequence file alignments/group_427.fas
+Found 156 sequences of length 693
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 30.6%
+Found 470 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 38.1% 67.1% 87.0% 97.8%100.0%
+
+Using a window size of 200 with k as 136
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.33e-01
+

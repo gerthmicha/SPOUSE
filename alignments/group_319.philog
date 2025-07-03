@@ -1,0 +1,133 @@
+Reading sequence file alignments/group_319.fas
+Found 158 sequences of length 1022
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 41.5%
+Found 750 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 24.9% 46.2% 64.0% 78.3% 88.9% 96.0% 99.6%100.0%
+
+Using a window size of  10 with k as 7
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        9.93e-01
+
+Reading sequence file alignments/group_319.fas
+Found 158 sequences of length 1022
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 41.5%
+Found 750 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 24.9% 46.2% 64.0% 78.3% 88.9% 96.0% 99.6%100.0%
+
+Using a window size of  20 with k as 15
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        9.50e-01
+
+Reading sequence file alignments/group_319.fas
+Found 158 sequences of length 1022
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 41.5%
+Found 750 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 24.9% 46.2% 64.0% 78.3% 88.9% 96.0% 99.6%100.0%
+
+Using a window size of  30 with k as 22
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        8.78e-01
+
+Reading sequence file alignments/group_319.fas
+Found 158 sequences of length 1022
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 41.5%
+Found 750 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 24.9% 46.2% 64.0% 78.3% 88.9% 96.0% 99.6%100.0%
+
+Using a window size of  40 with k as 29
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        7.57e-01
+
+Reading sequence file alignments/group_319.fas
+Found 158 sequences of length 1022
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 41.5%
+Found 750 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 24.9% 46.2% 64.0% 78.3% 88.9% 96.0% 99.6%100.0%
+
+Using a window size of  50 with k as 37
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        3.82e-01
+
+Reading sequence file alignments/group_319.fas
+Found 158 sequences of length 1022
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 41.5%
+Found 750 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 24.9% 46.2% 64.0% 78.3% 88.9% 96.0% 99.6%100.0%
+
+Using a window size of 100 with k as 73
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.63e-01
+
+Reading sequence file alignments/group_319.fas
+Found 158 sequences of length 1022
+Alignment looks like a valid AA alignment.
+Estimated diversity is (pairwise deletion - ignoring missing/ambig): 41.5%
+Found 750 informative sites.
+Writing alignment of informative sites to: Phi.inf.sites
+Writing list of informative sites to:      Phi.inf.list
+Calculating all pairwise incompatibilities...
+Done:   0.0% 24.9% 46.2% 64.0% 78.3% 88.9% 96.0% 99.6%100.0%
+
+Using a window size of 200 with k as 147
+
+Calculating analytical mean and variance
+
+     **p-Value(s)**     
+       ----------
+
+PHI (Normal):        1.19e-01
+
